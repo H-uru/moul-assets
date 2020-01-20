@@ -1,0 +1,40 @@
+==LICENSE==
+This license only applies to Myst Online: Uru Live assets!
+
+Myst Online: Uru Live(tm)(r) is the sole property of Cyan Worlds Inc.
+Copyright 2003-2020 Cyan Worlds, Inc.
+https://cyan.com/
+
+This material is free to redistribute and/or modify under
+the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+To satify the attribution of this license, include this file with
+any distribution. If you make modifications, indicate that under the
+heading 'MODIFICATIONS FROM ORIGINAL:'. Leave all previous indications
+of modification, adding yours to the bottom of the list.
+It is optional to specify what was exactly modified.
+But it would be helpful if you included what files you modified (wildcards acceptable).
+Example: "Sam Smith modified special.tga on Nov. 12, 2019"
+
+MODIFICATIONS FROM ORIGINAL:
+    
+    By Doobes:
+    * Dynamic Camera Maps on floor
+    * Stair mesh modified to connect fully to second floor.
+    * AlphaBlends replaced with stencils
+    * Imager noise volume reduced
+    * Some UV mapping adjusted
+    * Deactivated artifacts (moved to layer 10)
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+You can contact Cyan Worlds, Inc. by email legal@cyan.com
+ or by snail mail at:
+      Cyan Worlds, Inc.
+      14617 N Newport Hwy
+       Mead, WA   99021
+
+==LICENSE==

@@ -8,7 +8,11 @@
       "mipmaps": [
         "Icon_UTorso_Shirt_Mysterium2021.png",
         "MTorso_xSleeve_Mysterium2021_Base.png",
-        "MTorso_xSleeve_Mysterium2021_Tint.png"
+        "MTorso_xSleeve_Mysterium2021_Tint.png",
+
+        "Icon_UTorso_Shirt_GayZero.png",
+        "MTorso_xSleeve_GayZero_Base.png",
+        "MTorso_xSleeve_GayZero_Tint.png"
       ],
       "clItems": [
         {
@@ -72,6 +76,68 @@
               }
             }
           ]
+        },
+        {
+          "name": "MTorso_ShortSleeve_GayZero",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_GayZero.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Gay Zero",
+          "meshes": [
+            "MHTorso08_SMsh",
+            "MMTorso_SMsh",
+            "MLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_GayZero_Base.png",
+                "8": "MTorso_xSleeve_GayZero_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_LongSleeve_GayZero",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_GayZero.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01",
+          "text": "Long Sleeve T-Shirt - Gay Zero",
+          "meshes": [
+            "MHTorso_SMsh",
+            "MMTorso_SMsh",
+            "MLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_GayZero_Base.png",
+                "8": "MTorso_xSleeve_GayZero_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
         }
       ]
     },
@@ -83,7 +149,11 @@
       "mipmaps": [
         "Icon_UTorso_Shirt_Mysterium2021.png",
         "FTorso_xSleeve_Mysterium2021_Base.png",
-        "FTorso_xSleeve_Mysterium2021_Tint.png"
+        "FTorso_xSleeve_Mysterium2021_Tint.png",
+
+        "Icon_UTorso_Shirt_GayZero.png",
+        "FTorso_xSleeve_GayZero_Base.png",
+        "FTorso_xSleeve_GayZero_Tint.png"
       ],
       "clItems": [
         {
@@ -137,6 +207,67 @@
               "layers": {
                 "0": "FTorso_xSleeve_Mysterium2021_Base.png",
                 "8": "FTorso_xSleeve_Mysterium2021_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_ShortSleeve_GayZero",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_GayZero.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Gay Zero",
+          "meshes": [
+            "FHTorso12_SMsh",
+            "FMTorso12_SMsh",
+            "FLTorso12_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_GayZero_Base.png",
+                "8": "FTorso_xSleeve_GayZero_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_LongSleeve_GayZero",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_GayZero.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [0.2863, 0.2863, 0.2863],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01",
+          "text": "Long Sleeve T-Shirt - Gay Zero",
+          "meshes": [
+            "FHTorso_SMsh",
+            "FMTorso_SMsh",
+            "FLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_GayZero_Base.png",
+                "8": "FTorso_xSleeve_GayZero_Tint.png"
               }
             },
             {

@@ -1,0 +1,18 @@
+#==============================================================
+# READ:	When modifying an SDL record, do *not* modify the
+#	existing record. You must copy and paste a new version
+#	below the current one and make your changes there.
+#==============================================================
+
+
+#
+# State Description Language for the Descent
+
+STATEDESC Descent
+{
+	VERSION 1
+
+# Boolean variables
+    VAR BOOL    dsntGZMarkerVis[1]    DEFAULT=0 DEFAULTOPTION=VAULT
+
+}

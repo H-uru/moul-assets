@@ -1,0 +1,5 @@
+# These files should be tracked in the Plasma repository
+*.age
+*.fni
+*.py
+*.sdl

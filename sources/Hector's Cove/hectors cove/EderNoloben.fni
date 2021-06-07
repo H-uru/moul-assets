@@ -1,0 +1,6 @@
+#fog settings
+
+Graphics.Renderer.Fog.SetDefLinear -100 2500 1
+Graphics.Renderer.Fog.SetDefColor .725 .682 .6
+Graphics.Renderer.SetClearColor .1 .2 .2
+

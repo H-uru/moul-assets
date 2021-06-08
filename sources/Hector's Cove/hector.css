@@ -1,0 +1,26 @@
+A:active  
+	{color: #CC6633;
+	text-decoration: none;
+	}
+a:link, a:visited, a:active { text-decoration: none; }
+a:hover { text-decoration: none; color: #003333; }TD { font-family: Tahoma, Arial, Helvetica;
+        color: #333333;
+        font-variant: normal;
+        font-weight: 400;
+        font-size: 12pt;
+ } A:visited { color: #CC3300;
+	text-decoration: none;
+ } 
+  A:link { color: #CC3300;
+	text-decoration: none;
+ }   BODY { font-family: Helvetica, Arial, sans-serif;
+        color: #CCFFFF;
+        font-variant: normal;
+        font-weight: 400;
+        font-size: 12pt;
+ } TABLE { font-family: Helvetica, Arial, sans-serif;
+        color: #333333;
+        font-variant: normal;
+        font-weight: 400;
+        font-size: 12pt;
+ } h1 {  font-family: Tahoma, Arial, Helvetica; font-size: 14pt; font-weight: bolder; color: #003333}

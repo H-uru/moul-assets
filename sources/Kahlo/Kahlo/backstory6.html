@@ -1,0 +1,218 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 5">
+		<title>Welcome to Kahlo</title>
+		<csscriptdict>
+			<script><!--
+CSInit = new Array;
+function CSScriptInit() {
+if(typeof(skipPage) != "undefined") { if(skipPage) return; }
+idxArray = new Array;
+for(var i=0;i<CSInit.length;i++)
+	idxArray[i] = i;
+CSAction2(CSInit, idxArray);}
+CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { return CSFindElement(s,0); }
+function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
+	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
+	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
+		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}
+
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+
+function CSButtonReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return false; // follow link
+	else return true; // follow link
+}
+
+CSIm = new Object();
+function CSIShow(n,i) {
+	if (document.images) {
+		if (CSIm[n]) {
+			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
+			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
+			if(i != 0)
+				self.status = CSIm[n][3];
+			else
+				self.status = " ";
+			return true;
+		}
+	}
+	return false;
+}
+function CSILoad(action) {
+	im = action[1];
+	if (document.images) {
+		CSIm[im] = new Object();
+		for (var i=2;i<5;i++) {
+			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
+			else CSIm[im][i-2] = 0;
+		}
+		CSIm[im][3] = action[5];
+	}
+}
+CSStopExecution = false;
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+
+
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button',/*URL*/'Images/concept2.jpg',/*URL*/'Images/concept.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button2',/*URL*/'Images/bkStory.jpg',/*URL*/'Images/bkStory.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button3',/*URL*/'Images/enviro2.jpg',/*URL*/'Images/enviro.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button4',/*URL*/'Images/char2.jpg',/*URL*/'Images/char.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button5',/*URL*/'Images/area2.jpg',/*URL*/'Images/area.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button6',/*URL*/'Images/game2.jpg',/*URL*/'Images/game.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button7',/*URL*/'Images/main2.jpg',/*URL*/'Images/main.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button8',/*URL*/'Images/gateBut2.jpg',/*URL*/'Images/gateBut1.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button9',/*URL*/'Images/design1.jpg',/*URL*/'Images/design2.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button11',/*URL*/'Images/Bbut1.jpg',/*URL*/'Images/Bbut2.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button10',/*URL*/'Images/Fbut1.jpg',/*URL*/'Images/Fbut2.jpg',/*URL*/'','');
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body bgcolor="black" onload="CSScriptInit();">
+		<table cool width="800" height="600" showgridx showgridy gridx="8" gridy="8" border="0" cellpadding="0" cellspacing="0">
+			<tr height="168">
+				<td width="799" height="168" colspan="4" valign="top" align="left" xpos="0"><img src="Images/kahloHead.jpg" width="712" height="163" border="0"></td>
+				<td width="1" height="168"><spacer type="block" width="1" height="168"></td>
+			</tr>
+			<tr height="400">
+				<td width="190" height="400" valign="top" align="left" xpos="0">
+					<table cool width="173" height="326" showgridx showgridy gridx="16" gridy="20" border="0" cellpadding="0" cellspacing="0" usegridy>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="167" h="24" t="Button" ht="Images/concept.jpg"><a href="concept.html" onmouseover="return CSIShow(/*CMP*/'button',1)" onmouseout="return CSIShow(/*CMP*/'button',0)" onclick="return CSButtonReturn()"><img src="Images/concept2.jpg" width="167" height="24" name="button" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="117" h="26" t="Button" ht="Images/bkStory.jpg"><a href="#" onmouseover="return CSIShow(/*CMP*/'button2',1)" onmouseout="return CSIShow(/*CMP*/'button2',0)" onclick="return CSButtonReturn()"><img src="Images/bkStory.jpg" width="117" height="26" name="button2" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="107" h="22" t="Button" ht="Images/enviro.jpg"><a href="enviroment.html" onmouseover="return CSIShow(/*CMP*/'button3',1)" onmouseout="return CSIShow(/*CMP*/'button3',0)" onclick="return CSButtonReturn()"><img src="Images/enviro2.jpg" width="107" height="22" name="button3" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="108" h="24" t="Button" ht="Images/char.jpg"><a href="characters.html" onmouseover="return CSIShow(/*CMP*/'button4',1)" onmouseout="return CSIShow(/*CMP*/'button4',0)" onclick="return CSButtonReturn()"><img src="Images/char2.jpg" width="108" height="24" name="button4" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="146" h="25" t="Button" ht="Images/area.jpg"><a href="areaplan.html" onmouseover="return CSIShow(/*CMP*/'button5',1)" onmouseout="return CSIShow(/*CMP*/'button5',0)" onclick="return CSButtonReturn()"><img src="Images/area2.jpg" width="146" height="25" name="button5" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="105" h="25" t="Button" ht="Images/game.jpg"><a href="gameplay.html" onmouseover="return CSIShow(/*CMP*/'button6',1)" onmouseout="return CSIShow(/*CMP*/'button6',0)" onclick="return CSButtonReturn()"><img src="Images/game2.jpg" width="105" height="25" name="button6" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="101" h="23" t="Button" ht="Images/main.jpg"><a href="index.html" onmouseover="return CSIShow(/*CMP*/'button7',1)" onmouseout="return CSIShow(/*CMP*/'button7',0)" onclick="return CSButtonReturn()"><img src="Images/main2.jpg" width="101" height="23" name="button7" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="45">
+							<td width="172" height="45" valign="top" align="left" xpos="0"><csobj w="116" h="25" t="Button" ht="Images/gateBut1.jpg"><a href="gate1.html" onmouseover="return CSIShow(/*CMP*/'button8',1)" onmouseout="return CSIShow(/*CMP*/'button8',0)" onclick="return CSButtonReturn()"><img src="Images/gateBut2.jpg" width="116" height="25" name="button8" border="0"></a></csobj></td>
+							<td width="1" height="45"><spacer type="block" width="1" height="45"></td>
+						</tr>
+						<tr height="1" cntrlrow>
+							<td width="172" height="1"><spacer type="block" width="172" height="1"></td>
+							<td width="1" height="1"></td>
+						</tr>
+					</table>
+				</td>
+				<td width="513" height="400" colspan="2" align="left" xpos="190" content valign="top" csheight="386">
+					<p><font size="1" color="#cd853f">{</font><font color="#cd853f" size="2">Version 2}<br>
+						</font><font color="#cd853f" size="5"><b>L</b></font><font color="#cd853f" size="2"><b>ong ago a civilization inhabited this desolate and overly gusty terrain. Throughout their history, they were bombarded with meteors. Often the meteors meant certain death and destruction, but also they brought life. For when the fire rained from the heavens and crashed into their smooth landscape, it created new areas to live and explore (maybe unearthing a new water source), and certainly bringing fire.</b></font></p>
+					<p><font size="2" color="#cd853f"><b>For this culture, fire and water meant life, without them they would die. Thus it was utterly important to locate new meteors and get to their precious fire before it was extinquished by the strong winds of this world. Retrieving the fire was a dangerous task, and only performed by the most athletic and heroic of their tribe. Just getting to the meteor in time required a skill for quickly navigating their most dangerous and treacherous terrain. Such honor and admiration was attributed to the tribespeople who became these &#x201C;Fire Runners&#x201D; that many of the athletes began to form factions and deceit spread .</b></font></p>
+				</td>
+				<td width="96" height="405" rowspan="2"></td>
+				<td width="1" height="400"><spacer type="block" width="1" height="400"></td>
+			</tr>
+			<tr height="5">
+				<td width="190" height="31" rowspan="2" valign="top" align="left" xpos="0"><csobj w="162" h="31" t="Button" ht="Images/design2.jpg"><a href="http://in.cyan.com/Design/default.shtml" onmouseover="return CSIShow(/*CMP*/'button9',1)" onmouseout="return CSIShow(/*CMP*/'button9',0)" onclick="return CSButtonReturn()"><img src="Images/design1.jpg" width="162" height="31" name="button9" border="0"></a></csobj></td>
+				<td width="398" height="31" rowspan="2"></td>
+				<td width="115" height="5"></td>
+				<td width="1" height="5"><spacer type="block" width="1" height="5"></td>
+			</tr>
+			<tr height="26">
+				<td width="211" height="27" colspan="2" rowspan="2" valign="top" align="left" xpos="588">
+					<table cool width="125" height="28" showgridx showgridy gridx="16" gridy="16" border="0" cellpadding="0" cellspacing="0">
+						<tr height="4">
+							
+          <td width="43" height="27" rowspan="2" valign="top" align="left" xpos="0"><csobj w="31" h="25" t="Button" ht="Images/Bbut2.jpg"><a href="backstory5.html" onmouseover="return CSIShow(/*CMP*/'button11',1)" onmouseout="return CSIShow(/*CMP*/'button11',0)" onclick="return CSButtonReturn()"><img src="Images/Bbut1.jpg" width="31" height="25" name="button11" border="0"></a></csobj></td>
+							<td width="50" height="4"></td>
+							
+          <td width="31" height="27" rowspan="2" valign="top" align="left" xpos="93"><csobj w="31" h="25" t="Button" ht="Images/Fbut2.jpg"><a href="backstory7.html" onmouseover="return CSIShow(/*CMP*/'button10',1)" onmouseout="return CSIShow(/*CMP*/'button10',0)" onclick="return CSButtonReturn()"><img src="Images/Fbut1.jpg" width="31" height="25" name="button10" border="0"></a></csobj></td>
+							<td width="1" height="4"><spacer type="block" width="1" height="4"></td>
+						</tr>
+						<tr height="23">
+							<td width="50" height="23" valign="top" align="left" xpos="43"><img src="Images/more.jpg" width="39" height="17" border="0"></td>
+							<td width="1" height="23"><spacer type="block" width="1" height="23"></td>
+						</tr>
+						<tr height="1" cntrlrow>
+							<td width="43" height="1"><spacer type="block" width="43" height="1"></td>
+							<td width="50" height="1"><spacer type="block" width="50" height="1"></td>
+							<td width="31" height="1"><spacer type="block" width="31" height="1"></td>
+							<td width="1" height="1"></td>
+						</tr>
+					</table>
+				</td>
+				<td width="1" height="26"><spacer type="block" width="1" height="26"></td>
+			</tr>
+			<tr height="1" cntrlrow>
+				<td width="190" height="1"><spacer type="block" width="190" height="1"></td>
+				<td width="398" height="1"><spacer type="block" width="398" height="1"></td>
+				<td width="1" height="1"></td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

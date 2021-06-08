@@ -1,0 +1,1250 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 5">
+		<title>Welcome to Kahlo</title>
+		<csscriptdict>
+			<script><!--CSInit = new Array;function CSScriptInit() {if(typeof(skipPage) != "undefined") { if(skipPage) return; }
+idxArray = new Array;
+for(var i=0;i<CSInit.length;i++)
+	idxArray[i] = i;
+CSAction2(CSInit, idxArray);}CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { return CSFindElement(s,0); }
+function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
+	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
+	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
+		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}function CSButtonReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return false; // follow link
+	else return true; // follow link
+}CSIm = new Object();
+function CSIShow(n,i) {
+	if (document.images) {
+		if (CSIm[n]) {
+			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
+			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
+			if(i != 0)
+				self.status = CSIm[n][3];
+			else
+				self.status = " ";
+			return true;
+		}
+	}
+	return false;
+}
+function CSILoad(action) {
+	im = action[1];
+	if (document.images) {
+		CSIm[im] = new Object();
+		for (var i=2;i<5;i++) {
+			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
+			else CSIm[im][i-2] = 0;
+		}
+		CSIm[im][3] = action[5];
+	}
+}
+CSStopExecution = false;
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if(actArray == null) return false; 
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button',/*URL*/'Images/concept2.jpg',/*URL*/'Images/concept.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button2',/*URL*/'Images/bkStory.jpg',/*URL*/'Images/bkStory.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button3',/*URL*/'Images/enviro2.jpg',/*URL*/'Images/enviro.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button4',/*URL*/'Images/char2.jpg',/*URL*/'Images/char.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button5',/*URL*/'Images/area2.jpg',/*URL*/'Images/area.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button6',/*URL*/'Images/game2.jpg',/*URL*/'Images/game.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button7',/*URL*/'Images/main2.jpg',/*URL*/'Images/main.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button8',/*URL*/'Images/gateBut2.jpg',/*URL*/'Images/gateBut1.jpg',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button9',/*URL*/'Images/design1.jpg',/*URL*/'Images/design2.jpg',/*URL*/'','');
+// --></script>
+		</csactiondict>
+	</head>
+
+	<body bgcolor="black" onload="CSScriptInit();">
+		<table cool width="800" height="10300" showgridx showgridy gridx="8" gridy="8" border="0" cellpadding="0" cellspacing="0">
+			<tr height="168">
+				<td width="799" height="168" colspan="3" valign="top" align="left" xpos="0"><img src="Images/kahloHead.jpg" width="712" height="163" border="0"></td>
+				<td width="1" height="168"><spacer type="block" width="1" height="168"></td>
+			</tr>
+			<tr height="400">
+				<td width="190" height="400" valign="top" align="left" xpos="0">
+					<table cool width="173" height="326" showgridx showgridy gridx="16" gridy="20" border="0" cellpadding="0" cellspacing="0" usegridy>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="167" h="24" t="Button" ht="Images/concept.jpg"><a href="concept.html" onmouseover="return CSIShow(/*CMP*/'button',1)" onmouseout="return CSIShow(/*CMP*/'button',0)" onclick="return CSButtonReturn()"><img src="Images/concept2.jpg" width="167" height="24" name="button" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="117" h="26" t="Button" ht="Images/bkStory.jpg"><a href="#" onmouseover="return CSIShow(/*CMP*/'button2',1)" onmouseout="return CSIShow(/*CMP*/'button2',0)" onclick="return CSButtonReturn()"><img src="Images/bkStory.jpg" width="117" height="26" name="button2" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="107" h="22" t="Button" ht="Images/enviro.jpg"><a href="enviroment.html" onmouseover="return CSIShow(/*CMP*/'button3',1)" onmouseout="return CSIShow(/*CMP*/'button3',0)" onclick="return CSButtonReturn()"><img src="Images/enviro2.jpg" width="107" height="22" name="button3" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="108" h="24" t="Button" ht="Images/char.jpg"><a href="characters.html" onmouseover="return CSIShow(/*CMP*/'button4',1)" onmouseout="return CSIShow(/*CMP*/'button4',0)" onclick="return CSButtonReturn()"><img src="Images/char2.jpg" width="108" height="24" name="button4" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="146" h="25" t="Button" ht="Images/area.jpg"><a href="areaplan.html" onmouseover="return CSIShow(/*CMP*/'button5',1)" onmouseout="return CSIShow(/*CMP*/'button5',0)" onclick="return CSButtonReturn()"><img src="Images/area2.jpg" width="146" height="25" name="button5" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="105" h="25" t="Button" ht="Images/game.jpg"><a href="gameplay.html" onmouseover="return CSIShow(/*CMP*/'button6',1)" onmouseout="return CSIShow(/*CMP*/'button6',0)" onclick="return CSButtonReturn()"><img src="Images/game2.jpg" width="105" height="25" name="button6" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="40">
+							<td width="172" height="40" valign="top" align="left" xpos="0"><csobj w="101" h="23" t="Button" ht="Images/main.jpg"><a href="index.html" onmouseover="return CSIShow(/*CMP*/'button7',1)" onmouseout="return CSIShow(/*CMP*/'button7',0)" onclick="return CSButtonReturn()"><img src="Images/main2.jpg" width="101" height="23" name="button7" border="0"></a></csobj></td>
+							<td width="1" height="40"><spacer type="block" width="1" height="40"></td>
+						</tr>
+						<tr height="45">
+							<td width="172" height="45" valign="top" align="left" xpos="0"><csobj w="116" h="25" t="Button" ht="Images/gateBut1.jpg"><a href="#" onmouseover="return CSIShow(/*CMP*/'button8',1)" onmouseout="return CSIShow(/*CMP*/'button8',0)" onclick="return CSClickReturn()"><img src="Images/gateBut2.jpg" width="116" height="25" name="button8" border="0"></a></csobj></td>
+							<td width="1" height="45"><spacer type="block" width="1" height="45"></td>
+						</tr>
+						<tr height="1" cntrlrow>
+							<td width="172" height="1"><spacer type="block" width="172" height="1"></td>
+							<td width="1" height="1"></td>
+						</tr>
+					</table>
+				</td>
+				<td width="513" height="10132" rowspan="3" align="left" xpos="190" content valign="top" csheight="10146">
+					<p><font color="#ffd700" size="6"><b>Kahlo (Wind Age)</b></font><br>
+						<font color="#ffd700" size="5"><b>Age Bible</b> </font><br>
+						<font color="#ffd700" size="3"><i>March 1, 2001</i></font></p>
+					<p><font color="#cd853f"><a name="_Toc508100068"></a><a name="_Toc508100186"></a><a name="_Toc508100642"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><b style="mso-ansi-font-weight:normal;
+mso-bidi-font-weight:normal"><font size=5 face="Times New Roman" color="#1e90ff"><span style="font-size:18.0pt;mso-bidi-font-size:12.0pt;font-variant:small-caps;
+font-weight:normal"><u>Table of Contents</u></span></font></b></span></span></a></font></p>
+					<div class=Section1>
+						<p class=MsoToc1 style="tab-stops:right dotted 431.5pt"><a href="#_Toc508100670"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Design Goals</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100671 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">3</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370031000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--><br>
+								</font></a><a href="#_Toc508100671"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Synopsis</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100671 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">3</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370031000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100672"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Back Story</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100672 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">3</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370032000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100673"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Purpose</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100673 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">3</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370033000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100674"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Number of Players</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100674 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">3</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370034000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100675"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Possible Player Goals</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100675 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">4</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370035000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100676"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Game Play Basics</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100676 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">4</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370036000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100677"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Core Premise:</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted"> </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100677 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">4</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370037000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100678"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Core Setup:</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted"> </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100678 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">5</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370038000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100679"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Core Gameplay:</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted"> </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100679 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">5</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600370039000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100680"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Player&#x2019;s Abilities (with Creature)</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted"> </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100680 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">5</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380030000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100681"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Possible Playfield Attributes: TBD</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">.. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100681 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">5</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380031000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100682"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Player Skills:</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted"> </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100682 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">5</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380032000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100683"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">General Rules of Play:</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted"> </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100683 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">6</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380033000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100684"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Game Play Specifics</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100684 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">6</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380034000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100685"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">How do you start the game?</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100685 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">6</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380035000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100686"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Can you choose sides?</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100686 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">6</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380036000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100687"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">How are the rules of the game conveyed?</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100687 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">6</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380037000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100688"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">How do you leave the game?</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100688 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">7</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380038000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100689"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Where and how is fire distributed?</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100689 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">7</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600380039000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100690"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">When is the flame distributed?</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100690 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">7</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600390030000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100691"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">How does a team win?</span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100691 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">7</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600390031000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100692"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Story</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100692 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">7</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600390032000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100693"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Technical Challenges</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100693 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">8</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600390033000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100694"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Unique</span></span><span style="mso-bookmark:
+_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100694 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">8</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600390034000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100695"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068">Global</span></span><span style="mso-bookmark:
+_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;text-decoration:none;
+text-underline:none"><span style="mso-tab-count:1 dotted"> </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100695 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">8</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600390035000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a><br>
+							<a href="#_Toc508100696"><font color="#1e90ff"><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="mso-bidi-font-size:14.0pt">Design Critical Elements</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none"><span style="mso-tab-count:1 dotted">. </span></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'> PAGEREF 
+_Toc508100696 \h </span></font></span></span><span style='mso-bookmark:_Toc508100186'><span 
+style='mso-bookmark:_Toc508100068'><font color=black><span style='color:windowtext;
+text-decoration:none;text-underline:none'><span style='display:none;mso-hide:
+screen'><span style='mso-element:field-separator'></span></span></span></font></span></span><![endif]--><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none">8</span></span></span><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><span style="color:windowtext;display:none;mso-hide:screen;
+text-decoration:none;text-underline:none"><!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003500300038003100300030003600390036000000</w:data>
+</xml><![endif]--></span></span></span><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--></font></a></p>
+						<p class=MsoNormal><font color="#cd853f"><!--[if supportFields]><span 
+style='mso-bookmark:_Toc508100186'><span style='mso-bookmark:_Toc508100068'></span></span><span 
+style='mso-element:field-end'></span><![endif]--><span style="mso-bookmark:
+_Toc508100186"><span style="mso-bookmark:_Toc508100068">
+										<![if !supportEmptyParas]>
+									</span><span style="mso-bookmark:_Toc508100068">&nbsp; </span><span style="mso-bookmark:_Toc508100068">
+										<![endif]>
+									</span></span></font></p>
+						<font size=4 face="Times New Roman" color="#cd853f"><span style='font-size:14.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman";mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br clear=all style="page-break-before:always">
+							</span></font>
+						<h1><span style="mso-bookmark:_Toc508100186"><span style="mso-bookmark:_Toc508100068"><a name="_Toc508100670"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:
+normal"><font size=4 face="Times New Roman" color="#ffd700"><span style="font-size:14.0pt;
+font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Design Goals</u></span></span></font></b></a></span></span></h1>
+						<h1><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Multi-player (#people in age &gt; 30)</span></font><br>
+							<font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Repeatable</span></font><br>
+							<font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Variation on &#x201C;Capture the Flag&#x201D;</span></font><br>
+							<font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Connection to D'ni History and City</span></font><br>
+							<font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;<font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;</span></font></span></font><font face="Times New Roman" color="#cd853f" size="6"><span style="font-size:12.0pt">Unique environment twist</span></font><font size="6"><br>
+							</font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;<font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Fun for spectators (can they do things/strategy) </span></font></h1>
+						<ul type=disc>
+							<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+											<![if !supportEmptyParas]>
+											
+											
+											
+											&nbsp; 
+											<![endif]>
+										</span></font></b></p>
+						</ul>
+						<h1><font color="#cd853f"><a name="_Toc508100187"></a><a name="_Toc508100671"><span style="mso-bookmark:
+_Toc508100187"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman" color="#ffd700"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Synopsis</u></span></span></font></b></span></a></font></h1>
+						<h1><font color="#cd853f" face="Times New Roman,Georgia,Times" size="5"><span style="font-size:
+12.0pt">Teams compete in a windswept age to bring different colored &#x2018;flames&#x2019;</span><span style="font-size:
+12.0pt"> to their home base.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">The successful team is rewarded with a brilliant pyrotechnic display.</span></font></h1>
+						<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">&nbsp; </span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![endif]>
+									</span></font></b></p>
+						<h1><font color="#cd853f"><a name="_Toc508100188"></a><a name="_Toc508100672"><span style="mso-bookmark:
+_Toc508100188"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman" color="#ffd700"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Back Story</u></span></span></font></b></span></a></font></h1>
+						<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">&nbsp; </span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![endif]>
+									</span></font></b></p>
+						<p class=MsoNormal></p>
+						<h1><font color="#ffd700"><a name="_Toc508100189"></a><a name="_Toc508100673"><span style="mso-bookmark:
+_Toc508100189"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Purpose</u></span></span></font></b></span></a></font></h1>
+						<h1><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">In the great scheme of Parable, this is at its core an entertainment age.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">It&#x2019;s an age where people steeped in story and plot can come relax and goof around.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun:
+yes">&nbsp; </span></span><span style="font-size:
+12.0pt">It&#x2019;s an age people will come return to again and again to pass time, socialize and have fun.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Other ages of Parable will fill people with wonder and tax the mind.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Kahlo will make people smile and laugh.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Nevertheless, there&#x2019;s enough back-story and spectacle in Kahlo to mark it as a Cyan world.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">There are bits of history and prior culture scattered and hidden for the hardcore explorer to discover.</span></font></h1>
+						<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">&nbsp; </span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![endif]>
+									</span></font></b></p>
+						<h1><span style="mso-bookmark:_Toc508100190"><a name="_Toc508100674"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman" color="#ffd700"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Number of Players</u></span></span></font></b></a></span></h1>
+						<h1><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Max: TBD<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Full: 16</span></font></h1>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Min to play game: 2</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Min to explore age: 1</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Although it would be fun to discover Kahlo on your own and puzzle out its purpose and history, the repeatable, skill-developing gameplay will require a minimum of two people and preferably four or more.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun:
+yes">&nbsp; </span></span><span style="font-size:
+12.0pt">The maximum number of players will be determined by technology.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Kahlo gameplay is designed to be particularly enjoyable for numbers between 4 and 16.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Observation points will allow the age to accommodate many more people in the form of spectators.</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h1><font color="#ffd700"><a name="_Toc508100191"></a><a name="_Toc508100675"><span style="mso-bookmark:
+_Toc508100191"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Possible Player Goals</u></span></span></font></b></span></a></font></h1>
+						<h1><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><u><b>Conqueror</b> </u>&#150; Kahlo is designed from the ground up with the conqueror in mind.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Repeateable enjoyable gameplay gives the conqueror an arena to hone skills, strategize and &#x201C;become the best.&#x201D;</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Players motivated by challenge, achievement, domination, control and &#x201C;winning&#x201D; will find Kahlo uniquely pleasing among the worlds of Parable.</span></font></h1>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Explorer</u></b> &#150; Kahlo&#x2019;s unique windy environment and strange physics regarding leaping flaming goo give the explorer immediate gratification.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Scattered throughout the age are historical and cultural tidbits waiting to be discovered by the hardcore explorer in the form of cave paintings, odd structures designed to take advantage of Kahlo&#x2019;s wind, and a history that sheds light on a heretofore unexplored side of the D&#x2019;Ni people &#150; how they entertained themselves.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Players motivated by discovery and seeing and experiencing new things will find Kahlo a wonderful and unique place.</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Inquisitor</u></b> &#150; Uncovering the initial link to Kahlo from D&#x2019;Ni is a job for the inquisitor.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">In addition, Kahlo&#x2019;s tie to D&#x2019;Ni history and culture, while shedding new light on the D&#x2019;Ni people, will remain consistent with the Great Scheme of Parable.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">The unique physics of Kahlo will affirm the D&#x2019;Ni&#x2019;s talent for manipulating Age characteristics and their creativity.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Entering the age solo and coming to the conclusion that a game can be played here will be particularly rewarding for the inquisitor.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Players motivated by the gathering and discovery of knowledge regarding story and world consistency will enjoy discovering Kahlo.</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Socializer</u></b> &#150; Kahlo provides a unique context for the socializer to meet new people and make new friends.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">As a player, socializers will enjoy the team work aspects of Kahlo gameplay.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">As a spectator, socializers are provided with fodder for ice-breaking and small talk.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Players motivated by talking and discussing people, places and things will readily add Kahlo to their list of favorite places to hang out in. </span></font></p>
+						<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">&nbsp; </span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![endif]>
+									</span></font></b></p>
+						<h1><font color="#ffd700"><a name="_Toc508100192"></a><a name="_Toc508100676"><span style="mso-bookmark:
+_Toc508100192"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Game Play Basics</u></span></span></font></b></span></a></font></h1>
+						<h1><a name="_Toc508100677"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>Core Premise:</u></span></font></b></a></h1>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>Two opposing teams compete to light their respective pyre by lighting their &#x201C;torches&#x201D; in the middle of playing field and successfully reaching their own pyre without having their &#x201C;flame&#x201D; stolen by an opponent.</span></font></p>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>
+									<![if !supportEmptyParas]>
+								</span><span style='font-size:12.0pt;font-family:"Times New Roman"'>&nbsp; </span><span style='font-size:12.0pt;font-family:"Times New Roman"'>
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100678"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>Core Setup:</u></span></font></b></a></h2>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>The game is played in a large valley, roughly 1k x 1k in size (TBD). The playfield is made up of trenches, buttes, pillars, steppes, and caves.</span></font></p>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>The highest level of this field is a rough, windy wasteland.</span><span style='font-size:12.0pt;font-family:"Times New Roman"'><span style="mso-spacerun: yes">&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Times New Roman"'>The trenches below are sheltered from this wind.</span></font></p>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>The two teams (1-8 players per team) ride creatures that attract the plasma flame napalm to them and carry it visibly in a charged exoskeleton.</span></font></p>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>
+									<![if !supportEmptyParas]>
+								</span><span style='font-size:12.0pt;font-family:"Times New Roman"'>&nbsp; </span><span style='font-size:12.0pt;font-family:"Times New Roman"'>
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100679"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>Core Gameplay:</u></span></font></b></a></h2>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>Players race from their starting position to acquire plasma from one of the sources near the center of the playing field or to stop the opposing team from returning a &#x201C;flame&#x201D; to their pyre.</span></font></p>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>If a charge is carried into the windy level of the environ, the charge is released into the atmosphere and lost.</span></font></p>
+						<p class=MsoBodyTextIndent><font size=3 face="Times New Roman" color="#cd853f"><span style='font-size:12.0pt;font-family:"Times New Roman"'>Players can pass a charge from one creature to another.</span><span style='font-size:12.0pt;font-family:"Times New Roman"'><span style="mso-spacerun: yes">&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Times New Roman"'>Opposing players may intercept these passes and &#x201C;steal the flame.&#x201D;</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100680"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>Player&#x2019;s Abilities (with Creature)<br>
+											</u></span></font></b></a></h2>
+						<h2><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Hover</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Float in 8 directions: forward, back, left, right and diagonals</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Turn left and right</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Jump (TBD 5ft, 10ft, 20ft) (effected by wind?)</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">High Jump</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Long Jump</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Parachute drop (small cliffs/ledges)</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Hop/climb steep faces</span></font></h2>
+						<ul style="mso-margin-top-alt:0in" type=disc>
+							<ul style="mso-margin-top-alt:0in" type=circle>
+								
+							</ul>
+						</ul>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100681"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>Possible Playfield Attributes: TBD</u></span></font></b></a></h2>
+						<h2><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Retractable bridges<br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Lifts<br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">&#x201C;stepped&#x201D; for platform jumping<br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Wind &#x201C;controllers&#x201D;<br>
+								</span></font></h2>
+						<h2><a name="_Toc508100682"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>Player Skills:</u></span></font></b></a></h2>
+						<h2><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Knowledge of playing field<br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Ability to smoothly navigate changes in height (jumping)<br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Ability to use environment to advantage (bridges, lifts, etc)<br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Anticipate actions of opposing flame carrier and intercept them to steal their flame<br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Ability to avoid opponents when you have a flame<br>
+								</span></font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;</span></font></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Ability to accurately pass flame to teammates without<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">being intercepted or losing the charge.</span></font></h2>
+						<ul style="mso-margin-top-alt:0in" type=disc>
+							
+						</ul>
+						<ul style="mso-margin-top-alt:0in" type=disc>
+							
+						</ul>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100683"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>General Rules of Play:</u></span></font></b></a></h2>
+						<p class=MsoNormal style="margin-left:.25in;text-indent:-.25in;mso-list:l2 level1 lfo5;
+tab-stops:list .25in"><font color="#cd853f">
+								<![if !supportLists]>
+							</font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></span></font><font color="#cd853f">
+								<![endif]>
+								
+								
+								
+								There is most likely a game in progress when a player enters the age.<span style="mso-spacerun: yes">&nbsp; </span>The new player simply dives right into the action.<span style="mso-spacerun: yes">&nbsp; </span>If no one else is in the age the player is free to explore, practice skills, or collect flame until someone else enters and chooses to thwart his progress.</font></p>
+						<p class=MsoNormal style="margin-left:.25in;text-indent:-.25in;mso-list:l2 level1 lfo5;
+tab-stops:list .25in"><font color="#cd853f">
+								<![if !supportLists]>
+							</font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></span></font><font color="#cd853f">
+								<![endif]>
+								
+								
+								
+								The player may pick up one flame at a time from a source.</font></p>
+						<p class=MsoNormal style="margin-left:.75in;text-indent:-.25in;mso-list:l2 level2 lfo5;
+tab-stops:list .75in"><font color="#cd853f">
+								<![if !supportLists]>
+							</font><font size=3 face="Courier New" color="#cd853f"><span style='font-size:12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman"'>o</span><span style='font-size:12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman"'><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></span></font><font color="#cd853f">
+								<![endif]>
+								
+								
+								
+								There may be several different colors of flame (TBD)</font></p>
+						<p class=MsoNormal style="margin-left:.75in;text-indent:-.25in;mso-list:l2 level2 lfo5;
+tab-stops:list .75in"><font color="#cd853f">
+								<![if !supportLists]>
+							</font><font size=3 face="Courier New" color="#cd853f"><span style='font-size:12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman"'>o</span><span style='font-size:12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman"'><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></span></font><font color="#cd853f">
+								<![endif]>
+								
+								
+								
+								His goal is then to return the flame to his pyre</font></p>
+						<p class=MsoNormal style="margin-left:.75in;text-indent:-.25in;mso-list:l2 level2 lfo5;
+tab-stops:list .75in"><font color="#cd853f">
+								<![if !supportLists]>
+							</font><font size=3 face="Courier New" color="#cd853f"><span style='font-size:12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman"'>o</span><span style='font-size:12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman"'><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></span></font><font color="#cd853f">
+								<![endif]>
+								
+								
+								
+								Carrying the flame had no negative effect on abilites.</font></p>
+						<p class=MsoNormal style="margin-left:.75in;text-indent:-.25in;mso-list:l2 level2 lfo5;
+tab-stops:list .75in"><font color="#cd853f">
+								<![if !supportLists]>
+							</font><font size=3 face="Courier New" color="#cd853f"><span style='font-size:12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman"'>o</span><span style='font-size:12.0pt;font-family:"Courier New";mso-bidi-font-family:"Times New Roman"'><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></span></font><font color="#cd853f">
+								<![endif]>
+								
+								
+								
+								A player may steal another players flame by moving into close (5ft) proximity to it (and perhaps hitting an action button). The flame will jump to the nearby torch. There is a no-touchback time imposed so that flames don&#x2019;t leap back and forth spasmodically.</font></p>
+						<p class=MsoNormal style="margin-left:.25in;text-indent:-.25in;mso-list:l2 level1 lfo5;
+tab-stops:list .25in"><font color="#cd853f">
+								<![if !supportLists]>
+							</font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></span></font><font color="#cd853f">
+								<![endif]>
+								
+								
+								
+								A player can extinguish their own flame by moving into a &#x201C;windy area&#x201D; or extinguish an opponents flame perhaps (in lieu of stealing it) by using an environmental tool (wind scoop, funnel, whatever)</font></p>
+						<p class=MsoNormal style="margin-left:.25in;text-indent:-.25in;mso-list:l2 level1 lfo5;
+tab-stops:list .25in"><font color="#cd853f">
+								<![if !supportLists]>
+							</font><font size=3 face=Symbol color="#cd853f"><span style="font-size:12.0pt;font-family:Symbol">&middot;</span><span style="font-size:12.0pt;font-family:Symbol"><font size=1 face="Times New Roman"><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></span></font><font color="#cd853f">
+								<![endif]>
+								
+								
+								
+								When one team puts enough flame (predetermined) in their pyre they win and the game is over. The pyres will grow throughout the game to give a sense of a team&#x2019;s &#x201C;score.&#x201D;</font></p>
+						<p class=MsoNormal><b><i><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt;color:black;font-weight:bold;font-style:italic">
+											<![if !supportEmptyParas]>
+										</span><span style="font-size:12.0pt;color:black;font-weight:bold;font-style:italic">&nbsp; </span><span style="font-size:12.0pt;color:black;font-weight:bold;font-style:italic">
+											<![endif]>
+										</span></font></i></b></p>
+						<h1><font color="#ffd700"><a name="_Toc508100069"></a><a name="_Toc508100193"></a><a name="_Toc508100684"><span style="mso-bookmark:_Toc508100193"><span style="mso-bookmark:_Toc508100069"><b style="mso-ansi-font-weight:normal;
+mso-bidi-font-weight:normal"><font size=4 face="Times New Roman"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:
+12.0pt"><u>Game Play Specifics</u></span></span></font></b></span></span></a></font></h1>
+						<h1><a name="_Toc508100685"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>How do you start the game?</u></span></font></b></a></h1>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt;color:black">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:12.0pt;color:black">&nbsp; </span><span style="font-size:12.0pt;color:black">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#daa520"><span style="font-size:12.0pt;color:black">Link from the D</span><span style="font-size:12.0pt;color:black">&#x2019;</span><span style="font-size:12.0pt;color:black">Ni city into </span><span style="font-size:12.0pt;color:black">&#x201C;</span><span style="font-size:12.0pt;color:black">the roost.</span><span style="font-size:12.0pt;color:black">&#x201D;<span style="mso-spacerun: yes">&nbsp; </span>Grab a male or female creature (eg red or blue).<span style="mso-spacerun: yes">&nbsp; </span>Jump through hole and float down to surface.<span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:12.0pt;color:black">Using a creature as a </span><span style="font-size:12.0pt;color:black">&#x2018;</span><span style="font-size:12.0pt;color:black">hoverpod</span><span style="font-size:12.0pt;color:black">&#x2019;</span><span style="font-size:12.0pt;color:black"> solves a number of problems, namely:</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#daa520"><span style="font-size:12.0pt;color:black"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>1. If the player links out while playing, the creature simply flies back to the roost.</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#daa520"><span style="font-size:12.0pt;color:black"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2. The design of the creature greatly simplifies animation tasks.</span></font></p>
+						<p class=MsoNormal style="margin-left:.5in"><font size=3 face="Times New Roman" color="#daa520"><span style="font-size:12.0pt;color:black">3. The male and female creatures emit different excited sounds if they have the<span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:12.0pt;color:black">&#x201C;</span><span style="font-size:12.0pt;color:black">flame</span><span style="font-size:12.0pt;color:black">&#x201D;</span><span style="font-size:12.0pt;color:black"> allowing players to tell which team has it.</span></font></p>
+						<p class=MsoNormal style="margin-left:.5in"><font size=3 face="Times New Roman" color="#daa520"><span style="font-size:12.0pt;color:black">Note:<span style="mso-spacerun: yes">&nbsp; </span>In this version the flame has evolved into more of an electric plasma, a kind of static charge that attaches visibly to the creature like an aura.<span style="mso-spacerun: yes">&nbsp; </span>Arcs and sparks or pulsates, etc.</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100686"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>Can you choose sides?</u></span></font></b></a></h2>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Yes.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">The roost will initially contain 16 creatures: 8 male, 8 female.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">We therefore cap the total number of players per instance and also the maximum number of players per team.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">But, we feel the players will balance themselves as they often do in current CTF games like UT and Half-Life.</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100687"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>How are the rules of the game conveyed?</u></span></font></b></a></h2>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font color="#cd853f"><i><font size=3 face="Times New Roman"><span style="font-size:12.0pt;font-style:italic"><b>The game of Kahlo teaches itself.</b></span></font></i> Although the entire age has been designed around this game, we present it to the player simply as a unique world with strange properties.<span style="mso-spacerun: yes">&nbsp; </span>Through experimentation the player will discover that he can capture flame, pass flame, steal flame, accumulate flame in a home base, and figure out how to use the creature to jump, hop/fly through the air and climb walls they wouldn&#x2019;t normally be able to climb.</font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100688"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>How do you leave the game?</u></span></font></b></a></h2>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Initially, the only link back to D&#x2019;Ni is in the roost.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">After the DRC confiscates the age, they will introduce two more linking books, one at each base.</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100689"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>Where and how is fire distributed?</u></span></font></b></a></h2>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">We have several options here and need to playtest the variables:</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- multiple types of flame, still only one of each at a time in play</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- multiple spawn points</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- each spawns a specific flame</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- each spawns a random flame</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">- number of spawn points and flames in play vary with</span><span style="font-size:12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:12.0pt">number of players</span></font></p>
+						<p class=MsoNormal style="margin-left:.5in"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:12.0pt">&nbsp; </span><span style="font-size:12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><a name="_Toc508100690"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>When is the flame distributed?</u></span></font></b></a></h2>
+						<p class=MsoNormal><i><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt;font-style:italic">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:12.0pt;font-style:italic">&nbsp; </span><span style="font-size:12.0pt;font-style:italic">
+										<![endif]>
+									</span></font></i></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Options here too:</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- a new flame appears only when someone scores</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- new flames appear at regular intervals</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- new flames appear at intervals based on number of players</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- &#x2018;flames&#x2019; are slowly consumed by creature/torch, then new ones appear at source</span></font></p>
+						<p class=MsoNormal><i><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt;font-style:italic">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:12.0pt;font-style:italic">&nbsp; </span><span style="font-size:12.0pt;font-style:italic">
+										<![endif]>
+									</span></font></i></p>
+						<h2><a name="_Toc508100691"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt"><u>How does a team win?</u></span></font></b></a></h2>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">We have options here too, related to the types and distribution of fire:</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- accumulate a certain amount of one type of flame</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">- accumulate a certain amount (n &gt;= 1) of each type of flame</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">A device at home base (either natural or manmade) keeps score.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">As flame/charge is added to the &#x2018;pyre.&#x2019; A piece is lifted up along a natural or manmade pipe, blocking various air passages.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Wind blowing through this pipe gives an auditory indicator of score while the charged slider gives visual indication.</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<p class=MsoNormal><font color="#ffd700"><a name="_Toc508100194"></a><a name="_Toc508100692"><span style="mso-bookmark:
+_Toc508100194"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Story</u></span></span></font></b></span></a></font></p>
+						<h1><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">We will allow the first person that uncovers the Kahlo linking book to investigate this age and spread the word for a short time.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Soon the DRC will become involved and will confiscate the book for a time.</span><span style="font-size:
+12.0pt"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-size:
+12.0pt">Rumors and interest will spread during this &#x2018;quarantine.&#x2019;</span><span style="font-size:
+12.0pt"><span style="mso-spacerun:
+yes">&nbsp; </span></span><span style="font-size:
+12.0pt">The DRC will, after a short time, release the book for public consumption.</span></font></h1>
+						<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">&nbsp; </span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![endif]>
+									</span></font></b></p>
+						<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">&nbsp; </span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![endif]>
+									</span></font></b></p>
+						<h1><font color="#ffd700"><a name="_Toc508100195"></a><a name="_Toc508100693"><span style="mso-bookmark:
+_Toc508100195"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Technical Challenges</u></span></span></font></b></span></a></font></h1>
+						<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">&nbsp; </span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![endif]>
+									</span></font></b></p>
+						<h2><font color="#cd853f"><a name="_Toc508100070"></a><a name="_Toc508100196"></a><a name="_Toc508100694"><span style="mso-bookmark:_Toc508100196"><span style="mso-bookmark:_Toc508100070"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman"><span style="font-size:12.0pt"><u>Unique</u></span></font></b></span></span></a></font></h2>
+						<h2><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Converting current gameplay logic to work with Plasma 2.0</span></font></h2>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Animation</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Gravity</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">High Frame Rate &#150; outdoor environ with portals</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Attaching Player to creature or vice versa</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Burning Fire Jelly Plasma Smart Napalm &#150; pathing and effect</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">
+									<![if !supportEmptyParas]>
+								</span><span style="font-size:
+12.0pt">&nbsp; </span><span style="font-size:
+12.0pt">
+									<![endif]>
+								</span></font></p>
+						<h2><font color="#cd853f"><a name="_Toc508100071"></a><a name="_Toc508100197"></a><a name="_Toc508100695"><span style="mso-bookmark:_Toc508100197"><span style="mso-bookmark:_Toc508100071"><b style="mso-bidi-font-weight:normal"><font size=3 face="Times New Roman"><span style="font-size:12.0pt"><u>Global</u></span></font></b></span></span></a></font></h2>
+						<h2><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Voice (between teams, within teams, between spectators and players)</span></font></h2>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Interface Integration with rest of Parable</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Game Master &#150; prevent worst machines!</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Live imager links from the Dakota Pub &#150; persistent links to instances</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Auto-reduce avatar poly count</span></font></p>
+						<p class=MsoNormal><b><font size=4 face="Times New Roman" color="#cd853f"><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![if !supportEmptyParas]>
+									</span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">&nbsp; </span><span style="font-size:14.0pt;mso-bidi-font-size:12.0pt;font-weight:bold">
+										<![endif]>
+									</span></font></b></p>
+						<h1><font color="#ffd700"><a name="_Toc508100198"></a><a name="_Toc508100696"><span style="mso-bookmark:
+_Toc508100198"><b style="mso-ansi-font-weight:normal;mso-bidi-font-weight:normal"><font size=4 face="Times New Roman"><span style="font-size:14.0pt;font-weight:normal"><span style="mso-bidi-font-size:12.0pt"><u>Design Critical Elements</u></span></span></font></b></span></a></font></h1>
+						<h1><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Player<br>
+										</u></b></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">&#x2018;Uniforms&#x2019;<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Torches<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Animations (see gameplay doc for complete list of player abilities)<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Player sounds</span></font></h1>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Creatures<br>
+										</u></b></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Look (model, texture)<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Operation<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Sounds</span><span style="font-size:
+12.0pt"><span style="mso-tab-count:1"><br>
+									</span></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Independent idle and return to roost behaviors<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Player operated behaviors (see player abilities in Gameplay section)</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>The &#x2018;Fire&#x2019;</u></b></span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Drip/trail/texture/glow effect<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Colors<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Spawn locations and timing<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Other things to do with fire (pass along tunnel, vine, </span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">fuse, etc.)<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Cool real-time sound filters</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Team bases</u></b></span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Flame receptacles<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Gates<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Base architecture<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Wind organ score sounds</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Endgame reward system, effects and sounds</u></b></span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Field<br>
+										</u></b></span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Scattered sculpture (landmarks, POI)<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Wind-eroded rock<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Flame spawn points<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Cave &#x2018;paintings&#x2019;<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Wind-powered Objet d&#x2019;Art &#150; wind indicators, landmarks, POI<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Indigenous flora and fauna &#150; wind indicators, landmarks, POI<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:12.0pt">Related and ambient sound</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>World Aesthetic</u></b></span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Landscape type, colors<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Day/Night Cycle<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Atmosphere<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Ambient Sound<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Link from D&#x2019;Ni<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Link to D&#x2019;Ni<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Roost and Observation Center</span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><b><u>Dakota Pub</u></b></span></font></p>
+						<p class=MsoNormal><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt"><span style="mso-tab-count:1"> </span></span><span style="font-size:
+12.0pt">Layout<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Aesthetic<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Furniture<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Devices (imagers, jukebox, etc)<br>
+								</span></font><font size=3 face="Times New Roman" color="#cd853f"><span style="font-size:
+12.0pt">Decorations</span></font></p>
+					</div>
+				</td>
+				<td width="96" height="10131" rowspan="2"></td>
+				<td width="1" height="400"><spacer type="block" width="1" height="400"></td>
+			</tr>
+			<tr height="9731">
+				<td width="190" height="9731" valign="top" align="left" xpos="0"><csobj w="162" h="31" t="Button" ht="Images/design2.jpg"><a href="http://in.cyan.com/Design/default.shtml" onmouseover="return CSIShow(/*CMP*/'button9',1)" onmouseout="return CSIShow(/*CMP*/'button9',0)" onclick="return CSButtonReturn()"><img src="Images/design1.jpg" width="162" height="31" name="button9" border="0"></a></csobj></td>
+				<td width="1" height="9731"><spacer type="block" width="1" height="9731"></td>
+			</tr>
+			<tr height="1" cntrlrow>
+				<td width="190" height="1"><spacer type="block" width="190" height="1"></td>
+				<td width="96" height="1"><spacer type="block" width="96" height="1"></td>
+				<td width="1" height="1"></td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

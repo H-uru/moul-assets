@@ -1,0 +1,165 @@
+<html>
+<head>
+<title>Hector Cove/Environment</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="hector.css">
+</head>
+
+<BODY TEXT="black" BGCOLOR="#000000" LINK="#d2cac1" ALINK="#d2cac1" VLINK="#d2cac1" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td rowspan="3" width="5"> 
+      <div align="center"> 
+        <p><font color="#EFEFEF"><br>
+          </font><font color="#EFEFEF"><font face="Arial, Helvetica, sans-serif" size="1"><br>
+          </font></font></p>
+      </div>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+    <td width="490"> 
+      <p align="left"><font color="#EFEFEF"><font color="#EFEFEF"><font color="#EFEFEF"><img src="../images/CDdraftBlk.gif" width="116" height="116"></font></font></font><font color="#EFEFEF"><font face="Arial, Helvetica, sans-serif" size="1"> 
+        </font></font></p>
+      </td>
+    <td width="764"> 
+      <p align="left"><font color="#EFEFEF"><img src="images/gameplay.gif" width="134" height="27" align="absmiddle"><br>
+        </font><font color="#EFEFEF"> </font></p>
+      <p align="left"><font color="#EFEFEF"><font size="2"><a href="#notes"><img src="../images/blkSpc.gif" width="18" height="1" border="0">Gameplay 
+        Notes</a></font></font></p>
+      <p align="left"><font color="#EFEFEF"><font color="#EFEFEF"></font><font color="#EFEFEF"><font size="2"><a href="#notes"><img src="../images/blkSpc.gif" width="22" height="1" border="0"></a></font></font><font face="Arial, Helvetica, sans-serif" size="1"><a href="default.htm">Hector 
+        Cove Main</a></font></font></p>
+    </td>
+  </tr>
+  <tr bgcolor="#000000"> 
+    <td background="darkcream.jpg" valign="top" colspan="2"> 
+      <TABLE CELLSPACING = 0 CELLPADDING = 0 BORDER = 0>
+        <TR> 
+          <TD><IMG
+SRC = "gamePlay/game000.gif" WIDTH = 147 HEIGHT = 272></TD>
+          <TD><IMG
+SRC = "gamePlay/game001.gif" WIDTH = 361 HEIGHT = 272></TD>
+          <TD><IMG
+SRC = "gamePlay/game002.gif" WIDTH = 321 HEIGHT = 272></TD>
+          <TD><IMG
+SRC = "gamePlay/game003.gif" WIDTH = 391 HEIGHT = 272></TD>
+        </TR>
+        <TR> 
+          <TD><IMG
+SRC = "gamePlay/game004.gif" WIDTH = 147 HEIGHT = 226></TD>
+          <TD><IMG
+SRC = "gamePlay/game005.gif" WIDTH = 361 HEIGHT = 226></TD>
+          <TD><IMG
+SRC = "gamePlay/game006.gif" WIDTH = 321 HEIGHT = 226></TD>
+          <TD><IMG
+SRC = "gamePlay/game007.gif" WIDTH = 391 HEIGHT = 226></TD>
+        </TR>
+        <TR> 
+          <TD><IMG
+SRC = "gamePlay/game008.gif" WIDTH = 147 HEIGHT = 332></TD>
+          <TD><IMG
+SRC = "gamePlay/game009.gif" WIDTH = 361 HEIGHT = 332></TD>
+          <TD><IMG
+SRC = "gamePlay/game010.gif" WIDTH = 321 HEIGHT = 332></TD>
+          <TD><IMG
+SRC = "gamePlay/game011.gif" WIDTH = 391 HEIGHT = 332></TD>
+        </TR>
+      </TABLE>
+    </td>
+  </tr>
+  <tr bgcolor="#000000"> 
+    <td valign="top" colspan="2"> 
+      <p>&nbsp;</p>
+      <p><b><font color="#FF8000"><a name="notes"></a>NOTES</font></b></p>
+      <blockquote> 
+        <div> 
+          <h1><font color="#EFEFEF"><b><font size="2">Fun With Hopperbots Gameplay 
+            Design Doc</font></b></font></h1>
+        </div>
+        <div> 
+          <p><font size="2" color="#EFEFEF"><b>Note: </b> Production team desires 
+            that any <b>numbers </b>mentioned be easily tweakable.</font></p>
+          <p><font size="2" color="#EFEFEF">To be played by one or two people.</font></p>
+        </div>
+        <div> 
+          <p><font size="2" color="#EFEFEF">Hoppers flock together on land in 
+            homebase(s) until a timer boots <b>1 </b>out to meander down one of 
+            two paths.</font></p>
+          <p><font size="2" color="#EFEFEF">Depending on location of Gator, both 
+            paths may result in life or death.</font></p>
+        </div>
+        <div> 
+          <p><font size="2" color="#EFEFEF">Non-booted hoppers always stay within 
+            boundaries of homebase(s).</font></p>
+          <p><font size="2" color="#EFEFEF">There are always <b>8-12 </b>hoppers 
+            in scene at any time.</font></p>
+          <p><font size="2" color="#EFEFEF">Player can control at most <b>3 </b>hoppers.</font></p>
+        </div>
+        <div> 
+          <p><font size="2" color="#EFEFEF">If controlling <b>3</b>, <b>one </b>of 
+            those <b>3 </b>will commit to closest path after <b>30 </b>seconds.</font></p>
+          <p><font size="2" color="#EFEFEF">Hoppers' feelings toward player fall 
+            in one of four states:  Fear, Uncertainty, Curiosity, Adoration.</font></p>
+        </div>
+        <blockquote> 
+          <div><font size="2" color="#EFEFEF">&middot; Initial state is Uncertainty.</font></div>
+          <div><font size="2" color="#EFEFEF">            <b>3 </b>deaths move 
+            hoppers one step toward Fear.</font></div>
+          <div><font size="2" color="#EFEFEF">            <b>3 </b>freedoms move 
+            hoppers one step toward Adore.</font></div>
+          <div><font size="2" color="#EFEFEF">&middot; <u>Fear</u></font></div>
+          <div><font size="2" color="#EFEFEF">            Timer boots <b>1 </b>hopper 
+            out of homebase every <b>15 </b>seconds.</font></div>
+          <div><font size="2" color="#EFEFEF">            hoppers always move 
+            as far from player as they can get.</font></div>
+          <div><font size="2" color="#EFEFEF">&middot; <u>Uncertainty</u></font></div>
+          <div><font size="2" color="#EFEFEF">            Timer boots <b>1 </b>hopper 
+            out of homebase every <b>30 </b>seconds.</font></div>
+          <div><font size="2" color="#EFEFEF">            hoppers attempt to stay 
+            no less than <b>10ft </b>away from player.</font></div>
+          <div><font size="2" color="#EFEFEF">            If player runs, hopper 
+            is feared.</font></div>
+          <div><font size="2" color="#EFEFEF">&middot; <u>Curiosity</u></font></div>
+          <div><font size="2" color="#EFEFEF">            Timer boots <b>1 </b>hopper 
+            out of homebase every <b>30 </b>seconds.</font></div>
+          <div><font size="2" color="#EFEFEF">            hoppers move toward 
+            player if player is not facing them but no closer than <b>3ft</b>.</font></div>
+          <div><font size="2" color="#EFEFEF">            hoppers stay no less 
+            than <b>7ft </b>away from player if player faces them.</font></div>
+          <div><font size="2" color="#EFEFEF">            If player runs, hopper 
+            runs in opposite direction until <b>10ft </b>away.</font></div>
+          <div><font size="2" color="#EFEFEF">&middot; <u>Adoration </u></font></div>
+          <div><font size="2" color="#EFEFEF">            Timer boots 1 hopper 
+            out of homebase every <b>15 </b>seconds.</font></div>
+          <div> 
+            <p><font size="2" color="#EFEFEF">            hoppers stay no more 
+              than <b>5ft </b>from player.</font></p>
+          </div>
+        </blockquote>
+        <div> 
+          <p><font size="2" color="#EFEFEF">When <b>20 </b>hoppers are saved, 
+            the player(s) receive some visual reward.</font></p>
+          <p><font size="2" color="#EFEFEF"><u>Multiplayer</u></font></p>
+        </div>
+        <div><font size="2" color="#EFEFEF">Hopper deaths/frees effect both players' 
+          relationships equally.</font></div>
+        <div><font size="2" color="#EFEFEF">            Player's always share 
+          same relationship with hoppers.</font></div>
+        <div><font size="2" color="#EFEFEF">In cases of competing player influence:</font></div>
+        <div><font size="2" color="#EFEFEF">            proximity carries highest 
+          weight</font></div>
+        <div><font size="2" color="#EFEFEF">            if proximity fails to 
+          resolve conflict, flip a coin</font></div>
+      </blockquote>
+    </td>
+  </tr>
+  <tr bgcolor="#000000"> 
+    <td width="5" valign="top"><font color="#EFEFEF"></font></td>
+    <td valign="top" colspan="2"> 
+      <div align="right"><font color="#EFEFEF"><img src="../images/CDdraftBlk.gif" width="116" height="116"><br>
+        </font></div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

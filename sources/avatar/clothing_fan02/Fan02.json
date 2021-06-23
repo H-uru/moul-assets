@@ -16,7 +16,7 @@
       ],
       "clItems": [
         {
-          "name": "MReward_ShortSleeve_Mysterium2021",
+          "name": "MReward_SSMysterium2021",
           "type": "Shirt",
           "group": "Male",
           "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
@@ -48,7 +48,7 @@
           ]
         },
         {
-          "name": "MReward_LongSleeve_Mysterium2021",
+          "name": "MReward_LSMysterium2021",
           "type": "Shirt",
           "group": "Male",
           "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
@@ -157,7 +157,7 @@
       ],
       "clItems": [
         {
-          "name": "FReward_ShortSleeve_Mysterium2021",
+          "name": "FReward_SSMysterium2021",
           "type": "Shirt",
           "group": "Female",
           "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
@@ -188,7 +188,7 @@
           ]
         },
         {
-          "name": "FReward_LongSleeve_Mysterium2021",
+          "name": "FReward_LSMysterium2021",
           "type": "Shirt",
           "group": "Female",
           "icon": "Icon_UTorso_Shirt_Mysterium2021.png",

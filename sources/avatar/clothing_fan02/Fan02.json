@@ -85,7 +85,7 @@
           "tint1": [0.0, 0.0, 0.0],
           "tint2": [0.0, 0.0, 0.0],
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
-          "text": "Short Sleeve T-Shirt - Gay Zero",
+          "text": "Short Sleeve T-Shirt - GZ Pride",
           "meshes": [
             "MHTorso08_SMsh",
             "MMTorso_SMsh",
@@ -117,7 +117,7 @@
           "tint1": [0.0, 0.0, 0.0],
           "tint2": [0.0, 0.0, 0.0],
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01",
-          "text": "Long Sleeve T-Shirt - Gay Zero",
+          "text": "Long Sleeve T-Shirt - GZ Pride",
           "meshes": [
             "MHTorso_SMsh",
             "MMTorso_SMsh",
@@ -225,7 +225,7 @@
           "tint1": [0.0, 0.0, 0.0],
           "tint2": [0.0, 0.0, 0.0],
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
-          "text": "Short Sleeve T-Shirt - Gay Zero",
+          "text": "Short Sleeve T-Shirt - GZ Pride",
           "meshes": [
             "FHTorso12_SMsh",
             "FMTorso12_SMsh",
@@ -256,7 +256,7 @@
           "tint1": [0.2863, 0.2863, 0.2863],
           "tint2": [0.2863, 0.2863, 0.2863],
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01",
-          "text": "Long Sleeve T-Shirt - Gay Zero",
+          "text": "Long Sleeve T-Shirt - GZ Pride",
           "meshes": [
             "FHTorso_SMsh",
             "FMTorso_SMsh",

@@ -1,0 +1,284 @@
+{
+  "pages": [
+    {
+      "prefix": -5,
+      "suffix": 12,
+      "agename": "GlobalClothing",
+      "name": "MaleFan02",
+      "mipmaps": [
+        "Icon_UTorso_Shirt_Mysterium2021.png",
+        "MTorso_xSleeve_Mysterium2021_Base.png",
+        "MTorso_xSleeve_Mysterium2021_Tint.png",
+
+        "Icon_UTorso_Shirt_GayZero.png",
+        "MTorso_xSleeve_GayZero_Base.png",
+        "MTorso_xSleeve_GayZero_Tint.png"
+      ],
+      "clItems": [
+        {
+          "name": "MReward_SSMysterium2021",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [0.2863, 0.2863, 0.2863],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve; nonStandard",
+          "text": "Short Sleeve T-Shirt - Mysterium 2021",
+          "meshes": [
+            "MHTorso08_SMsh",
+            "MMTorso_SMsh",
+            "MLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_Mysterium2021_Base.png",
+                "8": "MTorso_xSleeve_Mysterium2021_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_LSMysterium2021",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [0.2863, 0.2863, 0.2863],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01; nonStandard",
+          "text": "Long Sleeve T-Shirt - Mysterium 2021",
+          "meshes": [
+            "MHTorso_SMsh",
+            "MMTorso_SMsh",
+            "MLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_Mysterium2021_Base.png",
+                "8": "MTorso_xSleeve_Mysterium2021_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_ShortSleeve_GayZero",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_GayZero.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - GZ Pride",
+          "meshes": [
+            "MHTorso08_SMsh",
+            "MMTorso_SMsh",
+            "MLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_GayZero_Base.png",
+                "8": "MTorso_xSleeve_GayZero_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_LongSleeve_GayZero",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_GayZero.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01",
+          "text": "Long Sleeve T-Shirt - GZ Pride",
+          "meshes": [
+            "MHTorso_SMsh",
+            "MMTorso_SMsh",
+            "MLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_GayZero_Base.png",
+                "8": "MTorso_xSleeve_GayZero_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": -5,
+      "suffix": 11,
+      "agename": "GlobalClothing",
+      "name": "FemaleFan02",
+      "mipmaps": [
+        "Icon_UTorso_Shirt_Mysterium2021.png",
+        "FTorso_xSleeve_Mysterium2021_Base.png",
+        "FTorso_xSleeve_Mysterium2021_Tint.png",
+
+        "Icon_UTorso_Shirt_GayZero.png",
+        "FTorso_xSleeve_GayZero_Base.png",
+        "FTorso_xSleeve_GayZero_Tint.png"
+      ],
+      "clItems": [
+        {
+          "name": "FReward_SSMysterium2021",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [0.2863, 0.2863, 0.2863],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve; nonStandard",
+          "text": "Short Sleeve T-Shirt - Mysterium 2021",
+          "meshes": [
+            "FHTorso12_SMsh",
+            "FMTorso12_SMsh",
+            "FLTorso12_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_Mysterium2021_Base.png",
+                "8": "FTorso_xSleeve_Mysterium2021_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_LSMysterium2021",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [0.2863, 0.2863, 0.2863],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01; nonStandard",
+          "text": "Long Sleeve T-Shirt - Mysterium 2021",
+          "meshes": [
+            "FHTorso_SMsh",
+            "FMTorso_SMsh",
+            "FLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_Mysterium2021_Base.png",
+                "8": "FTorso_xSleeve_Mysterium2021_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_ShortSleeve_GayZero",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_GayZero.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - GZ Pride",
+          "meshes": [
+            "FHTorso12_SMsh",
+            "FMTorso12_SMsh",
+            "FLTorso12_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_GayZero_Base.png",
+                "8": "FTorso_xSleeve_GayZero_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_LongSleeve_GayZero",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_GayZero.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [0.2863, 0.2863, 0.2863],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01",
+          "text": "Long Sleeve T-Shirt - GZ Pride",
+          "meshes": [
+            "FHTorso_SMsh",
+            "FMTorso_SMsh",
+            "FLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_GayZero_Base.png",
+                "8": "FTorso_xSleeve_GayZero_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

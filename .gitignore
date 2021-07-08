@@ -1,9 +1,3 @@
-# These files should be tracked in the moul-scripts repository
-*.age
-*.fni
-*.py
-*.sdl
-
 # These files are ephemeral and should not be tracked
 *.blend1
 *.ktc

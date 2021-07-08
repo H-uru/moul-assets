@@ -1,0 +1,15 @@
+StartDateTime=0997813140
+DayLength=24
+MaxCapacity=16
+SequencePrefix=9
+ReleaseVersion=0
+Page=Arena,0
+Page=CritterBankLeft,1
+Page=CritterBankRight,2
+Page=CritterFlyForwardA,3
+Page=CritterFlyForwardB,4
+Page=CritterIdle,5
+Page=CritterImpact,6
+Page=CritterReverse,7
+Page=CritterTurnLeft,8
+Page=CritterTurnRight,9

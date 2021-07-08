@@ -1,0 +1,41 @@
+## setup
+
+# Load in the kahlo critter animations
+Nav.PageInHoldList Kahlo_animations
+
+#Mouse.SetDeadZone 0
+Mouse.Disable
+
+
+## camera settings
+
+Camera.SetMouseAdjY 30
+
+Camera.SetFOV 60 45
+
+Camera.SetOffset 0 40 7
+
+#Camera.SetTurnRate 0
+#Camera.SetLookahead 50
+
+#Camera.SetCameraVelocity 1000
+#Camera.SetCameraAcceleration 10000
+#Camera.SetCameraDeceleration 10000
+
+#Camera.SetCameraFPVelocity 1000
+#Camera.SetCameraFPAcceleration 10000
+#Camera.SetCameraFPDeceleration 10000
+
+Camera.cut 1
+
+## environment
+
+
+Graphics.Renderer.SetYon 5000
+Graphics.Renderer.Fog.SetDeflinear -1000 10000 .8
+Graphics.Renderer.Fog.SetDefColor 1 1 1
+Graphics.Renderer.SetClearColor .5 .5 .5
+
+
+
+

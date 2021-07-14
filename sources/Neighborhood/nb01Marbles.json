@@ -1,0 +1,333 @@
+{
+  "target": {
+    "age": "Neighborhood",
+    "page": "nb01"
+  },
+  "soundGroups": {
+    "YellowFiremarble": {
+      "emitters": [
+        {
+          "name": "SfxMarble-HitEmit03",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit03",
+          "type": "delete"
+        }
+      ]
+    },
+    "WhiteFiremarble": {
+      "emitters": [
+        {
+          "name": "SfxMarble-HitEmit04",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit04",
+          "type": "delete"
+        }
+      ]
+    },
+    "BlueFiremarble": {
+      "emitters": [
+        {
+          "name": "SfxMarble-HitEmit02",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit02",
+          "type": "delete"
+        }
+      ]
+    },
+    "RedFiremarble": {
+      "emitters": [
+        {
+          "name": "SfxMarble-HitEmit01",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit01",
+          "type": "delete"
+        }
+      ]
+    },
+    "MarblePhy01": {
+      "type": "kUser1",
+      "emitters": [
+        {
+          "name": "SfxMarble-HitEmit03",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit03",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit01",
+          "type": "roll",
+          "soundSettings": {
+            "desiredVolume": 0.498469
+          },
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_RollLp01.ogg",
+            "pFMarbleStn_RollLp02.ogg",
+            "pFMarbleStn_RollLp03.ogg"
+          ]
+        },
+        {
+          "name": "SfxMarble-HitEmit01",
+          "type": "hit",
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_Hit01.ogg",
+            "pFMarbleStn_Hit02.ogg",
+            "pFMarbleStn_Hit03.ogg",
+            "pFMarbleStn_Hit04.ogg",
+            "pFMarbleStn_Hit05.ogg",
+            "pFMarbleStn_Hit06.ogg"
+          ]
+        }
+      ]
+    },
+    "MarblePhy02": {
+      "type": "kUser1",
+      "emitters": [
+        {
+          "name": "SfxMarble-HitEmit04",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit04",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit02",
+          "type": "roll",
+          "soundSettings": {
+            "desiredVolume": 0.498469
+          },
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_RollLp01.ogg",
+            "pFMarbleStn_RollLp02.ogg",
+            "pFMarbleStn_RollLp03.ogg"
+          ]
+        },
+        {
+          "name": "SfxMarble-HitEmit02",
+          "type": "hit",
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_Hit01.ogg",
+            "pFMarbleStn_Hit02.ogg",
+            "pFMarbleStn_Hit03.ogg",
+            "pFMarbleStn_Hit04.ogg",
+            "pFMarbleStn_Hit05.ogg",
+            "pFMarbleStn_Hit06.ogg"
+          ]
+        }
+      ]
+    },
+    "MarblePhy03": {
+      "type": "kUser1",
+      "emitters": [
+        {
+          "name": "SfxMarble-HitEmit02",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit02",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit03",
+          "type": "roll",
+          "soundSettings": {
+            "desiredVolume": 0.498469
+          },
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_RollLp01.ogg",
+            "pFMarbleStn_RollLp02.ogg",
+            "pFMarbleStn_RollLp03.ogg"
+          ]
+        },
+        {
+          "name": "SfxMarble-HitEmit03",
+          "type": "hit",
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_Hit01.ogg",
+            "pFMarbleStn_Hit02.ogg",
+            "pFMarbleStn_Hit03.ogg",
+            "pFMarbleStn_Hit04.ogg",
+            "pFMarbleStn_Hit05.ogg",
+            "pFMarbleStn_Hit06.ogg"
+          ]
+        }
+      ]
+    },
+    "MarblePhy04": {
+      "type": "kUser1",
+      "emitters": [
+        {
+          "name": "SfxMarble-HitEmit01",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit01",
+          "type": "delete"
+        },
+        {
+          "name": "SfxMarble-RollEmit04",
+          "type": "roll",
+          "soundSettings": {
+            "desiredVolume": 0.498469
+          },
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_RollLp01.ogg",
+            "pFMarbleStn_RollLp02.ogg",
+            "pFMarbleStn_RollLp03.ogg"
+          ]
+        },
+        {
+          "name": "SfxMarble-HitEmit04",
+          "type": "hit",
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_Hit01.ogg",
+            "pFMarbleStn_Hit02.ogg",
+            "pFMarbleStn_Hit03.ogg",
+            "pFMarbleStn_Hit04.ogg",
+            "pFMarbleStn_Hit05.ogg",
+            "pFMarbleStn_Hit06.ogg"
+          ]
+        }
+      ]
+    },
+    "MarblePhy06": {
+      "type": "kUser1",
+      "emitters": [
+        {
+          "name": "SfxMarble-RollEmit06",
+          "type": "roll",
+          "soundSettings": {
+            "desiredVolume": 0.498469
+          },
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_RollLp01.ogg",
+            "pFMarbleStn_RollLp02.ogg",
+            "pFMarbleStn_RollLp03.ogg"
+          ]
+        },
+        {
+          "name": "SfxMarble-HitEmit06",
+          "type": "hit",
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_Hit01.ogg",
+            "pFMarbleStn_Hit02.ogg",
+            "pFMarbleStn_Hit03.ogg",
+            "pFMarbleStn_Hit04.ogg",
+            "pFMarbleStn_Hit05.ogg",
+            "pFMarbleStn_Hit06.ogg"
+          ]
+        }
+      ]
+    },
+    "MarblePhy07": {
+      "type": "kUser1",
+      "emitters": [
+        {
+          "name": "SfxMarble-RollEmit07",
+          "type": "roll",
+          "soundSettings": {
+            "desiredVolume": 0.498469
+          },
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_RollLp01.ogg",
+            "pFMarbleStn_RollLp02.ogg",
+            "pFMarbleStn_RollLp03.ogg"
+          ]
+        },
+        {
+          "name": "SfxMarble-HitEmit07",
+          "type": "hit",
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_Hit01.ogg",
+            "pFMarbleStn_Hit02.ogg",
+            "pFMarbleStn_Hit03.ogg",
+            "pFMarbleStn_Hit04.ogg",
+            "pFMarbleStn_Hit05.ogg",
+            "pFMarbleStn_Hit06.ogg"
+          ]
+        }
+      ]
+    },
+    "MarblePhy08": {
+      "type": "kUser1",
+      "emitters": [
+        {
+          "name": "SfxMarble-RollEmit08",
+          "type": "roll",
+          "soundSettings": {
+            "desiredVolume": 0.498469
+          },
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_RollLp01.ogg",
+            "pFMarbleStn_RollLp02.ogg",
+            "pFMarbleStn_RollLp03.ogg"
+          ]
+        },
+        {
+          "name": "SfxMarble-HitEmit08",
+          "type": "hit",
+          "eaxSettings": {
+            "enable": true
+          },
+          "sounds": [
+            "pFMarbleStn_Hit01.ogg",
+            "pFMarbleStn_Hit02.ogg",
+            "pFMarbleStn_Hit03.ogg",
+            "pFMarbleStn_Hit04.ogg",
+            "pFMarbleStn_Hit05.ogg",
+            "pFMarbleStn_Hit06.ogg"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -3,7 +3,7 @@
 	<age name="Heek">
 		<set name="Messages">
 			<element name="NoKI">
-				<translation language="French">Vous devez posséder un KI pour jouer à Ayoheek. Explorez l'Âge Gahreesen et ramassez-en un.</translation>
+				<translation language="French">Vous devez posséder un KI pour jouer à Ahyoheek. Explorez l'Âge Gahreesen et ramassez-en un.</translation>
 			</element>
 			<element name="Rank">
 				<translation language="French">Vous êtes actuellement au rang %1s avec %2s point !</translation>
@@ -12,6 +12,7 @@
 				<translation language="French">Vous êtes actuellement au rang %1s avec %2s points !</translation>
 			</element>
 			<element name="SinglePlayerWarn">
+				<translation language="French">Vous êtes actuellement le seul à cette table Ahyoheek, deux personnes ou plus sont nécessaires pour jouer.</translation>
 			</element>
 			<element name="Welcome">
 				<translation language="French">Veuillez accueillir %1s, un joueur de rang %2s avec %3s point !</translation>

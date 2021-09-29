@@ -3,7 +3,7 @@
 	<age name="Heek">
 		<set name="Messages">
 			<element name="NoKI">
-				<translation language="Spanish">Necesitas un KI para jugar a Ayoheek. Por favor, ve a la Era Garrison y consigue uno.</translation>
+				<translation language="Spanish">Necesitas un KI para jugar a Ayoheek. Por favor, ve a la Era Gahreesen y consigue uno.</translation>
 			</element>
 			<element name="Rank">
 				<translation language="Spanish">¡Ahora estás en el rango de %1s con %2s puntos!</translation>

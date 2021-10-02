@@ -3,7 +3,7 @@
 	<age name="Heek">
 		<set name="Messages">
 			<element name="NoKI">
-				<translation language="Italian">Ti serve un KI per poter giocare ad Ayoheek. Visita l'Età Guarnigione e prendine uno.</translation>
+				<translation language="Italian">Ti serve un KI per poter giocare ad Ahyoheek. Visita l'Età Gahreesen e prendine uno.</translation>
 			</element>
 			<element name="Rank">
 				<translation language="Italian">Ora sei un giocatore di grado %1s con %2s punti!</translation>
@@ -12,6 +12,7 @@
 				<translation language="Italian">Ora sei un giocatore di grado %1s con %2s punti!</translation>
 			</element>
 			<element name="SinglePlayerWarn">
+				<translation language="Italian">Al momento sei l'unico a questo tavolo di Ahyoheek, sono necessarie due o più persone per giocare.</translation>
 			</element>
 			<element name="Welcome">
 				<translation language="Italian">Benvenuto a %1s, giocatore di grado %2s con %3s punti!</translation>

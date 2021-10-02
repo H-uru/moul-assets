@@ -3,7 +3,7 @@
 	<age name="Heek">
 		<set name="Messages">
 			<element name="NoKI">
-				<translation language="English">You need a KI to be able to play Ayoheek. Please go to the Garrison Age and pick one up.</translation>
+				<translation language="English">You need a KI to be able to play Ahyoheek. Please go to the Gahreesen Age and pick one up.</translation>
 			</element>
 			<element name="Rank">
 				<translation language="English">You are now rank %1s with %2s point!</translation>

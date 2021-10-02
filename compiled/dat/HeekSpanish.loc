@@ -3,7 +3,7 @@
 	<age name="Heek">
 		<set name="Messages">
 			<element name="NoKI">
-				<translation language="Spanish">Necesitas un KI para jugar a Ayoheek. Por favor, ve a la Era Garrison y consigue uno.</translation>
+				<translation language="Spanish">Necesitas un KI para jugar a Ahyoheek. Por favor, ve a la Era Gahreesen y consigue uno.</translation>
 			</element>
 			<element name="Rank">
 				<translation language="Spanish">¡Ahora estás en el rango de %1s con %2s puntos!</translation>
@@ -12,6 +12,7 @@
 				<translation language="Spanish">¡Ahora estás en el rango de %1s con %2s puntos!</translation>
 			</element>
 			<element name="SinglePlayerWarn">
+				<translation language="Spanish">Actualmente eres el único en esta mesa Ahyoheek, se requieren dos o más personas para jugar.</translation>
 			</element>
 			<element name="Welcome">
 				<translation language="Spanish">¡Demos la bienvenida a %1s, jugador de rango %2s con una puntuación de %3s puntos!</translation>

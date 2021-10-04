@@ -1288,7 +1288,7 @@ Il va sans doute falloir que le Dr Watson revoie ce texte.
 			<element name="MinkataQuestJournal">
 			</element>
 			<element name="Negilahn">
-				<translation language="French"><![CDATA[<cover src="xKIJournalCover*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>
+				<translation language="French"><![CDATA[<cover src="xnegilahninfojournalcover*0#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>
 
 <p align=left>Extrait de l'introduction sur le Negilahn de D'ni
 Traduit par by Tricia Lawson 20.11.03

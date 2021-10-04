@@ -1326,7 +1326,7 @@ Bereit zur Vorlage für die Prüfung durch Dr. Watson]]></translation>
 			<element name="MinkataQuestJournal">
 			</element>
 			<element name="Negilahn">
-				<translation language="German"><![CDATA[<cover src="xKIJournalCover*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>
+				<translation language="German"><![CDATA[<cover src="xnegilahninfojournalcover*0#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>
 
 <p align=left>Auszug aus der D'ni-Einführungsnotiz für Negilahn
 Übersetzt von Tricia Lawson 20.11.03

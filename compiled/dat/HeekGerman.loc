@@ -6,19 +6,19 @@
 				<translation language="German">Du benötigst eine KI, um Ahyoheek spielen zu können. Gehe in das Gahreesen-Zeitalter und hole dir deine KI.</translation>
 			</element>
 			<element name="Rank">
-				<translation language="German">Sie haben den Rang %1s mit %2s Punkt erreicht!</translation>
+				<translation language="German">Du hast den Rang %1s mit %2s Punkt erreicht!</translation>
 			</element>
 			<element name="RankPlural">
-				<translation language="German">Sie haben den Rang %1s mit %2s Punkten erreicht!</translation>
+				<translation language="German">Du hast den Rang %1s mit %2s Punkten erreicht!</translation>
 			</element>
 			<element name="SinglePlayerWarn">
-				<translation language="German">Sie sind derzeit der einzige an diesem Ahyoheek-Tisch, zum Spielen sind zwei oder mehr Personen erforderlich.</translation>
+				<translation language="German">Du bist derzeit der einzige an diesem Ahyoheek-Tisch. Zum Spielen sind zwei oder mehr Personen erforderlich.</translation>
 			</element>
 			<element name="Welcome">
-				<translation language="German">Bitte heißen Sie %1s willkommen, ein Spieler mit Rang %2s und %3s Punkt!</translation>
+				<translation language="German">Bitte heiße %1s willkommen, ein Spieler mit Rang %2s und %3s Punkt!</translation>
 			</element>
 			<element name="WelcomePlural">
-				<translation language="German">Bitte heißen Sie %1s willkommen, ein Spieler mit Rang %2s und %3s Punkten!</translation>
+				<translation language="German">Bitte heiße %1s willkommen, ein Spieler mit Rang %2s und %3s Punkten!</translation>
 			</element>
 		</set>
 	</age>

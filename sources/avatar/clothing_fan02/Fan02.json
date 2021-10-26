@@ -168,7 +168,7 @@
           ]
         },
         {
-          "name": "03_MLegs02_05",
+          "name": "MLegs_CargoPants_TwoToned",
           "type": "pants",
           "group": "Male",
           "icon": "Icon_MLegs_Cargo5.png",
@@ -193,7 +193,7 @@
           ]
         },
         {
-          "name": "02_MLegs03_05",
+          "name": "MLegs_CargoShorts_TwoToned",
           "type": "pants",
           "group": "Male",
           "icon": "Icon_MLegs_Cargo5.png",
@@ -568,7 +568,7 @@
           ]
         },
         {
-          "name": "03_FLegs02_05",
+          "name": "FLegs_CargoPants_TwoToned",
           "type": "pants",
           "group": "Female",
           "icon": "Icon_MLegs_Cargo5.png",
@@ -599,7 +599,7 @@
           ]
         },
         {
-          "name": "02_FLegs04_05",
+          "name": "FLegs_CargoShorts_TwoToned",
           "type": "pants",
           "group": "Female",
           "icon": "Icon_MLegs_Cargo5.png",

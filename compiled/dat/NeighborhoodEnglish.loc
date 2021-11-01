@@ -18,7 +18,7 @@ The DRC
 
 THE KI
 
-Clicking on the Book icon in the center of the Big KI will create a Journal entry just like pressing <F6> will, and pressing on the white circle above that (It's supposed to be an eye, continuing the theme of the Guild of Maintainers; you see their seal here and there if you watch for them) you can take a picture, just like if you pressed <F5>. To delete a Journal Entry, a Picture, or even a Buddy from your list, click on the D'ni zero "" on the far right side of the screen.
+Clicking on the Book icon in the center of the Big KI will create a Journal entry just like pressing <F6> will, and pressing on the white circle above that (It's supposed to be an eye, continuing the theme of the Guild of Maintainers; you see their seal here and there if you watch for them) you can take a picture, just like if you pressed <F5>. To delete a Journal Entry, a Picture, or even a Buddy from your list, click on the D'ni zero on the far right side of the screen.
 
 On the right hand side, you will see some circular shapes. These are toggles, and in order of top to bottom, will allow you to: Show/Stop showing the Main KI Window, Mute the sound, and Switch between broadcasting text chats and private chatting. At the very bottom, there's a small white circle, clicking that will shut the Big KI down. On the left is a glowing circle, of sorts; this represents the calibration function. This is not yet implemented, but it does serve two uses: one, this is what the markers will look like when you set up a Marker game, and two, there is a line that slides from above to the center of the glowing circle. This line will give you an indication of how well the servers are transmitting the game information to you. If the line isn't moving, neither are you. 
 

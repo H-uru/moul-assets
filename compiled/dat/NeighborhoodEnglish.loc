@@ -18,57 +18,57 @@ The DRC
 
 THE KI
 
-Clicking on the Book icon in the center of the Big KI will create a Journal entry just like pressing <F6> will, and pressing on the white circle above that (It's supposed to be an eye, continuing the theme of the Guild of Maintainers; you see their seal here and there if you watch for them) you can take a picture, just like if you pressed <F5>. To delete a Journal Entry, a Picture, or even a Buddy from your list, click on the D'ni zero “” on the far right side of the screen.
+Clicking on the Book icon in the center of the Big KI will create a Journal entry just like pressing <F6> will, and pressing on the white circle above that (It's supposed to be an eye, continuing the theme of the Guild of Maintainers; you see their seal here and there if you watch for them) you can take a picture, just like if you pressed <F5>. To delete a Journal Entry, a Picture, or even a Buddy from your list, click on the D'ni zero on the far right side of the screen.
 
-On the right hand side, you will see some circular shapes. These are toggles, and in order of top to bottom, will allow you to: Show/Stop showing the Main KI Window, Mute the sound, and Switch between broadcasting text chats and private chatting. At the very bottom, there’s a small white circle, clicking that will shut the Big KI down. On the left is a glowing circle, of sorts; this represents the calibration function. This is not yet implemented, but it does serve two uses: one, this is what the markers will look like when you set up a Marker game, and two, there is a line that slides from above to the center of the glowing circle. This line will give you an indication of how well the servers are transmitting the game information to you. If the line isn't moving, neither are you. 
+On the right hand side, you will see some circular shapes. These are toggles, and in order of top to bottom, will allow you to: Show/Stop showing the Main KI Window, Mute the sound, and Switch between broadcasting text chats and private chatting. At the very bottom, there's a small white circle, clicking that will shut the Big KI down. On the left is a glowing circle, of sorts; this represents the calibration function. This is not yet implemented, but it does serve two uses: one, this is what the markers will look like when you set up a Marker game, and two, there is a line that slides from above to the center of the glowing circle. This line will give you an indication of how well the servers are transmitting the game information to you. If the line isn't moving, neither are you. 
 
 
 How do I invite someone to one of my ages?
 
-This is a tricky process, but it can also be managed in a number of different ways. One way is to share your Relto Book (You do this by opening your book, clicking on the page that reads, “share this book”, and then using the book cursor to click on the person you want to share with. If you miss the first time, keep trying, but clicking repeatedly in rapid succession won't help.). Once your friend is in your Relto, you can then go to your bookshelf and flip the metal tab on the book you wish to share (see illustration). Once that's done, your friend may then use the book as usual, and they will link to your Age. (You can leave the tab flipped up before you invite your friend over, too.)
+This is a tricky process, but it can also be managed in a number of different ways. One way is to share your Relto Book (You do this by opening your book, clicking on the page that reads, "share this book", and then using the book cursor to click on the person you want to share with. If you miss the first time, keep trying, but clicking repeatedly in rapid succession won't help.). Once your friend is in your Relto, you can then go to your bookshelf and flip the metal tab on the book you wish to share (see illustration). Once that's done, your friend may then use the book as usual, and they will link to your Age. (You can leave the tab flipped up before you invite your friend over, too.)
 
-Another way to do this is to open up your KI, and select the middle icon. (This is “Player View”.) Locate the name of the player you wish to add and click on it. You can click on the lists to the left of the screen, or click on the category lists down the middle (under the icons) until you see the name you want on the right. When you find the name you want click on it once. The name you selected should appear in the box above the icons. Also, small triangles pointing to certain categories should have appeared. Scroll down that center list until you find the name of the Age you want to invite your friend to, and click on the triangle beside it. When the triangle vanishes, that means your friend should have received the invitation.
+Another way to do this is to open up your KI, and select the middle icon. (This is "Player View".) Locate the name of the player you wish to add and click on it. You can click on the lists to the left of the screen, or click on the category lists down the middle (under the icons) until you see the name you want on the right. When you find the name you want click on it once. The name you selected should appear in the box above the icons. Also, small triangles pointing to certain categories should have appeared. Scroll down that center list until you find the name of the Age you want to invite your friend to, and click on the triangle beside it. When the triangle vanishes, that means your friend should have received the invitation.
 
 
 How do I add a person to my buddy list?
 
 Open up the main KI screen.
 
-Select the middle icon. (This is “Player View”.)
+Select the middle icon. (This is "Player View".)
 
 Locate the name of the player you wish to add and click on it. You can click on the lists to the left of the screen, or click on the category lists down the middle (under the icons) until you see the name you want on the right. When you find the name you want click on it once.
 
 The name you selected should appear in the box above the icons. Also, small triangles pointing to certain categories should have appeared.
 
-Click the triangle pointing to the category “Buddies”.
+Click the triangle pointing to the category "Buddies".
 
-The name you selected should appear in the list on the far left, under “Buddies”.
+The name you selected should appear in the list on the far left, under "Buddies".
 
-—OR—
+-OR-
 
 Select the category "Buddies"
 
-Select “<add buddy by ID>”
+Select "<add buddy by ID>"
 
 Type in the KI number given to you by your friend.
 
-Once you hit return, they should appear in the list on the far left, under “Buddies”.
+Once you hit return, they should appear in the list on the far left, under "Buddies".
 
 
 How do I join a neighborhood?
 
-You need to have a friend invite you through their Relto. This is the only way to join a neighborhood, but not the only way to visit one. See above, “How do I invite someone to one of my ages?” A friend brought into the game using /invite will be part of your neighborhood, as well. See “Invitation Commands”.
+You need to have a friend invite you through their Relto. This is the only way to join a neighborhood, but not the only way to visit one. See above, "How do I invite someone to one of my ages?" A friend brought into the game using /invite will be part of your neighborhood, as well. See "Invitation Commands".
 
 
 What is a marker?
 
 A marker is a function of the KI that has multiple uses. They resemble floating; glowing spheres, and can be used in games similar to Easter Egg Hunts (Capture), Capture The Flag (Hold), or a Paper Chase (Quest) (A leads to B, B leads to C, etc.).
 
-To create a Marker Game, you must first have your KI calibrated. (Details to follow.) Once this is done, either type in “/createmarkerfolder” without the quotes, or press <F8>. The Main KI window should open, showing you the Marker creation dialog. Click “Edit Game”. Choose the Type of game you wish to set up. If you select Hold or Capture, you will be asked to set a time limit. Without hitting “Done Editing”, close your KI window. (Press <F2> or click the round thingy on the top right hand side.) Move around the Age to the places you want to place a marker. Place a marker by pressing <F7>. You can place one anywhere you can get to. When you have placed all the markers you're going to, open you KI main window again. Click on the Marker List. You will see all the markers you've placed. From here you can change the name of a given marker, or delete it completely. When you are satisfied, click “Done Editing” and then “Play Game”.
+To create a Marker Game, you must first have your KI calibrated. (Details to follow.) Once this is done, either type in "/createmarkerfolder" without the quotes, or press <F8>. The Main KI window should open, showing you the Marker creation dialog. Click "Edit Game". Choose the Type of game you wish to set up. If you select Hold or Capture, you will be asked to set a time limit. Without hitting "Done Editing", close your KI window. (Press <F2> or click the round thingy on the top right hand side.) Move around the Age to the places you want to place a marker. Place a marker by pressing <F7>. You can place one anywhere you can get to. When you have placed all the markers you're going to, open you KI main window again. Click on the Marker List. You will see all the markers you've placed. From here you can change the name of a given marker, or delete it completely. When you are satisfied, click "Done Editing" and then "Play Game".
 
 If you've chosen a Capture or Hold game, you can now begin inviting others. You can invite everyone from the current Age, or individuals one at a time. When they join, they will be split up into teams automatically and be shown on all participants' KI's.
 
-If you've chosen a Quest, clicking “Play Game” will start you on your way. A display will show you the Markers you've found and the ones you've yet to find.
+If you've chosen a Quest, clicking "Play Game" will start you on your way. A display will show you the Markers you've found and the ones you've yet to find.
 
 
 How many pictures does the KI store?
@@ -90,9 +90,9 @@ How do I make a journal entry?
 
 Activate your KI so that it rests in the Top left corner of the screen. (The manual refers to this as the Mini KI.) In the very center, you will see an open book icon. Click that. The Journal dialog will start immediately.
 
-—OR— Press <F6>.
+-OR- Press <F6>.
 
-The Journal function can be very useful for keeping notes of your travels through D'ni, and it can be used as a kind of mail system, referred to by some as “KI-mail”. (It's a pun, you see... “KI”-mail...? Get it? “KI”-mail? Oh, never mind. I guess you had to be there. ). Simply create your Journal entry and then transfer it using the method described below.
+The Journal function can be very useful for keeping notes of your travels through D'ni, and it can be used as a kind of mail system, referred to by some as "KI-mail". (It's a pun, you see... "KI"-mail...? Get it? "KI"-mail? Oh, never mind. I guess you had to be there. ). Simply create your Journal entry and then transfer it using the method described below.
 
 
 How do I take a picture?
@@ -101,7 +101,7 @@ First orient yourself to wherever it is you want to take a picture of. If you do
 
 Activate your KI so that it rests in the Top left corner of the screen. (The manual refers to this as the Mini KI.) Just above the open book icon, you will see a picture of an eye. Click that. You should then be presented with the Main KI screen and the image you wanted. From here, you can move the picture to another Category, or send a copy to a friend.
 
-—OR— Press <F5>.
+-OR- Press <F5>.
 
 
 How do I transfer an item?
@@ -171,46 +171,46 @@ Be aware that if a neighborhood has no members, the neighborhood will be deleted
 
 Submitted by: Domahreh
 
-Borne on a torrent sea of seer’s fire,
-   Clairvoyance bellowed from old Oorpah’s throat,
+Borne on a torrent sea of seer's fire,
+   Clairvoyance bellowed from old Oorpah's throat,
 Her eyes revolving with sightless desire
-      To be the mouthpiece of Yahvo’s command.
+      To be the mouthpiece of Yahvo's command.
       O Trumpet of the Maker! You did send
 
 Us promise: Stone shall comfort her affright
    And soothe his cry with noble recommend:
-“Great King, Great Leader, Hail!”
+"Great King, Great Leader, Hail!"
                                              In solemn rite,
       When twenty-five times twenty-five years passed
-      Ri’Neref’s sovereignty, the Arch was blessed
+      Ri'Neref's sovereignty, the Arch was blessed
 
 Beneath which each new monarch would attend
-   His empire’s birth and make prophetic test
+   His empire's birth and make prophetic test
 In hopes of greatness. Weep not that the hand
       Of raving anarchy seized and defiled
-      The D’ni crown! Lament that chaste blood spilled
+      The D'ni crown! Lament that chaste blood spilled
 
-From vital fountains!—yet civil unrest,
+From vital fountains!-yet civil unrest,
    Cruel-seeming fate, tossed Koreen, queen, and child
 Unborn on to the ruddy lake. Each blast
       Of war-wind almost rent their swollen sail,
       Propelling them towards the hidden isle,
 
 Towards safety. And, as prophesy foretold,
-   When ‘twixt the Arch’s legs their vessel’s hull
+   When 'twixt the Arch's legs their vessel's hull
 Passed through, its upcast shadow flaming gold
       From every edge, the queen brought forth a son.
       And he cried out unto the regal stone,
 
 And soothing lullaby it did recall;
    The waters soft illumination shone
-And not a ripple marred the ocean’s lull.
+And not a ripple marred the ocean's lull.
       Unharmed, the greater family did retire
       To their protected Age for thirty year
 
 And did youthful Ahlesendar return,
    Reclaim the crown, and overwhelm the war.
-Rejoice, then, every D’ni citizen!
+Rejoice, then, every D'ni citizen!
       For it was this prophetic king who taught
       From violent Root shall New Start be born out.
 
@@ -232,8 +232,8 @@ Cry, oh cry for the ones who die
 At the foot of war's cruel throne.
 The living weep and the dead ones sleep
 As cold as fallen stone.
-How long? How long must the funeral song—
-The dirge, the lamentation—
+How long? How long must the funeral song-
+The dirge, the lamentation-
 Both day and night mark the fear-wracked plight
 Of the suffering D'ni nation?
 
@@ -248,7 +248,7 @@ Say those who still remember.
 
 Sing, oh sing for the great high king
 Now reclaims his mighty throne!
-Hope's bright flame burns— D'ni's king returns
+Hope's bright flame burns- D'ni's king returns
 Through the ancient arch of stone!
 Sing joyful songs for he rights cruel wrongs
 And tyrants cower before him.
@@ -262,16 +262,16 @@ Submitted by: Kehl: Creator of Simple Words
 
 Past, long past. Deep in the dark
 Of myst memories an ancient wrote
-words of coming truth: “The Arch
-welcomes the reign of the great one…”
+words of coming truth: "The Arch
+welcomes the reign of the great one..."
 
 While wicked wars ravaged on, the
 Young one waited among the Garo-hevtee,
-Taken out among the branches—
+Taken out among the branches-
 Terokh Jeruth. When will he wake?
 
 Biding time after narrow escape from
-Such nuhdahtahv b’fahsee. Peril from
+Such nuhdahtahv b'fahsee. Peril from
 The warlike Pento and pursuit forcing
 Koreen from his home.
 
@@ -280,15 +280,15 @@ Under the Arch prophetic. One of whom
 Oorpah told beyond his age of Garternay,
 One would rise above all.
 
-Mothers, of Pento, of D’ni mourn over sons
+Mothers, of Pento, of D'ni mourn over sons
 slain. Soft and fair tears flow swiftly
 to the lake, filling it full of sorrow.
 All cry out: Ahlsendar return to us!
 
 And the young king soon sailed through
-Kerath’s Arch, his ship the harbinger of
-horror’s death. The once war times now ended
-and all D’ni rejoices in his coming.
+Kerath's Arch, his ship the harbinger of
+horror's death. The once war times now ended
+and all D'ni rejoices in his coming.
 
 Ahlsendar, our Great One, Arch-born,
 Arch-returned, bastion of peace for us.
@@ -296,7 +296,7 @@ Tears of joyous celebration cover all,
 true happiness again.
 
 Our place in the Great Tree preserved,
-and the Great One’s salvation remembered.
+and the Great One's salvation remembered.
 
 
 
@@ -314,15 +314,15 @@ Never to waken, minds cold with frost.
 Eager for life, not yet to live, 
 First live to come, last dead to lie. 
 All this has passed, because great shame 
-Was passed on cursed Ae’garis’ name.
+Was passed on cursed Ae'garis' name.
 
 Whose cart of death in sleep was found,
 Long years before, while sleepless bound,
 Ahlsendar, the king, was crowned.
 For not just in statesmanship did he rule,
-Fulfilling in greatness: the prophesy’s tool,
+Fulfilling in greatness: the prophesy's tool,
 The legacy left him he passed on, 
-Telling a time with D’ni gone.
+Telling a time with D'ni gone.
 Of other things as well as that,
 The new tree falling, stricken dead.
 As survivors found a missing thread.

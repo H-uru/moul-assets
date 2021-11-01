@@ -553,11 +553,11 @@
 			<element name="BadPassword">
 			</element>
 			<element name="CCRInternal">
-				<translation language="French">Vous avez été refusé(e) car les PAC doivent disposer d’un code client interne.
+				<translation language="French">Vous avez été refusé(e) car les PAC doivent disposer d'un code client interne.
 #08</translation>
 			</element>
 			<element name="CCRLobby">
-				<translation language="French">Vous avez été refusé(e) car les PAC doivent se connecter par le biais d’une salle protégée.
+				<translation language="French">Vous avez été refusé(e) car les PAC doivent se connecter par le biais d'une salle protégée.
 #07</translation>
 			</element>
 			<element name="CantFindAge">
@@ -603,7 +603,7 @@
 #27</translation>
 			</element>
 			<element name="LoggedInElsewhere">
-				<translation language="French">Vous avez été déconnecté(e) car quelqu’un d’autre utilise déjà votre compte.
+				<translation language="French">Vous avez été déconnecté(e) car quelqu'un d'autre utilise déjà votre compte.
 #02</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
@@ -615,7 +615,7 @@
 #04</translation>
 			</element>
 			<element name="OldVersion">
-				<translation language="French">Cette version d’Uru est trop ancienne. Veuillez quitter le programme et mettre le jeu à jour.
+				<translation language="French">Cette version d'Uru est trop ancienne. Veuillez quitter le programme et mettre le jeu à jour.
 #11</translation>
 			</element>
 			<element name="PasswordTooLong">
@@ -625,14 +625,14 @@
 #20</translation>
 			</element>
 			<element name="PlayerDisabled">
-				<translation language="French">Le joueur que vous avez sélectionné n’est pas autorisé à Uru. Veuillez contacter le support clientèle pour plus d’informations.
+				<translation language="French">Le joueur que vous avez sélectionné n'est pas autorisé à Uru. Veuillez contacter le support clientèle pour plus d'informations.
 #12</translation>
 			</element>
 			<element name="PlayerNotFound">
 				<translation language="French">Joueur introuvable</translation>
 			</element>
 			<element name="ProtocolVersionMismatch">
-				<translation language="French">Cette version d’Uru est trop ancienne. Veuillez quitter le programme et mettre le jeu à jour.
+				<translation language="French">Cette version d'Uru est trop ancienne. Veuillez quitter le programme et mettre le jeu à jour.
 #22</translation>
 			</element>
 			<element name="SDLDescProblem">

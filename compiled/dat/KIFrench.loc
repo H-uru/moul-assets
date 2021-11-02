@@ -568,7 +568,7 @@
 				<translation language="French">Envoi impossible</translation>
 			</element>
 			<element name="CommandError">
-				<translation language="French">Impossible de '%1s'</translation>
+				<translation language="French">Impossible de « %1s »</translation>
 			</element>
 			<element name="EmailAddressTooLong">
 			</element>
@@ -775,7 +775,7 @@ Signé(e),
 				<translation language="French">capturé(s)</translation>
 			</element>
 			<element name="Captures">
-				<translation language="French">%1s a capturé '%2s'. %3s</translation>
+				<translation language="French">%1s a capturé « %2s ». %3s</translation>
 			</element>
 			<element name="DoneEditButton">
 				<translation language="French">Modification terminée</translation>
@@ -789,7 +789,7 @@ Signé(e),
 			<element name="FinishedGame">
 			</element>
 			<element name="FoundMarker">
-				<translation language="French">Marqueur '%1s' trouvé.</translation>
+				<translation language="French">Marqueur « %1s » trouvé.</translation>
 			</element>
 			<element name="GameBegins">
 				<translation language="French">Que la partie commence !</translation>
@@ -980,7 +980,7 @@ souhaitez-vous jouer ?</translation>
 				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer "%1s" ?</translation>
 			</element>
 			<element name="DeletePlayer">
-				<translation language="French">Êtes-vous sûr(e) de vouloir retirer "%1s" de votre dossier "%2s" ?</translation>
+				<translation language="French">Êtes-vous sûr(e) de vouloir retirer « %1s » de votre dossier « %2s » ?</translation>
 			</element>
 			<element name="FullImages">
 				<translation language="French">Votre KI ne peut plus stocker les images dans votre journal. Il est plein.</translation>
@@ -1006,7 +1006,7 @@ souhaitez-vous jouer ?</translation>
 				<translation language="French">Un lien a été ajouté a votre Nexus</translation>
 			</element>
 			<element name="OfferLinkTo">
-				<translation language="French"><![CDATA[On vous propose une liaison vers "%1s" <cool !>. Souhaitez-vous y aller ?]]></translation>
+				<translation language="French"><![CDATA[On vous propose une liaison vers « %1s » <cool !>. Souhaitez-vous y aller ?]]></translation>
 			</element>
 			<element name="OpenHyperlink">
 			</element>

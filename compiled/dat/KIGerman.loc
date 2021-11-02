@@ -568,7 +568,7 @@
 				<translation language="German">Senden nicht möglich</translation>
 			</element>
 			<element name="CommandError">
-				<translation language="German">'%1s' nicht möglich - unbekannter Befehl</translation>
+				<translation language="German">"%1s" nicht möglich - unbekannter Befehl</translation>
 			</element>
 			<element name="EmailAddressTooLong">
 			</element>
@@ -775,7 +775,7 @@ Gruß,
 				<translation language="German">erobert</translation>
 			</element>
 			<element name="Captures">
-				<translation language="German">%1s erobert '%2s'. %3s</translation>
+				<translation language="German">%1s erobert "%2s". %3s</translation>
 			</element>
 			<element name="DoneEditButton">
 				<translation language="German">Bearbeiten beenden</translation>
@@ -789,7 +789,7 @@ Gruß,
 			<element name="FinishedGame">
 			</element>
 			<element name="FoundMarker">
-				<translation language="German">Marker gefunden '%1s'.</translation>
+				<translation language="German">Marker gefunden "%1s".</translation>
 			</element>
 			<element name="GameBegins">
 				<translation language="German">Das Spiel beginnt!</translation>
@@ -894,7 +894,7 @@ Gruß,
 				<translation language="German">Der Spielleiter hat das Spiel beendet!</translation>
 			</element>
 			<element name="QMessage">
-				<translation language="German">    %1s hat Sie zu einer Runde '%2s' eingeladen.
+				<translation language="German">    %1s hat Sie zu einer Runde "%2s" eingeladen.
     %3s
 
 Wollen Sie mitspielen?</translation>

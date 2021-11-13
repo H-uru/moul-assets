@@ -14,6 +14,10 @@
         "MTorso_xSleeve_GayZero_Base.png",
         "MTorso_xSleeve_GayZero_Tint.png",
         
+        "Icon_UTorso_Shirt_CvrnTr.png",
+        "MTorso_xSleeve_CvrnTr_Base.png",
+        "MTorso_xSleeve_CvrnTr_Tint.png",
+	
         "Icon_MLegs_Cargo5.png",
         "MLegs_Cargo05_Tint1.png",
         "MLegs_Cargo05_Tint2.png",
@@ -53,9 +57,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve; nonStandard",
           "text": "Short Sleeve T-Shirt - Mysterium 2021",
           "meshes": [
-            "MHTorso08_SMsh",
-            "MMTorso_SMsh",
-            "MLTorso_SMsh"
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
           ],
           "elements": [
             {
@@ -115,9 +128,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
           "text": "Short Sleeve T-Shirt - GZ Pride",
           "meshes": [
-            "MHTorso08_SMsh",
-            "MMTorso_SMsh",
-            "MLTorso_SMsh"
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
           ],
           "elements": [
             {
@@ -163,6 +185,47 @@
               "name": "Arm",
               "layers": {
                 "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_ShortSleeve_CvrnTrT",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_CvrnTr.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Cavern Tour",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_CvrnTr_Base.png",
+                "8": "MTorso_xSleeve_CvrnTr_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
               }
             }
           ]
@@ -335,7 +398,7 @@
           "icon": "Icon_U_NoPrint.png",
           "tint1": [1, 1, 1],
           "tint2": [1, 1, 1],
-          "desc": "ColorLabel1= Shirt ; ColorLabel2= Vest; isLogoFor=MReward_DRCVest; GroupName=DRCVest",
+          "desc": "ColorLabel1= Shirt ; ColorLabel2= Vest; isLogoFor=MReward_DRCVest; GroupName=DRCVest; nonStandard",
           "text": "Plain Vest",
           "meshes": [
             "MHTorsoDRCVest_SMsh",
@@ -416,6 +479,10 @@
         "FTorso_xSleeve_GayZero_Base.png",
         "FTorso_xSleeve_GayZero_Tint.png",
         
+        "Icon_UTorso_Shirt_CvrnTr.png",
+        "FTorso_xSleeve_CvrnTr_Base.png",
+        "FTorso_xSleeve_CvrnTr_Tint.png",
+	
         "Icon_MLegs_Cargo5.png",
         "MLegs_Cargo05_Tint1.png",
         "MLegs_Cargo05_Tint2.png",
@@ -455,9 +522,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve; nonStandard",
           "text": "Short Sleeve T-Shirt - Mysterium 2021",
           "meshes": [
-            "FHTorso12_SMsh",
-            "FMTorso12_SMsh",
-            "FLTorso12_SMsh"
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
           ],
           "elements": [
             {
@@ -516,9 +592,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
           "text": "Short Sleeve T-Shirt - GZ Pride",
           "meshes": [
-            "FHTorso12_SMsh",
-            "FMTorso12_SMsh",
-            "FLTorso12_SMsh"
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
           ],
           "elements": [
             {
@@ -563,6 +648,46 @@
               "name": "Arm",
               "layers": {
                 "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_ShortSleeve_CvrnTrT",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_CvrnTr.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Cavern Tour",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_CvrnTr_Base.png",
+                "8": "FTorso_xSleeve_CvrnTr_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
               }
             }
           ]
@@ -735,7 +860,7 @@
           "icon": "Icon_U_NoPrint.png",
           "tint1": [1, 1, 1],
           "tint2": [1, 1, 1],
-          "desc": "ColorLabel1= Shirt ; ColorLabel2= Vest; isLogoFor=FReward_DRCVest; GroupName=DRCVest",
+          "desc": "ColorLabel1= Shirt ; ColorLabel2= Vest; isLogoFor=FReward_DRCVest; GroupName=DRCVest; nonStandard",
           "text": "Plain Vest",
           "meshes": [
             "FHTorsoDRCVest_SMsh",

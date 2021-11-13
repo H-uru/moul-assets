@@ -133,7 +133,7 @@
 				<translation language="Spanish">A:</translation>
 			</element>
 			<element name="WentOffline">
-				<translation language="Spanish">(No puedo encontrar a '%1s' en ninguna de las listas de jugadores.)</translation>
+				<translation language="Spanish">(No puedo encontrar a "%1s" en ninguna de las listas de jugadores.)</translation>
 			</element>
 		</set>
 		<set name="Commands">
@@ -544,7 +544,7 @@
 				<translation language="Spanish">No se puede enviar a ese</translation>
 			</element>
 			<element name="CommandError">
-				<translation language="Spanish">No sé cómo '%1s'</translation>
+				<translation language="Spanish">No sé cómo "%1s"</translation>
 			</element>
 			<element name="EmailAddressTooLong">
 			</element>
@@ -707,7 +707,7 @@ Firmado,
 				<translation language="Spanish">atrapado</translation>
 			</element>
 			<element name="Captures">
-				<translation language="Spanish">%1s capturas '%2s'. %3s</translation>
+				<translation language="Spanish">%1s capturas "%2s". %3s</translation>
 			</element>
 			<element name="DoneEditButton">
 				<translation language="Spanish">Edición realizada</translation>
@@ -721,7 +721,7 @@ Firmado,
 			<element name="FinishedGame">
 			</element>
 			<element name="FoundMarker">
-				<translation language="Spanish">Marcador encontrado '%1s'.</translation>
+				<translation language="Spanish">Marcador encontrado "%1s".</translation>
 			</element>
 			<element name="GameBegins">
 				<translation language="Spanish">¡Empieza la partida!</translation>

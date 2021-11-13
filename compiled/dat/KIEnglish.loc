@@ -77,7 +77,7 @@
 				<translation language="English">To CCR:</translation>
 			</element>
 			<element name="CannotFindBuddy">
-				<translation language="English">(Can't find '%1s' in any of the player lists.)</translation>
+				<translation language="English">(Can't find "%1s" in any of the player lists.)</translation>
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="English">Error:</translation>
@@ -656,7 +656,7 @@
 				<translation language="English">Can't send to that</translation>
 			</element>
 			<element name="CommandError">
-				<translation language="English">Don't know how to '%1s'</translation>
+				<translation language="English">Don't know how to "%1s"</translation>
 			</element>
 			<element name="EmailAddressTooLong">
 				<translation language="English">Email address too long, please limit it to no more than 63 characters.</translation>
@@ -868,7 +868,7 @@ Signed,
 				<translation language="English">captured</translation>
 			</element>
 			<element name="Captures">
-				<translation language="English">%1s captures '%2s'. %3s</translation>
+				<translation language="English">%1s captures "%2s". %3s</translation>
 			</element>
 			<element name="DoneEditButton">
 				<translation language="English">Done Editing</translation>
@@ -883,7 +883,7 @@ Signed,
 				<translation language="English">Congratulations, you completed: %1s.</translation>
 			</element>
 			<element name="FoundMarker">
-				<translation language="English">Found marker '%1s'.</translation>
+				<translation language="English">Found marker "%1s".</translation>
 			</element>
 			<element name="GameBegins">
 				<translation language="English">Game begins!</translation>

@@ -544,7 +544,7 @@
 				<translation language="Italian">Non posso spedirlo</translation>
 			</element>
 			<element name="CommandError">
-				<translation language="Italian">Non so cosa significhi '%1s'</translation>
+				<translation language="Italian">Non so cosa significhi "%1s"</translation>
 			</element>
 			<element name="EmailAddressTooLong">
 			</element>
@@ -707,7 +707,7 @@ Firmato,
 				<translation language="Italian">catturato/i</translation>
 			</element>
 			<element name="Captures">
-				<translation language="Italian">%1s cattura '%2s'. %3s</translation>
+				<translation language="Italian">%1s cattura "%2s". %3s</translation>
 			</element>
 			<element name="DoneEditButton">
 				<translation language="Italian">Modifiche terminate</translation>
@@ -721,7 +721,7 @@ Firmato,
 			<element name="FinishedGame">
 			</element>
 			<element name="FoundMarker">
-				<translation language="Italian">Trovato marker '%1s'.</translation>
+				<translation language="Italian">Trovato marker "%1s".</translation>
 			</element>
 			<element name="GameBegins">
 				<translation language="Italian">La partita comincia!</translation>

@@ -3,10 +3,10 @@
 	<age name="Personal">
 		<set name="Bookshelf">
 			<element name="DeleteBook">
-				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer ce Livre et ainsi annuler votre progression dans cet Âge ?</translation>
+				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer ce Livre et ainsi annuler votre progression dans cet Âge ?</translation>
 			</element>
 			<element name="DeleteNeighborhoodBook">
-				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer ce Livre et ainsi perdre votre inscription dans ce quartier ?</translation>
+				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer ce Livre et ainsi perdre votre inscription dans ce quartier ?</translation>
 			</element>
 		</set>
 		<set name="Journals">

@@ -5,7 +5,7 @@
 			<element name="GZHelp">
 				<translation language="French"><![CDATA[<cover src="xKIJournalCover*1#0.hsm"><font size=10 face=courier color=000000><margin left=62 right=62 top=62 bottom=48><p align=center>
 
-<p align=left>Bienvenue au Grand Zéro ! 
+<p align=left>Bienvenue au Grand Zéro ! 
 
 Vous remarquerez que la structure du Grand Zéro est composée de plusieurs zones ainsi que d'un certain nombre de machines. Nous sommes désolés pour tous ces détails mais la structure et les mécanismes et systèmes y étant liés sont quelque peu compliqués.
 
@@ -35,7 +35,7 @@ Cour du Grand Zéro
 
 Accès au Centre de calibrage du Grand Zéro
 
-1.Le Centre de calibrage se situe au-delà de la cour. Vous ne pouvez donc pas y accéder si vous ne disposez pas d'un KI contenant au moins trente MGZ enregistrés (il en faut 15 de plus pour accéder à la cour). Pour les enregistrer, procédez comme indiqué ci-avant : vous aurez alors 15 nouvelles lumières faibles. À mesure que les MGZ sont détectés, les lumières deviendront intense.
+1.Le Centre de calibrage se situe au-delà de la cour. Vous ne pouvez donc pas y accéder si vous ne disposez pas d'un KI contenant au moins trente MGZ enregistrés (il en faut 15 de plus pour accéder à la cour). Pour les enregistrer, procédez comme indiqué ci-avant : vous aurez alors 15 nouvelles lumières faibles. À mesure que les MGZ sont détectés, les lumières deviendront intense.
 	
 2.Une fois que vous avez chargé (dans la cour ou l'antichambre) les 15 MGZ supplémentaires (pour faire un total de 30), les portes menant au Centre de calibrage s'ouvriront automatiquement à votre passage.
 
@@ -47,7 +47,7 @@ Centre de calibrage du Grand Zéro
 
 Marqueur de calibrage du Grand Zéro (MCGZ)
 
-1.Les MCGZ fonctionnent de la même manière que les MGZ hormis deux différences : d'abord, les MCGZ sont toujours visibles une fois qu'ils sont assignés à une personne. En d'autres termes, à l'inverse des MGZ qui n'apparaissent que lorsqu'un KI est détecté dans les sept mètres, les MCGZ ne sont visibles que pour ceux à qui ils ont été assignés. Deuxièmement, les MCGZ ne s'activent pas à l'aide du bouton d'activation de votre KI mais en passant dessus.
+1.Les MCGZ fonctionnent de la même manière que les MGZ hormis deux différences : d'abord, les MCGZ sont toujours visibles une fois qu'ils sont assignés à une personne. En d'autres termes, à l'inverse des MGZ qui n'apparaissent que lorsqu'un KI est détecté dans les sept mètres, les MCGZ ne sont visibles que pour ceux à qui ils ont été assignés. Deuxièmement, les MCGZ ne s'activent pas à l'aide du bouton d'activation de votre KI mais en passant dessus.
 
 2.Pour se faire assigner une mission MCGZ, vous devrez trouver une UMGZ et choisir une mission parmi les 14 disponibles. Le nombre de MCGZ et l'emplacement de ces marqueurs varient selon les missions. Toutes les missions sont chronométrées. Le décompte de temps commence lorsque le premier marqueur est enregistré et se termine lorsque le dernier marqueur a été enregistré. Vous pouvez refaire une mission afin d'essayer de l'accomplir en moins de temps.
 

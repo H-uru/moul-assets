@@ -48,7 +48,7 @@
 				<translation language="French">Ae'gura est actuellement saturée. Réessayez plus tard.</translation>
 			</element>
 			<element name="CityPopulation">
-				<translation language="French">Population actuelle : %1s Population maximum : %2s</translation>
+				<translation language="French">Population actuelle : %1s Population maximum : %2s</translation>
 			</element>
 			<element name="GuildPubFull">
 			</element>

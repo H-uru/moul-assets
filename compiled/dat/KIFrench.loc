@@ -9,7 +9,7 @@
 				<translation language="French">Annuler</translation>
 			</element>
 			<element name="Comment">
-				<translation language="French">Commentaire :</translation>
+				<translation language="French">Commentaire :</translation>
 			</element>
 			<element name="ConversationEnded">
 				<translation language="French">(fin de conversation)</translation>
@@ -27,7 +27,7 @@
 				<translation language="French">Pétition en ligne</translation>
 			</element>
 			<element name="PetitionType">
-				<translation language="French">Type de pétition :</translation>
+				<translation language="French">Type de pétition :</translation>
 			</element>
 			<element name="PopupBug">
 				<translation language="French">Rapport de bug</translation>
@@ -51,7 +51,7 @@
 				<translation language="French">Problèmes techniques</translation>
 			</element>
 			<element name="Subject">
-				<translation language="French">Objet :</translation>
+				<translation language="French">Objet :</translation>
 			</element>
 			<element name="Submit">
 				<translation language="French">Valider</translation>
@@ -366,13 +366,13 @@
 		</set>
 		<set name="Config">
 			<element name="ChatFadeTime">
-				<translation language="French">Temps de fondu des discussions :</translation>
+				<translation language="French">Temps de fondu des discussions :</translation>
 			</element>
 			<element name="Description">
-				<translation language="French">Description :</translation>
+				<translation language="French">Description :</translation>
 			</element>
 			<element name="FontSize">
-				<translation language="French">Taille de police :</translation>
+				<translation language="French">Taille de police :</translation>
 			</element>
 			<element name="OnlyBuddies">
 				<translation language="French">Uniquement accepter les messages privés et les e-mails des Amis</translation>
@@ -873,7 +873,7 @@ Signé(e),
 				<translation language="French">Il ne reste plus qu'un marqueur !</translation>
 			</element>
 			<element name="OwnerTitle">
-				<translation language="French">PROPRIÉTAIRE :</translation>
+				<translation language="French">PROPRIÉTAIRE :</translation>
 			</element>
 			<element name="PlayButton">
 				<translation language="French">Jouer</translation>
@@ -945,7 +945,7 @@ souhaitez-vous jouer ?</translation>
 				<translation language="French">Égalité.  %1s à %2s</translation>
 			</element>
 			<element name="Time">
-				<translation language="French">Temps de jeu :</translation>
+				<translation language="French">Temps de jeu :</translation>
 			</element>
 			<element name="TimeRemaining">
 				<translation language="French">Temps restant : %1s:%1s</translation>

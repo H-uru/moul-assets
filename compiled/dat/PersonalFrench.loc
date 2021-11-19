@@ -3,10 +3,10 @@
 	<age name="Personal">
 		<set name="Bookshelf">
 			<element name="DeleteBook">
-				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer ce Livre et ainsi annuler votre progression dans cet Âge ?</translation>
+				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer ce Livre et ainsi annuler votre progression dans cet Âge ?</translation>
 			</element>
 			<element name="DeleteNeighborhoodBook">
-				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer ce Livre et ainsi perdre votre inscription dans ce quartier ?</translation>
+				<translation language="French">Êtes-vous sûr(e) de vouloir supprimer ce Livre et ainsi perdre votre inscription dans ce quartier ?</translation>
 			</element>
 		</set>
 		<set name="Journals">
@@ -71,7 +71,7 @@
 
 <font size=22>Lorsqu'on prend tout à quelqu'un, le seul espoir qui lui reste est ce qu'un autre peut lui donner. Grâce à cette offrande, les deux sont rachetés.
 
-<font size=18>Regeltavok Oorpah - Livre 2, Entrée 1 071, Ligne 54
+<font size=18>Regeltavok Oorpah - Livre 2, Entrée 1071, Ligne 54
 
 
 <img src="xDniEIGHT*1#0.hsm" align=center blend=alpha resize=no>

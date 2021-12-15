@@ -12,7 +12,39 @@
 
         "Icon_UTorso_Shirt_GayZero.png",
         "MTorso_xSleeve_GayZero_Base.png",
-        "MTorso_xSleeve_GayZero_Tint.png"
+        "MTorso_xSleeve_GayZero_Tint.png",
+        
+        "Icon_UTorso_Shirt_CvrnTr.png",
+        "MTorso_xSleeve_CvrnTr_Base.png",
+        "MTorso_xSleeve_CvrnTr_Tint.png",
+	
+        "Icon_MLegs_Cargo5.png",
+        "MLegs_Cargo05_Tint1.png",
+        "MLegs_Cargo05_Tint2.png",
+        
+        "FLegs_Shorts05_Tint1.png",
+        "FLegs_Shorts05_Tint2.png",
+        
+        "Icon_UTorso_Shirt_PodReward.png",
+        "MTorso_HoodSweatRewardPodMaze_Base.png",
+        "MTorso_HoodSweatRewardPodMaze_Tint1.png",
+        
+        "Icon_UTorso_Fleece_GardenSpiralReward.png",
+        "MTorso_Fleece-GardenSpiralReward-base.png",
+        "MTorso_Fleece-GardenSpiralReward-tint1.png",
+        "MTorso_Fleece-GardenSpiralReward-tint2.png",
+        "MTorso_FleeceBlueFlowerArm_base.png",
+        
+        "Icon_UTorso_Vest_ShellReward.png",
+        "MTorso_ShellVest_base.png",
+        
+        "Icon_U_NoPrint.png",
+        "MTorso_PlainVest_base.png",
+        "MTorso_PlainVest_tint2.png",
+        
+        "Icon_UTorso_LeatherJacket_Minkata.png",
+        "UTorso_LeatherJacketMinkata_Tint1.png",
+        "UTorso_LeatherJacketMinkataArm_tint1.png"
       ],
       "clItems": [
         {
@@ -25,9 +57,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve; nonStandard",
           "text": "Short Sleeve T-Shirt - Mysterium 2021",
           "meshes": [
-            "MHTorso08_SMsh",
-            "MMTorso_SMsh",
-            "MLTorso_SMsh"
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
           ],
           "elements": [
             {
@@ -87,9 +128,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
           "text": "Short Sleeve T-Shirt - GZ Pride",
           "meshes": [
-            "MHTorso08_SMsh",
-            "MMTorso_SMsh",
-            "MLTorso_SMsh"
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
           ],
           "elements": [
             {
@@ -138,6 +188,280 @@
               }
             }
           ]
+        },
+        {
+          "name": "MTorso_ShortSleeve_CvrnTrT",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_CvrnTr.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Cavern Tour",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_CvrnTr_Base.png",
+                "8": "MTorso_xSleeve_CvrnTr_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MLegs_CargoPants_TwoToned",
+          "type": "pants",
+          "group": "Male",
+          "icon": "Icon_MLegs_Cargo5.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Left Side; ColorLabel2=Right Side; isLogoFor=03_MLegs02_01; GroupName=CargoPants",
+          "text": "Cargo Pants",
+          "meshes": [
+            "MHLegs02_SMsh",
+            "MMLegs02_SMsh",
+            "MLLegs02_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Legs",
+              "layers": {
+                "0": "mlegs_cargo01_base*0#0.hsm",
+                "8": "MLegs_Cargo05_Tint1.png",
+                "9": "MLegs_Cargo05_Tint2.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MLegs_CargoShorts_TwoToned",
+          "type": "pants",
+          "group": "Male",
+          "icon": "Icon_MLegs_Cargo5.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Left Side; ColorLabel2=Right Side; isLogoFor=02_MLegs03_01; GroupName=CargoShorts",
+          "text": "Cargo Shorts",
+          "meshes": [
+            "MHLegs03_SMsh",
+            "MMLegs03_SMsh",
+            "MLLegs03_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Legs",
+              "layers": {
+                "0": "flegs_shorts02_base*0#0.hsm",
+                "1": "mlegs_shorts01_skin*0#0.hsm",
+                "8": "FLegs_Shorts05_Tint1.png",
+                "9": "FLegs_Shorts05_Tint2.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_SweatshirtPod",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_PodReward.png",
+          "tint1": [0.7882, 0.4314, 0.0392],
+          "tint2": [0.7882, 0.4314, 0.0392],
+          "desc": "ColorLabel1= Sweatshirt ; ColorLabel2=; isLogoFor=03_MSweatshirt_Blank; GroupName=Hooded; nonStandard",
+          "text": "Hooded Sweatshirt - Pod Reward",
+          "meshes": [
+            {
+                "name": "MH_Sweatshirt_SMsh",
+                "page": "Male02"
+            },
+            {
+                "name": "MMTorso12_SMsh",
+                "page": "Male02"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male02"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_HoodSweatRewardPodMaze_Base.png",
+                "8": "MTorso_HoodSweatRewardPodMaze_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
+                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_FleeceSpiral",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Fleece_GardenSpiralReward.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Pullover ; ColorLabel2= Spiral ; isLogoFor=02_MTorso06_01; GroupName=Fleece; nonStandard",
+          "text": "Door Runner's Fleece Jacket",
+          "meshes": [
+            "MHTorso06_SMsh",
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_Fleece-GardenSpiralReward-base.png",
+                "8": "MTorso_Fleece-GardenSpiralReward-tint1.png",
+                "9": "MTorso_Fleece-GardenSpiralReward-tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "MTorso_FleeceBlueFlowerArm_base.png",
+                "8": "mtorso_fleece01arm_tint1*0#0.hsm",
+                "9": "mtorso_fleece01arm_tint2*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_VestShell",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Vest_ShellReward.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Shirt ; ColorLabel2= ; isLogoFor=MReward_DRCVest; GroupName=DRCVest; nonStandard",
+          "text": "Vest - Path of the Shell Reward",
+          "meshes": [
+            "MHTorsoDRCVest_SMsh",
+            "MMTorsoDRCVest_SMsh",
+            "MLTorsoDRCVest_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShellVest_base.png",
+                "8": "mtorso_drcvest_tint1*0#0.hsm"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_dressarm_skin*0#0.hsm",
+                "8": "mtorso_drcvestarm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_VestPlain",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_U_NoPrint.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Shirt ; ColorLabel2= Vest; isLogoFor=MReward_DRCVest; GroupName=DRCVest; nonStandard",
+          "text": "Plain Vest",
+          "meshes": [
+            "MHTorsoDRCVest_SMsh",
+            "MMTorsoDRCVest_SMsh",
+            "MLTorsoDRCVest_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_PlainVest_base.png",
+                "8": "mtorso_drcvest_tint1*0#0.hsm",
+                "9": "MTorso_PlainVest_tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_dressarm_skin*0#0.hsm",
+                "8": "mtorso_drcvestarm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_LJacketMinkata",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_LeatherJacket_Minkata.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Jacket ; ColorLabel2= V-Neck; isLogoFor=03_MTorso01_01; GroupName=Jacket; nonStandard",
+          "text": "Leather Jacket - Minkata Reward",
+          "meshes": [
+            {
+                "name": "MHTorso01_SMsh",
+                "page": "Male02"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male02"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male02"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "utorso_leatherjacket01_base*0#0.hsm",
+                "8": "UTorso_LeatherJacketMinkata_Tint1.png",
+                "9": "utorso_leatherjacket01_tint2*0#0.hsm"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "UTorso_LeatherJacketMinkataArm_tint1.png"
+              }
+            }
+          ]
         }
       ]
     },
@@ -153,7 +477,39 @@
 
         "Icon_UTorso_Shirt_GayZero.png",
         "FTorso_xSleeve_GayZero_Base.png",
-        "FTorso_xSleeve_GayZero_Tint.png"
+        "FTorso_xSleeve_GayZero_Tint.png",
+        
+        "Icon_UTorso_Shirt_CvrnTr.png",
+        "FTorso_xSleeve_CvrnTr_Base.png",
+        "FTorso_xSleeve_CvrnTr_Tint.png",
+	
+        "Icon_MLegs_Cargo5.png",
+        "MLegs_Cargo05_Tint1.png",
+        "MLegs_Cargo05_Tint2.png",
+        
+        "FLegs_Shorts05_Tint1.png",
+        "FLegs_Shorts05_Tint2.png",
+        
+        "Icon_UTorso_Shirt_PodReward.png",
+        "ftorso_sweaterRewardPodMaze_base.png",
+        "ftorso_sweaterRewardPodMaze_tint1.png",
+        
+        "Icon_UTorso_Fleece_GardenSpiralReward.png",
+        "MTorso_Fleece-GardenSpiralReward-base.png",
+        "MTorso_Fleece-GardenSpiralReward-tint1.png",
+        "MTorso_Fleece-GardenSpiralReward-tint2.png",
+        "MTorso_FleeceBlueFlowerArm_base.png",
+        
+        "Icon_UTorso_Vest_ShellReward.png",
+        "FTorso_ShellVest_base.png",
+        
+        "Icon_U_NoPrint.png",
+        "FTorso_PlainVest_base.png",
+        "FTorso_PlainVest_Tint2.png",
+        
+        "Icon_UTorso_LeatherJacket_Minkata.png",
+        "UTorso_LeatherJacketMinkata_Tint1.png",
+        "UTorso_LeatherJacketMinkataArm_tint1.png"
       ],
       "clItems": [
         {
@@ -166,9 +522,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve; nonStandard",
           "text": "Short Sleeve T-Shirt - Mysterium 2021",
           "meshes": [
-            "FHTorso12_SMsh",
-            "FMTorso12_SMsh",
-            "FLTorso12_SMsh"
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
           ],
           "elements": [
             {
@@ -227,9 +592,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
           "text": "Short Sleeve T-Shirt - GZ Pride",
           "meshes": [
-            "FHTorso12_SMsh",
-            "FMTorso12_SMsh",
-            "FLTorso12_SMsh"
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
           ],
           "elements": [
             {
@@ -274,6 +648,279 @@
               "name": "Arm",
               "layers": {
                 "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_ShortSleeve_CvrnTrT",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_CvrnTr.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Cavern Tour",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_CvrnTr_Base.png",
+                "8": "FTorso_xSleeve_CvrnTr_Tint.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FLegs_CargoPants_TwoToned",
+          "type": "pants",
+          "group": "Female",
+          "icon": "Icon_MLegs_Cargo5.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Left Side; ColorLabel2=Right Side; isLogoFor=03_FLegs02_01; GroupName=CargoPants",
+          "text": "Cargo Pants",
+          "meshes": [
+            "FHLegs02_SMsh",
+            {
+                "name": "FMLegs_SMsh",
+                "page": "Female02"
+            },
+            {
+                "name": "FLLegs_SMsh",
+                "page": "Female02"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Legs",
+              "layers": {
+                "0": "mlegs_cargo01_base*0#0.hsm",
+                "8": "MLegs_Cargo05_Tint1.png",
+                "9": "MLegs_Cargo05_Tint2.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FLegs_CargoShorts_TwoToned",
+          "type": "pants",
+          "group": "Female",
+          "icon": "Icon_MLegs_Cargo5.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Left Side; ColorLabel2=Right Side; isLogoFor=02_FLegs04_01; GroupName=CargoShorts",
+          "text": "Cargo Shorts",
+          "meshes": [
+            {
+                "name": "FHLegs04_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMLegs04_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLLegs_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Legs",
+              "layers": {
+                "0": "flegs_shorts02_base*0#0.hsm",
+                "1": "flegsshorts02_skin*0#0.hsm",
+                "8": "FLegs_Shorts05_Tint1.png",
+                "9": "FLegs_Shorts05_Tint2.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_SweatshirtPod",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_PodReward.png",
+          "tint1": [0.7882, 0.4314, 0.0392],
+          "tint2": [0.7882, 0.4314, 0.0392],
+          "desc": "ColorLabel1= Sweatshirt ; ColorLabel2=; isLogoFor=FTorso_Sweatshirt_Blank; GroupName=Hooded; nonStandard",
+          "text": "Hooded Sweatshirt - Pod Reward",
+          "meshes": [
+            "FHTorso16_SMsh",
+            "FMTorso16_SMsh",
+            "FLTorso16_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "ftorso_sweaterRewardPodMaze_base.png",
+                "8": "ftorso_sweaterRewardPodMaze_tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
+                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_FleeceSpiral",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Fleece_GardenSpiralReward.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Pullover ; ColorLabel2= Spiral ; isLogoFor=03_FTorso06_01; GroupName=Fleece; nonStandard",
+          "text": "Door Runner's Fleece Jacket",
+          "meshes": [
+            "FHTorso06_SMsh",
+            "FMTorso06_SMsh",
+            "FLTorso06_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_Fleece-GardenSpiralReward-base.png",
+                "8": "MTorso_Fleece-GardenSpiralReward-tint1.png",
+                "9": "MTorso_Fleece-GardenSpiralReward-tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "MTorso_FleeceBlueFlowerArm_base.png",
+                "8": "mtorso_fleece01arm_tint1*0#0.hsm",
+                "9": "mtorso_fleece01arm_tint2*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_VestShell",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Vest_ShellReward.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Shirt ; ColorLabel2= ; isLogoFor=FReward_DRCVest; GroupName=DRCVest; nonStandard",
+          "text": "Vest - Path of the Shell Reward",
+          "meshes": [
+            "FHTorsoDRCVest_SMsh",
+            "FMTorsoDRCVest_SMsh",
+            "FLTorsoDRCVest_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShellVest_base.png",
+                "8": "ftorso_drcvest_tint1*0#0.hsm"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_dressarm_skin*0#0.hsm",
+                "8": "mtorso_drcvestarm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_VestPlain",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_U_NoPrint.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Shirt ; ColorLabel2= Vest; isLogoFor=FReward_DRCVest; GroupName=DRCVest; nonStandard",
+          "text": "Plain Vest",
+          "meshes": [
+            "FHTorsoDRCVest_SMsh",
+            "FMTorsoDRCVest_SMsh",
+            "FLTorsoDRCVest_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_PlainVest_base.png",
+                "8": "ftorso_drcvest_tint1*0#0.hsm",
+                "9": "FTorso_PlainVest_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_dressarm_skin*0#0.hsm",
+                "8": "mtorso_drcvestarm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_LJacketMinkata",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_LeatherJacket_Minkata.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Jacket ; ColorLabel2= V-Neck; isLogoFor=03_FTorso01_01; GroupName=LeatherJacket01; nonStandard",
+          "text": "Leather Jacket - Minkata Reward",
+          "meshes": [
+            {
+                "name": "FHTorso01_SMsh",
+                "page": "Female02"
+            },
+            {
+                "name": "FMTorso01_SMsh",
+                "page": "Female02"
+            },
+            {
+                "name": "FLTorso_SMsh",
+                "page": "Female02"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "utorso_leatherjacket01_base*0#0.hsm",
+                "8": "UTorso_LeatherJacketMinkata_Tint1.png",
+                "9": "utorso_leatherjacket01_tint2*0#0.hsm"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "UTorso_LeatherJacketMinkataArm_tint1.png"
               }
             }
           ]

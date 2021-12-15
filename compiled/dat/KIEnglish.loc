@@ -1109,6 +1109,9 @@ Would you like to play?</translation>
 			<element name="LogDumpSuccess">
 				<translation language="English">Logs dumped to "%1s"</translation>
 			</element>
+			<element name="NewClothing">
+				<translation language="English">%1s added to your wardrobe.</translation>
+			</element>
 			<element name="NexusLinkAdded">
 				<translation language="English">A link has been added to your Nexus</translation>
 			</element>

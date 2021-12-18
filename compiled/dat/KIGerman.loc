@@ -175,6 +175,9 @@
 			<element name="ChatAllAge">
 				<translation language="German">/schreien</translation>
 			</element>
+			<element name="ChatAge">
+				<translation language="German">/welt</translation>
+			</element>
 			<element name="ChatBuddies">
 				<translation language="German">/freunde</translation>
 			</element>

@@ -175,6 +175,9 @@
 			<element name="ChatAllAge">
 				<translation language="French">/crier</translation>
 			</element>
+			<element name="ChatAge">
+				<translation language="French">/âge</translation>
+			</element>
 			<element name="ChatBuddies">
 				<translation language="French">/amis</translation>
 			</element>

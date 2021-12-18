@@ -169,6 +169,9 @@
 			<element name="ChatAllAge">
 				<translation language="Italian">/shout</translation>
 			</element>
+			<element name="ChatAge">
+				<translation language="Italian">/età</translation>
+			</element>
 			<element name="ChatBuddies">
 				<translation language="Italian">/buddies</translation>
 			</element>

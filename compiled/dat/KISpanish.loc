@@ -169,6 +169,9 @@
 			<element name="ChatAllAge">
 				<translation language="Spanish">/grito</translation>
 			</element>
+			<element name="ChatAge">
+				<translation language="Spanish">/era</translation>
+			</element>
 			<element name="ChatBuddies">
 				<translation language="Spanish">/amigos</translation>
 			</element>

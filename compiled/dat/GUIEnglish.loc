@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localizations>
-	<age name="GUI">
+    <age name="GUI">
         <set name="Dialog04b">
-			<element name="CreateExplorer">
-				<translation language="English">CREATE EXPLORER</translation>
-			</element>
-		</set>
-		<set name="Dialog04d">
-			<element name="InvalidName">
-				<translation language="English">Error: invalid Name. Please enter another.</translation>
-			</element>
-			<element name="ErrorName">
-				<translation language="English">Error: you must enter a Name.</translation>
-			</element>
-			<element name="ErrorGender">
-				<translation language="English">Error: you must select a gender.</translation>
-			</element>
-			<element name="ErrorPath">
-				<translation language="English">Error: you must choose a Path.</translation>
-			</element>
-			<element name="InvalidCharacters">
-				<translation language="English">Warning: you entered invalid characters in your player name.  The invalid characters have been removed, please make sure your player name is still what you want.</translation>
-			</element>
-			<element name="IncorrectFormatting">
-				<translation language="English">Warning: your player name has some incorrect formatting.  The formatting has been corrected, please make sure your player name is still what you want.</translation>
-			</element>
+            <element name="CreateExplorer">
+                <translation language="English">CREATE EXPLORER</translation>
+            </element>
+        </set>
+        <set name="Dialog04d">
+            <element name="InvalidName">
+                <translation language="English">Error: Invalid Name. Please enter another.</translation>
+            </element>
+            <element name="ErrorName">
+                <translation language="English">Error: You must enter a Name.</translation>
+            </element>
+            <element name="ErrorGender">
+                <translation language="English">Error: You must select a gender.</translation>
+            </element>
+            <element name="ErrorPath">
+                <translation language="English">Error: You must select a Path.</translation>
+            </element>
+            <element name="InvalidCharacters">
+                <translation language="English">Warning: You entered invalid characters in your player name. The invalid characters have been removed. Please make sure your player name is still what you want.</translation>
+            </element>
+            <element name="IncorrectFormatting">
+                <translation language="English">Warning: Your player name has some incorrect formatting. The formatting has been corrected. Please make sure your player name is still what you want.</translation>
+            </element>
             <element name="NameAlreadyExists">
-				<translation language="English">Error: this player name already exists.</translation>
-			</element>
+                <translation language="English">Error: This player name already exists.</translation>
+            </element>
             <element name="IllegalName">
-				<translation language="English">Invalid name. The name chosen is either reserved, illegal, or shorter than three characters.</translation>
-			</element>
+                <translation language="English">Invalid name. The name chosen is either reserved, illegal, or shorter than three characters.</translation>
+            </element>
             <element name="NetworkError">
-				<translation language="English">There has been a Network error. Please try again. If problem persists, please contact support.</translation>
-			</element>
-		</set>
-		<set name="Dialog06">
-			<element name="Back">
-				<translation language="English">Back</translation>
-			</element>
-			<element name="Cleft">
-				<translation language="English">New Explorer - Cleft</translation>
-			</element>
-			<element name="EnterInviteCode">
-				<translation language="English">Choose your Path</translation>
-			</element>
-			<element name="Name">
-				<translation language="English">Explorer Name:</translation>
-			</element>
-			<element name="Explore">
-				<translation language="English">Explore URU</translation>
-			</element>
-			<element name="Female">
-				<translation language="English">Female</translation>
-			</element>
-			<element name="Male">
-				<translation language="English">Male</translation>
-			</element>
-			<element name="Quit">
-				<translation language="English">Quit</translation>
-			</element>
-			<element name="Relto">
-				<translation language="English">Returning Explorer - Relto</translation>
-			</element>
-		</set>
-	</age>
+                <translation language="English">There has been a Network error. Please try again. If problem persists, please contact support.</translation>
+            </element>
+        </set>
+        <set name="Dialog06">
+            <element name="Back">
+                <translation language="English">Back</translation>
+            </element>
+            <element name="Cleft">
+                <translation language="English">New Explorer - Cleft</translation>
+            </element>
+            <element name="EnterInviteCode">
+                <translation language="English">Choose your Path</translation>
+            </element>
+            <element name="Name">
+                <translation language="English">Explorer Name:</translation>
+            </element>
+            <element name="Explore">
+                <translation language="English">Explore URU</translation>
+            </element>
+            <element name="Female">
+                <translation language="English">Female</translation>
+            </element>
+            <element name="Male">
+                <translation language="English">Male</translation>
+            </element>
+            <element name="Quit">
+                <translation language="English">Quit</translation>
+            </element>
+            <element name="Relto">
+                <translation language="English">Returning Explorer - Relto</translation>
+            </element>
+        </set>
+    </age>
 </localizations>

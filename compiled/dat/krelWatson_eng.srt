@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:08,200
+Dr. Watson: Hello? (tapping mic) Test, test. Victor, are we on? Ok. (clears throat) Ok, then.
+
+2
+00:00:09,600 --> 00:00:19,000
+Dr. Watson: Hello, everyone. Um, thanks to Victor we've gotten some additional D'ni technology working.
+
+3
+00:00:19,400 --> 00:00:28,600
+Dr. Watson: It should be quite useful in sending messages here from the Tokotah to the numerous neighborhoods as one more way to keep you informed of how things are progressing.

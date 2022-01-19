@@ -262,7 +262,10 @@
 			<element name="No">
 				<translation language="French">non</translation>
 			</element>
+			<element name="Ok">
+			</element>
 			<element name="Okay">
+				<translation language="French">daccord</translation>
 			</element>
 			<element name="OverHere">
 			</element>
@@ -295,10 +298,15 @@
 			<element name="Point">
 				<translation language="French">pointer</translation>
 			</element>
+			<element name="ROFL">
+			</element>
 			<element name="ROTFL">
 				<translation language="French">mdrept</translation>
 			</element>
 			<element name="RemoveBuddy">
+			</element>
+			<element name="Sad">
+				<translation language="French">triste</translation>
 			</element>
 			<element name="Salute">
 			</element>
@@ -467,7 +475,11 @@
 			<element name="No">
 				<translation language="French">%1s refuse de la tête</translation>
 			</element>
+			<element name="Ok">
+				<translation language="French">%1s dit ok</translation>
+			</element>
 			<element name="Okay">
+				<translation language="French">%1s dit d'accord</translation>
 			</element>
 			<element name="OverHere">
 			</element>
@@ -476,8 +488,14 @@
 			<element name="Point">
 				<translation language="French">%1s pointe du doigt</translation>
 			</element>
+			<element name="ROFL">
+				<translation language="French">%1s est mort de rire écroulé par terre</translation>
+			</element>
 			<element name="ROTFL">
 				<translation language="French">%1s est mort de rire écroulé par terre</translation>
+			</element>
+			<element name="Sad">
+				<translation language="French"><![CDATA[<snif> %1s est triste]]></translation>
 			</element>
 			<element name="Salute">
 			</element>

@@ -288,6 +288,9 @@
 			<element name="No">
 				<translation language="English">no</translation>
 			</element>
+			<element name="Ok">
+				<translation language="English">ok</translation>
+			</element>
 			<element name="Okay">
 				<translation language="English">okay</translation>
 			</element>
@@ -324,11 +327,17 @@
 			<element name="Point">
 				<translation language="English">point</translation>
 			</element>
+			<element name="ROFL">
+				<translation language="English">rofl</translation>
+			</element>
 			<element name="ROTFL">
 				<translation language="English">rotfl</translation>
 			</element>
 			<element name="RemoveBuddy">
 				<translation language="English">/removebuddy</translation>
+			</element>
+			<element name="Sad">
+				<translation language="English">sad</translation>
 			</element>
 			<element name="Salute">
 				<translation language="English">salute</translation>
@@ -535,6 +544,9 @@
 			<element name="No">
 				<translation language="English">%1s shakes %2s head</translation>
 			</element>
+			<element name="Ok">
+				<translation language="English">%1s says ok</translation>
+			</element>
 			<element name="Okay">
 				<translation language="English">%1s says okay</translation>
 			</element>
@@ -547,8 +559,14 @@
 			<element name="Point">
 				<translation language="English">%1s points</translation>
 			</element>
+			<element name="ROFL">
+				<translation language="English">%1s roars with laughter</translation>
+			</element>
 			<element name="ROTFL">
 				<translation language="English">%1s roars with laughter</translation>
+			</element>
+			<element name="Sad">
+				<translation language="English"><![CDATA[<sniffle> %1s is sad]]></translation>
 			</element>
 			<element name="Salute">
 				<translation language="English">%1s salutes</translation>
@@ -575,7 +593,7 @@
 				<translation language="English">%1s says stop!</translation>
 			</element>
 			<element name="TalkHand">
-				<translation language="English">%1s says, "talk to the hand..."</translation>
+				<translation language="English">%1s says, "Talk to the hand..."</translation>
 			</element>
 			<element name="TapFoot">
 				<translation language="English">%1s taps %2s foot</translation>
@@ -587,7 +605,7 @@
 				<translation language="English">%1s thanks you very much!</translation>
 			</element>
 			<element name="ThumbsDown">
-				<translation language="English">thumbs down from %1s </translation>
+				<translation language="English">Thumbs down from %1s </translation>
 			</element>
 			<element name="ThumbsDown2">
 				<translation language="English">BIG thumbs down from %1s</translation>

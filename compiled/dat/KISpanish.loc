@@ -256,7 +256,10 @@
 			<element name="No">
 				<translation language="Spanish">no</translation>
 			</element>
+			<element name="Ok">
+			</element>
 			<element name="Okay">
+				<translation language="Spanish">bien</translation>
 			</element>
 			<element name="OverHere">
 			</element>
@@ -289,10 +292,15 @@
 			<element name="Point">
 				<translation language="Spanish">apuntar</translation>
 			</element>
+			<element name="ROFL">
+			</element>
 			<element name="ROTFL">
 				<translation language="Spanish">desternillarse</translation>
 			</element>
 			<element name="RemoveBuddy">
+			</element>
+			<element name="Sad">
+				<translation language="Spanish">triste</translation>
 			</element>
 			<element name="Salute">
 			</element>
@@ -457,7 +465,11 @@
 			<element name="No">
 				<translation language="Spanish">%1s niega con la cabeza</translation>
 			</element>
+			<element name="Ok">
+				<translation language="Spanish">%1s dice ok</translation>
+			</element>
 			<element name="Okay">
+				<translation language="Spanish">%1s dice bien</translation>
 			</element>
 			<element name="OverHere">
 			</element>
@@ -466,8 +478,14 @@
 			<element name="Point">
 				<translation language="Spanish">%1s apunta</translation>
 			</element>
+			<element name="ROFL">
+				<translation language="Spanish">%1s se desternilla</translation>
+			</element>
 			<element name="ROTFL">
 				<translation language="Spanish">%1s se desternilla</translation>
+			</element>
+			<element name="Sad">
+				<translation language="Spanish"><![CDATA[<sollozo> %1s está triste]]></translation>
 			</element>
 			<element name="Salute">
 			</element>

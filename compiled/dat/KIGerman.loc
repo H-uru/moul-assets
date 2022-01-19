@@ -217,7 +217,7 @@
 			<element name="CrossArms">
 			</element>
 			<element name="Cry">
-				<translation language="German">traurig</translation>
+				<translation language="German">schluchzen</translation>
 			</element>
 			<element name="Dance">
 				<translation language="German">tanzen</translation>
@@ -262,7 +262,11 @@
 			<element name="No">
 				<translation language="German">nein</translation>
 			</element>
+			<element name="Ok">
+				<translation language="German">ok</translation>
+			</element>
 			<element name="Okay">
+				<translation language="German">gut</translation>
 			</element>
 			<element name="OverHere">
 			</element>
@@ -295,10 +299,16 @@
 			<element name="Point">
 				<translation language="German">punkte</translation>
 			</element>
+			<element name="ROFL">
+				<translation language="German">rofl</translation>
+			</element>
 			<element name="ROTFL">
 				<translation language="German">rotfl</translation>
 			</element>
 			<element name="RemoveBuddy">
+			</element>
+			<element name="Sad">
+				<translation language="German">traurig</translation>
 			</element>
 			<element name="Salute">
 			</element>
@@ -467,7 +477,11 @@
 			<element name="No">
 				<translation language="German">%1s schüttelt den Kopf</translation>
 			</element>
+			<element name="Ok">
+				<translation language="German">%1s sagt ok</translation>
+			</element>
 			<element name="Okay">
+				<translation language="German">%1s sagt gut</translation>
 			</element>
 			<element name="OverHere">
 			</element>
@@ -476,8 +490,14 @@
 			<element name="Point">
 				<translation language="German">%1s points</translation>
 			</element>
+			<element name="ROFL">
+				<translation language="German">%1s lacht schallend</translation>
+			</element>
 			<element name="ROTFL">
 				<translation language="German">%1s lacht schallend</translation>
+			</element>
+			<element name="Sad">
+				<translation language="German"><![CDATA[<schnüff> %1s ist traurig]]></translation>
 			</element>
 			<element name="Salute">
 			</element>

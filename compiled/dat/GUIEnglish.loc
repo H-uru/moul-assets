@@ -34,6 +34,18 @@
             <element name="NetworkError">
                 <translation language="English">There has been a Network error. Please try again. If problem persists, please contact support.</translation>
             </element>
+            <element name="CleftHelp">
+                <translation language="English">You start in the desert near a dormant volcano.
+URU Live MMO (2003)
+
+For new players who have not played before.</translation>
+            </element>
+            <element name="ReltoHelp">
+                <translation language="English">You start on your personal Relto island.
+Myst Online: Uru Live (2007)
+
+For returning players familiar with URU.</translation>
+            </element>
         </set>
         <set name="Dialog06">
             <element name="Back">

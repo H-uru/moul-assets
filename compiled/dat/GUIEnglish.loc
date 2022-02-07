@@ -76,5 +76,29 @@ For returning players familiar with URU.</translation>
                 <translation language="English">Returning Explorer - Relto</translation>
             </element>
         </set>
+        <set name="OrientationGUI">
+            <element name="OrientChatText">
+                <translation language="English">Type messages to other players nearby.</translation>
+            </element>
+            <element name="OrientContinueTB">
+                <translation language="English">Continue</translation>
+            </element>
+            <element name="OrientPBText">
+                <translation language="English">Your URU experience begins here in Relto, your personal home "Age". Use this book to return to Relto at any time.</translation>
+            </element>
+            <element name="OrientQuitText">
+                <translation language="English">Logout or Quit URU.</translation>
+            </element>
+            <element name="OrientSettingsText">
+                <translation language="English">Adjust Game Settings.</translation>
+            </element>
+            <element name="OrientTitleTB">
+                <translation language="English">Welcome to URU</translation>
+            </element>
+            <element name="OrientPBTextZandi">
+                <translation language="English">
+Explore the desert. Approach Zandi and he will explain the rest.</translation>
+            </element>
+        </set>    
     </age>
 </localizations>

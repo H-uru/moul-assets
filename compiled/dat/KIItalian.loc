@@ -173,13 +173,13 @@
 				<translation language="Italian">/età</translation>
 			</element>
 			<element name="ChatBuddies">
-				<translation language="Italian">/buddies</translation>
+				<translation language="Italian">/amici</translation>
 			</element>
 			<element name="ChatClearAll">
 				<translation language="Italian">/clearchat</translation>
 			</element>
 			<element name="ChatNeighbors">
-				<translation language="Italian">/neighbors</translation>
+				<translation language="Italian">/vicini</translation>
 			</element>
 			<element name="ChatPrivate">
 				<translation language="Italian">/p</translation>
@@ -256,7 +256,10 @@
 			<element name="No">
 				<translation language="Italian">no</translation>
 			</element>
+			<element name="Ok">
+			</element>
 			<element name="Okay">
+				<translation language="Italian">bene</translation>
 			</element>
 			<element name="OverHere">
 			</element>
@@ -289,10 +292,16 @@
 			<element name="Point">
 				<translation language="Italian">indica</translation>
 			</element>
+			<element name="ROFL">
+				<translation language="Italian">rofl</translation>
+			</element>
 			<element name="ROTFL">
 				<translation language="Italian">rotfl</translation>
 			</element>
 			<element name="RemoveBuddy">
+			</element>
+			<element name="Sad">
+				<translation language="Italian">triste</translation>
 			</element>
 			<element name="Salute">
 			</element>
@@ -457,7 +466,11 @@
 			<element name="No">
 				<translation language="Italian">%1s scuote la testa</translation>
 			</element>
+			<element name="Ok">
+				<translation language="Italian">%1s dice ok</translation>
+			</element>
 			<element name="Okay">
+				<translation language="Italian">%1s dice bene</translation>
 			</element>
 			<element name="OverHere">
 			</element>
@@ -466,8 +479,14 @@
 			<element name="Point">
 				<translation language="Italian">%1s indica</translation>
 			</element>
+			<element name="ROFL">
+				<translation language="Italian">%1s ride a crepapelle</translation>
+			</element>
 			<element name="ROTFL">
 				<translation language="Italian">%1s ride a crepapelle</translation>
+			</element>
+			<element name="Sad">
+				<translation language="Italian"><![CDATA[<sniff> %1s è triste]]></translation>
 			</element>
 			<element name="Salute">
 			</element>

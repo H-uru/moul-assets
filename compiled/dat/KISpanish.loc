@@ -166,11 +166,11 @@
 			</element>
 			<element name="ChangePassword">
 			</element>
-			<element name="ChatAllAge">
-				<translation language="Spanish">/grito</translation>
-			</element>
 			<element name="ChatAge">
 				<translation language="Spanish">/era</translation>
+			</element>
+			<element name="ChatAllAge">
+				<translation language="Spanish">/grito</translation>
 			</element>
 			<element name="ChatBuddies">
 				<translation language="Spanish">/amigos</translation>
@@ -951,6 +951,8 @@ Firmado,
 			<element name="LogDumpFailed">
 			</element>
 			<element name="LogDumpSuccess">
+			</element>
+			<element name="NewClothing">
 			</element>
 			<element name="NexusLinkAdded">
 			</element>

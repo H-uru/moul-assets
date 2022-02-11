@@ -183,11 +183,11 @@
 			<element name="ChangePassword">
 				<translation language="English">/changepassword</translation>
 			</element>
-			<element name="ChatAllAge">
-				<translation language="English">/shout</translation>
-			</element>
 			<element name="ChatAge">
 				<translation language="English">/age</translation>
+			</element>
+			<element name="ChatAllAge">
+				<translation language="English">/shout</translation>
 			</element>
 			<element name="ChatBuddies">
 				<translation language="English">/buddies</translation>

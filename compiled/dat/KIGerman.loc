@@ -172,11 +172,11 @@
 			</element>
 			<element name="ChangePassword">
 			</element>
-			<element name="ChatAllAge">
-				<translation language="German">/schreien</translation>
-			</element>
 			<element name="ChatAge">
 				<translation language="German">/welt</translation>
+			</element>
+			<element name="ChatAllAge">
+				<translation language="German">/schreien</translation>
 			</element>
 			<element name="ChatBuddies">
 				<translation language="German">/freunde</translation>
@@ -1024,6 +1024,8 @@ Wollen Sie mitspielen?</translation>
 			<element name="LogDumpFailed">
 			</element>
 			<element name="LogDumpSuccess">
+			</element>
+			<element name="NewClothing">
 			</element>
 			<element name="NexusLinkAdded">
 				<translation language="German">Ein link wurde zu ihrer KI zugeführt.</translation>

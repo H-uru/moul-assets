@@ -166,11 +166,11 @@
 			</element>
 			<element name="ChangePassword">
 			</element>
-			<element name="ChatAllAge">
-				<translation language="Italian">/shout</translation>
-			</element>
 			<element name="ChatAge">
 				<translation language="Italian">/età</translation>
+			</element>
+			<element name="ChatAllAge">
+				<translation language="Italian">/shout</translation>
 			</element>
 			<element name="ChatBuddies">
 				<translation language="Italian">/amici</translation>
@@ -952,6 +952,8 @@ Vuoi giocare?</translation>
 			<element name="LogDumpFailed">
 			</element>
 			<element name="LogDumpSuccess">
+			</element>
+			<element name="NewClothing">
 			</element>
 			<element name="NexusLinkAdded">
 			</element>

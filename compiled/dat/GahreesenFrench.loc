@@ -249,5 +249,10 @@ RÉCUPÉRER VOTRE
 KI</translation>
 			</element>
 		</set>
+		<set name="Wall">
+			<element name="MatchDuration">
+				<translation language="French">Elapsed Time: %1s</translation>
+			</element>
+		</set>
 	</age>
 </localizations>

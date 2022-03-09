@@ -247,5 +247,10 @@ HOLEN SIE SICH
 IHRE KI</translation>
 			</element>
 		</set>
+		<set name="Wall">
+			<element name="MatchDuration">
+				<translation language="German">Vergangene Zeit: %1s</translation>
+			</element>
+		</set>
 	</age>
 </localizations>

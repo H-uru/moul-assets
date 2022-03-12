@@ -204,6 +204,9 @@ PER FAVORE</translation>
 			<element name="MatchDuration">
 				<translation language="Italian">Tempo trascorso: %1s</translation>
 			</element>
+            <element name="Nexus">
+                <translation language="Italian">Manutentore Nexus</translation>
+            </element>
 		</set>
 	</age>
 </localizations>

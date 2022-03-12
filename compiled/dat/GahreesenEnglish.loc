@@ -248,6 +248,9 @@ KI</translation>
 			<element name="MatchDuration">
 				<translation language="English">Elapsed Time: %1s</translation>
 			</element>
+            <element name="Nexus">
+                <translation language="English">Maintainer Nexus</translation>
+            </element>
 		</set>
 	</age>
 </localizations>

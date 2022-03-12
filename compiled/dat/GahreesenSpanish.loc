@@ -206,6 +206,9 @@ KI</translation>
 			<element name="MatchDuration">
 				<translation language="Spanish">Tiempo transcurrido: %1s</translation>
 			</element>
+            <element name="Nexus">
+                <translation language="Spanish">Mantenedor Nexo</translation>
+            </element>
 		</set>
 	</age>
 </localizations>

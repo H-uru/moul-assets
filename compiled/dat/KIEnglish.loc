@@ -139,6 +139,12 @@
 			<element name="TOPrompt">
 				<translation language="English">TO:</translation>
 			</element>
+			<element name="TextColorSetDefault">
+				<translation language="English">Text color now set to default color(s).</translation>
+			</element>
+			<element name="TextColorSetValue">
+				<translation language="English">Text color now set to %1s.</translation>
+			</element>
 			<element name="WentOffline">
 				<translation language="English">(%1s is offline and cannot be reached for chatting.)</translation>
 			</element>
@@ -203,6 +209,12 @@
 			</element>
 			<element name="ChatReply">
 				<translation language="English">/reply</translation>
+			</element>
+			<element name="ChatSetTextColor">
+				<translation language="English">/textcolor</translation>
+			</element>
+			<element name="ChatSetTextColorDefaultArg">
+				<translation language="English">default</translation>
 			</element>
 			<element name="ChatStartLog">
 				<translation language="English">/startlog</translation>
@@ -716,6 +728,9 @@
 			<element name="LoggedInElsewhere">
 				<translation language="English">You have been disconnected because someone else is currently using your account.
 #02</translation>
+			</element>
+			<element name="MalformedChatSetTextColorCmd">
+				<translation language="English">You must specify a valid color name, a valid 3- or 6-character hexadecimal color, a triplet of decimal numbers between 0 and 1, or "default".</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 				<translation language="English">You must specify a folder to dump logs to</translation>

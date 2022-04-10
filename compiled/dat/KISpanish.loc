@@ -132,6 +132,10 @@
 			<element name="TOPrompt">
 				<translation language="Spanish">A:</translation>
 			</element>
+			<element name="TextColorSetDefault">
+			</element>
+			<element name="TextColorSetValue">
+			</element>
 			<element name="WentOffline">
 				<translation language="Spanish">(No puedo encontrar a "%1s" en ninguna de las listas de jugadores.)</translation>
 			</element>
@@ -186,6 +190,10 @@
 			</element>
 			<element name="ChatReply">
 				<translation language="Spanish">/responder</translation>
+			</element>
+			<element name="ChatSetTextColor">
+			</element>
+			<element name="ChatSetTextColorDefaultArg">
 			</element>
 			<element name="ChatStartLog">
 				<translation language="Spanish">/iniciar registro</translation>
@@ -586,6 +594,8 @@
 			<element name="LinkingRestored">
 			</element>
 			<element name="LoggedInElsewhere">
+			</element>
+			<element name="MalformedChatSetTextColorCmd">
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

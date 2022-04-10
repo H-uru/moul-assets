@@ -132,6 +132,10 @@
 			<element name="TOPrompt">
 				<translation language="Italian">A:</translation>
 			</element>
+			<element name="TextColorSetDefault">
+			</element>
+			<element name="TextColorSetValue">
+			</element>
 			<element name="WentOffline">
 				<translation language="Italian">(%1s è offline e non può essere raggiunto in chat.)</translation>
 			</element>
@@ -186,6 +190,10 @@
 			</element>
 			<element name="ChatReply">
 				<translation language="Italian">/reply</translation>
+			</element>
+			<element name="ChatSetTextColor">
+			</element>
+			<element name="ChatSetTextColorDefaultArg">
 			</element>
 			<element name="ChatStartLog">
 				<translation language="Italian">/startlog</translation>
@@ -587,6 +595,8 @@
 			<element name="LinkingRestored">
 			</element>
 			<element name="LoggedInElsewhere">
+			</element>
+			<element name="MalformedChatSetTextColorCmd">
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

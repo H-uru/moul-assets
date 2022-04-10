@@ -138,6 +138,10 @@
 			<element name="TOPrompt">
 				<translation language="French">À :</translation>
 			</element>
+			<element name="TextColorSetDefault">
+			</element>
+			<element name="TextColorSetValue">
+			</element>
 			<element name="WentOffline">
 				<translation language="French">(%1s est hors ligne. Conversation impossible.)</translation>
 			</element>
@@ -192,6 +196,10 @@
 			</element>
 			<element name="ChatReply">
 				<translation language="French">/répondre</translation>
+			</element>
+			<element name="ChatSetTextColor">
+			</element>
+			<element name="ChatSetTextColorDefaultArg">
 			</element>
 			<element name="ChatStartLog">
 				<translation language="French">/démarrerlog</translation>
@@ -626,6 +634,8 @@
 			<element name="LoggedInElsewhere">
 				<translation language="French">Vous avez été déconnecté(e) car quelqu'un d'autre utilise déjà votre compte.
 #02</translation>
+			</element>
+			<element name="MalformedChatSetTextColorCmd">
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

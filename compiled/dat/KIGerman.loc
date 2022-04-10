@@ -138,6 +138,10 @@
 			<element name="TOPrompt">
 				<translation language="German">AN:</translation>
 			</element>
+			<element name="TextColorSetDefault">
+			</element>
+			<element name="TextColorSetValue">
+			</element>
 			<element name="WentOffline">
 				<translation language="German">(%1s ist offline und nicht für einen Chat verfügbar.)</translation>
 			</element>
@@ -192,6 +196,10 @@
 			</element>
 			<element name="ChatReply">
 				<translation language="German">/antworten</translation>
+			</element>
+			<element name="ChatSetTextColor">
+			</element>
+			<element name="ChatSetTextColorDefaultArg">
 			</element>
 			<element name="ChatStartLog">
 				<translation language="German">/protokollan</translation>
@@ -628,6 +636,8 @@
 			<element name="LoggedInElsewhere">
 				<translation language="German">Ihre Verbindung wurde getrennt, da Ihr Konto bereits benutzt wird.
 #02</translation>
+			</element>
+			<element name="MalformedChatSetTextColorCmd">
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

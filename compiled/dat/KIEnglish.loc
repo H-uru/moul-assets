@@ -140,7 +140,7 @@
 				<translation language="English">TO:</translation>
 			</element>
 			<element name="TextColorSetDefault">
-				<translation language="English">Text color now set to default color(s).</translation>
+				<translation language="English">Text color reset to default color(s).</translation>
 			</element>
 			<element name="TextColorSetValue">
 				<translation language="English">Text color now set to %1s.</translation>
@@ -730,7 +730,7 @@
 #02</translation>
 			</element>
 			<element name="MalformedChatSetTextColorCmd">
-				<translation language="English">You must specify a valid color name, a valid 3- or 6-character hexadecimal color, a triplet of decimal numbers between 0 and 1, or "default".</translation>
+				<translation language="English">You must specify one of the following: a valid color name, a valid 3- or 6-character hexadecimal color, a set of three decimal numbers between 0 and 1, a set of three integers between 0 and 255, or "default".</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 				<translation language="English">You must specify a folder to dump logs to</translation>

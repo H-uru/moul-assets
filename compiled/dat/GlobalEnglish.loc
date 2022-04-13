@@ -48,6 +48,68 @@
 				<translation language="English">Tokotah Alley</translation>
 			</element>
 		</set>
+		<set name="Colors">
+			<element name="Black">
+				<translation language="English">black</translation>
+			</element>
+			<element name="Blue">
+				<translation language="English">blue</translation>
+			</element>
+			<element name="Brown">
+				<translation language="English">brown</translation>
+			</element>
+			<element name="Cyan">
+				<translation language="English">cyan</translation>
+			</element>
+			<element name="DarkBrown">
+				<translation language="English">darkbrown</translation>
+			</element>
+			<element name="DarkGreen">
+				<translation language="English">darkgreen</translation>
+			</element>
+			<element name="DarkPurple">
+				<translation language="English">darkpurple</translation>
+			</element>
+			<element name="Gray">
+				<translation language="English">gray</translation>
+			</element>
+			<element name="Green">
+				<translation language="English">green</translation>
+			</element>
+			<element name="Magenta">
+				<translation language="English">magenta</translation>
+			</element>
+			<element name="Maroon">
+				<translation language="English">maroon</translation>
+			</element>
+			<element name="NavyBlue">
+				<translation language="English">navyblue</translation>
+			</element>
+			<element name="Orange">
+				<translation language="English">orange</translation>
+			</element>
+			<element name="Pink">
+				<translation language="English">pink</translation>
+			</element>
+			<element name="Red">
+				<translation language="English">red</translation>
+			</element>
+			<element name="SlateBlue">
+				<translation language="English">slateblue</translation>
+			</element>
+			<element name="SteelBlue">
+				<translation language="English">steelblue</translation>
+			</element>
+			<element name="Tan">
+				<translation language="English">tan</translation>
+			</element>
+			<element name="White">
+				<translation language="English">white</translation>
+			</element>
+			<element name="Yellow">
+				<translation language="English">yellow</translation>
+			</element>
+		</set>
 		<set name="FolderNames">
 			<element name="AgeJournals">
 				<translation language="English">Folder of Age Journals</translation>

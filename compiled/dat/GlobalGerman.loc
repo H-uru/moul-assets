@@ -48,6 +48,68 @@
 				<translation language="German">Tokotah-Straße</translation>
 			</element>
 		</set>
+		<set name="Colors">
+			<element name="Black">
+				<translation language="German">schwarz</translation>
+			</element>
+			<element name="Blue">
+				<translation language="German">blau</translation>
+			</element>
+			<element name="Brown">
+				<translation language="German">braun</translation>
+			</element>
+			<element name="Cyan">
+				<translation language="German">zyan</translation>
+			</element>
+			<element name="DarkBrown">
+				<translation language="German">dunkelbraun</translation>
+			</element>
+			<element name="DarkGreen">
+				<translation language="German">dunkelgrün</translation>
+			</element>
+			<element name="DarkPurple">
+				<translation language="German">lila</translation>
+			</element>
+			<element name="Gray">
+				<translation language="German">grau</translation>
+			</element>
+			<element name="Green">
+				<translation language="German">grün</translation>
+			</element>
+			<element name="Magenta">
+				<translation language="German">magenta</translation>
+			</element>
+			<element name="Maroon">
+				<translation language="German">purpurrot</translation>
+			</element>
+			<element name="NavyBlue">
+				<translation language="German">dunkelblau</translation>
+			</element>
+			<element name="Orange">
+				<translation language="German">orange</translation>
+			</element>
+			<element name="Pink">
+				<translation language="German">rosa</translation>
+			</element>
+			<element name="Red">
+				<translation language="German">rot</translation>
+			</element>
+			<element name="SlateBlue">
+				<translation language="German">himmelsblau</translation>
+			</element>
+			<element name="SteelBlue">
+				<translation language="German">türkis</translation>
+			</element>
+			<element name="Tan">
+				<translation language="German">ocker</translation>
+			</element>
+			<element name="White">
+				<translation language="German">weiß</translation>
+			</element>
+			<element name="Yellow">
+				<translation language="German">gelb</translation>
+			</element>
+		</set>
 		<set name="FolderNames">
 			<element name="AgeJournals">
 				<translation language="German">Ordner der Welten-Journale</translation>

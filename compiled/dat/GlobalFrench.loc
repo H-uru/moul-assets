@@ -48,6 +48,68 @@
 				<translation language="French">Allée Tokotah</translation>
 			</element>
 		</set>
+		<set name="Colors">
+			<element name="Black">
+				<translation language="French">noir</translation>
+			</element>
+			<element name="Blue">
+				<translation language="French">bleu</translation>
+			</element>
+			<element name="Brown">
+				<translation language="French">marron</translation>
+			</element>
+			<element name="Cyan">
+				<translation language="French">cyan</translation>
+			</element>
+			<element name="DarkBrown">
+				<translation language="French">brunfoncé</translation>
+			</element>
+			<element name="DarkGreen">
+				<translation language="French">vertforêt</translation>
+			</element>
+			<element name="DarkPurple">
+				<translation language="French">violet</translation>
+			</element>
+			<element name="Gray">
+				<translation language="French">gris</translation>
+			</element>
+			<element name="Green">
+				<translation language="French">vert</translation>
+			</element>
+			<element name="Magenta">
+				<translation language="French">magenta</translation>
+			</element>
+			<element name="Maroon">
+				<translation language="French">pourpre</translation>
+			</element>
+			<element name="NavyBlue">
+				<translation language="French">bleumarin</translation>
+			</element>
+			<element name="Orange">
+				<translation language="French">orange</translation>
+			</element>
+			<element name="Pink">
+				<translation language="French">rose</translation>
+			</element>
+			<element name="Red">
+				<translation language="French">rouge</translation>
+			</element>
+			<element name="SlateBlue">
+				<translation language="French">bleuciel</translation>
+			</element>
+			<element name="SteelBlue">
+				<translation language="French">turquoise</translation>
+			</element>
+			<element name="Tan">
+				<translation language="French">beige</translation>
+			</element>
+			<element name="White">
+				<translation language="French">blanc</translation>
+			</element>
+			<element name="Yellow">
+				<translation language="French">jaune</translation>
+			</element>
+		</set>
 		<set name="FolderNames">
 			<element name="AgeJournals">
 				<translation language="French">Dossiers des journaux d'Âges</translation>

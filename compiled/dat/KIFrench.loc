@@ -139,7 +139,7 @@
 				<translation language="French">À :</translation>
 			</element>
 			<element name="TextColorSetDefault">
-				<translation language="French">Couleur du texte réinitialisée à la ou aux couleurs défaut.</translation>
+				<translation language="French">Texte réinitialisée à la ou aux couleurs défaut.</translation>
 			</element>
 			<element name="TextColorSetValue">
 				<translation language="French">Couleur du texte est définie à %1s.</translation>

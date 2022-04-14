@@ -133,8 +133,10 @@
 				<translation language="Italian">A:</translation>
 			</element>
 			<element name="TextColorSetDefault">
+				<translation language="Italian">Testo reimpostato al/ai colore/i predefinito/i.</translation>
 			</element>
 			<element name="TextColorSetValue">
+				<translation language="Italian">Colore del testo impostato a %1s.</translation>
 			</element>
 			<element name="WentOffline">
 				<translation language="Italian">(%1s è offline e non può essere raggiunto in chat.)</translation>
@@ -192,8 +194,10 @@
 				<translation language="Italian">/reply</translation>
 			</element>
 			<element name="ChatSetTextColor">
+				<translation language="Italian">/coloretesto</translation>
 			</element>
 			<element name="ChatSetTextColorDefaultArg">
+				<translation language="Italian">predefinito</translation>
 			</element>
 			<element name="ChatStartLog">
 				<translation language="Italian">/startlog</translation>
@@ -597,6 +601,7 @@
 			<element name="LoggedInElsewhere">
 			</element>
 			<element name="MalformedChatSetTextColorCmd">
+				<translation language="Italian">Devi specificare uno dei seguenti: un nome valido di colore, una sequenza esadecimale valida di 3 o 6 caratteri, un gruppo di tre numeri decimali tra 0 e 1, un gruppo di tre interi tra 0 e 255, o "predefinito".</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

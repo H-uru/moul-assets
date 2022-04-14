@@ -140,7 +140,7 @@
 				<translation language="English">TO:</translation>
 			</element>
 			<element name="TextColorSetDefault">
-				<translation language="English">Text color reset to default color(s).</translation>
+				<translation language="English">Text reset to default color(s).</translation>
 			</element>
 			<element name="TextColorSetValue">
 				<translation language="English">Text color now set to %1s.</translation>

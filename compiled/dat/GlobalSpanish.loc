@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localizations>
 	<age name="Global">
+		<set name="Colors">
+			<element name="Black">
+				<translation language="Spanish">negro</translation>
+			</element>
+			<element name="Blue">
+				<translation language="Spanish">azul</translation>
+			</element>
+			<element name="Brown">
+				<translation language="Spanish">marrón</translation>
+			</element>
+			<element name="Cyan">
+			</element>
+			<element name="DarkBrown">
+			</element>
+			<element name="DarkGreen">
+				<translation language="Spanish">verdeoscuro</translation>
+			</element>
+			<element name="DarkPurple">
+			</element>
+			<element name="Gray">
+				<translation language="Spanish">gris</translation>
+			</element>
+			<element name="Green">
+				<translation language="Spanish">verde</translation>
+			</element>
+			<element name="Magenta">
+				<translation language="Spanish">magenta</translation>
+			</element>
+			<element name="Maroon">
+			</element>
+			<element name="NavyBlue">
+			</element>
+			<element name="Orange">
+				<translation language="Spanish">naranja</translation>
+			</element>
+			<element name="Pink">
+				<translation language="Spanish">rosa</translation>
+			</element>
+			<element name="Red">
+				<translation language="Spanish">rojo</translation>
+			</element>
+			<element name="SlateBlue">
+			</element>
+			<element name="SteelBlue">
+			</element>
+			<element name="Tan">
+			</element>
+			<element name="White">
+				<translation language="Spanish">blanco</translation>
+			</element>
+			<element name="Yellow">
+				<translation language="Spanish">amarillo</translation>
+			</element>
+		</set>
 		<set name="FolderNames">
 			<element name="AgeJournals">
 				<translation language="Spanish">Carpeta de documentación de las Eras</translation>
@@ -58,60 +112,6 @@
 			</element>
 			<element name="UserDefined">
 				<translation language="Spanish">Usuario definido</translation>
-			</element>
-		</set>
-		<set name="Colors">
-			<element name="Black">
-				<translation language="Spanish">negro</translation>
-			</element>
-			<element name="Blue">
-				<translation language="Spanish">azul</translation>
-			</element>
-			<element name="Brown">
-				<translation language="Spanish">marrón</translation>
-			</element>
-			<element name="Cyan">
-			</element>
-			<element name="DarkBrown">
-			</element>
-			<element name="DarkGreen">
-				<translation language="Spanish">verdeoscuro</translation>
-			</element>
-			<element name="DarkPurple">
-			</element>
-			<element name="Gray">
-				<translation language="Spanish">gris</translation>
-			</element>
-			<element name="Green">
-				<translation language="Spanish">verde</translation>
-			</element>
-			<element name="Magenta">
-				<translation language="Spanish">magenta</translation>
-			</element>
-			<element name="Maroon">
-			</element>
-			<element name="NavyBlue">
-			</element>
-			<element name="Orange">
-				<translation language="Spanish">naranja</translation>
-			</element>
-			<element name="Pink">
-				<translation language="Spanish">rosa</translation>
-			</element>
-			<element name="Red">
-				<translation language="Spanish">rojo</translation>
-			</element>
-			<element name="SlateBlue">
-			</element>
-			<element name="SteelBlue">
-			</element>
-			<element name="Tan">
-			</element>
-			<element name="White">
-				<translation language="Spanish">blanco</translation>
-			</element>
-			<element name="Yellow">
-				<translation language="Spanish">amarillo</translation>
 			</element>
 		</set>
 		<set name="Formats">

@@ -640,7 +640,7 @@
 #02</translation>
 			</element>
 			<element name="MalformedChatSetTextColorCmd">
-				<translation language="French">Vous devez spécifier l'un des éléments suivants : un nom de couleur valide, un code couleur HEX valide de 3 ou 6 caractères, un ensemble de trois nombres décimaux compris entre 0 et 1, un ensemble de trois nombres entiers compris entre 0 et 255, ou "défaut". Les noms de couleurs valides sont : noir, bleu, marron, cyan, brunfoncé, vertforêt, violet, gris, vert, magenta, pourpre, bleumarin, orange, rose, rouge, bleuciel, turquoise, beige, blanc, et jaune.</translation>
+				<translation language="French">Vous devez spécifier l'un des éléments suivants : un nom de couleur valide, un code couleur HEX valide de 3 ou 6 caractères, un ensemble de trois nombres décimaux compris entre 0 et 1, un ensemble de trois nombres entiers compris entre 0 et 255, ou "défaut". Les noms des couleurs valides sont : noir, bleu, marron, cyan, brunfoncé, vertforêt, violet, gris, vert, magenta, pourpre, bleumarin, orange, rose, rouge, bleuciel, turquoise, beige, blanc, et jaune.</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

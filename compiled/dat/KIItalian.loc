@@ -199,6 +199,9 @@
 			<element name="Clap">
 				<translation language="Italian">applaudi</translation>
 			</element>
+			<element name="Cough">
+				<translation language="Italian">tosse</translation>
+			</element>
 			<element name="Cower">
 			</element>
 			<element name="Crazy">
@@ -415,6 +418,9 @@
 			</element>
 			<element name="Clap">
 				<translation language="Italian">%1s applaude</translation>
+			</element>
+			<element name="Cough">
+				<translation language="Italian">%1s tossisce</translation>
 			</element>
 			<element name="Cower">
 			</element>

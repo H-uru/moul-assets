@@ -9,17 +9,15 @@
 				<translation language="Spanish">azul</translation>
 			</element>
 			<element name="Brown">
-				<translation language="Spanish">marrón</translation>
+				<translation language="Spanish">café</translation>
 			</element>
-			<element name="Cyan">
-			</element>
+			<element name="Cyan">cian</element>
 			<element name="DarkBrown">
 			</element>
 			<element name="DarkGreen">
 				<translation language="Spanish">verdeoscuro</translation>
 			</element>
-			<element name="DarkPurple">
-			</element>
+			<element name="DarkPurple">morado</element>
 			<element name="Gray">
 				<translation language="Spanish">gris</translation>
 			</element>
@@ -29,12 +27,10 @@
 			<element name="Magenta">
 				<translation language="Spanish">magenta</translation>
 			</element>
-			<element name="Maroon">
-			</element>
-			<element name="NavyBlue">
-			</element>
+			<element name="Maroon">granate</element>
+			<element name="NavyBlue">azulmarino</element>
 			<element name="Orange">
-				<translation language="Spanish">naranja</translation>
+				<translation language="Spanish">anaranjado</translation>
 			</element>
 			<element name="Pink">
 				<translation language="Spanish">rosa</translation>
@@ -44,10 +40,8 @@
 			</element>
 			<element name="SlateBlue">
 			</element>
-			<element name="SteelBlue">
-			</element>
-			<element name="Tan">
-			</element>
+			<element name="SteelBlue">verdeazulado</element>
+			<element name="Tan">caféclaro</element>
 			<element name="White">
 				<translation language="Spanish">blanco</translation>
 			</element>

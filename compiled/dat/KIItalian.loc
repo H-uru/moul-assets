@@ -601,7 +601,7 @@
 			<element name="LoggedInElsewhere">
 			</element>
 			<element name="MalformedChatSetTextColorCmd">
-				<translation language="Italian">Devi specificare uno dei seguenti: un nome valido di colore, una sequenza esadecimale valida di 3 o 6 caratteri, un gruppo di tre numeri decimali tra 0 e 1, un gruppo di tre interi tra 0 e 255, o "predefinito".</translation>
+				<translation language="Italian">Devi specificare uno dei seguenti: un nome valido di colore, una sequenza esadecimale valida di 3 o 6 caratteri, un gruppo di tre numeri decimali tra 0 e 1, un gruppo di tre interi tra 0 e 255, o "predefinito". Nomi di colore validi sono: nero, blu, marrone, ciano, marronescuro, verdescuro, violascuro, grigio, verde, magenta, bordeaux, blumarino, arancione, rosa, rosso, bluardesia, bluacciaio, beige, bianco, e giallo</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

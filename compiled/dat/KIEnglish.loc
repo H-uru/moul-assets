@@ -730,7 +730,7 @@
 #02</translation>
 			</element>
 			<element name="MalformedChatSetTextColorCmd">
-				<translation language="English">You must specify one of the following: a valid color name, a valid 3- or 6-character hexadecimal color, a set of three decimal numbers between 0 and 1, a set of three integers between 0 and 255, or "default".</translation>
+				<translation language="English">You must specify one of the following: a valid color name, a valid 3- or 6-character hexadecimal color, a set of three decimal numbers between 0 and 1, a set of three integers between 0 and 255, or "default". Valid color names are: black, blue, brown, cyan, darkbrown, darkgreen, purple, gray, green, magenta, maroon, navyblue, orange, pink, red, skyblue, teal, tan, white, and yellow.</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 				<translation language="English">You must specify a folder to dump logs to</translation>

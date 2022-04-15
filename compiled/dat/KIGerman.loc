@@ -642,7 +642,7 @@
 #02</translation>
 			</element>
 			<element name="MalformedChatSetTextColorCmd">
-				<translation language="German">Die Textfarbe muss in einem der folgenden Formate angegeben werden: ein gültiger Farbname, eine gültige Hexadezimalfarbe aus 3 oder 6 Zeichen, drei Dezimalzahlen zwischen 0 und 1, drei Ganzzahlen zwischen 0 und 255, oder "Standard".</translation>
+				<translation language="German">Die Textfarbe muss in einem der folgenden Formate angegeben werden: ein gültiger Farbname, eine gültige Hexadezimalfarbe aus 3 oder 6 Zeichen, drei Dezimalzahlen zwischen 0 und 1, drei Ganzzahlen zwischen 0 und 255, oder "Standard". Die gültigen Farbnamen sind: schwarz, blau, braun, zyan, dunkelbraun, dunkelgrün, lila, grau, grün, magenta, purpurrot, orange, rosa, rot, himmelsblau, türkis, ocker, weiß, und gelb.</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

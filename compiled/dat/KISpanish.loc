@@ -192,8 +192,10 @@
 				<translation language="Spanish">/responder</translation>
 			</element>
 			<element name="ChatSetTextColor">
+				<translation language="Spanish">/colortexto</translation>
 			</element>
 			<element name="ChatSetTextColorDefaultArg">
+				<translation language="Spanish">predeterminado</translation>
 			</element>
 			<element name="ChatStartLog">
 				<translation language="Spanish">/iniciar registro</translation>
@@ -596,6 +598,7 @@
 			<element name="LoggedInElsewhere">
 			</element>
 			<element name="MalformedChatSetTextColorCmd">
+				<translation language="Spanish">Los nombres de colores válidos son: negro, azul, café, cian, caféoscuro, verdeoscuro, morado, gris, verde, magenta, granate, azulmarino, anaranjado, rosa, rojo, azulcielo, verdeazulado, caféclaro, blanco, y amarillo.</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

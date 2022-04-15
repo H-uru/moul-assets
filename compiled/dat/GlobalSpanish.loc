@@ -11,13 +11,18 @@
 			<element name="Brown">
 				<translation language="Spanish">café</translation>
 			</element>
-			<element name="Cyan">cian</element>
+			<element name="Cyan">
+				<translation language="Spanish">cian</translation>
+			</element>
 			<element name="DarkBrown">
+				<translation language="Spanish">caféoscuro</translation>
 			</element>
 			<element name="DarkGreen">
 				<translation language="Spanish">verdeoscuro</translation>
 			</element>
-			<element name="DarkPurple">morado</element>
+			<element name="DarkPurple">
+				<translation language="Spanish">morado</translation>
+			</element>
 			<element name="Gray">
 				<translation language="Spanish">gris</translation>
 			</element>
@@ -27,8 +32,12 @@
 			<element name="Magenta">
 				<translation language="Spanish">magenta</translation>
 			</element>
-			<element name="Maroon">granate</element>
-			<element name="NavyBlue">azulmarino</element>
+			<element name="Maroon">
+				<translation language="Spanish">granate</translation>
+			</element>
+			<element name="NavyBlue">
+				<translation language="Spanish">azulmarino</translation>
+			</element>
 			<element name="Orange">
 				<translation language="Spanish">anaranjado</translation>
 			</element>
@@ -39,9 +48,14 @@
 				<translation language="Spanish">rojo</translation>
 			</element>
 			<element name="SlateBlue">
+				<translation language="Spanish">azulcielo</translation>
 			</element>
-			<element name="SteelBlue">verdeazulado</element>
-			<element name="Tan">caféclaro</element>
+			<element name="SteelBlue">
+				<translation language="Spanish">verdeazulado</translation>
+			</element>
+			<element name="Tan">
+				<translation language="Spanish">caféclaro</translation>
+			</element>
 			<element name="White">
 				<translation language="Spanish">blanco</translation>
 			</element>

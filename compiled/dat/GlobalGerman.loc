@@ -114,8 +114,8 @@
 			<element name="DateTime">
 				<translation language="German">\%d/\%m/\%y  \%H:\%M</translation>
 			</element>
-			<element name="Possesive">
-				<translation language="German">%2s de %1s</translation>
+			<element name="Possessive">
+				<translation language="German">%1ss %2s</translation>
 			</element>
 		</set>
 		<set name="Journals">

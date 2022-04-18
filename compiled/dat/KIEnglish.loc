@@ -228,6 +228,9 @@
 			<element name="Clap">
 				<translation language="English">clap</translation>
 			</element>
+			<element name="Cough">
+				<translation language="English">cough</translation>
+			</element>
 			<element name="Cower">
 				<translation language="English">cower</translation>
 			</element>
@@ -492,6 +495,9 @@
 			</element>
 			<element name="Clap">
 				<translation language="English">%1s claps %2s hands</translation>
+			</element>
+			<element name="Cough">
+				<translation language="English">%1s coughs</translation>
 			</element>
 			<element name="Cower">
 				<translation language="English">%1s cowers</translation>

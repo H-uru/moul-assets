@@ -209,6 +209,9 @@
 			<element name="Clap">
 				<translation language="Spanish">aplaudir</translation>
 			</element>
+			<element name="Cough">
+				<translation language="Spanish">toser</translation>
+			</element>
 			<element name="Cower">
 			</element>
 			<element name="Crazy">
@@ -424,6 +427,9 @@
 			</element>
 			<element name="Clap">
 				<translation language="Spanish">%1s aplaude</translation>
+			</element>
+			<element name="Cough">
+				<translation language="Spanish">%1s tose</translation>
 			</element>
 			<element name="Cower">
 			</element>

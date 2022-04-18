@@ -217,6 +217,9 @@
 			<element name="Clap">
 				<translation language="French">applaudir</translation>
 			</element>
+			<element name="Cough">
+				<translation language="French">tousser</translation>
+			</element>
 			<element name="Cower">
 			</element>
 			<element name="Crazy">
@@ -436,6 +439,9 @@
 			</element>
 			<element name="Clap">
 				<translation language="French">%1s applaudit</translation>
+			</element>
+			<element name="Cough">
+				<translation language="French">%1s tousse</translation>
 			</element>
 			<element name="Cower">
 			</element>

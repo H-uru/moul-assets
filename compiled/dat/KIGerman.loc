@@ -138,6 +138,12 @@
 			<element name="TOPrompt">
 				<translation language="German">AN:</translation>
 			</element>
+			<element name="TextColorSetDefault">
+				<translation language="German">Textfarbe(n) auf Standard zurückgesetzt.</translation>
+			</element>
+			<element name="TextColorSetValue">
+				<translation language="German">Textfarbe auf %1s geändert.</translation>
+			</element>
 			<element name="WentOffline">
 				<translation language="German">(%1s ist offline und nicht für einen Chat verfügbar.)</translation>
 			</element>
@@ -192,6 +198,12 @@
 			</element>
 			<element name="ChatReply">
 				<translation language="German">/antworten</translation>
+			</element>
+			<element name="ChatSetTextColor">
+				<translation language="German">/textfarbe</translation>
+			</element>
+			<element name="ChatSetTextColorDefaultArg">
+				<translation language="German">standard</translation>
 			</element>
 			<element name="ChatStartLog">
 				<translation language="German">/protokollan</translation>
@@ -628,6 +640,9 @@
 			<element name="LoggedInElsewhere">
 				<translation language="German">Ihre Verbindung wurde getrennt, da Ihr Konto bereits benutzt wird.
 #02</translation>
+			</element>
+			<element name="MalformedChatSetTextColorCmd">
+				<translation language="German">Die Textfarbe muss in einem der folgenden Formate angegeben werden: ein gültiger Farbname, eine gültige Hexadezimalfarbe aus 3 oder 6 Zeichen, drei Dezimalzahlen zwischen 0 und 1, drei Ganzzahlen zwischen 0 und 255, oder "Standard". Die gültigen Farbnamen sind: schwarz, blau, braun, zyan, dunkelbraun, dunkelgrün, lila, grau, grün, magenta, purpurrot, orange, rosa, rot, himmelblau, türkis, ocker, weiß und gelb.</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

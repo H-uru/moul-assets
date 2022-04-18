@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localizations>
 	<age name="Global">
+		<set name="Colors">
+			<element name="Black">
+				<translation language="Spanish">negro</translation>
+			</element>
+			<element name="Blue">
+				<translation language="Spanish">azul</translation>
+			</element>
+			<element name="Brown">
+				<translation language="Spanish">café</translation>
+			</element>
+			<element name="Cyan">
+				<translation language="Spanish">cian</translation>
+			</element>
+			<element name="DarkBrown">
+				<translation language="Spanish">caféoscuro</translation>
+			</element>
+			<element name="DarkGreen">
+				<translation language="Spanish">verdeoscuro</translation>
+			</element>
+			<element name="DarkPurple">
+				<translation language="Spanish">morado</translation>
+			</element>
+			<element name="Gray">
+				<translation language="Spanish">gris</translation>
+			</element>
+			<element name="Green">
+				<translation language="Spanish">verde</translation>
+			</element>
+			<element name="Magenta">
+				<translation language="Spanish">magenta</translation>
+			</element>
+			<element name="Maroon">
+				<translation language="Spanish">granate</translation>
+			</element>
+			<element name="NavyBlue">
+				<translation language="Spanish">azulmarino</translation>
+			</element>
+			<element name="Orange">
+				<translation language="Spanish">anaranjado</translation>
+			</element>
+			<element name="Pink">
+				<translation language="Spanish">rosa</translation>
+			</element>
+			<element name="Red">
+				<translation language="Spanish">rojo</translation>
+			</element>
+			<element name="SlateBlue">
+				<translation language="Spanish">azulcielo</translation>
+			</element>
+			<element name="SteelBlue">
+				<translation language="Spanish">verdeazulado</translation>
+			</element>
+			<element name="Tan">
+				<translation language="Spanish">caféclaro</translation>
+			</element>
+			<element name="White">
+				<translation language="Spanish">blanco</translation>
+			</element>
+			<element name="Yellow">
+				<translation language="Spanish">amarillo</translation>
+			</element>
+		</set>
 		<set name="FolderNames">
 			<element name="AgeJournals">
 				<translation language="Spanish">Carpeta de documentación de las Eras</translation>

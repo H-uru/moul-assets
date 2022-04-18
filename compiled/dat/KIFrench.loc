@@ -138,6 +138,12 @@
 			<element name="TOPrompt">
 				<translation language="French">À :</translation>
 			</element>
+			<element name="TextColorSetDefault">
+				<translation language="French">Texte réinitialisée à la ou aux couleurs défaut.</translation>
+			</element>
+			<element name="TextColorSetValue">
+				<translation language="French">Couleur du texte est définie à %1s.</translation>
+			</element>
 			<element name="WentOffline">
 				<translation language="French">(%1s est hors ligne. Conversation impossible.)</translation>
 			</element>
@@ -192,6 +198,12 @@
 			</element>
 			<element name="ChatReply">
 				<translation language="French">/répondre</translation>
+			</element>
+			<element name="ChatSetTextColor">
+				<translation language="French">/couleurtexte</translation>
+			</element>
+			<element name="ChatSetTextColorDefaultArg">
+				<translation language="French">défaut</translation>
 			</element>
 			<element name="ChatStartLog">
 				<translation language="French">/démarrerlog</translation>
@@ -626,6 +638,9 @@
 			<element name="LoggedInElsewhere">
 				<translation language="French">Vous avez été déconnecté(e) car quelqu'un d'autre utilise déjà votre compte.
 #02</translation>
+			</element>
+			<element name="MalformedChatSetTextColorCmd">
+				<translation language="French">Vous devez spécifier l'un des éléments suivants : un nom de couleur valide, un code couleur HEX valide de 3 ou 6 caractères, un ensemble de trois nombres décimaux compris entre 0 et 1, un ensemble de trois nombres entiers compris entre 0 et 255, ou "défaut". Les noms des couleurs valides sont : noir, bleu, marron, cyan, brunfoncé, vertforêt, violet, gris, vert, magenta, pourpre, bleumarin, orange, rose, rouge, bleuciel, turquoise, beige, blanc, et jaune.</translation>
 			</element>
 			<element name="MalformedLogDumpCmd">
 			</element>

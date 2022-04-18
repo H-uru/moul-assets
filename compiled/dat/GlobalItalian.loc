@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localizations>
 	<age name="Global">
+		<set name="Colors">
+			<element name="Black">
+				<translation language="Italian">nero</translation>
+			</element>
+			<element name="Blue">
+				<translation language="Italian">blu</translation>
+			</element>
+			<element name="Brown">
+				<translation language="Italian">marrone</translation>
+			</element>
+			<element name="Cyan">
+				<translation language="Italian">ciano</translation>
+			</element>
+			<element name="DarkBrown">
+				<translation language="Italian">marronescuro</translation>
+			</element>
+			<element name="DarkGreen">
+				<translation language="Italian">verdescuro</translation>
+			</element>
+			<element name="DarkPurple">
+				<translation language="Italian">violascuro</translation>
+			</element>
+			<element name="Gray">
+				<translation language="Italian">grigio</translation>
+			</element>
+			<element name="Green">
+				<translation language="Italian">verde</translation>
+			</element>
+			<element name="Magenta">
+				<translation language="Italian">magenta</translation>
+			</element>
+			<element name="Maroon">
+				<translation language="Italian">granata</translation>
+			</element>
+			<element name="NavyBlue">
+				<translation language="Italian">blumarino</translation>
+			</element>
+			<element name="Orange">
+				<translation language="Italian">arancione</translation>
+			</element>
+			<element name="Pink">
+				<translation language="Italian">rosa</translation>
+			</element>
+			<element name="Red">
+				<translation language="Italian">rosso</translation>
+			</element>
+			<element name="SlateBlue">
+				<translation language="Italian">bluardesia</translation>
+			</element>
+			<element name="SteelBlue">
+				<translation language="Italian">bluacciaio</translation>
+			</element>
+			<element name="Tan">
+				<translation language="Italian">beige</translation>
+			</element>
+			<element name="White">
+				<translation language="Italian">bianco</translation>
+			</element>
+			<element name="Yellow">
+				<translation language="Italian">giallo</translation>
+			</element>
+		</set>
 		<set name="FolderNames">
 			<element name="AgeJournals">
 				<translation language="Italian">Cartella dei Diari delle Età</translation>

@@ -161,13 +161,13 @@ Definitely played by two different sides. It's not clear how many were on each s
  
 MAZE CREATION: 
 
-Red button at the top engaged the control panel. Once engaged, the nice little red lights started flashing and teams needed to determine how many blockers they would be working with. 
+Green button at the top engaged the control panel. Once engaged, the teams needed to determine how many blockers they would be working with. 
 
 Three buttons on the left side of the panel were quick jumps to preset numbers of blockers: bottom button is a quick jump to five, the middle button ten, and the top fifteen. Purple (they look pink to me) lights, up at the top, represent how many blockers have been selected for the purple team and yellow for the yellow team. Blockers can be raised or lowered by ones with the buttons on the right side. If a team wanted seventeen blockers, they would press the top left button once and the top right button twice. Yeah, I've definitely seen more intuitive panels in my life. 
 
-Regardless, once either side pressed the middle button on the right side, the number was locked on both machines. There was no turning back, at least in regards to how many blockers were going to be used for the game. Those little lights stop flashing and the purple/yellow lights go blank.
+Regardless, once both side pressed the middle button on the right side, the number was locked on both machines. There was no turning back, at least in regards to how many blockers were going to be used for the game. Those little lights stop flashing and the purple/yellow lights go solid.
 
-Setting up blockers was fairly easy: press the section of the grid where a blocker should appear and...it appears. Magic. A light at the top also appears for each blocker. Once the maze has been set, the red button is pressed and the maze is locked in and transferred to the wall. After both sides had set up their mazes, I'm sure someone would say "let the game begin". They just had to.
+Setting up blockers was fairly easy: press the section of the grid where a blocker should appear and...it appears. Magic. A light at the top also appears for each blocker. Once the maze has been set, the green button is pressed and the maze is locked in and transferred to the wall. After both sides had set up their mazes, I'm sure someone would say "let the game begin". They just had to.
 
 THE SUITS
 
@@ -243,6 +243,14 @@ Groups:  The KI also recognizes groups, somehow related to the Nexus. Seems poss
 RETRIEVE YOUR
 KI</translation>
 			</element>
+		</set>
+		<set name="Wall">
+			<element name="MatchDuration">
+				<translation language="English">Elapsed Time: %1s</translation>
+			</element>
+            <element name="Nexus">
+                <translation language="English">Maintainer Nexus</translation>
+            </element>
 		</set>
 	</age>
 </localizations>

@@ -731,6 +731,9 @@ Firmato,
 			<element name="Captures">
 				<translation language="Italian">%1s cattura "%2s". %3s</translation>
 			</element>
+			<element name="DefaultGameTitle">
+				<translation language="Italian">Partita Marker</translation>
+			</element>
 			<element name="DoneEditButton">
 				<translation language="Italian">Modifiche terminate</translation>
 			</element>

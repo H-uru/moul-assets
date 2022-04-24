@@ -730,6 +730,9 @@ Firmado,
 			<element name="Captures">
 				<translation language="Spanish">%1s capturas "%2s". %3s</translation>
 			</element>
+			<element name="DefaultGameTitle">
+				<translation language="Spanish">Partida Marcador</translation>
+			</element>
 			<element name="DoneEditButton">
 				<translation language="Spanish">Edición realizada</translation>
 			</element>

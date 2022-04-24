@@ -891,6 +891,9 @@ Signed,
 			<element name="Captures">
 				<translation language="English">%1s captures "%2s". %3s</translation>
 			</element>
+			<element name="DefaultGameTitle">
+				<translation language="English">Marker Game</translation>
+			</element>
 			<element name="DoneEditButton">
 				<translation language="English">Done Editing</translation>
 			</element>

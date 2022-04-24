@@ -798,6 +798,9 @@ Signé(e),
 			<element name="Captures">
 				<translation language="French">%1s a capturé « %2s ». %3s</translation>
 			</element>
+			<element name="DefaultGameTitle">
+				<translation language="French">Jeu de Marqueurs</translation>
+			</element>
 			<element name="DoneEditButton">
 				<translation language="French">Modification terminée</translation>
 			</element>

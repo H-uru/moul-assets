@@ -237,6 +237,8 @@
 			<element name="Dance">
 				<translation language="German">tanzen</translation>
 			</element>
+			<element name="DanceRetro">
+			</element>
 			<element name="Doh">
 			</element>
 			<element name="DontKnow">
@@ -460,6 +462,9 @@
 				<translation language="German"><![CDATA[<schnüff> %1s ist traurig]]></translation>
 			</element>
 			<element name="Dance">
+				<translation language="German">%1s tanzt</translation>
+			</element>
+			<element name="DanceRetro">
 				<translation language="German">%1s tanzt</translation>
 			</element>
 			<element name="Doh">

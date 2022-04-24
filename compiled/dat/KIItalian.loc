@@ -231,6 +231,8 @@
 			<element name="Dance">
 				<translation language="Italian">balla</translation>
 			</element>
+			<element name="DanceRetro">
+			</element>
 			<element name="Doh">
 			</element>
 			<element name="DontKnow">
@@ -449,6 +451,9 @@
 				<translation language="Italian"><![CDATA[<sniff> %1s è triste]]></translation>
 			</element>
 			<element name="Dance">
+				<translation language="Italian">%1s balla</translation>
+			</element>
+			<element name="DanceRetro">
 				<translation language="Italian">%1s balla</translation>
 			</element>
 			<element name="Doh">

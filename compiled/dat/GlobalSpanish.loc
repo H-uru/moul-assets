@@ -129,7 +129,8 @@
 			<element name="DateTime">
 				<translation language="Spanish">\%d/\%m/\%y  \%H:\%M</translation>
 			</element>
-			<element name="Possesive">
+			<element name="Possessive">
+				<translation language="Spanish">%2s de %1s</translation>
 			</element>
 		</set>
 		<set name="Journals">

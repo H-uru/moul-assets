@@ -176,7 +176,7 @@
 			<element name="DateTime">
 				<translation language="English">\%m/\%d/\%y  \%H:\%M</translation>
 			</element>
-			<element name="Possesive">
+			<element name="Possessive">
 				<translation language="English">%1s's %2s</translation>
 			</element>
 		</set>

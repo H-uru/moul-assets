@@ -821,6 +821,9 @@ Gruß,
 			<element name="Captures">
 				<translation language="German">%1s erobert "%2s". %3s</translation>
 			</element>
+			<element name="DefaultGameTitle">
+				<translation language="German">Markerspiel</translation>
+			</element>
 			<element name="DoneEditButton">
 				<translation language="German">Bearbeiten beenden</translation>
 			</element>

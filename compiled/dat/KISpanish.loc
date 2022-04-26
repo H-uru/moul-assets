@@ -230,6 +230,7 @@
 				<translation language="Spanish">bailar</translation>
 			</element>
 			<element name="DanceRetro">
+				<translation language="Spanish">baileretro</translation>
 			</element>
 			<element name="Doh">
 			</element>
@@ -451,7 +452,7 @@
 				<translation language="Spanish">%1s baila</translation>
 			</element>
 			<element name="DanceRetro">
-				<translation language="Spanish">%1s baila</translation>
+				<translation language="Spanish">%1s baila muy bacán</translation>
 			</element>
 			<element name="Doh">
 			</element>

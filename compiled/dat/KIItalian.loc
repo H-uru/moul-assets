@@ -231,6 +231,9 @@
 			<element name="Dance">
 				<translation language="Italian">balla</translation>
 			</element>
+			<element name="DanceRetro">
+				<translation language="Italian">balloretro</translation>
+			</element>
 			<element name="Doh">
 			</element>
 			<element name="DontKnow">
@@ -450,6 +453,9 @@
 			</element>
 			<element name="Dance">
 				<translation language="Italian">%1s balla</translation>
+			</element>
+			<element name="DanceRetro">
+				<translation language="Italian">%1s fa un ballo funky</translation>
 			</element>
 			<element name="Doh">
 			</element>

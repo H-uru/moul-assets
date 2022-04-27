@@ -237,6 +237,9 @@
 			<element name="Dance">
 				<translation language="German">tanzen</translation>
 			</element>
+			<element name="DanceRetro">
+				<translation language="German">retrotanz</translation>
+			</element>
 			<element name="Doh">
 			</element>
 			<element name="DontKnow">
@@ -461,6 +464,9 @@
 			</element>
 			<element name="Dance">
 				<translation language="German">%1s tanzt</translation>
+			</element>
+			<element name="DanceRetro">
+				<translation language="German">%1s tanzt abgefahren</translation>
 			</element>
 			<element name="Doh">
 			</element>

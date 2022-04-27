@@ -252,6 +252,9 @@
 			<element name="Dance">
 				<translation language="English">dance</translation>
 			</element>
+			<element name="DanceRetro">
+				<translation language="English">retrodance</translation>
+			</element>
 			<element name="Doh">
 				<translation language="English">doh</translation>
 			</element>
@@ -519,6 +522,9 @@
 			</element>
 			<element name="Dance">
 				<translation language="English">%1s does a dance</translation>
+			</element>
+			<element name="DanceRetro">
+				<translation language="English">%1s does a funky dance</translation>
 			</element>
 			<element name="Doh">
 				<translation language="English">%1s says DOH!</translation>

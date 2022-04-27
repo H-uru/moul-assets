@@ -147,7 +147,7 @@
 			<element name="AddBuddy">
 			</element>
 			<element name="Afk">
-				<translation language="Spanish">vuelvo en seguida</translation>
+				<translation language="Spanish">vuelvoenseguida</translation>
 			</element>
 			<element name="Amazed">
 			</element>
@@ -180,7 +180,7 @@
 				<translation language="Spanish">/amigos</translation>
 			</element>
 			<element name="ChatClearAll">
-				<translation language="Spanish">/autorizar chat</translation>
+				<translation language="Spanish">/autorizarchat</translation>
 			</element>
 			<element name="ChatNeighbors">
 				<translation language="Spanish">/sectores</translation>
@@ -198,10 +198,10 @@
 				<translation language="Spanish">predeterminado</translation>
 			</element>
 			<element name="ChatStartLog">
-				<translation language="Spanish">/iniciar registro</translation>
+				<translation language="Spanish">/iniciarregistro</translation>
 			</element>
 			<element name="ChatStopLog">
-				<translation language="Spanish">/parar registro</translation>
+				<translation language="Spanish">/pararregistro</translation>
 			</element>
 			<element name="Cheer">
 				<translation language="Spanish">vitorear</translation>
@@ -235,14 +235,13 @@
 			<element name="Doh">
 			</element>
 			<element name="DontKnow">
-				<translation language="Spanish">no sé</translation>
+				<translation language="Spanish">nosé</translation>
 			</element>
 			<element name="DumpLog">
 			</element>
 			<element name="DumpLogs">
 			</element>
 			<element name="Dunno">
-				<translation language="Spanish">no sé</translation>
 			</element>
 			<element name="Flinch">
 			</element>
@@ -256,7 +255,7 @@
 			<element name="Kneel">
 			</element>
 			<element name="LOL">
-				<translation language="Spanish">reír en alto</translation>
+				<translation language="Spanish">reírenalto</translation>
 			</element>
 			<element name="Laugh">
 				<translation language="Spanish">reír</translation>
@@ -332,7 +331,7 @@
 				<translation language="Spanish">mostrarinvitados</translation>
 			</element>
 			<element name="Shrug">
-				<translation language="Spanish">encogerse de hombros</translation>
+				<translation language="Spanish">encogersedehombros</translation>
 			</element>
 			<element name="Sit">
 				<translation language="Spanish">aquí</translation>
@@ -362,12 +361,12 @@
 			<element name="ThumbsUp2">
 			</element>
 			<element name="Thx">
-				<translation language="Spanish">gracias</translation>
+				<translation language="Spanish">agradecer</translation>
 			</element>
 			<element name="Unignore">
 			</element>
 			<element name="Uninvite">
-				<translation language="Spanish">no invitar</translation>
+				<translation language="Spanish">noinvitar</translation>
 			</element>
 			<element name="Wave">
 				<translation language="Spanish">saludar</translation>
@@ -545,7 +544,7 @@
 			<element name="ThumbsUp2">
 			</element>
 			<element name="Thx">
-				<translation language="Spanish">%1s ti ringrazia</translation>
+				<translation language="Spanish">%1s te agradece</translation>
 			</element>
 			<element name="Wave">
 				<translation language="Spanish">%1s saludos</translation>
@@ -721,7 +720,7 @@ Firmado,
 				<translation language="Spanish">Visita a %1s eliminada</translation>
 			</element>
 			<element name="UninviteUsage">
-				<translation language="Spanish"><![CDATA[Uso: /no invitar <inviteKey>]]></translation>
+				<translation language="Spanish"><![CDATA[Uso: /noinvitar <inviteKey>]]></translation>
 			</element>
 			<element name="VisitBody">
 				<translation language="Spanish">Por favor, ven a visitar la Era %1s yendo a la estación Nexo MT y realizando algo...
@@ -974,7 +973,7 @@ Firmado,
 			<element name="InviteSuccess">
 			</element>
 			<element name="LeaveGame">
-				<translation language="Spanish">¡No te vayas por favor! ¿Seguro que quieres salir de Uru?</translation>
+				<translation language="Spanish">¿Seguro que quieres salir de Uru?</translation>
 			</element>
 			<element name="LogDumpFailed">
 			</element>

@@ -40,6 +40,12 @@
 			</element>
 			<element name="CityPopulation">
 			</element>
+			<element name="GoMePubNewFull">
+				<translation language="Italian">Il nuovo pub dei messaggeri è pieno. Per favore riprova più tardi.</translation>
+			</element>
+			<element name="GoMePubNewPopulation">
+				<translation language="Italian">Popolazione attuale: %1s Popolazione massima: %2s</translation>
+			</element>
 			<element name="GuildPubFull">
 			</element>
 			<element name="GuildPubPopulation">

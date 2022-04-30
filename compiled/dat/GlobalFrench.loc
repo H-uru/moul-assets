@@ -17,6 +17,9 @@
 			<element name="Gahreesen">
 				<translation language="French">Gahreesen</translation>
 			</element>
+			<element name="GoMePubNew">
+				<translation language="French">Le nouveau pub des messagers</translation>
+			</element>
 			<element name="GreatZero">
 				<translation language="French">Great Zero</translation>
 			</element>

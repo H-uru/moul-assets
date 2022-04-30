@@ -50,6 +50,12 @@
 			<element name="CityPopulation">
 				<translation language="English">Current Population: %1s Maximum Population: %2s</translation>
 			</element>
+			<element name="GoMePubNewFull">
+				<translation language="English">The New Messengers Pub is full. Please try again later.</translation>
+			</element>
+			<element name="GoMePubNewPopulation">
+				<translation language="English">Current Population: %1s Maximum Population: %2s</translation>
+			</element>
 			<element name="GuildPubFull">
 				<translation language="English">%1s is currently full. Please try again later.</translation>
 			</element>

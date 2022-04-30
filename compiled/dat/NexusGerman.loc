@@ -50,6 +50,12 @@
 			<element name="CityPopulation">
 				<translation language="German">Aktuelle Größe: %1s Maximale Größe: %2s</translation>
 			</element>
+			<element name="GoMePubNewFull">
+				<translation language="German">Die Neuen Kneipe der Boten ist derzeit voll. Bitte versuchen Sie es später erneut.</translation>
+			</element>
+			<element name="GoMePubNewPopulation">
+				<translation language="German">Aktuelle Größe: %1s Maximale Größe: %2s</translation>
+			</element>
 			<element name="GuildPubFull">
 			</element>
 			<element name="GuildPubPopulation">

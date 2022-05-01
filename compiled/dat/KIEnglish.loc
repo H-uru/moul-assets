@@ -628,6 +628,9 @@
 			<element name="Thanks">
 				<translation language="English">%1s thanks you very much!</translation>
 			</element>
+			<element name="Their">
+				<translation language="English">their</translation>
+			</element>
 			<element name="ThumbsDown">
 				<translation language="English">Thumbs down from %1s </translation>
 			</element>

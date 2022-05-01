@@ -535,6 +535,8 @@
 			<element name="Thanks">
 				<translation language="Spanish">%1s ¡te da las gracias!</translation>
 			</element>
+			<element name="Their">
+			</element>
 			<element name="ThumbsDown">
 			</element>
 			<element name="ThumbsDown2">

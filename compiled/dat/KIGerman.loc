@@ -550,6 +550,8 @@
 			<element name="Thanks">
 				<translation language="German">%1s dankt Ihnen herzlich!</translation>
 			</element>
+			<element name="Their">
+			</element>
 			<element name="ThumbsDown">
 			</element>
 			<element name="ThumbsDown2">

@@ -2,6 +2,26 @@
 <localizations>
     <age name="EderNaybree">
         <set name="Journals">
+            <element name="creditsbook">
+                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
+
+Thanks to Doobes for taking the time to answer questions and help troubleshoot! 
+
+Thanks to Theo for the Rope Ladder Knot Model! 
+
+Thanks to Ehren, Hazado, and Adam for helping with the Sun-at-Night issue!
+
+Thanks to the Open Uru and Minkata Testers for helping get this over the line! 
+(Seriously, thank you for putting up with my insanity in this place.)
+
+Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This product contains trademarks and/or copyrighted works of Cyan. All rights reserved by Cyan. This age/product is not created by Cyan and is not endorsed by Cyan outside of being hosted on their MOULa server.
+
+]]></translation>
+            </element>
             <element name="kelseijournal">
                 <translation language="English"><![CDATA[<cover src="xaths-edernaybreejournal.hsm"><font size=16 face=Michelle color=416600><margin left=62 right=62><font size=18 face=Michelle><p align=left>
 12/27/21
@@ -961,26 +981,6 @@ If you've read this far into this journal, thanks for giving my words some time.
 ;) Just to let me know you got this far. Hehe. 
 
 _Kelsei A. Taylor]]></translation>
-            </element>
-            <element name="creditsbook">
-                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-
-Thanks to Doobes for taking the time to answer questions and help troubleshoot! 
-
-Thanks to Theo for the Rope Ladder Knot Model! 
-
-Thanks to Ehren, Hazado, and Adam for helping with the Sun-at-Night issue!
-
-Thanks to the Open Uru and Minkata Testers for helping get this over the line! 
-(Seriously, thank you for putting up with my insanity in this place.)
-
-Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-This product contains trademarks and/or copyrighted works of Cyan. All rights reserved by Cyan. This age/product is not created by Cyan and is not endorsed by Cyan outside of being hosted on their MOULa server.
-
-]]></translation>
             </element>
             <element name="calumfieldjournal">
                 <translation language="English"><![CDATA[<cover src="xplayerjournal-callogbook.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>

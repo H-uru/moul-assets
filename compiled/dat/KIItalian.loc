@@ -55,11 +55,17 @@
 			<element name="AFK">
 				<translation language="Italian"> (Sono in superficie, torno tra un minuto)</translation>
 			</element>
+			<element name="AdminContextPrefix">
+			</element>
 			<element name="BroadcastMsgRecvd">
 				<translation language="Italian"> </translation>
 			</element>
 			<element name="BroadcastSendTo">
 				<translation language="Italian"> </translation>
+			</element>
+			<element name="BuddiesContextPrefix">
+			</element>
+			<element name="CCRContextPrefix">
 			</element>
 			<element name="CCRFromPlayer">
 				<translation language="Italian">Da %1s a Assistenza:</translation>
@@ -71,6 +77,8 @@
 				<translation language="Italian">A Assistenza:</translation>
 			</element>
 			<element name="CannotFindBuddy">
+			</element>
+			<element name="ErrorContextPrefix">
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="Italian">Errore:</translation>
@@ -117,17 +125,23 @@
 			<element name="MarkerTORedTeam">
 				<translation language="Italian">A: Squadra Rossa &gt;</translation>
 			</element>
+			<element name="NeighborsContextPrefix">
+			</element>
 			<element name="NoOneListening">
 				<translation language="Italian">(Sei troppo lontano, forse è meglio gridare.)</translation>
 			</element>
 			<element name="NoOneToReply">
 				<translation language="Italian">(Non c'è nessuno con cui parlare.)</translation>
 			</element>
+			<element name="PrivateContextPrefix">
+			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="Italian">Da </translation>
 			</element>
 			<element name="PrivateSendTo">
 				<translation language="Italian">A </translation>
+			</element>
+			<element name="SubtitleContextPrefix">
 			</element>
 			<element name="TOPrompt">
 				<translation language="Italian">A:</translation>

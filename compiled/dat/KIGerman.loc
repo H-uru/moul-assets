@@ -61,11 +61,17 @@
 			<element name="AFK">
 				<translation language="German"> (Ich bin an der Oberfläche, komme gleich zurück)</translation>
 			</element>
+			<element name="AdminContextPrefix">
+			</element>
 			<element name="BroadcastMsgRecvd">
 				<translation language="German"> </translation>
 			</element>
 			<element name="BroadcastSendTo">
 				<translation language="German"> </translation>
+			</element>
+			<element name="BuddiesContextPrefix">
+			</element>
+			<element name="CCRContextPrefix">
 			</element>
 			<element name="CCRFromPlayer">
 				<translation language="German">Von %1s an Kundenbetreuung:</translation>
@@ -77,6 +83,8 @@
 				<translation language="German">An Kundenbetreuung:</translation>
 			</element>
 			<element name="CannotFindBuddy">
+			</element>
+			<element name="ErrorContextPrefix">
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="German">Fehler:</translation>
@@ -123,17 +131,23 @@
 			<element name="MarkerTORedTeam">
 				<translation language="German">AN: Rotes Team &gt;</translation>
 			</element>
+			<element name="NeighborsContextPrefix">
+			</element>
 			<element name="NoOneListening">
 				<translation language="German">(Sie sind zu weit weg. Vielleicht sollten Sie schreien.)</translation>
 			</element>
 			<element name="NoOneToReply">
 				<translation language="German">(Es gibt niemand, dem man antworten könnte.)</translation>
 			</element>
+			<element name="PrivateContextPrefix">
+			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="German">Von </translation>
 			</element>
 			<element name="PrivateSendTo">
 				<translation language="German">An </translation>
+			</element>
+			<element name="SubtitleContextPrefix">
 			</element>
 			<element name="TOPrompt">
 				<translation language="German">AN:</translation>

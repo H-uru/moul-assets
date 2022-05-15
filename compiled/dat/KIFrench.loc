@@ -61,11 +61,17 @@
 			<element name="AFK">
 				<translation language="French"> (Je suis à la surface. Je serai de retour dans une minute)</translation>
 			</element>
+			<element name="AdminContextPrefix">
+			</element>
 			<element name="BroadcastMsgRecvd">
 				<translation language="French"> </translation>
 			</element>
 			<element name="BroadcastSendTo">
 				<translation language="French"> </translation>
+			</element>
+			<element name="BuddiesContextPrefix">
+			</element>
+			<element name="CCRContextPrefix">
 			</element>
 			<element name="CCRFromPlayer">
 				<translation language="French">De %1s à PAC :</translation>
@@ -77,6 +83,8 @@
 				<translation language="French">À PAC :</translation>
 			</element>
 			<element name="CannotFindBuddy">
+			</element>
+			<element name="ErrorContextPrefix">
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="French">Erreur :</translation>
@@ -123,17 +131,23 @@
 			<element name="MarkerTORedTeam">
 				<translation language="French">À : Équipe rouge &gt;</translation>
 			</element>
+			<element name="NeighborsContextPrefix">
+			</element>
 			<element name="NoOneListening">
 				<translation language="French">(Vous êtes trop loin. Vous devriez peut-être crier ?)</translation>
 			</element>
 			<element name="NoOneToReply">
 				<translation language="French">(Il n'y a personne à qui répondre.)</translation>
 			</element>
+			<element name="PrivateContextPrefix">
+			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="French">De </translation>
 			</element>
 			<element name="PrivateSendTo">
 				<translation language="French">À </translation>
+			</element>
+			<element name="SubtitleContextPrefix">
 			</element>
 			<element name="TOPrompt">
 				<translation language="French">À :</translation>

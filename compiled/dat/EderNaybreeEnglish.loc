@@ -2,6 +2,37 @@
 <localizations>
     <age name="EderNaybree">
         <set name="Journals">
+            <element name="calumfieldjournal">
+                <translation language="English"><![CDATA[<cover src="xplayerjournal-callogbook.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
+OBSERVATIONS ON NAYBREE'S "TREE"
+-by CALUM TRAVELER-
+
+Age appears to be covered in a single giant tree like life-form. Shares visual similarities with Kudzu and Mint plants on Earth- trending towards exponential growth. This is its canopy. The 'Tree' is upside down compared to Earth Trees. Its leafy greens are on the ground, and its roots spear into the air.
+
+Sturdy wood like material- more like living Tree Roots than regular tree branches on Earth. Seems to grow into a lattice like network of layers- capable of supporting the weight of many individuals at once. Doesn't seem to have a dislike of any materials- will gladly punch through rock and stone just the same as it'll grow over it. 
+
+Cutting requires significant effort. Bolt Cutters with motors preferred.
+
+Observing over time, it seems that the "Tree" for lack of a better word, will spear its roots outwards in all directions, starting small until it can make contact with a water source- no growth observed past the river. 
+
+The roots in the water- maybe its branches- make more sense in that regard. What confounds me is the massive series of trunks spearing into the air. They go tall, until they reach the point the wind starts to affect them, and at that point they begin branching outwards all in that same direction. Not just contained to the Garden area- some can be seen in the area above the cliffs. 
+
+The canopy carpeting/blanketing everything seems to grow at first with more branches- thinner and a slightly different bark type- before extending even thinner branches from there. These branches interlink in lattice like formations before beginning to harden and sprout leaves. 
+
+They seem to like to grow around things over growing into them, for some reason. A consumption vibe we see with several rocks and light poles around the garden. Possibly the 'Tree' is trying to eat the garden?  (Honestly don't know.)
+
+Once a layer of carpeting/blanketing has been accomplished, it seems more roots are grown outwards with intent to repeat the process- consuming even MORE of the garden. It's a layered approach, growing layer after layer overtop previous layers. Lower layers seem to lose their leaves after being over grown in some areas, and not in others. May be a gradual process?
+
+Regardless, lower layers seem to be 'absorbed' into the upper layer after some unspecified point. I have no idea what the heck this plant is even doing- if it can even be called that. It's branch like methods spearing all over the place remind me vaguely of a mushroom type plant. 
+
+Briggs called them " chubby noodle trees " and honestly I can't disagree. They barely look like any trees I know of on Earth. 
+
+With Naybree being "Root Two" literally in D'ni, I'd have to assume this Age started with two trees that merged into one and just started growing exponentially in a race to consume eachother. But that's speculation. Could've been a reference to the moons, if that's the case.
+
+Honestly, this tree is some of the only native plant life I can see in the Garden's back half. If this age had ANYTHING there that wasn't the "tree" before this point, it's long dead. Just some small shrubs and other bushes/grasses in the front half remain. 
+
+Ah, still. It's a nice mountain view from the clifftops though. ]]></translation>
+            </element>
             <element name="kelseijournal">
                 <translation language="English"><![CDATA[<cover src="xaths-edernaybreejournal.hsm"><font size=16 face=Michelle color=416600><margin left=62 right=62><font size=18 face=Michelle><p align=left>
 12/27/21
@@ -962,37 +993,6 @@ If you've read this far into this journal, thanks for giving my words some time.
 
 _Kelsei A. Taylor]]></translation>
             </element>
-            <element name="calumfieldjournal">
-                <translation language="English"><![CDATA[<cover src="xplayerjournal-callogbook.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-OBSERVATIONS ON NAYBREE'S "TREE"
--by CALUM TRAVELER-
-
-Age appears to be covered in a single giant tree like life-form. Shares visual similarities with Kudzu and Mint plants on Earth- trending towards exponential growth. This is its canopy. The 'Tree' is upside down compared to Earth Trees. Its leafy greens are on the ground, and its roots spear into the air.
-
-Sturdy wood like material- more like living Tree Roots than regular tree branches on Earth. Seems to grow into a lattice like network of layers- capable of supporting the weight of many individuals at once. Doesn't seem to have a dislike of any materials- will gladly punch through rock and stone just the same as it'll grow over it. 
-
-Cutting requires significant effort. Bolt Cutters with motors preferred.
-
-Observing over time, it seems that the "Tree" for lack of a better word, will spear its roots outwards in all directions, starting small until it can make contact with a water source- no growth observed past the river. 
-
-The roots in the water- maybe its branches- make more sense in that regard. What confounds me is the massive series of trunks spearing into the air. They go tall, until they reach the point the wind starts to affect them, and at that point they begin branching outwards all in that same direction. Not just contained to the Garden area- some can be seen in the area above the cliffs. 
-
-The canopy carpeting/blanketing everything seems to grow at first with more branches- thinner and a slightly different bark type- before extending even thinner branches from there. These branches interlink in lattice like formations before beginning to harden and sprout leaves. 
-
-They seem to like to grow around things over growing into them, for some reason. A consumption vibe we see with several rocks and light poles around the garden. Possibly the 'Tree' is trying to eat the garden?  (Honestly don't know.)
-
-Once a layer of carpeting/blanketing has been accomplished, it seems more roots are grown outwards with intent to repeat the process- consuming even MORE of the garden. It's a layered approach, growing layer after layer overtop previous layers. Lower layers seem to lose their leaves after being over grown in some areas, and not in others. May be a gradual process?
-
-Regardless, lower layers seem to be 'absorbed' into the upper layer after some unspecified point. I have no idea what the heck this plant is even doing- if it can even be called that. It's branch like methods spearing all over the place remind me vaguely of a mushroom type plant. 
-
-Briggs called them " chubby noodle trees " and honestly I can't disagree. They barely look like any trees I know of on Earth. 
-
-With Naybree being "Root Two" literally in D'ni, I'd have to assume this Age started with two trees that merged into one and just started growing exponentially in a race to consume eachother. But that's speculation. Could've been a reference to the moons, if that's the case.
-
-Honestly, this tree is some of the only native plant life I can see in the Garden's back half. If this age had ANYTHING there that wasn't the "tree" before this point, it's long dead. Just some small shrubs and other bushes/grasses in the front half remain. 
-
-Ah, still. It's a nice mountain view from the clifftops though. ]]></translation>
-            </element>
             <element name="creditsbook">
                 <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
 
@@ -1008,8 +1008,6 @@ Thanks to the Open Uru and Minkata Testers for helping get this over the line!
 Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-This product contains trademarks and/or copyrighted works of Cyan. All rights reserved by Cyan. This age/product is not created by Cyan and is not endorsed by Cyan outside of being hosted on their MOULa server.
 
 ]]></translation>
             </element>

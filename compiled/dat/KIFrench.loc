@@ -62,6 +62,7 @@
 				<translation language="French"> (Je suis à la surface. Je serai de retour dans une minute)</translation>
 			</element>
 			<element name="AdminContextPrefix">
+				<translation language="French">[ADMIN] </translation>
 			</element>
 			<element name="BroadcastMsgRecvd">
 				<translation language="French"> </translation>
@@ -70,8 +71,10 @@
 				<translation language="French"> </translation>
 			</element>
 			<element name="BuddiesContextPrefix">
+				<translation language="French">[AMIS] </translation>
 			</element>
 			<element name="CCRContextPrefix">
+				<translation language="French">[PAC] </translation>
 			</element>
 			<element name="CCRFromPlayer">
 				<translation language="French">De %1s à PAC :</translation>
@@ -85,6 +88,7 @@
 			<element name="CannotFindBuddy">
 			</element>
 			<element name="ErrorContextPrefix">
+				<translation language="French">[ERREUR] </translation>
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="French">Erreur :</translation>
@@ -132,6 +136,7 @@
 				<translation language="French">À : Équipe rouge &gt;</translation>
 			</element>
 			<element name="NeighborsContextPrefix">
+				<translation language="French">[VOISINS] </translation>
 			</element>
 			<element name="NoOneListening">
 				<translation language="French">(Vous êtes trop loin. Vous devriez peut-être crier ?)</translation>
@@ -140,6 +145,7 @@
 				<translation language="French">(Il n'y a personne à qui répondre.)</translation>
 			</element>
 			<element name="PrivateContextPrefix">
+				<translation language="French">[PRIVÉ] </translation>
 			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="French">De </translation>
@@ -148,6 +154,7 @@
 				<translation language="French">À </translation>
 			</element>
 			<element name="SubtitleContextPrefix">
+				<translation language="French">[SOUS-TITRE] </translation>
 			</element>
 			<element name="TOPrompt">
 				<translation language="French">À :</translation>

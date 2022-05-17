@@ -56,6 +56,7 @@
 				<translation language="Spanish"> (Estoy en la superficie, volveré en un minuto)</translation>
 			</element>
 			<element name="AdminContextPrefix">
+				<translation language="Spanish">[ADMIN] </translation>
 			</element>
 			<element name="BroadcastMsgRecvd">
 				<translation language="Spanish"> </translation>
@@ -64,8 +65,10 @@
 				<translation language="Spanish"> </translation>
 			</element>
 			<element name="BuddiesContextPrefix">
+				<translation language="Spanish">[AMIGOS] </translation>
 			</element>
 			<element name="CCRContextPrefix">
+				<translation language="Spanish">[CCR] </translation>
 			</element>
 			<element name="CCRFromPlayer">
 				<translation language="Spanish">De %1s a CCR:</translation>
@@ -79,6 +82,7 @@
 			<element name="CannotFindBuddy">
 			</element>
 			<element name="ErrorContextPrefix">
+				<translation language="Spanish">[ERROR] </translation>
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="Spanish">Error:</translation>
@@ -126,6 +130,7 @@
 				<translation language="Spanish">A: El equipo rojo &gt;</translation>
 			</element>
 			<element name="NeighborsContextPrefix">
+				<translation language="Spanish">[SECTORES] </translation>
 			</element>
 			<element name="NoOneListening">
 				<translation language="Spanish">(Estás demasiado lejos, ¿quizás si subes la voz?)</translation>
@@ -134,6 +139,7 @@
 				<translation language="Spanish">(No hay nadie a quien responder.)</translation>
 			</element>
 			<element name="PrivateContextPrefix">
+				<translation language="Spanish">[PRIVADO] </translation>
 			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="Spanish">De </translation>
@@ -142,6 +148,7 @@
 				<translation language="Spanish">A </translation>
 			</element>
 			<element name="SubtitleContextPrefix">
+				<translation language="Spanish">[SUBTÍTULO] </translation>
 			</element>
 			<element name="TOPrompt">
 				<translation language="Spanish">A:</translation>

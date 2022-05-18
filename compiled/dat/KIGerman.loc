@@ -145,7 +145,7 @@
 				<translation language="German">(Es gibt niemand, dem man antworten könnte.)</translation>
 			</element>
 			<element name="PrivateContextPrefix">
-				<translation language="German">[PRIVATE] </translation>
+				<translation language="German">[PRIVAT] </translation>
 			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="German">Von </translation>

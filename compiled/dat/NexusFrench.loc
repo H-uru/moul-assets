@@ -56,6 +56,12 @@
 			<element name="GoMePubNewPopulation">
 				<translation language="French">Population actuelle : %1s Population maximum : %2s</translation>
 			</element>
+			<element name="EloninFull">
+				<translation language="French">Elonin est actuellement saturée. Réessayez plus tard.</translation>
+			</element>
+			<element name="EloninPopulation">
+				<translation language="French">Population actuelle : %1s Population maximum : %2s</translation>
+			</element>
 			<element name="GuildPubFull">
 			</element>
 			<element name="GuildPubPopulation">

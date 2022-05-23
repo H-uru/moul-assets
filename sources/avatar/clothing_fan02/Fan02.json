@@ -44,7 +44,15 @@
         
         "Icon_UTorso_LeatherJacket_Minkata.png",
         "UTorso_LeatherJacketMinkata_Tint1.png",
-        "UTorso_LeatherJacketMinkataArm_tint1.png"
+        "UTorso_LeatherJacketMinkataArm_tint1.png",
+        
+        "Icon_UTorse_Fleece_KelsReward.png",
+        "UTorso_Fleece_KelsReward_Base.png",
+        "UTorso_Fleece_KelsRewardArm_Base.png", 
+        
+        "Icon_UTorso_Shirt_GoInst.png",
+        "MTorso_xSleeve_GoInst_Base.png",
+        "MTorso_xSleeve_GoInst_Tint1.png"
       ],
       "clItems": [
         {
@@ -54,8 +62,8 @@
           "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
           "tint1": [0.2863, 0.2863, 0.2863],
           "tint2": [0.2863, 0.2863, 0.2863],
-          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve; nonStandard",
-          "text": "Short Sleeve T-Shirt - Mysterium 2021",
+          "desc": "ColorLabel1 = Shirt ; ColorLabel2 = ; isLogoFor = MReward_SSMysterium2000 ; GroupName = Mysterium ; nonStandard",
+          "text": "Mysterium 2021 T-Shirt",
           "meshes": [
             {
                 "name": "MHTorso08_SMsh",
@@ -462,6 +470,115 @@
               }
             }
           ]
+        },
+        {
+          "name": "MReward_RewKelsFleece",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorse_Fleece_KelsReward.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1 =; ColorLabel2 = ;isLogoFor=02_MTorso06_01; GroupName=Fleece; nonStandard",
+          "text": "Ambiguous Whiskers Fleece",
+          "meshes": [
+            {
+                "name": "MHTorso06_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "UTorso_Fleece_KelsReward_Base.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "UTorso_Fleece_KelsRewardArm_Base.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_ShortSleeve_GoInst",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_GoInst.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Guild of Instructors",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_GoInst_Base.png",
+                "8": "MTorso_xSleeve_GoInst_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_LongSleeve_GoInst",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_GoInst.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01",
+          "text": "Long Sleeve T-Shirt - Guild of Instructors",
+          "meshes": [
+            "MHTorso_SMsh",
+            "MMTorso_SMsh",
+            "MLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_GoInst_Base.png",
+                "8": "MTorso_xSleeve_GoInst_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
         }
       ]
     },
@@ -509,7 +626,15 @@
         
         "Icon_UTorso_LeatherJacket_Minkata.png",
         "UTorso_LeatherJacketMinkata_Tint1.png",
-        "UTorso_LeatherJacketMinkataArm_tint1.png"
+        "UTorso_LeatherJacketMinkataArm_tint1.png",
+        
+        "Icon_UTorse_Fleece_KelsReward.png",
+        "UTorso_Fleece_KelsReward_Base.png",
+        "UTorso_Fleece_KelsRewardArm_Base.png",
+        
+        "Icon_UTorso_Shirt_GoInst.png",
+        "FTorso_xSleeve_GoInst_Base.png",
+        "FTorso_xSleeve_GoInst_Tint1.png"
       ],
       "clItems": [
         {
@@ -519,8 +644,8 @@
           "icon": "Icon_UTorso_Shirt_Mysterium2021.png",
           "tint1": [0.2863, 0.2863, 0.2863],
           "tint2": [0.2863, 0.2863, 0.2863],
-          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve; nonStandard",
-          "text": "Short Sleeve T-Shirt - Mysterium 2021",
+          "desc": "ColorLabel1 = Shirt ; ColorLabel2 = ; isLogoFor = FReward_SSMysterium2000 ; GroupName = Mysterium ; nonStandard",
+          "text": "Mysterium 2021 T-Shirt",
           "meshes": [
             {
                 "name": "FHTorso12_SMsh",
@@ -921,6 +1046,105 @@
               "name": "Arm",
               "layers": {
                 "8": "UTorso_LeatherJacketMinkataArm_tint1.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_RewKelsFleece",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorse_Fleece_KelsReward.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1 =; ColorLabel2 = ; isLogoFor=03_FTorso06_01; GroupName=Fleece; nonStandard",
+          "text": "Ambiguous Whiskers Fleece",
+          "meshes": [
+            "FHTorso06_SMsh",
+            "FMTorso06_SMsh",
+            "FLTorso06_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "UTorso_Fleece_KelsReward_Base.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "UTorso_Fleece_KelsRewardArm_Base.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_ShortSleeve_GoInst",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_GoInst.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Guild of Instructors",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_GoInst_Base.png",
+                "8": "FTorso_xSleeve_GoInst_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_LongSleeve_GoInst",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_GoInst.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [0.2863, 0.2863, 0.2863],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01",
+          "text": "Long Sleeve T-Shirt - Guild of Instructors",
+          "meshes": [
+            "FHTorso_SMsh",
+            "FMTorso_SMsh",
+            "FLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_GoInst_Base.png",
+                "8": "FTorso_xSleeve_GoInst_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
               }
             }
           ]

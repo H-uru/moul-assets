@@ -1,0 +1,2358 @@
+{
+  "pages": [
+    {
+      "prefix": -5,
+      "suffix": 13,
+      "agename": "GlobalClothing",
+      "name": "MaleMysterium",
+      "mipmaps": [
+        "Icon_UTorso_Shirt_Mysterium.png",
+        "Icon_UTorso_Shirt_Mysterium2000.png",
+        "MTorso_ShortSleeve_Mysterium2000_Base.png",
+        "MTorso_ShortSleeve_Mysterium2000_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2001.png",
+        "MTorso_ShortSleeve_Mysterium2001_Base.png",
+        "MTorso_ShortSleeve_Mysterium2001_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2002.png",
+        "MTorso_ShortSleeve_Mysterium2002_Base.png",
+        "MTorso_ShortSleeve_Mysterium2002_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2003.png",
+        "MTorso_ShortSleeve_Mysterium2003_Base.png",
+        "MTorso_ShortSleeve_Mysterium2003_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2004.png",
+        "MTorso_ShortSleeve_Mysterium2004_Base.png",
+        "MTorso_ShortSleeve_Mysterium2004_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2005.png",
+        "MTorso_ShortSleeve_Mysterium2005_Base.png",
+        "MTorso_ShortSleeve_Mysterium2005_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2006.png",
+        "MTorso_ShortSleeve_Mysterium2006_Base.png",
+        "MTorso_ShortSleeve_Mysterium2006_Tint1.png",
+        "MTorso_ShortSleeve_Mysterium2006_Tint2.png",
+        "Icon_UTorso_Shirt_Mystralium2006.png",
+        "MTorso_ShortSleeve_Mystralium2006_Base.png",
+        "MTorso_ShortSleeve_Mystralium2006_Tint1.png",
+        "MTorso_ShortSleeve_Mystralium2006_Tint2.png",
+        "Icon_UTorso_Shirt_Mysterium2007.png",
+        "MTorso_ShortSleeve_Mysterium2007_Base.png",
+        "MTorso_ShortSleeve_Mysterium2007_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2008.png",
+        "MTorso_ShortSleeve_Mysterium2008_Base.png",
+        "MTorso_ShortSleeve_Mysterium2008_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2009.png",
+        "MTorso_ShortSleeve_Mysterium2009_Base.png",
+        "MTorso_ShortSleeve_Mysterium2009_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2010.png",
+        "MTorso_ShortSleeve_Mysterium2010_Base.png",
+        "MTorso_ShortSleeve_Mysterium2010_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2011.png",
+        "MTorso_ShortSleeve_Mysterium2011_Base.png",
+        "MTorso_ShortSleeve_Mysterium2011_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2012.png",
+        "MTorso_ShortSleeve_Mysterium2012_Base.png",
+        "MTorso_ShortSleeve_Mysterium2012_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2013.png",
+        "MTorso_ShortSleeve_Mysterium2013_Base.png",
+        "MTorso_ShortSleeve_Mysterium2013_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014a.png",
+        "MTorso_ShortSleeve_Mysterium2014a_Base.png",
+        "MTorso_ShortSleeve_Mysterium2014a_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014b.png",
+        "MTorso_ShortSleeve_Mysterium2014b_Base.png",
+        "MTorso_ShortSleeve_Mysterium2014b_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014c.png",
+        "MTorso_ShortSleeve_Mysterium2014c_Base.png",
+        "MTorso_ShortSleeve_Mysterium2014c_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014d.png",
+        "MTorso_ShortSleeve_Mysterium2014d_Base.png",
+        "MTorso_ShortSleeve_Mysterium2014d_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014e.png",
+        "MTorso_ShortSleeve_Mysterium2014e_Base.png",
+        "MTorso_ShortSleeve_Mysterium2014e_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2015.png",
+        "MTorso_ShortSleeve_Mysterium2015_Base.png",
+        "MTorso_ShortSleeve_Mysterium2015_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2016.png",
+        "MTorso_ShortSleeve_Mysterium2016_Base.png",
+        "MTorso_ShortSleeve_Mysterium2016_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2017.png",
+        "MTorso_ShortSleeve_Mysterium2017_Base.png",
+        "MTorso_ShortSleeve_Mysterium2017_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2018.png",
+        "MTorso_ShortSleeve_Mysterium2018_Base.png",
+        "MTorso_ShortSleeve_Mysterium2018_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2019.png",
+        "MTorso_ShortSleeve_Mysterium2019_Base.png",
+        "MTorso_ShortSleeve_Mysterium2019_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2020.png",
+        "MTorso_ShortSleeve_Mysterium2020_Base.png",
+        "MTorso_ShortSleeve_Mysterium2020_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2022.png",
+        "MTorso_ShortSleeve_Mysterium2022_Base.png",
+        "MTorso_ShortSleeve_Mysterium2022_Tint1.png"
+      ],
+      "clItems": [
+        {
+          "name": "Icon_SSMysterium",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "GroupIcon; GroupName = Mysterium",
+          "text": "Mysterium T-Shirts",
+          "meshes": [
+          {},{},{}
+          ],
+          "elements": [
+          ]
+        },{
+          "name": "MReward_SSMysterium2000",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2000.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2000 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2000_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2000_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2001",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2001.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2001 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2001_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2001_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2002",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2002.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2002 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2002_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2002_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2003",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2003.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2003 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2003_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2003_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2004",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2004.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2004 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2004_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2004_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2005",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2005.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2005 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2005_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2005_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2006",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2006.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=State; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2006 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2006_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2006_Tint1.png",
+                "9": "MTorso_ShortSleeve_Mysterium2006_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2006Australia",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mystralium2006.png",
+          "tint1": [0.7333, 0.7059, 0.5137],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Text; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mystralium 2006 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mystralium2006_Base.png",
+                "8": "MTorso_ShortSleeve_Mystralium2006_Tint1.png",
+                "9": "MTorso_ShortSleeve_Mystralium2006_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2007",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2007.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2007 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2007_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2007_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2008",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2008.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2008 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2008_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2008_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2009",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2009.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2009 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2009_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2009_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2010",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2010.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2010 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2010_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2010_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2011",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2011.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2011 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2011_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2011_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2012",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2012.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2012 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2012_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2012_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2013",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2013.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2013 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2013_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2013_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2014a",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014a.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Boiler T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2014a_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2014a_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2014b",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014b.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Jungle T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2014b_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2014b_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2014c",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014c.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Prison T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2014c_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2014c_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2014d",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014d.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Survey T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2014d_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2014d_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2014e",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014e.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Temple T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2014e_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2014e_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2015",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2015.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2015 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2015_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2015_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2016",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2016.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2016 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2016_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2016_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2017",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2017.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2017 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2017_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2017_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2018",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2018.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2018 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2018_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2018_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2019",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2019.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2019 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2019_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2019_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2020",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2020.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2020 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2020_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2020_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "MReward_SSMysterium2022",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2022.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2022 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2022_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2022_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        }
+      ]
+    },{
+      "prefix": -5,
+      "suffix": 14,
+      "agename": "GlobalClothing",
+      "name": "FemaleMysterium",
+      "mipmaps": [
+        "Icon_UTorso_Shirt_Mysterium.png",
+        "Icon_UTorso_Shirt_Mysterium2000.png",
+        "FTorso_ShortSleeve_Mysterium2000_Base.png",
+        "FTorso_ShortSleeve_Mysterium2000_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2001.png",
+        "FTorso_ShortSleeve_Mysterium2001_Base.png",
+        "FTorso_ShortSleeve_Mysterium2001_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2002.png",
+        "FTorso_ShortSleeve_Mysterium2002_Base.png",
+        "FTorso_ShortSleeve_Mysterium2002_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2003.png",
+        "FTorso_ShortSleeve_Mysterium2003_Base.png",
+        "FTorso_ShortSleeve_Mysterium2003_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2004.png",
+        "FTorso_ShortSleeve_Mysterium2004_Base.png",
+        "FTorso_ShortSleeve_Mysterium2004_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2005.png",
+        "FTorso_ShortSleeve_Mysterium2005_Base.png",
+        "FTorso_ShortSleeve_Mysterium2005_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2006.png",
+        "FTorso_ShortSleeve_Mysterium2006_Base.png",
+        "FTorso_ShortSleeve_Mysterium2006_Tint1.png",
+        "FTorso_ShortSleeve_Mysterium2006_Tint2.png",
+        "Icon_UTorso_Shirt_Mystralium2006.png",
+        "FTorso_ShortSleeve_Mystralium2006_Base.png",
+        "FTorso_ShortSleeve_Mystralium2006_Tint1.png",
+        "FTorso_ShortSleeve_Mystralium2006_Tint2.png",
+        "Icon_UTorso_Shirt_Mysterium2007.png",
+        "FTorso_ShortSleeve_Mysterium2007_Base.png",
+        "FTorso_ShortSleeve_Mysterium2007_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2008.png",
+        "FTorso_ShortSleeve_Mysterium2008_Base.png",
+        "FTorso_ShortSleeve_Mysterium2008_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2009.png",
+        "FTorso_ShortSleeve_Mysterium2009_Base.png",
+        "FTorso_ShortSleeve_Mysterium2009_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2010.png",
+        "FTorso_ShortSleeve_Mysterium2010_Base.png",
+        "FTorso_ShortSleeve_Mysterium2010_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2011.png",
+        "FTorso_ShortSleeve_Mysterium2011_Base.png",
+        "FTorso_ShortSleeve_Mysterium2011_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2012.png",
+        "FTorso_ShortSleeve_Mysterium2012_Base.png",
+        "FTorso_ShortSleeve_Mysterium2012_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2013.png",
+        "FTorso_ShortSleeve_Mysterium2013_Base.png",
+        "FTorso_ShortSleeve_Mysterium2013_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014a.png",
+        "FTorso_ShortSleeve_Mysterium2014a_Base.png",
+        "FTorso_ShortSleeve_Mysterium2014a_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014b.png",
+        "FTorso_ShortSleeve_Mysterium2014b_Base.png",
+        "FTorso_ShortSleeve_Mysterium2014b_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014c.png",
+        "FTorso_ShortSleeve_Mysterium2014c_Base.png",
+        "FTorso_ShortSleeve_Mysterium2014c_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014d.png",
+        "FTorso_ShortSleeve_Mysterium2014d_Base.png",
+        "FTorso_ShortSleeve_Mysterium2014d_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2014e.png",
+        "FTorso_ShortSleeve_Mysterium2014e_Base.png",
+        "FTorso_ShortSleeve_Mysterium2014e_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2015.png",
+        "FTorso_ShortSleeve_Mysterium2015_Base.png",
+        "FTorso_ShortSleeve_Mysterium2015_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2016.png",
+        "FTorso_ShortSleeve_Mysterium2016_Base.png",
+        "FTorso_ShortSleeve_Mysterium2016_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2017.png",
+        "FTorso_ShortSleeve_Mysterium2017_Base.png",
+        "FTorso_ShortSleeve_Mysterium2017_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2018.png",
+        "FTorso_ShortSleeve_Mysterium2018_Base.png",
+        "FTorso_ShortSleeve_Mysterium2018_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2019.png",
+        "FTorso_ShortSleeve_Mysterium2019_Base.png",
+        "FTorso_ShortSleeve_Mysterium2019_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2020.png",
+        "FTorso_ShortSleeve_Mysterium2020_Base.png",
+        "FTorso_ShortSleeve_Mysterium2020_Tint1.png",
+        "Icon_UTorso_Shirt_Mysterium2022.png",
+        "FTorso_ShortSleeve_Mysterium2022_Base.png",
+        "FTorso_ShortSleeve_Mysterium2022_Tint1.png"
+      ],
+      "clItems": [
+        {
+          "name": "Icon_SSMysterium",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "GroupIcon; GroupName = Mysterium",
+          "text": "Mysterium T-Shirts",
+          "meshes": [
+          {},{},{}
+          ],
+          "elements": [
+          ]
+        },{
+          "name": "FReward_SSMysterium2000",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2000.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2000 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2000_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2000_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2001",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2001.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2001 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2001_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2001_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2002",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2002.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2002 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2002_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2002_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2003",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2003.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2003 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2003_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2003_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2004",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2004.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2004 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2004_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2004_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2005",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2005.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2005 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2005_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2005_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2006",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2006.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=State; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2006 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2006_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2006_Tint1.png",
+                "9": "FTorso_ShortSleeve_Mysterium2006_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2006Australia",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mystralium2006.png",
+          "tint1": [0.7333, 0.7059, 0.5137],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Text; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mystralium 2006 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mystralium2006_Base.png",
+                "8": "FTorso_ShortSleeve_Mystralium2006_Tint1.png",
+                "9": "FTorso_ShortSleeve_Mystralium2006_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2007",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2007.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2007 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2007_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2007_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2008",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2008.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2008 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2008_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2008_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2009",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2009.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2009 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2009_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2009_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2010",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2010.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2010 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2010_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2010_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2011",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2011.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2011 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2011_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2011_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2012",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2012.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2012 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2012_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2012_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2013",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2013.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2013 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2013_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2013_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2014a",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014a.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Boiler T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2014a_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2014a_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2014b",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014b.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Jungle T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2014b_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2014b_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2014c",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014c.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Prison T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2014c_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2014c_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2014d",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014d.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Survey T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2014d_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2014d_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2014e",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2014e.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2014 Temple T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2014e_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2014e_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2015",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2015.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2015 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2015_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2015_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2016",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2016.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2016 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2016_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2016_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2017",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2017.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2017 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2017_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2017_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2018",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2018.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2018 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2018_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2018_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2019",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2019.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2019 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2019_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2019_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2020",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2020.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2020 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2020_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2020_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },{
+          "name": "FReward_SSMysterium2022",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2022.png",
+          "tint1": [0.2863, 0.2863, 0.2863],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2022 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2022_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2022_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

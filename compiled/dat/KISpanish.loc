@@ -59,10 +59,10 @@
 				<translation language="Spanish">[ADMIN] </translation>
 			</element>
 			<element name="BroadcastMsgRecvd">
-				<translation language="Spanish"> </translation>
+				<translation language="Spanish"></translation>
 			</element>
 			<element name="BroadcastSendTo">
-				<translation language="Spanish"> </translation>
+				<translation language="Spanish"></translation>
 			</element>
 			<element name="BuddiesContextPrefix">
 				<translation language="Spanish">[AMIGOS] </translation>
@@ -128,6 +128,9 @@
 			</element>
 			<element name="MarkerTORedTeam">
 				<translation language="Spanish">A: El equipo rojo &gt;</translation>
+			</element>
+			<element name="MentionContextPrefix">
+				<translation language="Spanish">[PING] </translation>
 			</element>
 			<element name="NeighborsContextPrefix">
 				<translation language="Spanish">[SECTORES] </translation>

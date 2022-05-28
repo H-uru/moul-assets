@@ -65,10 +65,10 @@
 				<translation language="English">[ADMIN] </translation>
 			</element>
 			<element name="BroadcastMsgRecvd">
-				<translation language="English"> </translation>
+				<translation language="English"></translation>
 			</element>
 			<element name="BroadcastSendTo">
-				<translation language="English"> </translation>
+				<translation language="English"></translation>
 			</element>
 			<element name="BuddiesContextPrefix">
 				<translation language="English">[BUDDIES] </translation>
@@ -135,6 +135,9 @@
 			</element>
 			<element name="MarkerTORedTeam">
 				<translation language="English">TO:RedTeam &gt;</translation>
+			</element>
+			<element name="MentionContextPrefix">
+				<translation language="English">[PING] </translation>
 			</element>
 			<element name="NeighborsContextPrefix">
 				<translation language="English">[NEIGHBORS] </translation>

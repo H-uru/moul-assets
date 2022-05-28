@@ -59,10 +59,10 @@
 				<translation language="Italian">[AMMIN] </translation>
 			</element>
 			<element name="BroadcastMsgRecvd">
-				<translation language="Italian"> </translation>
+				<translation language="Italian"></translation>
 			</element>
 			<element name="BroadcastSendTo">
-				<translation language="Italian"> </translation>
+				<translation language="Italian"></translation>
 			</element>
 			<element name="BuddiesContextPrefix">
 				<translation language="Italian">[AMICI] </translation>
@@ -128,6 +128,9 @@
 			</element>
 			<element name="MarkerTORedTeam">
 				<translation language="Italian">A: Squadra Rossa &gt;</translation>
+			</element>
+			<element name="MentionContextPrefix">
+				<translation language="Italian">[PING] </translation>
 			</element>
 			<element name="NeighborsContextPrefix">
 				<translation language="Italian">[VICINI] </translation>

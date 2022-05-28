@@ -65,10 +65,10 @@
 				<translation language="French">[ADMIN] </translation>
 			</element>
 			<element name="BroadcastMsgRecvd">
-				<translation language="French"> </translation>
+				<translation language="French"></translation>
 			</element>
 			<element name="BroadcastSendTo">
-				<translation language="French"> </translation>
+				<translation language="French"></translation>
 			</element>
 			<element name="BuddiesContextPrefix">
 				<translation language="French">[AMIS] </translation>
@@ -134,6 +134,9 @@
 			</element>
 			<element name="MarkerTORedTeam">
 				<translation language="French">À : Équipe rouge &gt;</translation>
+			</element>
+			<element name="MentionContextPrefix">
+				<translation language="French">[PING] </translation>
 			</element>
 			<element name="NeighborsContextPrefix">
 				<translation language="French">[VOISINS] </translation>

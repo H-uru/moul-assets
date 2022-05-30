@@ -61,11 +61,20 @@
 			<element name="AFK">
 				<translation language="English"> (I'm on the surface, be back in a minute)</translation>
 			</element>
+			<element name="AdminContextPrefix">
+				<translation language="English">[ADMIN] </translation>
+			</element>
 			<element name="BroadcastMsgRecvd">
-				<translation language="English"> </translation>
+				<translation language="English"></translation>
 			</element>
 			<element name="BroadcastSendTo">
-				<translation language="English"> </translation>
+				<translation language="English"></translation>
+			</element>
+			<element name="BuddiesContextPrefix">
+				<translation language="English">[BUDDIES] </translation>
+			</element>
+			<element name="CCRContextPrefix">
+				<translation language="English">[CCR] </translation>
 			</element>
 			<element name="CCRFromPlayer">
 				<translation language="English">From %1s to CCR:</translation>
@@ -78,6 +87,9 @@
 			</element>
 			<element name="CannotFindBuddy">
 				<translation language="English">(Can't find "%1s" in any of the player lists.)</translation>
+			</element>
+			<element name="ErrorContextPrefix">
+				<translation language="English">[ERROR] </translation>
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="English">Error:</translation>
@@ -124,17 +136,29 @@
 			<element name="MarkerTORedTeam">
 				<translation language="English">TO:RedTeam &gt;</translation>
 			</element>
+			<element name="MentionContextPrefix">
+				<translation language="English">[PING] </translation>
+			</element>
+			<element name="NeighborsContextPrefix">
+				<translation language="English">[NEIGHBORS] </translation>
+			</element>
 			<element name="NoOneListening">
 				<translation language="English">(You're standing too far away, perhaps if you shout?)</translation>
 			</element>
 			<element name="NoOneToReply">
 				<translation language="English">(There is no one to reply to.)</translation>
 			</element>
+			<element name="PrivateContextPrefix">
+				<translation language="English">[PRIVATE] </translation>
+			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="English">From </translation>
 			</element>
 			<element name="PrivateSendTo">
 				<translation language="English">To </translation>
+			</element>
+			<element name="SubtitleContextPrefix">
+				<translation language="English">[SUBTITLE] </translation>
 			</element>
 			<element name="TOPrompt">
 				<translation language="English">TO:</translation>

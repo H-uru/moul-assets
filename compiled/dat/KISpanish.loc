@@ -55,11 +55,20 @@
 			<element name="AFK">
 				<translation language="Spanish"> (Estoy en la superficie, volveré en un minuto)</translation>
 			</element>
+			<element name="AdminContextPrefix">
+				<translation language="Spanish">[ADMIN] </translation>
+			</element>
 			<element name="BroadcastMsgRecvd">
-				<translation language="Spanish"> </translation>
+				<translation language="Spanish"></translation>
 			</element>
 			<element name="BroadcastSendTo">
-				<translation language="Spanish"> </translation>
+				<translation language="Spanish"></translation>
+			</element>
+			<element name="BuddiesContextPrefix">
+				<translation language="Spanish">[AMIGOS] </translation>
+			</element>
+			<element name="CCRContextPrefix">
+				<translation language="Spanish">[CCR] </translation>
 			</element>
 			<element name="CCRFromPlayer">
 				<translation language="Spanish">De %1s a CCR:</translation>
@@ -71,6 +80,9 @@
 				<translation language="Spanish">A CCR:</translation>
 			</element>
 			<element name="CannotFindBuddy">
+			</element>
+			<element name="ErrorContextPrefix">
+				<translation language="Spanish">[ERROR] </translation>
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="Spanish">Error:</translation>
@@ -117,17 +129,29 @@
 			<element name="MarkerTORedTeam">
 				<translation language="Spanish">A: El equipo rojo &gt;</translation>
 			</element>
+			<element name="MentionContextPrefix">
+				<translation language="Spanish">[PING] </translation>
+			</element>
+			<element name="NeighborsContextPrefix">
+				<translation language="Spanish">[SECTORES] </translation>
+			</element>
 			<element name="NoOneListening">
 				<translation language="Spanish">(Estás demasiado lejos, ¿quizás si subes la voz?)</translation>
 			</element>
 			<element name="NoOneToReply">
 				<translation language="Spanish">(No hay nadie a quien responder.)</translation>
 			</element>
+			<element name="PrivateContextPrefix">
+				<translation language="Spanish">[PRIVADO] </translation>
+			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="Spanish">De </translation>
 			</element>
 			<element name="PrivateSendTo">
 				<translation language="Spanish">A </translation>
+			</element>
+			<element name="SubtitleContextPrefix">
+				<translation language="Spanish">[SUBTÍTULO] </translation>
 			</element>
 			<element name="TOPrompt">
 				<translation language="Spanish">A:</translation>

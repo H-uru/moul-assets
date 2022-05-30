@@ -61,11 +61,20 @@
 			<element name="AFK">
 				<translation language="German"> (Ich bin an der Oberfläche, komme gleich zurück)</translation>
 			</element>
+			<element name="AdminContextPrefix">
+				<translation language="German">[ADMIN] </translation>
+			</element>
 			<element name="BroadcastMsgRecvd">
-				<translation language="German"> </translation>
+				<translation language="German"></translation>
 			</element>
 			<element name="BroadcastSendTo">
-				<translation language="German"> </translation>
+				<translation language="German"></translation>
+			</element>
+			<element name="BuddiesContextPrefix">
+				<translation language="German">[FREUNDE] </translation>
+			</element>
+			<element name="CCRContextPrefix">
+				<translation language="German">[KUNDENBETREUUNG] </translation>
 			</element>
 			<element name="CCRFromPlayer">
 				<translation language="German">Von %1s an Kundenbetreuung:</translation>
@@ -77,6 +86,9 @@
 				<translation language="German">An Kundenbetreuung:</translation>
 			</element>
 			<element name="CannotFindBuddy">
+			</element>
+			<element name="ErrorContextPrefix">
+				<translation language="German">[FEHLER] </translation>
 			</element>
 			<element name="ErrorMsgRecvd">
 				<translation language="German">Fehler:</translation>
@@ -123,17 +135,29 @@
 			<element name="MarkerTORedTeam">
 				<translation language="German">AN: Rotes Team &gt;</translation>
 			</element>
+			<element name="MentionContextPrefix">
+				<translation language="German">[PING] </translation>
+			</element>
+			<element name="NeighborsContextPrefix">
+				<translation language="German">[NACHBARN] </translation>
+			</element>
 			<element name="NoOneListening">
 				<translation language="German">(Sie sind zu weit weg. Vielleicht sollten Sie schreien.)</translation>
 			</element>
 			<element name="NoOneToReply">
 				<translation language="German">(Es gibt niemand, dem man antworten könnte.)</translation>
 			</element>
+			<element name="PrivateContextPrefix">
+				<translation language="German">[PRIVAT] </translation>
+			</element>
 			<element name="PrivateMsgRecvd">
 				<translation language="German">Von </translation>
 			</element>
 			<element name="PrivateSendTo">
 				<translation language="German">An </translation>
+			</element>
+			<element name="SubtitleContextPrefix">
+				<translation language="German">[UNTERTITEL] </translation>
 			</element>
 			<element name="TOPrompt">
 				<translation language="German">AN:</translation>

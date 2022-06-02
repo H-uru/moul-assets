@@ -101,12 +101,10 @@
           "tint2": [1, 1, 1],
           "desc": "GroupIcon; GroupName = Mysterium",
           "text": "Mysterium T-Shirts",
-          "meshes": [
-          {},{},{}
-          ],
-          "elements": [
-          ]
-        },{
+          "meshes": [{},{},{}],
+          "elements": []
+        },
+        {
           "name": "MReward_SSMysterium2000",
           "type": "Shirt",
           "group": "Male",
@@ -146,7 +144,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2001",
           "type": "Shirt",
           "group": "Male",
@@ -186,7 +185,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2002",
           "type": "Shirt",
           "group": "Male",
@@ -226,7 +226,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2003",
           "type": "Shirt",
           "group": "Male",
@@ -266,7 +267,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2004",
           "type": "Shirt",
           "group": "Male",
@@ -306,7 +308,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2005",
           "type": "Shirt",
           "group": "Male",
@@ -346,7 +349,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2006",
           "type": "Shirt",
           "group": "Male",
@@ -387,7 +391,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2006Australia",
           "type": "Shirt",
           "group": "Male",
@@ -428,7 +433,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2007",
           "type": "Shirt",
           "group": "Male",
@@ -468,7 +474,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2008",
           "type": "Shirt",
           "group": "Male",
@@ -508,7 +515,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2009",
           "type": "Shirt",
           "group": "Male",
@@ -548,7 +556,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2010",
           "type": "Shirt",
           "group": "Male",
@@ -588,7 +597,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2011",
           "type": "Shirt",
           "group": "Male",
@@ -628,7 +638,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2012",
           "type": "Shirt",
           "group": "Male",
@@ -668,7 +679,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2013",
           "type": "Shirt",
           "group": "Male",
@@ -708,7 +720,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2014a",
           "type": "Shirt",
           "group": "Male",
@@ -748,7 +761,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2014b",
           "type": "Shirt",
           "group": "Male",
@@ -788,7 +802,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2014c",
           "type": "Shirt",
           "group": "Male",
@@ -828,7 +843,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2014d",
           "type": "Shirt",
           "group": "Male",
@@ -868,7 +884,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2014e",
           "type": "Shirt",
           "group": "Male",
@@ -908,7 +925,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2015",
           "type": "Shirt",
           "group": "Male",
@@ -948,7 +966,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2016",
           "type": "Shirt",
           "group": "Male",
@@ -988,7 +1007,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2017",
           "type": "Shirt",
           "group": "Male",
@@ -1028,7 +1048,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2018",
           "type": "Shirt",
           "group": "Male",
@@ -1108,7 +1129,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2020",
           "type": "Shirt",
           "group": "Male",
@@ -1148,7 +1170,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2022",
           "type": "Shirt",
           "group": "Male",
@@ -1190,7 +1213,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "prefix": -5,
       "suffix": 14,
       "agename": "GlobalClothing",
@@ -1291,12 +1315,10 @@
           "tint2": [1, 1, 1],
           "desc": "GroupIcon; GroupName = Mysterium",
           "text": "Mysterium T-Shirts",
-          "meshes": [
-          {},{},{}
-          ],
-          "elements": [
-          ]
-        },{
+          "meshes": [{},{},{}],
+          "elements": []
+        },
+        {
           "name": "FReward_SSMysterium2000",
           "type": "Shirt",
           "group": "Female",
@@ -1335,7 +1357,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2001",
           "type": "Shirt",
           "group": "Female",
@@ -1374,7 +1397,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2002",
           "type": "Shirt",
           "group": "Female",
@@ -1413,7 +1437,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2003",
           "type": "Shirt",
           "group": "Female",
@@ -1452,7 +1477,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2004",
           "type": "Shirt",
           "group": "Female",
@@ -1491,7 +1517,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2005",
           "type": "Shirt",
           "group": "Female",
@@ -1530,7 +1557,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2006",
           "type": "Shirt",
           "group": "Female",
@@ -1570,7 +1598,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2006Australia",
           "type": "Shirt",
           "group": "Female",
@@ -1610,7 +1639,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2007",
           "type": "Shirt",
           "group": "Female",
@@ -1649,7 +1679,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2008",
           "type": "Shirt",
           "group": "Female",
@@ -1688,7 +1719,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2009",
           "type": "Shirt",
           "group": "Female",
@@ -1727,7 +1759,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2010",
           "type": "Shirt",
           "group": "Female",
@@ -1766,7 +1799,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2011",
           "type": "Shirt",
           "group": "Female",
@@ -1805,7 +1839,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2012",
           "type": "Shirt",
           "group": "Female",
@@ -1844,7 +1879,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2013",
           "type": "Shirt",
           "group": "Female",
@@ -1922,7 +1958,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2014b",
           "type": "Shirt",
           "group": "Female",
@@ -1961,7 +1998,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2014c",
           "type": "Shirt",
           "group": "Female",
@@ -2000,7 +2038,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2014d",
           "type": "Shirt",
           "group": "Female",
@@ -2039,7 +2078,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2014e",
           "type": "Shirt",
           "group": "Female",
@@ -2078,7 +2118,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2015",
           "type": "Shirt",
           "group": "Female",
@@ -2117,7 +2158,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2016",
           "type": "Shirt",
           "group": "Female",
@@ -2156,7 +2198,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2017",
           "type": "Shirt",
           "group": "Female",
@@ -2195,7 +2238,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2018",
           "type": "Shirt",
           "group": "Female",
@@ -2234,7 +2278,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2019",
           "type": "Shirt",
           "group": "Female",
@@ -2273,7 +2318,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2020",
           "type": "Shirt",
           "group": "Female",
@@ -2312,7 +2358,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2022",
           "type": "Shirt",
           "group": "Female",

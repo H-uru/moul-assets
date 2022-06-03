@@ -472,7 +472,7 @@
           ]
         },
         {
-          "name": "MReward_RewKelsFleece",
+          "name": "MTorso_RewKelsFleece",
           "type": "Shirt",
           "group": "Male",
           "icon": "Icon_UTorse_Fleece_KelsReward.png",
@@ -1051,7 +1051,7 @@
           ]
         },
         {
-          "name": "FReward_RewKelsFleece",
+          "name": "FTorso_RewKelsFleece",
           "type": "Shirt",
           "group": "Female",
           "icon": "Icon_UTorse_Fleece_KelsReward.png",

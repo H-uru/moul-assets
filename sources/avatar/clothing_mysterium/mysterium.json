@@ -2,7 +2,7 @@
   "pages": [
     {
       "prefix": -5,
-      "suffix": 13,
+      "suffix": 14,
       "agename": "GlobalClothing",
       "name": "MaleMysterium",
       "mipmaps": [
@@ -393,7 +393,7 @@
           ]
         },
         {
-          "name": "MReward_SSMysterium2006Australia",
+          "name": "MReward_SSMysterium2006a",
           "type": "Shirt",
           "group": "Male",
           "icon": "Icon_UTorso_Shirt_Mystralium2006.png",
@@ -1089,7 +1089,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "MReward_SSMysterium2019",
           "type": "Shirt",
           "group": "Male",
@@ -1216,7 +1217,7 @@
     },
     {
       "prefix": -5,
-      "suffix": 14,
+      "suffix": 13,
       "agename": "GlobalClothing",
       "name": "FemaleMysterium",
       "mipmaps": [
@@ -1600,7 +1601,7 @@
           ]
         },
         {
-          "name": "FReward_SSMysterium2006Australia",
+          "name": "FReward_SSMysterium2006a",
           "type": "Shirt",
           "group": "Female",
           "icon": "Icon_UTorso_Shirt_Mystralium2006.png",
@@ -1919,7 +1920,8 @@
               }
             }
           ]
-        },{
+        },
+        {
           "name": "FReward_SSMysterium2014a",
           "type": "Shirt",
           "group": "Female",

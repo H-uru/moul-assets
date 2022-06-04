@@ -2,3 +2,6 @@
 *.blend1
 *.ktc
 *.pyc
+
+# Visual Studio cache/options directory
+.vs/

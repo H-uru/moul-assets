@@ -2,6 +2,13 @@
 <localizations>
     <age name="EderNaybree">
         <set name="Journals">
+            <element name="yeeshapage-futureprep">
+                <translation language="English"><![CDATA[<font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
+
+PLACEHOLDER OBJECT IS PLACEHOLDER.
+
+a in c major 440 vibrations per second ]]></translation>
+            </element>
             <element name="calumfieldjournal">
                 <translation language="English"><![CDATA[<cover src="xplayerjournalCalNaybreeTrees.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
 OBSERVATIONS ON NAYBREE'S "TREE"
@@ -33,179 +40,126 @@ Honestly, this tree is some of the only native plant life I can see in the Garde
 
 Ah, still. It's a nice mountain view from the clifftops though. ]]></translation>
             </element>
-            <element name="creditsbook">
-                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-
-Thanks to Doobes for taking the time to answer questions and help troubleshoot! 
-
-Thanks to Theo for the Rope Ladder Knot Model! 
-
-Thanks to Ehren, Hazado, and Adam for helping with the Sun-at-Night issue!
-
-Thanks to Iwonk and Nosila for being camera region feedback suggesters! 
-
-Thanks to the Open Uru and Minkata Testers for helping get this over the line! 
-(Seriously, thank you for putting up with my insanity in this place.)
-
-Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-]]></translation>
-            </element>
-            <element name="yeeshapage-futureprep">
-                <translation language="English"><![CDATA[<font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-
-PLACEHOLDER OBJECT IS PLACEHOLDER.
-
-a in c major 440 vibrations per second ]]></translation>
-            </element>
             <element name="kelseijournal">
                 <translation language="English"><![CDATA[<cover src="xaths-edernaybreejournal.hsm"><font size=16 face=Michelle color=416600><margin left=62 right=62><font size=18 face=Michelle><p align=left>
 12/27/21
 
 Last Night I had a Dream.
 
-I saw a garden age- and a girl living there. Athsheba, from the Cathedral. Not sure how I knew it, but I knew it. Dreams are like that. In the dream, the girl was carving a face out of a cliffside- aging over time as the face grew more defined. 
+I saw a garden age, and a girl living there. Athsheba, from the Chezahcen Cathedral island. Not sure how I knew it, but I knew it. Dreams are like that. In the dream, the girl was carving a face out of a cliffside - aging over time as the face grew more defined. 
 
-Then, the face's eyes opened and it wasn't just a stone face gazing at me, but the living personification of the artwork from the Cathedral of Chezahcen herself. Dreams are weird. 
+Then, its eyes opened and it wasn't just a stone face gazing at me, but the living personification of the artwork from the Cathedral of Chezahcen herself. Dreams are weird. 
 
-So anyways. I asked yesterday if I could get permission to look through the book stocks we have from the DRC. Today, permission granted. Patrick's given me the go ahead. As long as I restrain myself from using any of the books on a whim, I'm good to go and... And... 
+Driven a bit by this, I asked yesterday on the forums if I could get permission to look through the document and book archives we have from the DRC. Patrick pointed me towards who could give (and did give) me the go ahead. As long as I restrain myself from using any of the books on a whim, I'm good to go and... And... 
 
-I'm not sure what I'm expecting to find, but, maybe, if Athsheba's seeming habit of clearing out everything when she moves is actually a habit... maybe she left the age book behind somewhere if she moved on to Releeshahn? 
+I'm not sure what I'm expecting to find, but, maybe, if Athsheba's seeming habit of clearing out everything when she moves is actually a habit... I would hope maybe she left the age book behind somewhere if she moved on to Releeshahn or elsewhere? But given her existing habit... 
 
-I'm just curious if we can find the Garden Age she lived in. I honestly don't expect anything to come of this, but I figured I might as well start a journal anyways. 
+Still I'm just curious if we can find the Garden Age she lived in. I honestly don't expect anything to come of this, but I figured I might as well start a journal anyways. 
 
-We'll see what tomorrow brings, shall we?
-
----
-
+I guess I'll see what tomorrow brings?
+-------
 
 12/29/21
 
-It's late, and I'm heading to bed soon, but I found a reference in one of the DRC document folders of barely surveyed Ages. 
+It's late, and I'm heading to bed soon, but I found a reference in one of the old document folders of barely surveyed Ages. 
 
-Eder "Naybree" - 'Double Root'- is the rough name given on the document, dated Late November of 2007, and it's accompanied by a description. This is the standout bit: "There's a broken bridge breaking the age in half. There's a row of statues near it, repititions of a woman's figure with arms outstretched upwards."
+Eder "Naybree" - meaning 'Double Root' in D'ni- is the rough name given on the document, dated from late November of 2007, and it's accompanied by a description. This is the standout bit: "There's a broken bridge breaking (sic) the age in half. There's a row of statues near it, repetitions of a woman's figure with arms stretched upwards."
 
-This sounds similar to the row of statue iterations at the Cathedral Island's shoreline. I think I may have it if I can find the Linking Book. There's a description of the book cover, so I might be able to sort it out. If so, thanks go to you, unnamed DRC surveyor. 
+Improper use of 'breaking' aside, this sounds similar to the row of statues at the Cathedral Island's shoreline. I think I may have Athsheba's post-fall home if I can find the Linking Book to it. There's also a description of the book cover, so I might be able to sort it out. If so, thanks go to you, unnamed DRC surveyor. 
 
-The rest of the age's description is fascinating, though. I think the name is drawn from the duality written into the Garden's environment? Either the physical nature of the ground, or something in the heavens. 
-
-One of the remarks was over "an impressive night sky."
-
---- 
+The rest of the age's description is fascinating, though. I think the name is drawn from the duality written into the Garden's environment? Either the physical nature of the ground (split in two pieces?), or something in the heavens. Moons, perhaps?  One of the standout remarks was over "an impressive night sky," after all.
+-------
 
 
 12/30/21
 
-Calum took a look over everything I'd found last night and agreed it looked like a viable suspect for Athsheba's garden sanctuary. I'm searching for the book now. It's got to be here somewhere. 
-
----
+Calum took a look over everything I'd found last night and agreed it looked like a viably plausible location for Athsheba's garden sanctuary. I'm searching for the book now. It's got to be here somewhere. 
+-------
 
 
 1/1/22
 
-Harta Choylahnaytahv! 
+It amuses me that Calum's decided to join me, to help keep me company he said, and yet just set up a laptop to run anime on in the background for noise. I think we've gotten distracted with watching it half the time we've been looking. 
 
-A 'Complete Cycle,' in D'ni. And a Happy New Year to everyone.
+I can't complain, though. I've had something of a headache today so it's nice to focus my attention on something else for a time. 
 
-I had to take a break to deal with some matters on the surface. Such a frightful couple of days. It's back to the book hunt for me. 
+There's a lot that was left behind in the archives- a lot of documents and unrelated materials to each other. I'm sure it was properly sorted at some point, but between multiple location moves and multiple others digging through them for various things at different points in time, it's become something of a mess in the here and now. 
 
----
+Still, despite my looking for a specific book at this point, I'm doing my part to help get things sorted and back into a semblance of order. 
 
-It amuses me that Calum's decided to join me to help keep me company, and yet just set up a laptop to run anime on in the background for noise. I think we've gotten distracted with watching it half the time we've been looking. 
+Calum finds it amusing. "A new year means a chance for a clean slate, but you have to put energy into making it clean." He'd said. Then he went on a five minute ramble about cleaning up his own bedroom for the first time in years after the fire scare the other day. 
 
-I can't complain, though. I've been having something of a headache today so it's nice to focus my attention on something else for a time. 
-There's a lot that the DRC left behind in their archives- a lot of documents and unrelated materials to each other. I'm sure it was properly sorted at some point, but between multiple location moves and multiple others digging through the archives for various things at different points in time, it's been something of a mess right now. 
-
-Still, despite my looking for a specific book at this point, I'm doing my due diligence to help get things sorted and back into a semblance of order. 
-
-Calum finds it amusing- "A new year means a chance for a clean slate, but you have to put energy into making it clean." He'd said. Then he went on a five minute ramble about cleaning up his own bedroom for the first time in years after the fire scare the other day. 
-
-I'd say something sterotypical about 'boys and their messy rooms' but I'm no better, honestly. I don't think I've cleaned my room since I moved in. I probably should do that, I'd think. 
+I'd say something sterotypical about 'boys and their messy rooms' but I'm no better, honestly. I don't think I've cleaned my room since I moved in. I think I should probably should do that too.
 
 After I find this book. 
-
----
+-------
 
 1/3/22
 
-I think. I've found it. The linking panel shows what looks like a statue of the right stylistic design, carved out of the rockface...
+I think I've found it. The linking panel shows what looks like a statue of the right stylistic design, carved out of the rockface...
 
-This might be IT. 
-
-I'm calling Calum.
-
+This might be *IT,* if I'm lucky.  I'm calling Calum.
 ---
 
 This is definitely the place. 
 
-Right next to the link-in gazebo is a statue carved so very similarly to Chezahcen's artwork.  It's been pulled right out of the cliff- continuing it's structural duties while being something far more intriguing.
+Right next to the link-in gazebo is a statue carved so very similarly to Chezahcen's artwork.  It's been pulled right out of the cliff- continuing on with it's original structural duties of holding the above rockface intact, while also being something far more intriguing than plain rock.
 
-This definitely isn't native to the age, if the piles of debris behind the link in are anything to go by. Chipped rock, shattered fragments, crushed rubble... 
+This definitely isn't native to the age, if the piles of debris behind the link-in are anything to go by. Chipped rock, shattered fragments, crushed stone debris... 
 
 I can only imagine how long Athsheba was here working on just this one piece alone.
 
-Ladder-like structures on the walls near the Link In. How strange.
+There are ladder-like structures on the walls near the link-in, how strange. 
 
-Ground path near the link in is very much in dire need of repair. It's quite broken up.
+Ground path near the link-in is very much in dire need of repair. It's quite broken up.
 
-There are more statues further along, nearer to the bridge as reported. One of them is far smaller, and holding a firemarble orb. 
+There are more statues further along, nearer to the bridge as noted in the survey report. One of them is far smaller, and holding a firemarble orb. 
 
-I'm astounded by it, meanwhile Calum is over fretting about a broken bridge. I keep hearing him mutter-mumble bouncing between 'deliberate sabotage' and 'geographical instabilities'-- the river doesn't seem to have risen high enough to destroy the pathway itself, but the cliff walls do show some signs of stress in this area-- most likely the giant tree roots, if I had to guess. 
+I'm astounded by it all, meanwhile Calum is over fretting over a broken bridge. I keep hearing him mutter-mumble, bouncing between 'deliberate sabotage' and 'geographical instabilities'. The river doesn't seem to have risen high enough to destroy the bridge originally. The cliff walls do show some signs of stress in this area, though. Most likely the giant tree roots, if I had to guess. 
 
 Are each of these trees on the other side reaching for the river or is there something more going on? I have to get a closer look...
-
 ---
 
-Ah, Calum pointed out a rock buried in the tree roots further into the canyon. How did he even spot that?
+I jumped the bridge, much to Calum's dismay. It's still sound on the other side. He followed reluctantly, but is vowing to put in a replacement bridge if we fully restore this place- and please, Calum, I saw how you looked at those statues. This place is related to the Cathedral, of COURSE we're going to restore it.
 
+The other side of this garden is paradoxically, on one hand, remarkably well kept, and yet on the other, completely overgrown. There are MASSIVE trees here, growing into their surrounding objects. It's like Kadish Tolesa, all over again. Except, there's more to it. 
+
+The trees all grow very tall, then bend all in one direction, as if bowing to the wind- the vine-like growth drapes down from some of the branches like... Not-quite Leaves? That can't be right because there's a staggering amount of the same overgrowth of the same vine like plant on the ground everywhere.  Is it even a vine?
+
+Calum's testing it now, jumping on some of the ground-based overgrowth. It seems very...
+
+'Springy' doesn't seem like the right word to me, but neither does 'rigid' to be honest. Regardless, it's  able to support someone's weight above the ground. 
+
+As a side note, we've certainly made enough noise by now that if someone were here, they would have heard us. I fear for what that may mean.
 ---
 
-I jumped the bridge, much to Calum's dismay. It's still sound on the other side. He followed reluctantly, but is vowing to put in a replacement bridge if we fully restore this place- and please, Calum, I saw how you saw those statues. This is related to the Cathedral, of COURSE we're going to restore this place.
+There's a giant face carved out of a corner of the back wall- not quite like my dream but close enough... How strange. The eyes are made up of displaced firemarbles from... the toppled pillars, it seems? There are enough of the things at the Link-in without their orb-ornaments that it's hard to say for certain, though. 
 
-The other side of this garden is, on one hand, remarkably well kept, and on the other, remarkably overgrown. There are THE massive trees here, growing into their surrounding objects. It's like Kadish Tolesa, all over again. EXCEPT, there's more to it. 
+Near the face is an abandoned bedroom, from where I write now. There's no sign that anyone has lived here in quite some time, however, fortunately for us, there's no signs of any skeletons either. Calum and I are in agreement that Athsheba packed up and moved out again at some point. I'm inclined to believe she fled to Releeshahn with the other D'ni survivors back in Atrus' day. Calum begs to differ, getting one of those looks in his eyes.
 
-The trees all grow up and tall, and then bend all in one direction, as if bowing to the wind- the vine like plant drapes down from the branches like... Leaves? That can't be right because there's a staggering amount of overgrowth of the same vine like plant on the ground everywhere. 
+Of course, it could be she left for other - maybe not greener but possibly less overgrown? - pastures in this age that aren't *here,* in this part of the garden. 
 
-Calum's testing it now, jumping on it. It seems very... springy doesn't seem like the right word, but neither does rigid to be honest. It's  able to support someone's weight far above the ground- regardless. We've certainly made enough noise by now that if someone were here, they would have heard us. I fear for what that may mean.
-
----
-
-There's a giant face carved out of a corner of the back wall- not quite like my dream but close enough... How strange. The eyes are made up of displaced firemarbles from toppled pillars, it seems.
-
-Near it, from where I write now, is an abandoned bedroom. There's no sign that anyone has lived here in quite some time, fortunately, there's no signs of any skeletons either. Calum and I are in agreement that Athsheba packed up and moved out again at some point. I'm inclined to believe she fled to Releeshahn with the other D'ni survivors back in Atrus' day. 
-
-Of course, it could be she left for other pastures here in this age that aren't *here.* 
-
-There are things up on the cliff, it looks like, but there aren't any handy ladders carved into the rockface here. Calum's talking of bringing some rope and doing some free climbing to see if there's anything of worth up there at all.
+It looks like there are things up on the cliff, but there aren't any handy ladders carved into the rockface here- or maybe there are but they're overgrown? It's hard to tell for certain with all of the overgrowth. Calum's talking of bringing some rope and doing some free climbing to see if there's anything of interest  up there.
 
 But later, he says. For now we're heading back to report our findings to Patrick. 
-
----
+-------
 
 1/4/22
 
 Calum's been surveying Eder Naybree more directly today, and is submitting a formalized report to Patrick to get insight on what we should do about the age. 
 
-I want to restore it. Calum's gotten in one of his moods about trespassing in people's homes. AGAIN. It was annoying enough with the Cathedral, but come on, Calum! You can't keep citing that as an excuse! The Cathedral, Elonin, now here? 
+I want to restore it. Calum's gotten in one of his moods about trespassing in people's homes. AGAIN. It was annoying enough with the Cathedral, but come on, Calum! You can't keep citing that as an excuse to not restore an area! The Cathedral, Elonin, now here? 
 
-I'd say you ought to stop being squeamish, but at this point three times is a pattern and I'm genuinely getting concerned over your sudden aversion towards trespassing in long abandoned homes. It's not like Athsheba even DIED here! She left this place for others to find, fairly clearly. 
+I'd say you ought to stop being squeamish, Cal, but at this point three times is a pattern and I'm genuinely getting concerned over your sudden aversion towards trespassing in long abandoned homes. It's not like Athsheba even DIED here! She clearly left this place for others to find eventually, given the journal in the Cathedral. 
 
-There's not a trace of ANYTHING left from the Cathedral here. So she either didn't come back here, or she did, with everything, and then took it somewhere else. But considering we didn't even find a book hidden anywhere, or any tools, or even a scrap of cloth... 
-Athsheba left this place. There's no room to be squeamish about it. She's not haunting this garden, and I doubt that if Chezahcen were real, she would have any opposition to here either, and that's inspite of the giant head statue with the firemarble eyes that Athsheba clearly carved out of the rocks!
+There's not a single trace of ANYTHING salvaged from the Cathedral here, so she either didn't come back here, or she did, with everything, and then took it somewhere else. But considering we didn't even find a book hidden anywhere in the main garden, or any tools, or even a scrap of cloth... 
 
-Goodness, gracious, I'm getting myself all into a huff. I need to relax somewhat.
+Athsheba left this place. There's no room to be squeamish about it. She's not haunting this garden, and I doubt that if Chezahcen were real, she would have any opposition to here either, and that's inspite of the giant head statue with the firemarble eyes that Athseba clearly carved out of the rocks!
 
+Goodness gracious, I'm getting myself all into a huff. I need to relax somewhat.
 ---
 
-Spoke with X, Scharm, Nosi, and Mafasa about the Kirel Audio Podium recording, earlier. X thought I was pulling her leg over it, but, nope! I'd never pull anyone's leg over something like this!
-
-At PodHopper's Relaxation Session now. Should be a good few hours of peace and quiet.
-
----
-
-Caught up with Jules briefly at the tail end of the Relaxation Session. He had a fairly good New Years, it seems! I'll be pestering Calum to forward him some of the photos from the Garden later. 
+Caught up with Jules briefly at the tail end of the Relaxation Session. He had a fairly good New Years, it seems! I'll be pestering Calum to forward him some of the photos from Naybree later. 
 
 Had dinner, and Calum's now sent off the report to Patrick. All I can do is hope he approves a speedy restoration to this place. Beyond the main path needing work and the weeds needing trimming, I honestly can't see this place taking too much more work to get through the phases to release. 
 
@@ -214,22 +168,22 @@ Had dinner, and Calum's now sent off the report to Patrick. All I can do is hope
 Times like these I wish I was something more than just a Linguist. Maybe I'll message Patrick and see if I can take on the project for myself, maybe?
 
 ...Ugh, I'm just being over-ambitious at this stage, aren't I?
-
----
+-------
 
 1/6/21
 
-Couldn't help but explore the garden again tonight. It's remarkably green in its diametrical states. Twin Root- Naybree. There is certainly a lot of roots, though. Is it referencing the moons? Maybe there were only two roots in the River originally?
+Couldn't help but explore the garden again tonight. It's remarkably green in its diametrical states. Twin Root- Naybree. There certainly are a lot of roots, though. Maybe there were only two roots in the River originally?  Or is it referencing the moons? 
 
-I can't say for certain- I wasn't here when this age was new, obviously. Something about this place just feels... other worldly. Like I'm missing something obvious. 
+I can't say for certain. Because I wasn't here when this age was new, obviously. Something about this place just feels... other worldly. Like I'm missing something obvious. 
 
-...Are they roots? The vines, are they not vines but roots? Tree roots? Or-- or do I have the whole ecology upside down and the trees themselves aren't trees but roots in and of themselves? 
+Are they even roots in the river? 
 
-Is this WHOLE Garden overgrown by nothing but One Giant Tree?!
+And the vines, could  they not be vines but roots? Tree roots? Do I have the whole ecology of the Age upside down and the trees we see in the air aren't trees but roots in and of themselves?
 
-That- that surely can't be the case, can it? But the way the 'branches' spear into the walls and the way that they do is concerning. I'll have to ask Calum what he thinks. This Age is certainly remarkable, to say the least.
+Is this WHOLE Garden overgrown by nothing but *One Giant Tree?!*
 
----
+That surely can't be the case, can it? But the way the 'branches' spear into the walls and the way that they do is concerning. I'll have to ask Calum what he thinks. This Age is certainly remarkable, to say the least.
+-------
 
 1/11/22
 
@@ -237,27 +191,25 @@ Calum has finally started work on building a replacement bridge. He's borrowing 
 
 He's been upset by something though. When I ask him what, he just brushes it off. Says it's something to do with one of Patrick's projects and that it's nothing I need to worry about. Well, here I am worrying. The last time he got like this it was over the Vertigo Crystals. 
 
-I hope he's not performing experiments with them in private again.
-
-...Look at me, I think I've finally caught Calum's journaling bug. Once I've started, I just can't stop. 
-
-I'll admit I'm just itching to see something related to Athsheba and the Cathedral out there in the public light. I could write down about everything I know about the girl and her life in this journal, but then there's the part of me that wants to just let people speculate and delve deeply into the story as the Age presents it...?
-
-Then, when we finally release the Cathedral, it all clicks into place. But, am I truly that cruel to make people be forced to sit and wait to figure out what we already know? No, I'd think not. 
-
-I'll write down a bit here and there, I think.
-
+...I hope he's not performing experiments with them in private again.
 ---
+
+Look at me, I think I've finally caught Calum's journaling bug. Once I've started writing, I just can't stop. 
+
+I'll admit I'm just itching to see something related to Athsheba and the Cathedral out there in the public light. I could write down everything I know about the girl and her life in this journal, but then there's the part of me that wants to just let people speculate and delve deeper into the story as the Age presents it...?
+
+Then, when we finally release the Cathedral, it could all click into place. But, am I truly that cruel to make people be forced to sit and wait to figure out what we already know? No, I'd think not. 
+-------
 
 A Few Fun Facts We Know About Athsheba:
 
-She was a D'ni girl who lived with her parents on a Private Island out on the lake- the Chezahcen Cathedral as we call it now. 
+She was a D'ni girl who lived with her parents on a private island out on the lake- the Chezahcen Cathedral Island as we call it now. 
 
-She seems to have been quite the burgeoning artist, able to make delicate paints and smearing them about on the walls of various places- here and the Cathedral alike. 
+She seems to have been quite the burgeoning artist, able to make colored paints and smearing them about on the walls of various places- here and the Cathedral alike. 
 
-Her family had ties to stone carvers of some kind- whether they were the Guild of Artisians, or just habitual carvers of massive stone artworks, Athsheba does seem to have studied enough to be able to refine her skills to the levels shown in Eder Naybree.
+Her family had ties to stone carvers of some kind. Whether they were the Guild of Artisians, or just habitual carvers of massive stone artworks, Athsheba does seem to have studied enough to be able to refine her skills to the levels shown in Eder Naybree.
 
-Athsheba has a habit of clearing out her living spaces of anything that's NOT tied down when she moves, making finding anything left behind something she either missed, or decided to leave behind intentionally for some reason. (Given how thoroughly the Cathedral was cleaned of furniture, I'm inclined to believe the latter more than the former.) 
+Athsheba has a habit of clearing out her living spaces of anything that's NOT tied down when she moves, making finding anything left behind something she either missed, or decided to leave behind intentionally for some reason. (Given how thoroughly the Cathedral was emptied of furniture, I'm inclined to believe the latter.) 
 
 Assumptions:
 
@@ -271,43 +223,41 @@ OH. There's a thought. I could copy my notes on translating that journal into th
 
 TRANSCRIPTION NOTES FROM ATHSHEBA'S JOURNAL.
 
-The Journal recovered from the Cathedral is written primarily in a kid-ized D'ni handwriting style. There's some maturation over time, but I suspect Athsheba didn't have any impetutus towards refining her handwriting over time given her situation. Her word choices are also, well, as expected of what a child would write. It's also vaguely hard to translate correctly given in some cases there's scribbled messes that look like they should be certain words, but may infact be others due to the way she blended shapes together.
+The Journal recovered from the Cathedral is written primarily in a child-like D'ni handwriting style. There's some maturation over time, but I suspect Athsheba didn't have any impetus towards refining her handwriting over time given her situation. Her word choices are also, well, Childish, to put it kindly. It's also hard to translate correctly given in some cases there's scribbled messes that look like they should be one word, but may infact be another, due to the way the shapes were blended together.
 
-The early entries of the journal depict a child's day to day life in D'ni. It's hard to tell at what age the girl started writing the journal itself, as she refused to date the book beyond a given day of the week. Not even a year! She lives with her parents- whom we only have her Mother's name to go by, Aleshay- on an island in the Cavern of D'ni.
+The early entries of the journal depict a child's day to day life in D'ni. It's hard to tell at what age the girl started writing the journal itself, as she didn't date the book beyond a given day of the week. Not even a year! She lived with her parents - whom we only have her Mother's name, Aleshay, to go by - on an island in the Cavern of D'ni.
+
 Athsheba's first few entries depict the average child's lifetime in D'ni. The "We went to the store today", "Momma bought me a new dress", and "Mommy said something funny!" type of entries. I believe she was pre-teen at the time of starting this journal, and more than that, pre-Guild indoctrination. She does not mention schooling. 
 
 Given her nebulous age, it's hard to place whether this is merely due to her youth, or if her parents were deliberately keeping her out of the Guild systems. Given their family history, I could see the latter being a possibility. The only implications of schooling are towards the Arts, that her Father was teaching her how to mix paints and use carving tools. But that could just as easily be the family trade more so than any formal learning.
 
-The journal entries aren't sequential by day, either. For a surface equivalent entries would go from "Saturday" to "Friday" to "Tuesday" to "Monday" for the first few entries. I suspect Athsheba had trouble keeping up her diary keeping. 
-After a given point, she seemed to stop paying attention to such matters, and I can't blame her.
+The journal entries aren't sequential by day, either. For a surface equivalent entries would go from "Saturday" to "Friday" to "Tuesday" to "Monday" for the first few entries. Infrequent entry keeping at its best, and I suspect Athsheba had trouble keeping up her diary keeping. After a given point, she seemed to stop paying attention to such matters entirely, and stopped even adding a notice of which day was which entirely.
 
 And then comes the Fall.
 
-Athsheba recounts it after the fact in a frantic, jumbled manner. Traumatized, to say the least.  Athsheba and her Mother went to 'The City'- I'd assume it's the City Proper- for shopping, I suspect. As they're there, there's a "loud noise" and then "a dark sky" that came "Crawling" in. 
+Athsheba recounts it after the fact in a frantic, jumbled manner. She was definitely traumatized, to say the least.  Athsheba and her mother went to 'The City'- I'd assume it's the City Proper, not Ae'gura- for shopping. As they're there, there's a "loud noise" and then "a dark sky" that came "CRAWLING" in. (Crawling was heavily underlined and exaggerated, clearly for its massive emphasis and scale in her mind.) 
 
-Aleshay sacrificed a piece of clothing- I'm assuming it's a Scarf- to protect Athsheba from the gases. This was a sacrificial move, as well, due to the fact that Aleshay was now exposed fully to the deadly gas Veovis and co' Unleashed upon D'ni.
+Aleshay used a piece of clothing - I'm assuming it's a scarf - to protect Athsheba from the gases. This was a sacrificial move, due to the fact that Aleshay was now exposed fully to the deadly gas Veovis and company unleashed upon D'ni.
 
-Aleshay tried to take her daughter to a Library- only to "fall asleep" before they could both get through a book. It was here a kindly woman appeared- her smile seemed to be the only thing Athsheba remembered. Her smile, and the phrase:
+Aleshay tried to take her daughter to a library- only to "fall asleep" before they could both get through a book. It was here a kindly woman appeared - her smile seemed to be the only thing Athsheba remembered. Her smile, and the phrase:
 
 "Your story does not end here."
 
-Athsheba called it "Sad." I would put it as "Knowing."  
+Athshbea called it "Sad." I would put it as "Knowing."  
 
-It's unclear what happened in that moment, save that Athsheba was sent through a book. She describes hearing bootsteps, and then arrived here in the Garden. Given the savior didn't follow through, any number of possibilities could be the end result of what happened there. 
+It's unclear what happened in that moment, save that Athsheba was sent through a book. She describes hearing bootsteps, and then arrived here in the Garden. Given the savior didn't follow through, the end result of what happened there could be any number of possibilities. 
 
-Athsheba's entries become more sporadic after that. She describes Eder Naybree in detail, though she doesn't give it the name- how could she given she didn't know the book?- citing the moons and the stars as a primary feature.
+Athsheba's entries become more sporadic after that. She describes Eder Naybree in detail, though she doesn't give the name - How could she given she didn't know the book she was sent through? - citing the moons and the stars as primary features.
 
-She also talks about going down the river- presently blockaded off in the here and now- to explore more of the age itself. She cites various friendly wildlife, and foraging for food. Making paints 'like daddy taught me' and 'carving away time'. 
+She also talks about going down the river - which is presently blockaded in the modern day - to explore more of the age itself. She cites various friendly wildlife, and foraging for food. Making paints 'like daddy taught me' and 'carving away time'. 
 
 I can't imagine she wrote in this journal very frequently- given how limited her ink supply must have been, and how little 'new' she had to write about. Given the trauma she endured, I can't see her having much to want to talk about either.
 
-She doesn't mention a Return Book, though there must have been one. We couldnt find it on our visit, and neither did the DRC mention finding one in their notes, but I'd imagine it was here, somewhere, given one of the later entries is, in essence, "I returned to the Cavern."
+She doesn't mention a Return Book, though there must have been one. We couldn't find it on our visit, and neither did the initial surveyor mention finding one in their notes. I'd imagine it was here, somewhere, given one of the later entries is, in essence, "I returned to the Cavern." There's no fanfare, so the Book must have been well kept.
 
-There's no fanfare, so the Book must have been well kept.
+Athsheba returns to D'ni several times. The first such entry noting the bodies are gone. She remarks about how quiet and dark things are. Eventually, she makes her way back to the island she grew up on. She's looking for the "Family Age" that they kept. 
 
-Athsheba returns to D'ni several times- noting the bodies are gone, and how quiet and dark things are. Eventually, she makes her way back to the island she grew up on. She's looking for the "Family Age" that they kept. 
-
-Over time, she describes 'securing' things to the Garden. She has frustrated digressions where she tries to puzzle out the various mechanisms. She quotes from the Hymn Book we also found alongside her Journal- these specific entries:
+Over time, she describes "securing things to the Garden." Likely this is where she's moving objects from the Cathedral to here in Naybree. She has her frustrated digressions where she tries to puzzle out the various mechanisms. She quotes from the Hymn Book we also found alongside her Journal- these specific entries:
 
 "Then a challenge I shall give you. A Hunt that is a Journey in Seven Goals."
 
@@ -338,25 +288,22 @@ Should you succeed in your attempts to proceed alone, here is where your path be
 
 "Count not my Iterations, for they are but the stages of my own Journey. I grow, as do all living things grow."
 
-Following these Quotes, Athsheba reports finding the Age Book she was seeking. She doesn't call it by its name, but by other translations, I believe it to be the age I've taken to calling Exten-Col. 
+By following these quotes, Athsheba reports finding the Family Age Book she was seeking. She doesn't call it by its name, but by other translations, I believe it to be the age I've taken to calling Exten-Col. 
 
 Then, her last entry cites that she is leaving the journal in the Cathedral, for some future visitors to find, so that her story could be known, and known that it wasn't finished.
-
----
+-------
 
 1/20/22
 
 I can only assume that Athsheba's absence here in this Age, along with any traces of any furniture from her family home, means that she's left for greener pastures- ideally Releeshahn. It's possible Atrus' Restoration found her either here, or during one of her visits, or through her journal. After that, who knows.
 
-For all I know, she relocated to Exten-Col, and took everything with her. If that's the case, the Age Book may be here somewhere.  Behind the river, is the most likely case. I wonder if I can find a way over that blockage?
-
----
+For all I know, she relocated to Exten-Col, and took everything with her. If that's the case, a link to the Age may be here somewhere.  Behind the river, is the most likely case. I wonder if I can find a way over that blockage?
+-------
 
 1/23/22
 
 Calum finished installing the bridge at some point, it looks like. It's a very nice bridge!
-
----
+-------
 
 1/24/22
 
@@ -366,80 +313,50 @@ Shardifying Vertigo Crystals to induce a resonance between them to try to get a 
 
 I can't believe it actually worked.
 
-It replicated the statue down to it's chisel marks! Yes, it was super sized- but to the MARK.
+It replicated the statue down to its chisel marks! Yes, it was super sized- but to the MARK.
 
-He's got that far-off look in his eyes again, like somethings' possessing him. Unfortuantely, I'm fairly certain that this time it looks like it's *merely* just his own idle mind planning something and not the off-put resonance of crystals harmonizing with his brain in absurd ways.
+He's got that far-off look in his eyes again, like something's possessing him. Unfortuantely, I'm fairly certain that this time it looks like it's *merely* just his own idle mind planning something and not the off-put resonance of the crystals harmonizing with his brain in absurd ways.
 
-He said something about wondering if he could use the Crystals to create a link to Chezahcen's Age. I told him to hold his horses and let me see if I could find some way out past the blockaded river. 
+He said something about wondering if he could use the Crystals to create a link to the family Age. I told him to hold his horses and let me see if I could find some way out past the blockaded river.  No sense creating a risky experiment when you can just waste time hunting for a book that may or may not exist. And if it DOES? Well- then that's good news for the both of us.
 
-No sense creating a risky experiment when you can just waste time hunting for a book that may or may not exist. And if it DOES? Well- then that's good news for the both of us.
+Rei'schu/Exten-col- the Family Age.  I want to find it. It's just now there's a bit more urgency to the matter. I'm feeling an itch... Similar to the Call we all feel to D'ni, except this time it's born out of urgency of trying to do something for someone else. 
 
-Rei'schu, Exten-col.  I want to find it. It's just now there's a bit more urgency to the matter. 
-
-If there's really such a thing as a "Gravity" to a place- Zandni in D'ni, the Gravity of D'ni- what we call the Call- then I suspect Calum is feeling a pull to somewhere far, far away from Earth, the Cavern, and civilization as we know it.
+What we call the Call... The D'ni had a word for it: "Zandni", loosely meaning "the Gravity of D'ni."  And if there really is such a thing as a "Gravity" to a place, then I suspect Calum is feeling a pull to somewhere far, far away from Earth, the Cavern, and civilization as we know it. 
 
 I really hope he's not about to pull a Phil Henderson on us. 
-
----
-
-1/27/22
-
-Saw some photos Semjay posted of her work in Kalamee, today. I'm thoroughly impressed! 
-
-It looks amazing, and I can't wait to be able to explore it. From what little I know of the age, a D'ni Survivor also lived there at one point. I don't know if they still live there or not. 
-
----
-
-I was doing some more Caltauc translation work for Patrick when I heard a series of heavy footsteps behind me at my desk.
-
-I hear heavy breathing and someone moaning like a ghost and I whirl around and splash my coffee on them! 
-
-Then Calum starts laughing his head off from the inside of that damnable Maintainer Suit! Apparently HE got stuck inside one after the latest round of debug testing in Gahreesen. 
-
-Let it be known that Maintainer Suits protect against coffee just as well as they do any element.
-
-Good grief. That boy... I don't know what gets into him sometimes.
-
-Once he stopped laughing, he asked me to help him take the helmet off. Not happening, buster! Get yourself out of that thing on your own. 
-
----
+-------
 
 2/1/22
 
 It seems Calum's been busy when I haven't been looking. He sent me a message telling me to take a look at the new views. So, I'm taking a quick look during my lunch break.
 
-It seems he rebuilt the bridge- though I really preferred the old one- and he's put in rope ladders- as well as clearing away some overgrowth that had been covering some ladder mounting points, it seems! 
+It seems he rebuilt the bridge (though I really preferred the old one) and he's put in rope ladders, as well as clearing away some overgrowth that had been covering some ladder mounting points! 
 
-I also noticed that Calum had some structural tools on the cliffs near the Link In- I suspect he's evaluating the ladder-rung-like formations for weight support. Still, not my main concern.
+I also noticed that Calum had some structure-testing tools on the cliffs near the Link In- I suspect he's evaluating the ladder-rung-like formations for weight support. Still, not my main concern.
 
 I'm climbing these new ladders now.
-
 ---
 
-The cliffs are definitely covered in pictographical markings. Athsheba painted these...! 
+The cliffs are definitely covered in pictographical markings. Athsheba must have painted these...! 
 
-Beyond that, we now know where the Maintainer Mark is in this age. Athsheba even carved a small, little, almost chibi-styled statue of Chezahcen to sit near it. How adorable! I feel a little sad for the little statue now, honestly. How long has she sat alone for?
+Beyond that, we now know where the Maintainer Mark is in this age. Athsheba even carved a tiny,  almost chibi-styled statue of Chezahcen to sit near it. How adorable! I feel a little sad for the little statue now, honestly. How long has she sat alone for?
 
 Well, no matter, little one, I'm sure you'll have plenty of company soon enough. :)
-
 ---
 
 Idle curiosity had me counting the tree roots in the river trench. I lost count several times, not that it mattered really. I wonder if I could use them as a climbing bridge to get over the rock?
 
-A thing to try when I have more free time, maybe. 
-
+Something to try when I have more free time, maybe. 
 ---
 
 Got that free time tonight. I'm going to do it!
-
 ---
 
 The view from up on this rock is incredible. I'm surprised I managed to get up here, in all honesty. I think I might've broken one of the ropes on Calum's new bridge, though. Oops!
 
-The water courses, gurgling below me... I'm reminded of the quoted passage in Athsheba's journal. One wrong step and I fall.
+The water courses, gurgling below me... I'm reminded of the quoted passage in Athsheba's journal. One wrong step on my part, and I fall.
 
 It's probably a good thing I've got a waterproof bag on me right now.
-
 ---
 
 I had to leap into the water and swim the rest of the way. But I've made it to a dead end. Tree roots continue to block the path further down... but that's fine.
@@ -458,92 +375,17 @@ Well. Honestly. I don't know what to do now.
 
 Exten-Col. Rei'schu. Do I really finally have it in my hands?
 
-I
+I-
 
 I should take this to Calum. 
 
-Why am I hesitating? 
-
+...Why am I hesitating? 
 ---
 
 I've taken the books. Both of them, and returned to Relto. 
 
 I need to sleep on this.
-
----
-
-2/5/22
-
-Found Calum asleep on a cliff in the Garden this morning, near the Maint.Marker.
-
-Why he sleeps in the strangest places I have no idea...
-
-Well, I woke him up, and told him about the Book.
-
-He wanted to take a look at it immediately.
-
-He's been poring over the Descriptive Book's pages ever since. Good grief, what did I do?
-
----
-
-Spoke with Minasunda this morning. I'll take a swing at hosting the AGM this week if nobody else steps up for it.
-
-Calum was still in the midst of reviewing the Book when I came to the Pub for Fil's broadcast. 
-
-He seemed enthralled by it, to be quite honest. I can't blame him. A Genuine D'ni era Descriptive Book, just left in the open for all this time? He's taking extreme care with it, ensuring the pages aren't damaged, the writing is intact, etc, etc.
-
-He's already planning to link through it when he finishes his review. I've had to remind him that he's not to go alone, and not without a Maintainer Suit. 
-Seeker's here now. Moved my stuff, heh. Fil's live now, and time to listen to some music.
-
-I should probably let Patrick know about the book. Or at least, Calum's interest in it. 
-
-I feel like that may be a bad idea, though. This age is... Something special.
-
-Rei'schu- Exten-col- It's a potentially still inhabited age. Visiting it is a risky endeavor that might be perilous. 
-
----
-
-Sounds like a door was opened in Elonin. I'm surprised I got a message about it, even.
-
-I'm not on the testing roster for that sort of thing, so why...?
-
-Oh good grief. I just had a perilous thought. Calum, please tell me you didn't set my KI as yours message forwarding?
-
-...He did.
-
-I sent him a message and it rebounded back to me.
-
-Oh good grief, he actually did. He set my KI up to receive messages from his. Why did he-? 
-
-Head in the books, I can only guess.
-
-Good grief.
-
----
-
-Had a nice catch-up chat with Jules. I should check in on Calum, I think. Let's see now...
-
-Er'cana, hm?
-
----
-
-Well, Calum was certainly head deep in the book, waiting on an Er'cana oven cycle to cycle through. I asked him about the forwarding system, and he remarked that he didn't even remember turning it on. 
-
-Good grief.
-
----
-
-AGM over. I've emailed Patrick.
-
-Someone trolled the damnable speaker button. How rude!
-
----
-
-2/10/22
-
-I missed out on attending any of the  anniversary events this week, alas. Surface life and translation work for Patrick had me busy. Speaking of, Patrick's talking about opening up the downstairs area of Chiso later this year. Sounds like an interesting time to be had eventually.
-
----
+------
 
 2/21/22
 Calum's given me the go ahead to take the Naybree Book to Patrick for Final Review before submission- now if only I could just get Patrick to reply to my request for a meeting.
@@ -551,41 +393,29 @@ Calum's given me the go ahead to take the Naybree Book to Patrick for Final Revi
 I only have so much free time in a week! Especially when that week is my vacation week.
 
 Calum and Jules did a great job cutting the overgrowth back. 
-
----
-
-2/22/22
-It's "Two"sday. :D
-
-And I've just served as a middle messenger between Taliana and Jules regarding a German translation of the Kirel Podium messages. 
-
-'Tis what I get for going on stage at the AGM, it seems. That, and I need to check my KI more often. 
-
----
+-------
 
 2/24/22
 
 The Garden's review has stalled, it seems. What's going on?
-
 ---
 
-Apparently Patrick and Briggs both voiced concerns Calum was pushing Naybree's restoration too far ahead- trying to meet some arbritary deadline to get the age out there early. I honestly don't see what else there is to do here in the Garden but there's apparently concerns of some kind. 
+Apparently Patrick and Briggs both voiced concerns Calum was pushing Naybree's restoration too far ahead. Trying to meet some arbritary deadline to get the age out there early. I honestly don't see what else there is to do here in the Garden but there's apparently concerns of some kind. 
 
 But, I suppose my thoughts on the matter may have been what pushed Calum towards accelerating things? Maybe I should have curbed my own enthusiasm a bit...
 
 I should've realized something was up sooner and asked Calum to take a break. 
+-------
 
----
 2/27/22
 
-Theo contacted me this evening regarding some questions of his about Naybree's canyon area- along with questions which beg my idle mind to wonder where the water for the fountain and the water falls comes from to begin with?
+Theo contacted me this evening regarding some questions he had about Naybree's canyon area- along with questions which beg my idle mind to wonder where the water for the fountain and the water falls comes from?
 
-I think the water fountain is the usual closed loop system we see in the Gardens and in the Hoods, though I can't tell where the source for the actual river comes from. The emitter points seem to be heavily artificial in the way artificial waterfalls tend to, but the water has to have had a natural origin point to be redirected at some point, I'd imagine?
+I think the water fountain is the usual closed loop system we see in the Gardens and in the Hoods, though I can't tell where the source for the actual river comes from. The emitter points seem to be heavily artificial in the way artificial waterfalls tend to, but the water has to have had a natural origin point to be redirected?
 
-Oh well, questions unanswered about things I have no idea how to contend with. Water mechanics are not my area of expertise. Honestly, Calum might be able to answer that better than I ever could.
+Oh well, unanswered questions about things I have no idea how to contend with. Water mechanics are not my area of expertise. Honestly, Calum might be able to answer that better than I ever could.
 
-But if you're reading this, please don't. I suspect that if I bring it up to him, Calum will start obsessing over it to the point of insanity and get distracted. I swear that boy gets torn off on the most strange tangents sometimes. 
-
+But I won't ask. I suspect that if I bring it up to him, Calum will start obsessing over it to the point of insanity and get distracted. I swear that boy gets torn off on the most strange tangents sometimes. 
 ---
 
 It's a shame my vacation week is over now. I still never managed that meeting with Patrick. If I can't arrange one, we can't get Chiso stocked with the Naybree book, nevermind these Caltauc documents I need to hand off in person rather than using our usual dropoff system. I suppose that'll answer that question in the end. I mean, I could just drop it off somewhere, but even so. 
@@ -595,37 +425,32 @@ I added another post to the dniexplorer.com forums. Hopefully Patrick just misse
 Speaking of impatient, Calum just texted me with an excited series of photos... of a Model Kit from 2001? Well, I can't chide him for having his hobbies outside of the Restoration. Still, atleast buy the thing before sending me pictures of your find, Calum. 
 
 I suspect I'll be spending my next translation session with the ambient background noise of model kit nippers and plastic parts being snap-fit together.
-
----
+-------
 
 3/1/22
 
-Calum just texted me with a question of if I'd be okay with Naybree being delayed a quarter to provide a thematic bunching of ages again- the "Garden Quarter" he called it. Apparently it's looking like one of Patrick's garden projects and Tweek's garden projects may coincide together in terms of 'doneness'. 
+Calum just texted me with a question of whether I'd be okay with Naybree being delayed a quarter to provide a thematic bunching of ages again- the "Garden Quarter" he called it. Apparently it's looking like one of Patrick's garden projects and Tweek's garden projects may coincide together in terms of 'doneness'. 
 
 Honestly, I'd rather they just release things as they're ready rather than delaying things, but Calum seemed particularly amused by the idea, so... I can't complain if they go through with it. 
 
-I've got an appointment with Patrick after the AGM this week, unfortunately Jules can't make it so I'll be bringing Jules' notes over for Patrick to review, I think. Just one more thing for the stack of things to hand over. 
+I've got an appointment with Patrick after the AGM this week, unfortunately Jules can't make it so I'll be bringing Jules' notes over for Patrick to review, I think. Just one more document for the stack of things to hand over. 
 
 ...Now why's Calum texting me if I have any tiny screwdrivers for? 
-
 ---
 
-Another Deep City Lecture? D'ni Legal System, hm? A bit quick of a turn around after the AGM, though I'd hope not conflicting with other events. I really wish they'd announce these things more than a week out in advance. 
-
+Another Deep City Lecture? D'ni Legal System, hm? A bit quick of a turn around after the AGM, though I'd hope not conflicting with other events. I really wish they'd announce these things more than a week in advance. 
 ---
 
 Was in the Garden, up on the cliffs, when the most irritating thing happened- a gust of wind blew furiously against the cliffs and utterly wrecked the rope ladders.
 
 Now, I wasn't stranded, mind you. I could have Relto'd out at any time. But I messaged Calum about it right away and he said 'stay put' and came hurrying over and began rebuilding the ladders from scratch. It was interesting to watch him work, to say the least. 
-
----
+-------
 
 3/4/22
 
 I do wonder, sometimes, when Calum finds the time to do the things he does. Apparently the ladders still weren't up to someone's satisfaction and he redid them again. A forum post he just made says he wont be attending the AGM tomorrow, though. 
 
 Boy needs his rest, for sure.
-
 ---
 
 Calum texted me around 11 PM. Apparently, the damnable first ladder broke again. And he couldn't just Relto out because he left his book down in the bedroom- dummy. 
@@ -637,111 +462,18 @@ So I had to go fetch his book and throw it up to him. I asked him, "Why are you 
 I've told him to take the weekend off. Just what I needed before the AGM. And honestly? Screw ladders, if they're going to be causing this much trouble! We'll work out some other means of getting up there, I'm sure. But. No. Not tonight. Maybe not the foreseeable future, even. 
 
 Screw ladders. Honestly! First me, now Calum... better to leave the things out if people are going to continually risk getting stuck on the cliffs for the time being. 
-
 ---
 
-I've collected most of the debris- how did this thing even break so thoroughly? I don't even know. I'm not going to bother with piecing that together. It's late and I need my sleep before tomorrow's AGM.
----
-
-3/5/22
-
-Woke up to the sound of fire engines rushing down the street, sirens blaring, at around 8 this morning. I am not a happy Kelsei. 
-
-And Yay, an email from mother asking me to a family reunion with a family group I don't even recognize the name of. 
-
-No Fil live today? Drat! What a day today is shaping out to be already! 
-
-Calum's asked me to do his Er'cana run for this morning. I really ought to just copy his oven settings over to mine at this point. It'd save me the extraneous jog. He brought up that he thinks the Exten-col book is stable enough for a visit. I'll bring it up with Patrick later.
-
----
-
-There, that's done. The run from Calum's Er'cana plus a copy of his oVen settings to mine.
-
-Thinking it over, though, I suspect that someone could probably climb the vines in place of the broken ladder. They're likely sturdy enough. I wouldn't risk it personally, though. Now to catch up on some work before the AGM.
-
----
-
-No Mina this week. Tweek, Korov'ev, Rehn. Patrick, Aurelias.
----
-Well, that was fun. A bit of mild stress at the end regarding questions I can't answer. But fun! Now to get some dinner.
-
----
-DEEP CITY LECTURE NOTES:
-Overlap between religion and government laws isn't surprising.
-Reactionary laws, yes, much like how the US limited Presidential terms to 2 after that one spree of 4 runs.
-Illicit Ages being not vetted by Writers or Maintainers seems likely. Theft of books and even adultery being major crimes is a surprising note, though.
-Imprisonment THEN Banishment from a family? The social stigmas of that makes me wonder about the Cathedral family. 
-Minor Crime laws: Reactionary to outsiders. Age trading. Coersion.
-Things in D'ni tended to get more restrictive than loosened. Xenophobia/Colonialism/D'ni Supremacy drives behind these things. How aggravating.
-Open minded people operating under systemic layers of aprehension. The isolation was definitely a large issue.
----
-
-I can only wonder how the laws and D'ni's isolationist culture impacted Rei'schu's civilization or culture, and what of the family that interacted with them. How much did they have to hide from the Maintainers Guild? 
-
----
-258876
-
-Wasn't expecting to run into Carl Palmner of all people at this Lecture. I'll have to message Calum.
-
----
-Talking about the Relyimah now. 
-"Security Theater" that's a good word for it, I suppose. Not all of it was theater, yes, but... it's a good phrase. 
-There's a lot of talk about D'ni culture being serious about family and oaths, too.
----
-Looks like we're wrapping up now. Time to head to Karaoke, and wrap up the night, I think!
----
-
-The conversation with Patrick this afternoon was a good reminder to remind Calum that we need to deal with the inhabited Ages carefully. If we're going to be visiting it, it needs to be a full survey group, rather than just a few explorers- or just me and Calum like it was with Naybree.
-
-Inhabited Ages are a different risk compared to uninhabited- or possibly uninhabited- ones. The Caltuac in Chiso Preniv are a similar matter that I'm worrying over at the moment. Those documents I handed over to Patrick today...
-
-If the natives in that age become Hostile to our presence once they notice it, much as they did with the D'ni back in the day, I don't know what to think of our future chances of using that Age. We'd need to try to engage in a peaceful first contact scenario- pray the locals have grown as a civilization since the D'ni abandoned Chiso. 
-
-I have no idea what to make of the people of Exten-col, from what little we know, well enough to even try to predict what the people in that Age are going to be like in the present day. 
-
-The Fall was over 200 years ago by now. Athsheba was just a child at the time. Ideally, if she's shared the usual D'ni lifespan and hasn't run into any issues that could have hurt her from her isolation, she'd be probably old enough to be an old woman- possibly still a very traumatized one if new people suddenly show up in the Age.
-
-In a worst case scenario without meeting Atrus' people, she doesn't know what happened to D'ni. She'd be wary of outsiders. She'd pass that along to the people of the Age. And then there's the Chezahcen matter to consider. 
-
-Let's say we're taking things literally. That she's a real, bonafied, mystical goddess. That the stories from the religious texts and the wall paintings are true. What is her reaction to our arrival? Has she foreseen this? Has she set things in motion? 
-
-Let's say it's metaphor. That there's something in the Age the locals can ascribe to a Goddess- but she's nothing more than a story. How does our arrival upset things? How do they react? How does Athsehba react?
-
-There's simply too much to consider, and we're likely not going to know until we visit the Age. 
-
-Translation is going to be an issue. Do they speak D'ni? Will we need someone fluent enough in D'ni to talk with them? Do they only speak the local language? How out of date is the text I have in comparison to their modern tongue? If I try to serve as a translator, will I be able to talk to them? Or will it sound to them like I would if I'm speaking Victorian Era old English to a modern audience?
-
-200 years is a long time to consider these things. Our information is so out of date it's not even funny. 
-
-I know Athsheba left the book, along with a link back to the Cathedral, but why? For others to find, she implied in her journal. So does that mean she's told the locals to expect strangers to appear from thin air someday?
-
----
-
-3/6/22
-
-I voiced these concerns to Calum this morning. He took one look, and said, "I sincerely hope one of us doesn't end up in a Doctor Jackson role."  Good grief- always equating things to fiction! 
-
----
-
-Ran into Carl again at the RFD show. Had a brief chat up, but got distracted explaining things to others before he wandered off again. 
-
----
-
-3/7/22
-
-Paid my respects to the Kahlo Pub Memorial. Been a while since I did that. Decided to hang out in Ae'gura after. Wound up speaking with [zane], TikiBear, HenryMikel, Dalken Starbyne, Lutra, and Opcode_ for a bit, too. 
-
-Was an interesting conversation on drama, the past, and other things. Not much to say other than I ended up repeating myself regarding the Cathedral again- did that when Carl dropped by during Radio Free D'ni yesterday.
-
----
+I've collected most of the debris - how did this thing even break so thoroughly? It's like the rope knots just evaporated somehow . I don't even know. I'm not going to bother with piecing that together. It's late and I need my sleep before tomorrow's AGM.
+-------
 
 3/9/22
 
-I wonder, sometimes. Did Athsheba sit here atop the cliffs, watching for people to link in? Did she hide up here, waiting to see if anyone would arrive? 
+I wonder, sometimes. Did Athsheba sit here atop these cliffs, watching for people to link in? Did she hide up here, waiting to see if anyone would arrive? 
 
 Given we know the answer is no, it's sad and happy all in the same breath. It's happy, because that means Veovis' corpse wagon never deposited a corpse into the Age, poluting it and killing anyone who got close... Yet, it's sad, because Athsheba would have sat, waiting to see if someone appeared. And they never did.
 
-Did she know? About Veovis' plot? How much was she aware of, the true cause of the Fall? How much did she understand about D'ni's colapse, and how much did she misunderstand? Things are often misinterpreted, perceived in the shadows by a child. But this kind of traumatic event is...
+Did she know? About Veovis' plot? How much was she aware of, the true cause of the Fall? How much did she understand about D'ni's collapse, and how much did she misunderstand? Things are often misinterpreted, perceived in the shadows by a child. But this kind of traumatic event is...
 
 I wonder. I really wonder. What did Athsheba think, while she was here in Naybree? 
 
@@ -750,258 +482,24 @@ A bigger question is, who was the woman who saved her after Athsheba's mother di
 So many questions about what happened during the Fall. So so many.
 
 A part of me hopes she's still alive in Exten-col, and that we can ask her questions if we go there.
-
----
-
-3/10/22
-
-Well, it'll be another busy day at work, it looks like. A shame, I'd have liked to have gotten to go to the Country Evening in the Cleft this week. Maybe I can swing some time and get tomorrow off for the last of the International Women's Week stuff. 
-
----
-
-3/11/22
-
-Got the day off, made my way to Kirel for the first talk... very early. I could use the rest though. :)
-
----
-
-Was a fun evening all around.  Spoke a bit with Diranda while we waited. Kirel's next quarterly recording should be ready to go soon-ish. I did hand off the notes to Patrick to approve, though, last I'd heard it'd been cut down in time a bit. Something about trying to keep them under six minutes? 
-
-Owly's talk about Yeesha was very interesting. And Iwonk's "Wonky Talk" Stream after was very entertaining and fun to watch. Iwonk is such a clever artist in addition to a witty pun maker and cookie baker. I'd watch more streams of hers any day!
-
----
-
-3/13/22
-
-Time changes throw me off. Had to leave in the middle of RFD for dinner because it started an hour later. Also woke up an hour later than usual. 
-
-Meanwhile, I see Calum has spent a sizable chunk of the day uploading old transcripts to the forums' new transcripts section. Where does he find the time? 
-
----
-
-3/14/22
-
-HAPPY PI DAY! Grab yourself a Pie of some kind! 
-
-I don't have much to say except that it's Monday, and Mondays go as Mondays go. I'm hearing it's about ten days until the anticipated release of the Wall- though we'll see if that holds true. 
-
-Apparently Calum gave Scharminius and Nosila a tour today. Wish I could've been there for it. 
-
----
-
-3/17/22
-
-St. Patricks Day, and it snows at home. Calum's complained to me already about not being able to go to the store for groceries. I thought to shop ahead! 
-
-...Is what I'd like to say, because, no I didn't. I'm in just as sorry of a state of food prep. Damned snow.
-
-This is ontop of waking up late (Cursed time change) AND waking up after having had a dream that a snake bit me on the thumb! A glove I was wearing prevented it from penetrating skin, but it still hurt, and in the dream, my parents were heavily concerned... And then wanted to get me somewhere I didn't want to go, so I ran off? Ugh. Dreams. I swear, the nonsense within them sometimes.
-
-In reality, I suspect i was just lying on my thumb in my sleep a bit- or had it pinched between my knees maybe? Dreams tend to project those sort of physical sensations into ones imagined reality. 
-
-I don't understand why I was wearing gloves at shopping center, or why a snake would have bitten me outside of one, though... Though, perhaps the shopping center was because I knew I'd screwed up on groceries? If so, I don't know why I was shopping for non grocery things in the middle of spring/summer, or wearing winter gloves for. 
-
-Dreams. What nonsense. 
-
----
-
-Fun party times in GoMePub. Chatted with Doobes, Diranda, and Ereshkigal about some recent events. Calum has me worried right now- he's not answering my messages. I'm going to check in on him now. 
-
----
-
-[Small tear stains mar the page's surface]
-
-Damn it, Calum! Don't scare me like this! You idiot!
-
----
-
-He's fine. For now. I'm keeping an eye on him overnight. Doctors orders. Just in case. 
-
-Calum hit his head. Says some woman breached security and shoved him to the ground in the overflow station. Just... What the hell? Why? Why this? Why would someone break in and-?
-
-I need to get a grip. Get my emotions calmed down. I'm not going to do anyone any good if I don't.
-
----
-
-3/18/22
-
-Calum's been talking in his sleep again. Atleast he's not sleep walking, but it's just as disturbing hearing him ramble in his sleep.
-
-"Free floating seeds loose from the pot."
-
-"Gardener doesn't know where his seeds are sowing."
-
-"Wild oats and wild horses roam- gotta catch them before they take root."
-
-Other variations on those topics. I'm reminded of his stint with the Vertigo Crystals, talking about trains crashing. 
-
-Honestly, this isn't the way I 
-
-Oh I am NOT finishing that sentence. I do not have time to unpack that right now.
-
----
-
-3/19/22
-
-With Calum sleeping now, I thought I'd take a break for the evening and relax at the Mid Stairs Landing after the last few days of 'excitement.'
-
-Tomorrow I'll be heading down to the archives again to check on if we have any information regarding who wrote Naybree. It's a mystery that should keep my mind off of things.
-
-I still can't get over it! That someone would have the gall to just-! Push Calum over like that! How utterly frustrating. If I ever meet this woman, I'll- I'll--!!
-
-Apparently we have a Doctor down here now- some Irish fellow by the name of Tiernan Quinlan. That would've been handy to know a few days ago. Always seems like these things get rectified after an incident, somehow.
-
----
-
-Well, I was up far later than I intended to be. Calum's still asleep though, hasn't moved. Still breathing normally. That's good.
-
-That's good.
-
-Maybe I can sleep soundly tonight.
-
----
+-------
 
 3/20/22
 
-Thanks to my previous efforts to sort everything together in the DRC's archives, I inadvertently lessened a lot of the work I needed to do this time- although it's still taken a few hours- most of the day infact- to get to this point.
+Thanks to my previous efforts to sort everything together in the archives, I inadvertently lessened a lot of the work I needed to do this time- although it's still taken most of the day to get to this point.
 
 Like we suspected, Eder Naybree seems to have been written around the period the DRC called the "Garden Binge"- around 8100 DE.
 
 From what I've been able to piece together regarding the Age's ownership documents, the Age of Eder Naybree was originally written as a Retirement Gift for a dearly beloved family member of a member of the Guild of Writers- someone low enough on the totem pole that they weren't high up enough to have their name recorded, alas.
 
-There isn't much on the records of the family in question- not who wrote it, or who it was even a gift for- possibly that information was lost, or the DRC didn't leave it somewhere where I could find it. I can keep looking for it, but given we don't even know who wrote Eder Gira, Kemo, Delin, and Tsogal... I'm not hopeful in that regard.
+There isn't much else on the records of the family in question- not who wrote it, or who it was even a gift for- possibly that information was lost, or the DRC didn't leave it somewhere where I could find it. I can keep looking for it, but given we don't even know who wrote Eder Gira, Kemo, Delin, and Tsogal... I'm not hopeful in that regard.
 
 It seems that the Age stayed in ownership of the family for the next five hundred or so years, before being donated to a Private Collection around the year 8620 DE. It changed hands about five years later, going into another Private Collection, and from there it almost regularly bounced between private collections every thirty-to-thirty-five years until settling into a Public Library around the year 9200 DE. 
 
-It stayed there for about a hundred years,  and then it began to be traded between public libraries, it looks like, before being loaned to a public venue of Garden Ages that was being hosted at one of the City Proper's libraries shortly before the time of the fall- around the year 9381 DE. 
+It stayed there for about a hundred years,  and then it began to be traded between public libraries, it looks like, before being loaned to a public venue of Garden Ages that was being hosted at one of the City Proper's libraries shortly before the time of the Fall- around the year 9381 DE. 
 
-Document trail ends there- which leads me to suspect the garden exhibition either lasted for the next 19 years until the Fall, or it stayed at that library after the exhibition event ended. Likely the later, more than the former. What other documentation we have regarding the age showed it was sizably popular to remain in active circulation at the time of the Fall. 
-
-
----
-
-3/22/22
-
-I honestly have no idea what to write. My thoughts are a swirling mess of emotions right now.
-
----
-
-3/25/22
-
-Calum's grandmother is back and I'm offcially out of excuses to keep tabs on him.
-
-I can't say it.
-
----
-
-3/27/22
-
-I'm going to be honest. 
-
-After the last week of surface life getting on my nerves, I need a break. The sheer amount of back and forth talk about things is... Yes! We need plans at work. I get that. We need plans for what we're doing. 
-
-Why do I feel like I'm the only one contributing to those planning stages? I know that's not the case. But. Ye Gods, I feel like I'm the only one contributing some of these things actively. Meanwhile, everyone else is talking about how we should do things without actually doing those things? I- oh. I Am just. 
-
-Nearing my breaking point with some of this. And that's in addition to my worries over Calum, and this whole intruder business. Calum's been texting me and keeping me up to date on his thoughts. 
-
-NOW he's thinking that the intruder must have thought him associated with someone who ALSO infiltrated the worksite, but did so *legitimately* and was genuinely trying to help undo sabotage? Honestly, where does he get these ideas... the woman shoved him to the ground!
-
-How can he be so sympathetic to someone whose only interaction with him was to push him to the ground when here I am and he doesn't *SEE* how I'm feeling about ANY of this?! I spent how many nights staying over with him!? Keeping tabs on him long after the Doctors cleared him of injury!?
-
-And I'm- I can't even bring myself to write the words let alone TELL him- but HOW does he not SEE!? 
-
-Plus yet another firescare yesterday. I'm. Tired.
-
-I'm tempted to call in sick tomorrow... I think I might, actually. 
-
----
-
-3/29/22
-
-Work needed me yesterday and I had to fill in for someone else who called in sick. So I beat them to the punch and did it today. I need the break.
----
-
-Visited an explorer's Relto... I was a little unnerved over the reclaimed Bahro Poles in their yard. I heard one scream even while I was there. Good grief.
-
----
-
-Time to take the time to relax at today's relaxation session. 
-
----
-
-Some mild chatter between Carl and Tiernan and Ereshkigal while I tried to relax. Fortunately I think they got the hint I wasnt in the mood for much socializing after a bit. 
-
----
-3/30/22
-
-How sweet, Calum heard how tired I was yesterday and got me a cute little toy-scale motor scooter, with a little pull back and launch method too. I think I'll keep it on my desk in Chiso.
-
-Now if only I had a little doll or figure that was the right scale for it! Oh well, that can wait for another time. 
-
---- 
-
-4/6/22
-
-I'm seeing ghosts, I have to be. There's no reason for that 'Sami' girl to be stalking me on the surface, let alone looking terrified out of her wits while doing it.
-
----
-
-4/15/22
-
-Busy, busy, busy. How's it been half a month already since I got that little toy from Calum?
-
-
-Patrick's officially announced planning to open up the lower Chiso Library area to the public- so who knows how long that'll take before it's officially open and what not. 
-
-Dr. Quinlan had his Sanctuary Clinic open house today, which went off successfully, it seems. I couldn't make it due to work. Seems like we all missed one hell of a party afterwards- someone smashed up one of the patient rooms!
-
-The Doctor has also mentioned he's seen some folks hanging around the town he gets his supplies from. Suspicious. I've passed along Calum's reservations about those two awol employees from the overflow station, just incase. It's probably my own paranoia/anxiety speaking, born from a stressful two weeks at work. 
-
-That's all it has to be. Honestly. 
-
-In other news, Tenny's poked me to ask Calum about how his exam went. I've texted him now. I guess I'll see what he replies.
-
----
-
-What? That's impossible. It's- that's 
-
-Calum's latest scans show no signs of a concussion at all- not even healed ones. That's... Calum thinks it may be the Vertigo Crystals?
-
-Damn it all.
-
----
-
-4/16/22
-
-Met up with Calum at the Island this morning before he went out on errands. I wouldn't believe it if I wasn't seeing the images infront of my own eyes. The scans taken when he was hurt versus yesterday are impossibly different. 
-
-This can't be right?? How? How could this be possible?
-
----
-
-4/20/22
-
-Repeat scans repeat the trend. Calum's head is HEALED. How in the world...? Not even showing signs of damage. This... This makes no sense unless the Crystals did something??
-
-But... how? Why??
-
----
-
-4/24/22
-
-Apparently TikiBear has lost a Gnome? Poor thing. Who would *dare* steal a Garden Gnome!? 
-
-Still, somehow I'd rather focus on the thought of a lost Garden Gnome over medical improbabilities.
-
----
-
-4/27/22
-
-Calum's vented quite a bit about his cousin's visit. Honestly isn't my place to say anything, but he definitely needs the break from work, I'd say. Same for me, as well, given my own surface life's chaos.
-
-I'm thinking I'll likely start up a new journal- this one is getting pretty full, and the likelihood of my needing to add to it after Naybree is released, while negligable, is still high enough I ought to reserve some room for those updates should they happen.
-
----
+The document trail ends there - which leads me to suspect the garden exhibition either lasted for the next 19 years until the Fall, or it stayed at that library after the exhibition event ended. Likely the later, more than the former. What other documentation we have regarding the age showed it was sizably popular to remain in active circulation at the time of the Fall. 
+-------
 
 5/23/22
 
@@ -1022,8 +520,15 @@ I can't see the multitude of statues, so pain-stakingly carved and so similar to
 What kind of person was she, when she decided to move? It's a damned shame she left her journal in the Cathedral, and didn't even write in it very often. Didn't date it when she did. I can't blame her, not wanting to mark the passage of time, but she spent an unknown amount of time here and it's-- it's so sad that she was alone for so much of it. 
 
 If I ever meet her in person, I have so many questions. 
+-------
 
----
+5/30/22
+
+Naybree is oddly comforting in its quiet chill given recent events. 
+
+I don't know if there's really anything else to say on the matter.
+-------
+
 
 [Written on the last page of the book:]
 
@@ -1033,9 +538,29 @@ Time to be an unrepentant tease and leave a few goodies behind for folks to find
 
 If you've read this far into this journal, thanks for giving my words some time. Oh, and the password is "Burning Sunsets are Amazing!"
 
-;) Just to let me know you got this far. 
+;) Just to let me know you got this far. Hehe. 
 
 _Kelsei A. Taylor]]></translation>
+            </element>
+            <element name="creditsbook">
+                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
+
+Thanks to Doobes for taking the time to answer questions and help troubleshoot! 
+
+Thanks to Theo for the Rope Ladder Knot Model! 
+
+Thanks to Ehren, Hazado, and Adam for helping with the Sun-at-Night issue!
+
+Thanks to Iwonk and Nosila for being camera region feedback suggesters! 
+
+Thanks to the Open Uru and Minkata Testers for helping get this over the line! 
+(Seriously, thank you for putting up with my insanity in this place.)
+
+Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+]]></translation>
             </element>
         </set>
     </age>

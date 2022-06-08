@@ -2,7 +2,7 @@
 <localizations>
     <age name="FahetsHighgarden">
         <set name="Journals">
-            <element name="TTPTailReport.002">
+            <element name="TTPTerniReport">
                 <translation language="English"><![CDATA[<cover src="faht_ternireportcover.hsm">
 <font face=Courier size=10 color=000000>
 
@@ -28,7 +28,7 @@ On going observations of the experiment are carried out via a network of observa
 The Age that the project is taking place upon is a D'ni Age that was Written at the time of the Fall. The Age had no name, no documentation, and had not had the initial Link made. The Third Path repurposed the Age, Ter'ni (New Tree) for use in the project.]]></translation>
             </element>
             <element name="TTPTailReport">
-                <translation language="English"><![CDATA[<cover src="faht_tailreportcover02.hsm">
+                <translation language="English"><![CDATA[<cover src="faht_tailreportcover.hsm">
 <font face=Courier size=10 color=000000>
 Morning boss,
 

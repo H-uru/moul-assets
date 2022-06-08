@@ -2,6 +2,26 @@
 <localizations>
     <age name="EderNaybree">
         <set name="Journals">
+            <element name="creditsbook">
+                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
+
+Thanks to Doobes for taking the time to answer questions and help troubleshoot! 
+
+Thanks to Theo for the Rope Ladder Knot Model! 
+
+Thanks to Ehren, Hazado, and Adam for helping with the Sun-at-Night issue!
+
+Thanks to Iwonk and Nosila for being camera region feedback suggesters! 
+
+Thanks to the Open Uru and Minkata Testers for helping get this over the line! 
+(Seriously, thank you for putting up with my insanity in this place.)
+
+Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+]]></translation>
+            </element>
             <element name="kelseijournal">
                 <translation language="English"><![CDATA[<cover src="xaths-edernaybreejournal.hsm"><font size=16 face=Michelle color=416600><margin left=62 right=62><font size=18 face=Michelle><p align=left>
 12/27/21
@@ -432,26 +452,6 @@ I think this age is about ready for release. Time to be an unrepentant tease and
 If you've read this far into this journal, thanks for giving my words some time. Oh, and the password is "Burning Sunsets are Amazing!" ;) Just to let me know you got this far. Hehe. 
 
 _Kelsei A. Taylor]]></translation>
-            </element>
-            <element name="creditsbook">
-                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-
-Thanks to Doobes for taking the time to answer questions and help troubleshoot! 
-
-Thanks to Theo for the Rope Ladder Knot Model! 
-
-Thanks to Ehren, Hazado, and Adam for helping with the Sun-at-Night issue!
-
-Thanks to Iwonk and Nosila for being camera region feedback suggesters! 
-
-Thanks to the Open Uru and Minkata Testers for helping get this over the line! 
-(Seriously, thank you for putting up with my insanity in this place.)
-
-Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-]]></translation>
             </element>
             <element name="yeeshapage-futureprep">
                 <translation language="English"><![CDATA[<font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>

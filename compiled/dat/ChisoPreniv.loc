@@ -4469,6 +4469,178 @@ I took them and returned to Chiso immediately. Murry can do his experiments infr
             <element name="waynesrelto">
                 <translation language="English">&lt;cover src="xYeeshaBookCover*1#0.hsm"&gt;&lt;font size=10&gt;&lt;img src="xYeeshaBookBorder*1#0.hsm" pos=0,0 blend=alpha&gt;&lt;pb&gt;&lt;img src="xLinkPanelBlackVoid*1#0.hsm" align=center link=1 blend=alpha&gt;&lt;img src="xYeeshaBookStampSquare*1#0.hsm" pos=140,255 resize=no blend=alpha&gt;</translation>
             </element>
+            <element name="Notebook05">
+                <translation language="English">&lt;margin left=62 right=62 top=48&gt;&lt;font size=16 face=Tricia&gt;&lt;p align=left&gt;Kelsei,
+
+Reporting this to you, since Calum's still quarantined. I've been looking into events around the cavern as asked, regarding our mysterious new visitor as well as these unnamed troublemakers.
+
+Regarding the troublemakers, here's what I've learned, in addition to what we already know about:
+-Three explorer's journals went missing from one of the hoods. They are positive they left them there, and were only gone for a few minutes.
+-Some explorers set up a sound system in a hood to have a party. Apparently almost no one came. The hosts went to AeGura to try to find people, and when they got back, the speakers had been smashed and the equipment ruined.
+-A note was tacked on to the wall in Watcher's Sanctuary with the words "Leave the cavern or the gnome dies!" I can only assume they mean TikiBear's garden gnome. Not sure if this is our troublemakers or someone else playing a prank.
+-Someone had a portable heater in Delin for the cold snowy season. It disappeared overnight.
+-Calum's Lego chess set, which I borrowed, has now gone missing. He's not going to be happy with me about that.
+Most frustratingly, no one has seen the saboteurs and thieves since Calum's encounter with them. I'm keeping an eye on Tiernan Quinlan, since they seem to have a personal vendetta against him, although why they would is beyond me. I'll keep my eyes open. Maybe we should think about hiring some security?
+
+With regard to Benavud, I'm afraid I've hit a dead end. Nobody--and I mean NOBODY--seems to know him. It's pretty exasperating that the guy can't remember anything himself. All we know about him is that he was injured and dressed in a Yeesha shirt when Jules found him. His bloodwork indicates he's not human, which would indicate a D'ni or Bookworlder--except that the clothing he was wearing was typical surface clothing and he speaks fluent English. I suspect the same troublemakers who are stealing other things are probably responsible for stealing his Books, but how they got to his Relto I have no idea. If Benavud could remember anything about his life before Jules found him, we'd probably know a lot more. I think we should keep an eye on him, and be ready in case his people--whoever they are--come looking for him.
+
+I've also asked around about the Saturday Prophecies (that's my name for Madame Sophia's premonition and Echo's vision the same day). While everyone has theories, nobody's come to any firm conclusion on what they mean. I'm inclined to think Calum was right about not putting much stock into prophecies.
+
+That's all I've got for now.
+
+-Carl</translation>
+            </element>
+            <element name="GZJournal">
+                <translation language="English">&lt;cover src="greatzerojournals01.hsm"&gt;&lt;margin left=62 right=62 top=48&gt;&lt;font size=16 face=Michelle&gt;&lt;p align=left&gt;New Stories and Friends
+May 17, 2022
+
+I discovered a slim little Journal in my researches into the Great Zero and its Keeper. While I was looking around the neighborhood the Keeper lived in, I found a cache of little books. I think these were written by the Keeper’s daughter, a girl named Sarai. Though I’m not entirely certain. Some of these books are written in a different hand, which I believe might be a young man named Tayeth.
+
+But I found a story, which I’m not sure at the moment is a historical record or just a fiction, about the first time Sarai met Tayeth, when they were children. It’s fascinating! I’ve been spending most of my time looking through these homes, trying to find any kind of documentation about the Great Zero.
+
+I found a scrap of paper with the word key on it. That doesn’t mean our ‘KI’s, as that’s a name the DRC invented for the devices. I’d like to find more about this Key.
+
+Dr. Tenny has been busy lately! He’s met someone named Logan… I haven’t met this person, but apparently Tenny’s very interested in him. It’s very cute actually. I’ve never seen Tiernan blush, but he does when he talks about Logan.&lt;pb&gt;Gahreesen Wall Tourney
+May 6, 2022
+
+I’d wanted to go to see this event, it looked like it was a lot of fun! Unfortunately, I had to consult with Dr. Tenny about a small injury I’d sustained a few weeks ago, so while we were x-raying my ankle, I had to miss the beginning of the event.
+
+Even worse, once we were done, I hurried over to the neighborhood and managed to get over to Gahreesen to see the event and I missed a jump! I Reltoed out and before I could get back there, the event had concluded.
+
+I’ve just been having one of those crazy, forgetful days today. However, I did head over to the Great Zero to take some more photographs.
+
+I do wonder if I misplaced my research last month, now! Though other folks have reported things missing, including a garden gnome?&lt;pb&gt;New Journal
+March 18, 2022
+Well, since I have yet to find my previous journal, I started a new book. I’ll just have to remember to keep it on me at all times.
+
+I honestly didn’t think anyone else was interested in the Great Zero, at least I never see anyone here, so I was surprised to find my work gone.
+
+At any rate, Kelsei is keeping an eye out for it and I’m doing the same, in case I come across other misplaced materials.
+
+I still have not been able to figure out any kind of opening mechanism for the ‘doors’ in the Zero Calibration fore-chamber. I just might be wrong about them, I don’t know.
+
+I have found some other interesting artifacts in the Library as well as in the area I believe the Zero workers may have lived at one point. At any rate, I found some evidence nearby of a family who made jewelry, which was quite a bit of fun to discover. Some books on gemology as far as I can translate.
+
+It’s interesting, the kinds of gemstones the D’ni used in their jewelry as well as creation of gaming materials and decoration. I found a lovely little Gemedet set in the Jeweler’s Manor, made from what looks to be white jade. It was apparently in the process of being finished when the Family had to abandon the City.
+
+It’s rather poignant, such a lovely little item just sitting there, abandoned.&lt;pb&gt;Missing Equipment
+March 16, 2022
+
+I seem to have misplaced my current journal and the writing supplies I’d left at the Zero last night. I’m not sure if I just forgot where I put them or if someone came by and saw them and picked them up to return to me.
+
+I do hope I find them soon, most of my current research on the people who worked in this complex was in that book.
+
+Oh dear.&lt;pb&gt;Water Power
+March 15, 2022
+
+Looking at the complex, there is a set of water channels from the lake outside the complex into the building, which appears to be responsible, at least in part, for powering the mechanical functions of the Emitter.
+
+I have been looking over the channels and have realized that they run underneath part of the Calibration chamber, which means there is a channel within the interior of the building. In order to keep the machines running correctly, there most likely had to have been a team, or at least a single maintenance person on hand, perhaps occasionally anyway, to oversee the continued operation of the Emitter.
+
+I’d like to try to get through one of the doors I have found in the complex, but so far, no luck. It’s possible it’s not even a door, really, but as a window, it makes no sense. I have tried to see if there’s something on the other side that would make the window theory work, but there’s only the raised platform in the actual Calibration chamber.
+
+I have consulted with a few other explorers regarding my investigations, so they’re aware I’m attempting to find a way inside the interior. I’m not sure if they believe me or just think I’m mad… the crazy lady who’s obsessed with the Great Zero…&lt;pb&gt;My time in the Cavern
+March 11, 2022
+
+I’ve been working in the Cavern, this time, for several weeks. At this point, I have focused most of my research on the Great Zero complex and the history behind this enigmatic location. I have been working on D’ni research for many years, having become involved in the project back in the 1990s, when the first DRC researchers began to investigate the Cavern. However, many other projects have diverted my studies, including some work in the Upper Peninsula of Michigan as well as the Pacific Northwest. Only recently have I been able to return to the Cavern to help with the restoration efforts there.
+
+I have settled into my neighborhood, a ‘Bevin’ type. This one is mine, however, as opposed to the first neighborhood I used as a base, which was shared by several other explorers. Unfortunately, the neighborhood I was assigned doesn’t have a D’ni clock, but I was very happy to be able to find one that was in good condition and was unclaimed. A clock is just a bonus. I’m grateful to Calum, who helped me find one so quickly.&lt;pb&gt;Welcome to the Great Zero Journals
+March 11, 2022
+
+This is a record of my explorations within the Deep City, and what I found there.
+Diranda Valerian</translation>
+            </element>
+            <element name="TennyJrnl">
+                <translation language="English">&lt;cover src="tennysjournal01.hsm"&gt;&lt;margin left=62 right=62 top=48&gt;&lt;font size=16 face=Michelle&gt;&lt;p align=left&gt;Logan and Benavud
+June 2, 2022
+
+Well, after the tests came back, we found out Ben seems to not be human, exactly. Of course Carl went into this a bit more on his journal: “A Non-Human Newcomer”. People were excited about this and speculation went a bit wild. Unfortunately this week, poor Ben seems to have been too overwhelmed with things and I’ve made the decision to keep visitors away for a while until he feels better. So I asked my helpers, the young folks from ASU, to keep him company and keep an eye on him when I’m not in the Clinic.
+
+Logan came by, since I’ve been so busy with Ben, we haven’t had a lot of time to do much together lately. He was, of course, very curious about Ben, but I’m not letting anyone see him, not even Jules and Carl. I think Logan understands, he seemed to.
+
+Logan’s offered to visit me at the Clinic though, so while I’m working, he’s planning to come over for coffee and ‘mini-dates’ (his words!).
+
+I think we’re a couple… Alex says we are, anyway. She just grins whenever Logan comes by and Jamie winks. Logan is incredibly sweet, at any rate. I may offer him a place to stay here, since he mentioned his current neighborhood is a bit crowded with other Explorers.
+
+He noticed something and pointed it out to me though. The ‘mysterious visitors’ continue to show up on our Clinic roster, yet nobody here has ever seen them. Not even Alex and Nyota, who are here pretty much all the time. This is beginning to concern Dorrian, who’s been helping with security in the Clinic, along with Mysty. He and Jamie are setting up a watch during the night, just to keep everyone there safe. Their group has pretty much moved into the Clinic, which is great, because now I have people to keep me company as well as Ben!
+
+Jamie is very interesting, he’s been helping me with my satellite uplinks, since we still have occasional connectivity problems. He’s also been discussing working with Dira’s brother’s Argon Labs group, and it sounds very much like Corey is going to be offering Jamie and his friends jobs!
+
+I took a ‘KI selfie’ picture today of Logan and I! I love it and he wanted a copy sent to his KI as well.&lt;pb&gt;Clinic’s First Guest and a Mystery
+May 19, 2022
+
+Jules called me today about an injured man he’d found behind the Great Library. So once we got the poor fellow back to the Clinic, I set to work fixing him up. The poor boy was very confused and disoriented, but considering he’d taken a bit of a tumble, it’s not surprising.
+
+Unfortunately he’d taken a bit of a bump to the head and seems to have temporary amnesia. Dr. Lavisham is looking into trying to find out a bit more about him. All we know about him at this point is that his name is Benavud, which we got from his KI Device.
+
+Jules, Kelsei and Carl are asking around, to see if anyone might recognize him or know about him, while Calum is looking at the broken KI.
+
+Hopefully we will be able to learn more about him, to help him out. In the mean time, he’s resting at the Clinic and we’re looking after him.
+
+I suppose if his name sounds familiar to anyone in the Cavern, please let Dr. Lavisham, Kelsei, Carl or myself know, so we can make sure his family and/or friends are notified that he’s in our care and is alright.&lt;pb&gt;Relaxing Evening and A KIMail
+May 17, 2022
+
+Logan and I stole away to spend the evening sitting in Elonin, gazing at the Lake, sipping wine. A few other Explorers were looking around, trying to solve the puzzles, which was fun to watch.
+
+We sat on one of the balconies, chatting quietly.
+
+While I was spending time with Logan, I got a KIMail from Mystlander. Such a nice message! She let me know she’d been to the Clinic, fixed a few things up for me and would be keeping an eye on it in the future. I should put her in contact with Dorrian, so they can coordinate.
+
+Logan is incredibly knowledgeable about D’ni and its history. I continually am amazed by him. I hope I’m not getting a crush, I have no idea how he’d respond to such a thing. Ah well, it’s just been pleasant having a friend to chat with, who seems just as interested in my life before I came here as he is in my Cavern history. He mentioned he’d read some of my dear grandmama’s books and even attended one of her seminars in Sedona, which just touched my heart even more.
+
+He spoke at length about living in Sedona, where I lived for a few years after I moved to the States with Grandmama. I’m a bit surprised we never encountered each other in town while I was there, since he lived there when I was staying with Grandmama. But, since I was homeschooled and he attended the local High School, we just never crossed paths. It’s unfortunate, but well…
+
+Ah… I am going on too much about Logan.
+
+I heard from my friend, Dr. Evergreen, today as well. She sent me a text asking all about the Cavern. She’s definitely interested in visiting with her niece, who is very interested in the paranormal.
+
+I think they’d both be stunned at what exists here below the desert floor of New Mexico… Heh. Though I know Dr. Evergreen and her niece have seen some pretty amazing things, I’m certain they’ve never seen anything like Ae’gura!
+
+I’m hoping they might visit for the summer season, then they can meet Logan, Calum, Kelsei, Diranda, Jules and Carl. That would be so fun! I’d love to show a youngster around the Cavern!
+
+Diranda told me her friends have been researching an Age that Calum found and they’re hoping he might let them visit it eventually. Calum mentioned that this age has crystals with some very unusual properties, which apparently caught the attention of Alex, Jamie and Nyota. They’re anxious to explore but Calum is being careful in who he’s letting visit, which I definitely agree with. I’d like to explore that Age as well but I respect Calum’s wishes in this case. I know he doesn’t want anyone to get hurt and I agree.&lt;pb&gt;Logan Visited
+May 15, 2022
+
+So Logan stopped by the Clinic today. He was curious about where I was staying and I showed him around the Clinic. We stopped by the Radio Free D’ni show for a while as well but ended up spending most of our time wandering around Ae’gura, listening to the show on my phone.
+
+He’s kind of amazing! So interesting and funny! I haven’t had a friend like him in a very long time and I didn’t realize how much I missed just hanging out with someone and sharing D’ni.
+
+I think Grandmama would like him. There’s just something about him that is different.
+
+We spent most of the evening in the Library, reading and sharing the information we’ve learned. He knows D’ni! Much better than I do! He was translating a book of poetry and it was just magical to hear his pronunciation of the words. It’s almost as if he were D’ni in a past life.
+
+I’d love to introduce him to Carl, Jules and Calum, but Logan’s been kind of hesitant to meet more people. I’m not sure why. I think he’s just shy.&lt;pb&gt;Explorers in the Cavern
+May 11, 2022
+
+This evening, while I was walking down to the Pub, I met a gentleman, Logan. He’s a newcomer to the Cavern, from the town my grandmother lives in, Sedona. We went over to the pub and had a couple of drinks and a nice, long conversation. Though he’s been here longer than I have, he arrived in December and has been exploring Ages and following the Journey. He’d just recently finished the Journey and was trying to find out more about the most recent news that Echo McKenzie was seen recently, which I’d heard about but didn’t see. I understand Dr. Lavisham spoke with her, however.
+
+Unfortunately I couldn’t provide Logan with any new information about that, but we talked quite a bit about the Cavern, recent events and our work. He was very friendly and I enjoyed meeting him.&lt;pb&gt;Strange visitors
+May 10, 2022
+
+A couple of former workers on the Overflow station, who left the project a few weeks ago have been showing up on the visitor logs in the Clinic.
+
+Calum let me know that these people had quit shortly after they took a leave of absence and as far as we knew, they’d left the area.
+
+However, Tati Masser and Fasyk Casing have since been in the Clinic at least three times since they went ‘missing’. They seem to appear whenever I’m out on rounds or otherwise occupied in the Clinic, so I have yet to encounter them.
+Added Office Hours and Appointments
+April 25, 2022	/ Leave a comment / Edit	
+
+I’ve set up a contact form for those requesting appointments as well as a list of hours I will be in the Clinic. Please feel free to contact me if you’d like an appointment.&lt;pb&gt;The Clinic is coming along
+March 22, 2022
+
+I have been figuring out where to set up rooms for the Clinic, exploring my neighborhood and looking at all options.
+
+At the moment, I have set up my office and telescope monitoring equipment in the ‘Classroom’, with my satellite equipment in the foyer near the clock. I don’t expect it to interfere with the clock mechanism, and thus far, it hasn’t.
+
+I think the little observation room next to the classroom might be a good examination room. It’s private and quiet. It will just need a bit better lighting.
+
+The light gardens are a nice place for people to wait and relax. I’m primarily considering a good location for the emergency OR as well as patient rooms, but I will probably put one of the townhouses to use as a hospital ward at some point.&lt;pb&gt;Welcome to my journal
+March 19, 2022
+
+I’m a retired medical doctor and I have finally been able to answer the Call I have had for so very long.
+
+I’ve relocated to the D’ni city, Ae’gura, to help with the restoration and research efforts there.</translation>
+            </element>
         </set>
     </age>
 </localizations>

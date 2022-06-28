@@ -2,31 +2,6 @@
 <localizations>
     <age name="EderNaybree">
         <set name="Journals">
-            <element name="creditsbook">
-                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-Thanks to Theo for the Rope Ladder Knot Model! 
-Thanks to Ehren, Hazado, and Adam {Hoikas} for helping with the Sun-at-Night issue!
-Thanks to Adam, Tweek, Hazado, dpogue, Doobes, and others for Korman help with various issues.
-Thanks to Iwonk, Nosila, SkyisBlu, & Ametist for being camera region feedback suggesters! 
-
-Thanks to Rarified for expediently handling my multiple uploads to Minkata during testing. ^u^
-Thanks to ALL of the Open Uru and Minkata Testers for helping get this over the line! 
-(Seriously, thank you for putting up with my insanity in this place.)
-
-Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-And thank YOU for coming to visit this age. I hope you enjoy the views! :D  
-]]></translation>
-            </element>
-            <element name="yeeshapage-futureprep">
-                <translation language="English"><![CDATA[<font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-
-PLACEHOLDER OBJECT IS PLACEHOLDER.
-
-a in c major 440 vibrations per second ]]></translation>
-            </element>
             <element name="kelseijournal">
                 <translation language="English"><![CDATA[<cover src="xaths-edernaybreejournal.hsm"><font size=16 face=Michelle color=416600><margin left=62 right=62><font size=18 face=Michelle><p align=left>
 12/27/21
@@ -152,8 +127,8 @@ Look at me, I think I've finally caught Calum's journaling bug. Once I've starte
 I'll admit I'm just itching to see something related to Athsheba and the Cathedral out there in the public light. I could write down everything I know about the girl and her life in this journal, but then there's the part of me that wants to just let people speculate and delve deeper into the story as the Age presents it...?
 
 Then, when we finally release the Cathedral, it could all click into place. But, am I truly that cruel to make people be forced to sit and wait to figure out what we already know? No, I'd think not. 
----
 
+<pb>
 A Few Fun Facts We Know About Athsheba:
 
 She was a D'ni girl who lived with her parents on a private island out on the lake- the Chezahcen Cathedral Island as we call it now. 
@@ -171,8 +146,8 @@ I'm inclined to believe Athsheba was raised somewhat atypically for the D'ni aro
 Given the heavy depictions of Chezahcen across the garden, I believe Athsheba was very likely a devout follower of Exten-col's hunting goddess, especially in the time after the Fall. Though she did not write about it much in the one journal we-
 
 OH. There's a thought. I could copy my notes on translating that journal into this book, couldn't I? It'd certainly be a more worthwhile use of the page count. 
----
 
+<pb>
 TRANSCRIPTION NOTES FROM ATHSHEBA'S JOURNAL.
 
 The Journal recovered from the Cathedral is written primarily in a child-like D'ni handwriting style. There's some maturation over time, but I suspect Athsheba didn't have any impetus towards refining her handwriting over time given her situation. Her word choices are also, well, Childish, to put it kindly. It's also hard to translate correctly given in some cases there's scribbled messes that look like they should be one word, but may infact be another, due to the way the shapes were blended together.
@@ -245,6 +220,7 @@ By following these quotes, Athsheba reports finding the Family Age Book she was 
 Then, her last entry cites that she is leaving the journal in the Cathedral, for some future visitors to find, so that her story could be known, and known that it wasn't finished.
 -------
 
+<pb>
 1/20/22
 
 I can only assume that Athsheba's absence here in this Age, along with any traces of any furniture from her family home, means that she's left for greener pastures- ideally Releeshahn. It's possible Atrus' Restoration found her either here, or during one of her visits, or through her journal. After that, who knows.
@@ -312,8 +288,9 @@ I- I should take this to Calum.
 I've taken the books. Both of them, and returned to Relto. 
 
 I need to sleep on this.
-
+<pb>
 2/21/22
+
 Calum's given me the go ahead to take the Naybree Book to Patrick for Final Review before submission- now if only I could just get Patrick to reply to my request for a meeting.
 
 I only have so much free time in a week! Especially when that week is my vacation week.
@@ -364,7 +341,7 @@ Another Deep City Lecture? D'ni Legal System, hm? A bit quick of a turn around a
 Was in the Garden, up on the cliffs, when the most irritating thing happened- a gust of wind blew furiously against the cliffs and utterly wrecked the rope ladders.
 
 Now, I wasn't stranded, mind you. I could have Relto'd out at any time. But I messaged Calum about it right away and he said 'stay put' and came hurrying over and began rebuilding the ladders from scratch. It was interesting to watch him work, to say the least. 
-
+<pb>
 3/4/22
 
 I do wonder, sometimes, when Calum finds the time to do the things he does. Apparently the ladders still weren't up to someone's satisfaction and he redid them again. A forum post he just made says he wont be attending the AGM tomorrow, though. 
@@ -396,7 +373,7 @@ I wonder. I really wonder. What did Athsheba think, while she was here in Naybre
 A bigger question is, who was the woman who saved her after Athsheba's mother died? What did SHE know? Why did she save some random girl beyond doing the right thing and saving a life? Was she on an important mission? Was she nobody important? Was she a traveler from another place just passing by? 
 
 So many questions about what happened during the Fall. So so many. A part of me hopes she's still alive in Exten-col, and that we can ask her questions if we go there.
-
+<pb>
 3/20/22
 
 Thanks to my previous efforts to sort everything together in the archives, I inadvertently lessened a lot of the work I needed to do this time- although it's still taken most of the day to get to this point.
@@ -432,11 +409,10 @@ I can't see the multitude of statues, so pain-stakingly carved and so similar to
 What kind of person was she, when she decided to move? It's a damned shame she left her journal in the Cathedral, and didn't even write in it very often. Didn't date it when she did. I can't blame her, not wanting to mark the passage of time, but she spent an unknown amount of time here and it's-- it's so sad that she was alone for so much of it. 
 
 If I ever meet her in person, I have so many questions. 
-
+<pb>
 5/30/22
 
 Naybree is oddly comforting in its quiet chill given recent events.  I don't know if there's really anything else to say on the matter.
-
 
 6/5/22
 
@@ -446,23 +422,31 @@ I'll admit I'm a little at a loss as to what to do here.
 
 I think Calum handled the majority of everything that needed doing. At this stage I'm just going to have to take care of any lingering issues or concerns the others may have regarding this age. I suppose we'll see how that all plays out.
 
+6/25/22
+
+Calum's back from Rei'schu this morning, and working at Naybree again. Much more focused than he was the last few days. Though, I caught him scribbling furiously in that tree journal again for some reason. Not sure what he's doing there. 
 
 
-
-
+<pb>
 [Written on the last page of the book:]
 
-I think this age is about ready for release. Time to be an unrepentant tease and leave a few goodies behind for folks to find! 
-
-If you've read this far into this journal, thanks for giving my words some time. Oh, and the password is "Burning Sunsets are Amazing!" ;) Just to let me know you got this far. Hehe. 
+I think this age is about ready for release. Time to be an unrepentant tease and leave a few goodies behind for folks to find! If you've read this far into this journal, thanks for giving my words some time. Oh, and the password is "Burning Sunsets are Amazing!" ;) Just to let me know you got this far. Hehe. 
 
 _Kelsei A. Taylor]]></translation>
             </element>
+            <element name="yeeshapage-futureprep">
+                <translation language="English"><![CDATA[<font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
+
+PLACEHOLDER OBJECT IS PLACEHOLDER.
+
+a in c major 440 vibrations per second ]]></translation>
+            </element>
             <element name="calumfieldjournal">
                 <translation language="English"><![CDATA[<cover src="xplayerjournalCalNaybreeTrees.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-OBSERVATIONS ON NAYBREE'S "TREE"
+OBSERVATIONS ON NAYBREE'S PLANTLIFE.
 -by CALUM TRAVELER-
 
+"THE TREE"
 Age appears to be covered in a single giant tree like life-form. Shares visual similarities with Kudzu and Mint plants on Earth- trending towards exponential growth. This is its canopy. The 'Tree' is upside down compared to Earth Trees. Its leafy greens are on the ground, and its roots spear into the air.
 
 Sturdy wood like material- more like living Tree Roots than regular tree branches on Earth. Seems to grow into a lattice like network of layers- capable of supporting the weight of many individuals at once. Doesn't seem to have a dislike of any materials- will gladly punch through rock and stone just the same as it'll grow over it. 
@@ -485,9 +469,57 @@ Briggs called them " chubby noodle trees " and honestly I can't disagree. They b
 
 With Naybree being "Root Two" literally in D'ni, I'd have to assume this Age started with two trees that merged into one and just started growing exponentially in a race to consume eachother. But that's speculation. Could've been a reference to the moons, if that's the case.
 
-Honestly, this tree is some of the only native plant life I can see in the Garden's back half. If this age had ANYTHING there that wasn't the "tree" before this point, it's long dead. Just some small shrubs and other bushes/grasses in the front half remain. 
+Honestly, this tree is some of the only native plant life I can see in the Garden's back half. If this age had ANYTHING there that wasn't the "tree" before this point, it's long dead. Just some small shrubs and other bushes/fern-bamboos in the front half remain. 
+---
+<pb>
+"LUNACY"
+I think I'll take to calling the upsidedown fern-palms "Lunar Bamboo"- as they're in purple/pink and blue, like the moons. Is the pink/purple an exact match? Not really. 
 
-Ah, still. It's a nice mountain view from the clifftops though. ]]></translation>
+They seem to have a bamboo like growth cycle to start- more of the underground splintering that buds above ground, I'm starting to detect a theme in this age, for sure. You'll see shoots poking up out of the ground in places, and then over time, growing fern like extensions around them, with a result that looks almost like inverted palm trees.
+
+I'm reasonably certain these things are the same plant- but I can't figure out why one half of the front of the garden is blue, and the other half is purple. Proximity to water source maybe?
+
+I've used some break-offs from the stalks for the pole-posts on the second bridge reconstruction, they're sturdy enough to resist bending, but they drill and cut easily enough- unlike the Chubby Noodle Trees and their tough-as-diamond wood/bark, alas. 
+
+These seem well trimmed despite the age being abandoned for a long time- natural break points? Possible some migratory wildlife is trimming them. Need to observe for longer term to get a better idea of how these things grow.
+---
+<pb>
+"BUSHWHACKED"
+Reminiscent of scrub-bushes we see in various ages- Relto, Er'cana, etc. They're a vibrant blue under the right lighting conditions. Very pretty for bushes. Hardy, too. They're growing up in and around the Lunar Bamboo without much complaint. 
+
+Some of them get tall, but other stay stout and short. Some get REALLY big. Not sure if they berry or fruit- haven't observed in age long enough to see if they do or not. Not sure how they seed themselves. Possible they're not native to the garden originally and seeds were blown in on the wind?
+
+<pb>
+<pb>
+<font size=16 face=Tricia color=b536da><margin left=62 right=62><font size=18 face=Tricia><p align=center>
+48575 392 -84
+48678 394 -82
+48611 379 -81
+48799 386 -86 
+48841 394 -80
+48913 385 -86
+48667 383 -83
+48408 386 -81
+48916 385 -86
+48549 387 -64]]></translation>
+            </element>
+            <element name="creditsbook">
+                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
+Thanks to Theo for the Rope Ladder Knot Model! 
+Thanks to Ehren, Hazado, and Adam {Hoikas} for helping with the Sun-at-Night issue!
+Thanks to Adam, Tweek, Hazado, dpogue, Doobes, and others for Korman help with various issues.
+Thanks to Iwonk, Nosila, SkyisBlu, & Ametist for being camera region feedback suggesters! 
+
+Thanks to Rarified for expediently handling my multiple uploads to Minkata during testing. ^u^
+Thanks to ALL of the Open Uru and Minkata Testers for helping get this over the line! 
+(Seriously, thank you for putting up with my insanity in this place.)
+
+Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+And thank YOU for coming to visit this age. I hope you enjoy the views! :D  
+]]></translation>
             </element>
         </set>
     </age>

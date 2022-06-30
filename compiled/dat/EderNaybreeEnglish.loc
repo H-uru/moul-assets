@@ -434,6 +434,24 @@ I think this age is about ready for release. Time to be an unrepentant tease and
 
 _Kelsei A. Taylor]]></translation>
             </element>
+            <element name="creditsbook">
+                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
+Thanks to Theo for the Rope Ladder Knot Model! 
+Thanks to Ehren, Hazado, and Adam {Hoikas} for helping with the Sun-at-Night issue!
+Thanks to Adam, Tweek, Hazado, dpogue, Doobes, and others for Korman help with various issues.
+Thanks to Iwonk, Nosila, SkyisBlu, & Ametist for being camera region feedback suggesters! 
+
+Thanks to Rarified for expediently handling my multiple uploads to Minkata during testing. ^u^
+Thanks to ALL of the Open Uru and Minkata Testers for helping get this over the line! 
+(Seriously, thank you for putting up with my insanity in this place.)
+
+Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+And thank YOU for coming to visit this age. I hope you enjoy the views! :D  
+]]></translation>
+            </element>
             <element name="yeeshapage-futureprep">
                 <translation language="English"><![CDATA[<font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
 
@@ -502,24 +520,6 @@ Some of them get tall, but other stay stout and short. Some get REALLY big. Not 
 48408 386 -81
 48916 385 -86
 48549 387 -64]]></translation>
-            </element>
-            <element name="creditsbook">
-                <translation language="English"><![CDATA[<cover src="xvertpaperjournal-CRED.hsm"><font size=16 face=Tricia color=a10000><margin left=62 right=62><font size=18 face=Tricia><p align=left>
-Thanks to Theo for the Rope Ladder Knot Model! 
-Thanks to Ehren, Hazado, and Adam {Hoikas} for helping with the Sun-at-Night issue!
-Thanks to Adam, Tweek, Hazado, dpogue, Doobes, and others for Korman help with various issues.
-Thanks to Iwonk, Nosila, SkyisBlu, & Ametist for being camera region feedback suggesters! 
-
-Thanks to Rarified for expediently handling my multiple uploads to Minkata during testing. ^u^
-Thanks to ALL of the Open Uru and Minkata Testers for helping get this over the line! 
-(Seriously, thank you for putting up with my insanity in this place.)
-
-Thanks to Cyan for the Various Textures and Sounds used and modified from the asset repositories given to us under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-And thank YOU for coming to visit this age. I hope you enjoy the views! :D  
-]]></translation>
             </element>
         </set>
     </age>

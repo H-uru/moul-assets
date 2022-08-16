@@ -2,82 +2,6 @@
 <localizations>
     <age name="VeeTsah">
         <set name="Journals">
-            <element name="Notebook01">
-                <translation language="English"><![CDATA[<cover src="NotebookCover.DDS"><font size=20 face=Sharper color=000000><margin left=62 right=62 top=48>February 14th, 2017
-
-After taking some time investigating the new library, we came across a Linking Book to the Age of Veelay Tsahvahn, or "immortal soul" in D'ni.
-While we still have to find documentation about this Age, upon first Linking in, we were amazed by how well it had held up compared to most other D'ni Ages we've visited. There was barely any structural damage or heavy wear and tear due to the elements.
-We've sent some samples back to our team for carbon dating, so we'll see just how old this Age is.
-
-<PB>February 20th, 2017
-
-Incredible!  Preliminary testing shows that this Age could predate the exodus to the D'ni cavern, meaning it may very well have come from Garternay! If further testing holds true, Veelay Tsahvahn could very well have been Written nearly 12,000 years ago.
-As it stands, the structures here are not made of the signature nara usually found in D'ni architecture, which also may hint at a very early life for this Age. Nevertheless, the structures here have held up very well.
-The skies have remained clear and pristine, showing off many celestial bodies in the sky as well as some beautiful aurora. There's also evidence that this particular side of the planet stays in perpetual twilight, further keeping the structures from degrading. This Age was indeed Written to last, but for what reason?
-
-<PB>March 9th, 2017
-
-Some progress on figuring out this Age.
-
-Korov'ev has translated the plaque just in front of the tree when first Linking in. It appears to be a prayer first discovered by Richard Watson years ago.
-
-It reads:
-
-"In the rock, they lived.
-In the rock, they rest.
-Yahvo receive their souls." 
-
-Additionally, Nev'yn, being his usual industrious self, has been perusing, organizing, and cataloging the stacks of books in the library on Teshafee and has found a book of commentary for this Age. Korov'ev was able to translate a good portion of that as well.
-Given the above quote from the plaque and the commentary, it seems Tsahvahn Veelay was used as an Age to memorialize and remember those of the Ronay, and later the D'ni, who had passed away. It served as a location for funerals and wakes of sorts.
-This would explain why the Writer of this Age did their best to make it as geologically and meteorologically stable as possible. It also explains the very minimal amount of wear and tear the Age has gone through despite being here for millennia.
-
-<PB>June 14th, 2017
-
-So many projects, so little time! I do like to come back here quite often for the peace and quiet. You can feel the history and reverence that surrounded this relatively simple Age.
-An Age to remember those who are gone. It makes me think of my grandfather Raymond, who passed away just several months ago.  I like to think he would have loved to see this.
-I also think about quite a few of the explorers I've known over the years who have passed on. So many good people taken far too soon.
-
-Perhaps Veelay could be used to honor them as well, as the Ronay and D'ni once did...
-
-<PB>August 21st, 2017
-
-After speaking with Tai'lahr, we've both agreed that using this Age as a memorial to those explorers who are no longer with us would be a fitting extension of the memorial in the Kahlo Pub.
-Tai has been kind enough to gather information about each of the names on that memorial, and I've decided to incorporate all of it into hand-written journals that can be located on the pedestals at the top of the main structure.
-Those just coming to the cavern can read about those who have helped us restore it . . . who left their mark on our little community of explorers and touched our lives forever.
-
-I'm hoping this will be a fitting tribute to all of them.
-
-<PB>October 6th, 2017
-
-I return to Veelay Tsahvahn with mixed emotions. My grandmother passed away just a few days ago, so the meaning of this Age continues to grow for me as we make it ready for the general public.
-
-<PB>November 27th, 2017
-
-In the midst of the holidays, a thought occurs to me after yet another loss. It's amazing how pets can become like a member of the family, and their loss is felt almost as deeply as their human counterparts.
-In this spirit, I plan to make a small addition to this Age to honor our furry companions as well...and for me, one in particular.
-
-Jack the cat . . . we miss you, buddy.
-
-<PB>January 9th, 2020
-
-It's been a while since I last Linked here, but each visit here brings both somber feelings and a renewed determination for Age restoration and rebuilding. The journals detailing our late friends have been completed and amended . . . including Tai'lahr, who passed just a couple of month ago. She was the driving force behind this whole thing, and for that and more, she is truly missed.
-
-All that's left now are the usual safety checks . . . a mere formality. I truly hope those who come here, especially those who have lost a loved one in and out of the cavern, can find peace and serenity when visiting this Age, and think upon those who are no longer with us. They will not be forgotten.
-
-So long as we remember them, their ending shall never be written.
-
-<PB>Special Thanks
-
-Rhee for the original design concept
-Nev'yn for additional design concepts
-Tai'lahr for putting together the explorers' memorial, putting stories to the names from the Kahlo Pub, and for being an all around wonderful person. We miss you, Tai.
-
-Florian "Mystler" Meißner for his incredibly beautiful musical score, "House of Reminiscence".
-
-aqua, Hoikas, Deledrius and EmorDniLap for beta testing the Age and giving excellent feedback.
-
-Textures courtesy of Cyan, Inc. and Textures.com.<PB>And of course, to all the explorers who have passed away: Thank you for making our lives so much brighter while you were with us!]]></translation>
-            </element>
             <element name="MemBookAE">
                 <translation language="English"><![CDATA[<cover src="MemBookCover.hsm"><font size=20 face=Sharper color=000000><margin left=62 right=62 top=48>Mary "Aderyn" Beth Wilkinson
 
@@ -109,7 +33,9 @@ Surface name: Richard Riley
 
 Santa Clara, California, USA
 
-Battle Bots Boy was a big BattleBots fan and was owner of Spinning Mayhem. In the Cavern, he was an avatar operator for some of the early episodes of The Lost Art machinima. He died after a long battle with cancer at the age of 28.<pb>David "CAGrayWolf" R Sweeney
+Battlebotsboy was a big BattleBots fan: he was the owner of Spinning Mayhem, created multiple battlebots for competition with a 15-18 W/L record and recorded robot competitions in his YouTube channel. In the Cavern, he was an attendee of r'Tayrtahn's Story Night since 2010 and a beloved member of that community. In 2012 and 2014 he hosted a Story Night on Fridays, where he read from the book Myst: The Book of Atrus, reading one chapter per night over 23 weeks. He was also an avatar operator for some of the early episodes of The Lost Art machinima. He died after a long battle with cancer at the age of 28.
+
+Memberships: Tsahno's Hood<pb>David "CAGrayWolf" R Sweeney
 
 3 February 1964 - 21 June 2008
 
@@ -141,7 +67,21 @@ Memberships: MOUL forums (Sep 2006).<pb>Jim "Dust'ei" Rhodes
 
 Dust'ei was a regular in CyanChat during the Riven era.
 
-Memberships: Rivenguild.<pb>David Ogden Stiers
+Memberships: Rivenguild.<pb>David "Different Dave" Mains
+
+1956 - 2 April 2022
+
+Surface name: David Patrick Mains
+
+Browns Mills, NJ, USA
+
+"Different Dave", aka David P. Mains, passed away after a hard-fought battle with cancer. He was at home surrounded by family.
+
+Along with being a familiar face in the cavern, Dave was an accomplished bass guitar player, having recorded with an extensive number of groups, including Society, Tommy Straight, Same Day World, Psychopop, DMX, Entropy, Lipman and the Lips, Urban Buffalos, Same Day World, Dark Heart, Leaving Trains, and The Trouble Dolls, the last of which he toured with nationally.
+
+Dave was also an avid carpenter, furniture builder and electronics specialist.
+
+David is survived by his widow, Carol Kingsolver (karoh), his brothers Larry and Michael, daughter Melissa, granddaughter Anna, step-grandchildren Xavier, Jeydon, and Rose.<pb>David Ogden Stiers
 
 31 October 1942 - 3 March 2018
 
@@ -372,7 +312,17 @@ Las Vegas, Nevada, USA
 
 SIL_OH_WET on the forums, sil_oh_wet in the cavern, and just "Sil" to her friends, Lisa was an active explorer during the early Myst Online: Uru Live (GameTap era) days, participating in many storylines, hosting dance parties in the Kahlo Pub and hosting events in her neighborhood. "sil_oh_wet’s Bevin" was a popular place in those days, used to summon Yeesha (and she actually appeared), a gathering place to wait for news from Rils when he went on an expedition to Negilahn with Douglas Sharper, and of course for parties, including the weekly Karaoke. Karaoke nights were Sil's idea and she organized and hosted them for several months before sharing the duties with other D'niJs. When the cavern closed in April 2008, the event continued in Second Life and continues to this day, both in SL and in the cavern.
 
-Memberships: MOUL Forum (Oct 2006), DRC forums (Oct 2006).<pb>Terri "Tai'lahr" Richardson
+Memberships: MOUL Forum (Oct 2006), DRC forums (Oct 2006).<pb>Frank "Stungthumbz" Whiting
+
+1940 - 2020
+
+Surface name: Frank Whiting
+
+Corning, California, USA
+
+A father figure in The Meeting Place neighborhood, Stungthumbz was a close friend and mentor to many in the Uru community. He was featured heavily as "Wingman" in Dr. Celia Pearce's "Communities of Play."
+
+Memberships: The Meeting Place Hood.<pb>Terri "Tai'lahr" Richardson
 
 16 October 2019
 
@@ -397,7 +347,17 @@ Des Plaines, Illinois, USA
 
 Terra, also known as Advocate (on MYSTcommunity forums) was a member of the community by 2002, participated in Prologue, joined the Guild of Greeters in October 2003 and served as a Guild Master. She attended the 2004 Mysterium. In 2008, she moved on to "Middle Earth" (LOTRO) where she was known as Starligher and Kaprica.
 
-Memberships: MYSTcommunity (Oct 2002), Guild of Greeters (Oct 2003).]]></translation>
+Memberships: MYSTcommunity (Oct 2002), Guild of Greeters (Oct 2003).<pb>Joan Daisy "Tink" Burkey
+
+? - 20 January 2022
+
+Surface name: Joan Daisy Burkey
+
+Sedalia, Missouri, USA
+
+One of the earliest Cavern explorers, Tink was the explorer who was chosen to speak with Phil Henderson when the DRC was holding him in the Kirel Eggroom. Her meeting with Phil affected her greatly. Tink was a multifaceted individual with unique and creative ways of looking at things. She had a personal Website: Tinkian Space ( https://web.archive.org/web/20140320174504/http://goofedy.homestead.com/ )
+
+Memberships: MOUL forums (May 2006)]]></translation>
             </element>
             <element name="MemBookVZ">
                 <translation language="English"><![CDATA[<cover src="MemBookCover.hsm"><font size=20 face=Sharper color=000000><margin left=62 right=62 top=48>Alvin "Wamduskasapa" Lee Edwards
@@ -457,6 +417,82 @@ Planet Pluto (Federal Way, WA.)
 Zardoz's roots in the Myst/Uru Community can be traced back to at least Spring 2001 when he pursued the mystery of the realMyst Easter Eggs, documenting it thoroughly on his website, Zardoz's realMyst Easter Egg Hunt and other Goodies, and a year later, documenting Zandi's mysterious clues with the pages Zandi Facts. He participated in the Uru Live Beta (Choru), Prologue (opening the Bahro door in Eder Kemo to let Phil Henderson out), D'mala, Myst Online: Uru Live (GameTap era) and MOULagain. Although he was "not much of a social explorer" in the cavern, Zardoz was very active in the community through CyanChat and forums, gave a "realMyst flymode" presentation at Mysterium 2003, assisted with the DRC Liaisons election near the end of D'mala, answered Myst/Uru related questions on the forums, and offered advice on many other topics. His sense of humor is revealed in the February 2007 D'ni Network Pen and Ink Interview with Zardoz, his creativity can be seen in the OpenUru Writers Club: The Fall of a Sparrow: A Zardoz Project, and both are evident in the brief storyline he conducted in the summer of 2007. Zardoz backed Cyan's Obduction Kickstarter in October 2013 and was generally active in the community until a few months before his death.
 
 Memberships: MYSTcommunity (Jun 2001), Ubisoft Forums (Nov 2003), Guild of Greeters Forum (Dec 2003), The Great Tree Forums (Jan 2004), DRC Fourms (Dec 2005), MOUL forum (May 2006), Guild of Messengers Forum (Nov 2007), Guild of Writers (Dec 2007), OpenUru.org (Dec 2008), UruObsession.]]></translation>
+            </element>
+            <element name="Notebook01">
+                <translation language="English"><![CDATA[<cover src="NotebookCover.DDS"><font size=20 face=Sharper color=000000><margin left=62 right=62 top=48>February 14th, 2017
+
+After taking some time investigating the new library, we came across a Linking Book to the Age of Veelay Tsahvahn, or "immortal soul" in D'ni.
+While we still have to find documentation about this Age, upon first Linking in, we were amazed by how well it had held up compared to most other D'ni Ages we've visited. There was barely any structural damage or heavy wear and tear due to the elements.
+We've sent some samples back to our team for carbon dating, so we'll see just how old this Age is.
+
+<PB>February 20th, 2017
+
+Incredible!  Preliminary testing shows that this Age could predate the exodus to the D'ni cavern, meaning it may very well have come from Garternay! If further testing holds true, Veelay Tsahvahn could very well have been Written nearly 12,000 years ago.
+As it stands, the structures here are not made of the signature nara usually found in D'ni architecture, which also may hint at a very early life for this Age. Nevertheless, the structures here have held up very well.
+The skies have remained clear and pristine, showing off many celestial bodies in the sky as well as some beautiful aurora. There's also evidence that this particular side of the planet stays in perpetual twilight, further keeping the structures from degrading. This Age was indeed Written to last, but for what reason?
+
+<PB>March 9th, 2017
+
+Some progress on figuring out this Age.
+
+Korov'ev has translated the plaque just in front of the tree when first Linking in. It appears to be a prayer first discovered by Richard Watson years ago.
+
+It reads:
+
+"In the rock, they lived.
+In the rock, they rest.
+Yahvo receive their souls."
+
+Additionally, volunteers have been perusing, organizing, and cataloging the stacks of books in the library on Teshafee and have found a book of commentary for this Age. Korov'ev was able to translate a good portion of that as well.
+Given the above quote from the plaque and the commentary, it seems Tsahvahn Veelay was used as an Age to memorialize and remember those of the Ronay, and later the D'ni, who had passed away. It served as a location for funerals and wakes of sorts.
+This would explain why the Writer of this Age did their best to make it as geologically and meteorologically stable as possible. It also explains the very minimal amount of wear and tear the Age has gone through despite being here for millennia.
+
+<PB>June 14th, 2017
+
+So many projects, so little time! I do like to come back here quite often for the peace and quiet. You can feel the history and reverence that surrounded this relatively simple Age.
+An Age to remember those who are gone. It makes me think of my grandfather Raymond, who passed away just several months ago.  I like to think he would have loved to see this.
+I also think about quite a few of the explorers I've known over the years who have passed on. So many good people taken far too soon.
+
+Perhaps Veelay could be used to honor them as well, as the Ronay and D'ni once did...
+
+<PB>August 21st, 2017
+
+After speaking with Tai'lahr, we've both agreed that using this Age as a memorial to those explorers who are no longer with us would be a fitting extension of the memorial in the Kahlo Pub.
+Tai has been kind enough to gather information about each of the names on that memorial, and I've decided to incorporate all of it into hand-written journals that can be located on the pedestals at the top of the main structure.
+Those just coming to the cavern can read about those who have helped us restore it . . . who left their mark on our little community of explorers and touched our lives forever.
+
+I'm hoping this will be a fitting tribute to all of them.
+
+<PB>October 6th, 2017
+
+I return to Veelay Tsahvahn with mixed emotions. My grandmother passed away just a few days ago, so the meaning of this Age continues to grow for me as we make it ready for the general public.
+
+<PB>November 27th, 2017
+
+In the midst of the holidays, a thought occurs to me after yet another loss. It's amazing how pets can become like a member of the family, and their loss is felt almost as deeply as their human counterparts.
+In this spirit, I plan to make a small addition to this Age to honor our furry companions as well...and for me, one in particular.
+
+Jack the cat . . . we miss you, buddy.
+
+<PB>January 9th, 2020
+
+It's been a while since I last Linked here, but each visit here brings both somber feelings and a renewed determination for Age restoration and rebuilding. The journals detailing our late friends have been completed and amended . . . including Tai'lahr, who passed just a couple of month ago. She was the driving force behind this whole thing, and for that and more, she is truly missed.
+
+All that's left now are the usual safety checks . . . a mere formality. I truly hope those who come here, especially those who have lost a loved one in and out of the cavern, can find peace and serenity when visiting this Age, and think upon those who are no longer with us. They will not be forgotten.
+
+So long as we remember them, their ending shall never be written.
+
+<PB>Special Thanks
+
+Rhee for the original design concept
+
+Tai'lahr for putting together the explorers' memorial, putting stories to the names from the Kahlo Pub, and for being an all around wonderful person. We miss you, Tai.
+
+Florian "Mystler" Meißner for his incredibly beautiful musical score, "House of Reminiscence".
+
+aqua, Hoikas, Deledrius and EmorDniLap for beta testing the Age and giving excellent feedback.
+
+Textures courtesy of Cyan, Inc. and Textures.com.<PB>And of course, to all the explorers who have passed away: Thank you for making our lives so much brighter while you were with us!]]></translation>
             </element>
         </set>
     </age>

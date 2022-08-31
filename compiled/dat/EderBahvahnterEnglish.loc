@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+    <age name="EderBahvahnter">
+        <set name="Journals">
+            <element name="Creditbook">
+                <translation language="English"><![CDATA[<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
+
+
+CREDIT goes to:
+
+Guild of Writers for keeping an excellent wiki
+OpenURU - rarified for constant support, and all testers that with everlasting energy
+have helped made this age able to visit and enjoy.
+
+Mystler for keeping the Destiny shard
+
+Cyan.Inc and textures.com for textures
+Cyan.Inc and Bo 'Dixie' Albinsson for the sounds
+
+]]></translation>
+            </element>
+            <element name="Journal_red">
+                <translation language="English"><![CDATA[<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
+
+Uncle Rebus likes to tell stories about the ages, sometimes he has made them up,
+sometimes he has notes that tell about an age. 
+
+One day he told us the story of Eder Bahvahnter, the garden age of Elonin. 
+It was written by a D'ni man, long ago, that wanted to win the heart of his beloved. 
+The thought of giving her a beautiful age came to him. Writing a garden age would certainly not be difficult for him. 
+First he wrote a garden with many trees, he should enchant her with their mystical ambience. But then he suddenly was not sure anymore.
+Would he win her heart with this garden? So he sat down again and wrote a garden of flowery ambience, a peaceful haven for anyone.
+Again he had doubts.
+Then he got the idea to take a piece of both the gardens and put them together. So he did and connected them by a winding
+stream in the middle. 
+Now he stepped in front of his beloved. With his heart pounding, he handed her his gift. He could not have given her a
+greater pleasure! Filled with joy, she ran through the forest, sat down here and there on a swing or a log and listened to
+the birds. Then she strolled through the flowery garden, picked a bouquet and sat down on a bench.
+He had followed her around so he took a seat beside her and smiled when he saw her dip her nose into the tiny flowers in the bouquet.
+She noticed that and told him that those were her favourites, though so small, they had a wonderful scent and smoothness to them. 
+He took that information to his mind, he then and there decided to use that for the last gift he wanted to give her.
+A couple of days later he was ready to show her his last surprise. They linked from Elonin and he took her by her hand and walked with her to the little pavillion.
+In front of it he turned against her, took hold of both her hands, looked at her lovely face and asked if she wanted to spend the rest of her life together with him.
+He told her that he wanted to show how much he loved her so he let go of her hands, walked around the pavillion and pushed the flower buttons.
+She laughed and clapped her hands when she saw what was there, put herself in his arms and answered Yes!
+
+
+It's a wonderful story and a very special age. It's easy to see how families could have spent a lot of time here.
+There is space for the children to play and space for the grown ups to rest. 
+
+
+Dulcamara and ametist
+
+May 2022]]></translation>
+            </element>
+        </set>
+    </age>
+</localizations>

@@ -3,7 +3,8 @@
     <age name="EderBahvahnter">
         <set name="Journals">
             <element name="Creditbook">
-                <translation language="English"><![CDATA[<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
+                <translation language="English"><![CDATA[<cover src="xEderBahvahnterCredits*1#0.hsm">
+<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
 
 
 CREDIT goes to:
@@ -22,7 +23,8 @@ Cyan.Inc and Bo 'Dixie' Albinsson for the sounds
 Thanks to skyisblu for the poem]]></translation>
             </element>
             <element name="Journal_red">
-                <translation language="English"><![CDATA[<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
+                <translation language="English"><![CDATA[<cover src="xEderBahvahnterCover*1#0.hsm">
+<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
 
 Uncle Rebus likes to tell stories about the ages, sometimes he has made them up,
 sometimes he has notes that tell about an age. 

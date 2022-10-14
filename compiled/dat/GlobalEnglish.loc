@@ -265,8 +265,7 @@ Sound Implementation
 <font size=26><p align=center>Additional Cyan Development<font spacing=-5>
 <font size=24 spacing=-10>Taylor Bailey, Ocala Bellows, Aaron Biegalski, Bryce J. Biggerstaff, John Brooks, Bryan Bussard, T. Elliot Cannon, Bret Carlson, Tim S. DeWolf, Eric Ellis, Scott Ellwanger, Mark Engberg/Colab, Brad Halpin, Keely Honeywell, Daniel Johnston, Gil Keppler, Brandon A. Knowles, Jeff Oswalt, Ryan B. Persch, Melinda Russel, Thom Schillinger, Micah Sheets, Lee Sheldon, Tyler J. Smith, Craig Voigt, Zachary M. Wellsandt, Maureen Wick
 
-<pb>
-<font size=26><p align=center>Special Thanks To<font spacing=-5>
+<pb><font size=26><p align=center>Special Thanks To<font spacing=-5>
 <font size=24 spacing=-10><p align=center>
 Blake Lewin
 Roger Faso
@@ -346,14 +345,14 @@ https://github.com/kcat/openal-soft
 
 <font spacing=-18>
 <font size=24 spacing=-10><p align=center>OpenSSL
-Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved.
+Copyright (c) 1998-2019 The OpenSSL Project. All rights reserved.
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)
 This product includes cryptographic software written by Eric Young (eay@cryptsoft.com).
-This product includes software written by Tim  Hudson (tjh@cryptsoft.com).
+This product includes software written by Tim Hudson (tjh@cryptsoft.com).
 
 <font spacing=-18>
 <font size=24 spacing=-10><p align=center>Opus
-Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding,Erik de Castro Lopo
+Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Erik de Castro Lopo
 https://www.opus-codec.org
 
 <font spacing=-18>

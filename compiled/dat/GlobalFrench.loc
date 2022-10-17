@@ -195,7 +195,7 @@
 <p align=left>Jeff Lundin<p align=right>Programmation du client
 <p align=left>Jason M. Calvert<p align=right>Programmation du client
 <p align=left>Adam Van Ornum<p align=right>Programmation du client
-<p align=left>Randy Ridgway<p align=right>Programmeur physiques
+<p align=left>Randy Ridgway<p align=right>Programmeur physique
 <p align=left>Chris Doyle<p align=right>Graphiste technique Sr.
 <p align=left>Derek Odell<p align=right>Graphiste technique, Jouabilité
 <p align=left>Tye Hooley<p align=right>Graphiste technique, Jouabilité
@@ -213,7 +213,7 @@ Implémentation Audio
 <font size=26><p align=center>Musique et sons<font spacing=-5>
 <font size=24 spacing=-10><p align=left>Tim Larkin<p align=right>Conception sonore, musique
 
-<font size=26><p align=center>Conception et commandes<font spacing=-5>
+<font size=26><p align=center>Conception et contrôle<font spacing=-5>
 <font size=24 spacing=-10><p align=left>Richard A. Watson<p align=right>Historien des D'ni, Conception
 <p align=left>Ryan S. J. Miller<p align=right>Responsable de la conception
 du jeu
@@ -246,11 +246,11 @@ du jeu
 <p align=left>Mark Dobratz<p align=right>Chef de projet
 <p align=left>Susan R. Bonds<p align=right>Co-Productrice
 <p align=left>Mark Klammer<p align=right>Directeur financier
-<p align=left>Dave Smith<p align=right>Responsable du informatique
+<p align=left>Dave Smith<p align=right>Responsable de l'informatique
 <p align=left>Byron R. Heinemann<p align=right>Maintenance & surprises
 <p align=left>Eloise McCloskey<p align=right>Comptabilité
 
-<font size=26 spacing=-18><p align=center>Acteurs voix<font spacing=-5>
+<font size=26 spacing=-18><p align=center>Artistes vocal<font spacing=-5>
 <font size=24 spacing=-10><p align=center>Xavier Kemmlein (France)<font spacing=-5>
 <font size=24 spacing=-10><p align=left>Bernard Bollet<p align=right>Atrus
 <p align=left>Nathalie Homs<p align=right>Yeesha
@@ -315,7 +315,7 @@ https://github.com/anholt/libepoxy
 
 <font spacing=-18>
 <font size=24 spacing=-10><p align=center>libjpeg-turbo
-This software is based in part on the work of the Independent JPEG Group.
+Ce logiciel est basé en partie sur le travail de l'Independent JPEG Group.
 Copyright (C)2009-2021 D. R. Commander. Tous droits réservés.
 Copyright (C)2015 Viktor Szathmáry. Tous droits réservés.
 https://libjpeg-turbo.org
@@ -351,9 +351,9 @@ https://github.com/kcat/openal-soft
 <font spacing=-18>
 <font size=24 spacing=-10><p align=center>OpenSSL
 Copyright (c) 1998-2019 The OpenSSL Project. Tous droits réservés.
-This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)
-This product includes cryptographic software written by Eric Young (eay@cryptsoft.com).
-This product includes software written by Tim  Hudson (tjh@cryptsoft.com).
+Ce produit inclut un logiciel développé par le OpenSSL Project pour une utilisation dans OpenSSL Toolkit (http://www.openssl.org/)
+Ce produit comprend un logiciel cryptographique écrit par Eric Young (eay@cryptsoft.com).
+Ce produit comprend un logiciel écrit par Tim Hudson (tjh@cryptsoft.com).
 
 <font spacing=-18>
 <font size=24 spacing=-10><p align=center>Opus

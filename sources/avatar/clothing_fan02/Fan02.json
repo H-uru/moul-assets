@@ -52,7 +52,18 @@
         
         "Icon_UTorso_Shirt_GoInst.png",
         "MTorso_xSleeve_GoInst_Base.png",
-        "MTorso_xSleeve_GoInst_Tint1.png"
+        "MTorso_xSleeve_GoInst_Tint1.png",
+
+        "Icon_UTorso_Shirt_CavernToday.png",
+        "MTorso_HoodSweatCavernToday_Base.png",
+        "MTorso_HoodSweatCavernToday_Tint1.png",
+        "MTorso_HoodSweatCavernToday_Tint2.png",
+        "MTorso_xSleeve_CavernToday_Base.png",
+        "MTorso_xSleeve_CavernToday_Tint1.png",
+        "MTorso_xSleeve_CavernToday_Tint2.png",
+        "Icon_UTorso_Fleece_CavernToday.png",
+        "MTorso_Fleece_CavernToday_Base.png",
+        "MTorso_Fleece_CavernToday_Tint1.png"
       ],
       "clItems": [
         {
@@ -579,6 +590,160 @@
               }
             }
           ]
+        },
+        {
+          "name": "MTorso_Sweat_TCT",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_CavernToday.png",
+          "tint1": [0.067, 0.067, 0.067],
+          "tint2": [0.671, 0.655, 0.506],
+          "desc": "ColorLabel1=Sweatshirt ; ColorLabel2=Logo; isLogoFor=03_MSweatshirt_Blank; GroupName=Hooded; nonStandard;",
+          "text": "Hooded Sweatshirt - The Cavern Today",
+          "meshes": [
+            {
+                "name": "MH_Sweatshirt_SMsh",
+                "page": "Male02"
+            },
+            {
+                "name": "MMTorso12_SMsh",
+                "page": "Male02"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male02"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_HoodSweatCavernToday_Base.png",
+                "8": "MTorso_HoodSweatCavernToday_Tint1.png",
+                "9": "MTorso_HoodSweatCavernToday_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
+                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_ShortSleeve_TCT",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_CavernToday.png",
+          "tint1": [0.067, 0.067, 0.067],
+          "tint2": [0.671, 0.655, 0.506],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Logo; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve; nonStandard;",
+          "text": "Short Sleeve T-Shirt - The Cavern Today",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_CavernToday_Base.png",
+                "8": "MTorso_xSleeve_CavernToday_Tint1.png",
+                "9": "MTorso_xSleeve_CavernToday_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_LongSleeve_TCT",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_CavernToday.png",
+          "tint1": [0.067, 0.067, 0.067],
+          "tint2": [0.671, 0.655, 0.506],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Logo; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01; nonStandard;",
+          "text": "Long Sleeve T-Shirt - Guild of Instructors",
+          "meshes": [
+            "MHTorso_SMsh",
+            "MMTorso_SMsh",
+            "MLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_CavernToday_Base.png",
+                "8": "MTorso_xSleeve_CavernToday_Tint1.png",
+                "9": "MTorso_xSleeve_CavernToday_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_Fleece_TCT",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Fleece_CavernToday.png",
+          "tint1": [0.067, 0.067, 0.067],
+          "tint2": [0.671, 0.655, 0.506],
+          "desc": "ColorLabel1=Pullover; ColorLabel2=; isLogoFor=02_MTorso06_01; GroupName=Fleece; nonStandard;",
+          "text": "The Cavern Today Fleece Pullover",
+          "meshes": [
+            {
+                "name": "MHTorso06_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_Fleece_CavernToday_Base.png",
+                "8": "MTorso_Fleece_CavernToday_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_fleece01arm_base*0#0.hsm",
+                "8": "mtorso_fleece01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
         }
       ]
     },
@@ -634,7 +799,18 @@
         
         "Icon_UTorso_Shirt_GoInst.png",
         "FTorso_xSleeve_GoInst_Base.png",
-        "FTorso_xSleeve_GoInst_Tint1.png"
+        "FTorso_xSleeve_GoInst_Tint1.png",
+
+        "Icon_UTorso_Shirt_CavernToday.png",
+        "FTorso_HoodSweatCavernToday_Base.png",
+        "FTorso_HoodSweatCavernToday_Tint1.png",
+        "FTorso_HoodSweatCavernToday_Tint2.png",
+        "FTorso_xSleeve_CavernToday_Base.png",
+        "FTorso_xSleeve_CavernToday_Tint1.png",
+        "FTorso_xSleeve_CavernToday_Tint2.png",
+        "Icon_UTorso_Fleece_CavernToday.png",
+        "MTorso_Fleece_CavernToday_Base.png",
+        "MTorso_Fleece_CavernToday_Tint1.png"
       ],
       "clItems": [
         {
@@ -1145,6 +1321,142 @@
               "name": "Arm",
               "layers": {
                 "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_Sweat_TCT",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_CavernToday.png",
+          "tint1": [0.067, 0.067, 0.067],
+          "tint2": [0.671, 0.655, 0.506],
+          "desc": "ColorLabel1= Sweatshirt ; ColorLabel2=Logo; isLogoFor=FTorso_Sweatshirt_Blank; GroupName=Hooded; nonStandard;",
+          "text": "Hooded Sweatshirt - The Cavern Today",
+          "meshes": [
+            "FHTorso16_SMsh",
+            "FMTorso16_SMsh",
+            "FLTorso16_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_HoodSweatCavernToday_Base.png",
+                "8": "FTorso_HoodSweatCavernToday_Tint1.png",
+                "9": "FTorso_HoodSweatCavernToday_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
+                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_ShortSleeve_TCT",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_CavernToday.png",
+          "tint1": [0.067, 0.067, 0.067],
+          "tint2": [0.671, 0.655, 0.506],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Logo; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve; nonStandard;",
+          "text": "Short Sleeve T-Shirt - The Cavern Today",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_CavernToday_Base.png",
+                "8": "FTorso_xSleeve_CavernToday_Tint1.png",
+                "9": "FTorso_xSleeve_CavernToday_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_LongSleeve_TCT",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_CavernToday.png",
+          "tint1": [0.067, 0.067, 0.067],
+          "tint2": [0.671, 0.655, 0.506],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Logo; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01; nonStandard;",
+          "text": "Long Sleeve T-Shirt - The Cavern Today",
+          "meshes": [
+            "FHTorso_SMsh",
+            "FMTorso_SMsh",
+            "FLTorso_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_xSleeve_CavernToday_Base.png",
+                "8": "FTorso_xSleeve_CavernToday_Tint1.png",
+                "9": "FTorso_xSleeve_CavernToday_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_Fleece_TCT",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Fleece_CavernToday.png",
+          "tint1": [0.067, 0.067, 0.067],
+          "tint2": [0.671, 0.655, 0.506],
+          "desc": "ColorLabel1=Pullover; ColorLabel2=; isLogoFor=03_FTorso06_01; GroupName=Fleece; nonStandard;",
+          "text": "The Cavern Today Fleece Pullover",
+          "meshes": [
+            "FHTorso06_SMsh",
+            "FMTorso06_SMsh",
+            "FLTorso06_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_Fleece_CavernToday_Base.png",
+                "8": "MTorso_Fleece_CavernToday_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_fleece01arm_base*0#0.hsm",
+                "8": "mtorso_fleece01arm_tint1*0#0.hsm",
+                "9": "mtorso_fleece01arm_tint2*0#0.hsm"
               }
             }
           ]

@@ -1,0 +1,14 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "lint",
+      "pattern": [
+        {
+          "regexp": "^'([^']+)'\\s+(eol mismatch\\s-\\s.+)$",
+          "file": 1,
+          "message": 2
+        }
+      ]
+    }
+  ]
+}

@@ -13,43 +13,43 @@
         "Icon_UTorso_Shirt_GayZero.png",
         "MTorso_xSleeve_GayZero_Base.png",
         "MTorso_xSleeve_GayZero_Tint.png",
-        
+
         "Icon_UTorso_Shirt_CvrnTr.png",
         "MTorso_xSleeve_CvrnTr_Base.png",
         "MTorso_xSleeve_CvrnTr_Tint.png",
-	
+
         "Icon_MLegs_Cargo5.png",
         "MLegs_Cargo05_Tint1.png",
         "MLegs_Cargo05_Tint2.png",
-        
+
         "FLegs_Shorts05_Tint1.png",
         "FLegs_Shorts05_Tint2.png",
-        
+
         "Icon_UTorso_Shirt_PodReward.png",
         "MTorso_HoodSweatRewardPodMaze_Base.png",
         "MTorso_HoodSweatRewardPodMaze_Tint1.png",
-        
+
         "Icon_UTorso_Fleece_GardenSpiralReward.png",
         "MTorso_Fleece-GardenSpiralReward-base.png",
         "MTorso_Fleece-GardenSpiralReward-tint1.png",
         "MTorso_Fleece-GardenSpiralReward-tint2.png",
         "MTorso_FleeceBlueFlowerArm_base.png",
-        
+
         "Icon_UTorso_Vest_ShellReward.png",
         "MTorso_ShellVest_base.png",
-        
+
         "Icon_U_NoPrint.png",
         "MTorso_PlainVest_base.png",
         "MTorso_PlainVest_tint2.png",
-        
+
         "Icon_UTorso_LeatherJacket_Minkata.png",
         "UTorso_LeatherJacketMinkata_Tint1.png",
         "UTorso_LeatherJacketMinkataArm_tint1.png",
-        
+
         "Icon_UTorse_Fleece_KelsReward.png",
         "UTorso_Fleece_KelsReward_Base.png",
-        "UTorso_Fleece_KelsRewardArm_Base.png", 
-        
+        "UTorso_Fleece_KelsRewardArm_Base.png",
+
         "Icon_UTorso_Shirt_GoInst.png",
         "MTorso_xSleeve_GoInst_Base.png",
         "MTorso_xSleeve_GoInst_Tint1.png",
@@ -63,7 +63,13 @@
         "MTorso_xSleeve_CavernToday_Tint2.png",
         "Icon_UTorso_Fleece_CavernToday.png",
         "MTorso_Fleece_CavernToday_Base.png",
-        "MTorso_Fleece_CavernToday_Tint1.png"
+        "MTorso_Fleece_CavernToday_Tint1.png",
+
+        "Icon_UTorso_Shirt_Mystitech.png",
+        "MTorso_xSleeve_MTP_Base.png",
+        "MTorso_xSleeve_MTP_Tint1.png",
+        "MTorso_HoodSweatMTP_Base.png",
+        "MTorso_HoodSweatMTP_Tint1.png"
       ],
       "clItems": [
         {
@@ -117,9 +123,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01; nonStandard",
           "text": "Long Sleeve T-Shirt - Mysterium 2021",
           "meshes": [
-            "MHTorso_SMsh",
-            "MMTorso_SMsh",
-            "MLTorso_SMsh"
+            {
+                "name": "MHTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male"
+            }
           ],
           "elements": [
             {
@@ -188,9 +203,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01",
           "text": "Long Sleeve T-Shirt - GZ Pride",
           "meshes": [
-            "MHTorso_SMsh",
-            "MMTorso_SMsh",
-            "MLTorso_SMsh"
+            {
+                "name": "MHTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male"
+            }
           ],
           "elements": [
             {
@@ -334,8 +358,8 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
-                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+                "0": "mtorso_sweatsleeve_base*0#0.hsm",
+                "8": "mtorso_sweatsleeve_tint1*0#0.hsm"
               }
             }
           ]
@@ -350,7 +374,10 @@
           "desc": "ColorLabel1= Pullover ; ColorLabel2= Spiral ; isLogoFor=02_MTorso06_01; GroupName=Fleece; nonStandard",
           "text": "Door Runner's Fleece Jacket",
           "meshes": [
-            "MHTorso06_SMsh",
+            {
+                "name": "MHTorso06_SMsh",
+                "page": "Male01"
+            },
             {
                 "name": "MMTorso_SMsh",
                 "page": "Male01"
@@ -571,9 +598,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01",
           "text": "Long Sleeve T-Shirt - Guild of Instructors",
           "meshes": [
-            "MHTorso_SMsh",
-            "MMTorso_SMsh",
-            "MLTorso_SMsh"
+            {
+                "name": "MHTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male"
+            }
           ],
           "elements": [
             {
@@ -626,8 +662,8 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
-                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+                "0": "mtorso_sweatsleeve_base*0#0.hsm",
+                "8": "mtorso_sweatsleeve_tint1*0#0.hsm"
               }
             }
           ]
@@ -684,9 +720,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=Logo; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01; nonStandard;",
           "text": "Long Sleeve T-Shirt - Guild of Instructors",
           "meshes": [
-            "MHTorso_SMsh",
-            "MMTorso_SMsh",
-            "MLTorso_SMsh"
+            {
+                "name": "MHTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male"
+            }
           ],
           "elements": [
             {
@@ -744,6 +789,125 @@
               }
             }
           ]
+        },
+        {
+          "name": "MHood_MTP",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mystitech.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2= ; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve; nonStandard;",
+          "text": "Mystitech Productions T-Shirt, logo by Larry LeDeay",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_MTP_Base.png",
+                "8": "MTorso_xSleeve_MTP_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MHoodLS_MTP",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mystitech.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2= ; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01; nonStandard;",
+          "text": "Mystitech Productions T-Shirt, logo by Larry LeDeay",
+          "meshes": [
+            {
+                "name": "MHTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_xSleeve_MTP_Base.png",
+                "8": "MTorso_xSleeve_MTP_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MHoodSweat_MTP",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mystitech.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Sweatshirt ; ColorLabel2= ; isLogoFor=03_MSweatshirt_Blank; GroupName=Hooded; nonStandard;",
+          "text": "Mystitech Productions Hoodie, logo by Larry LeDeay",
+          "meshes": [
+            {
+                "name": "MH_Sweatshirt_SMsh",
+                "page": "Male02"
+            },
+            {
+                "name": "MMTorso12_SMsh",
+                "page": "Male02"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male02"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_HoodSweatMTP_Base.png",
+                "8": "MTorso_HoodSweatMTP_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_sweatsleeve_base*0#0.hsm",
+                "8": "mtorso_sweatsleeve_tint1*0#0.hsm"
+              }
+            }
+          ]
         }
       ]
     },
@@ -760,43 +924,43 @@
         "Icon_UTorso_Shirt_GayZero.png",
         "FTorso_xSleeve_GayZero_Base.png",
         "FTorso_xSleeve_GayZero_Tint.png",
-        
+
         "Icon_UTorso_Shirt_CvrnTr.png",
         "FTorso_xSleeve_CvrnTr_Base.png",
         "FTorso_xSleeve_CvrnTr_Tint.png",
-	
+
         "Icon_MLegs_Cargo5.png",
         "MLegs_Cargo05_Tint1.png",
         "MLegs_Cargo05_Tint2.png",
-        
+
         "FLegs_Shorts05_Tint1.png",
         "FLegs_Shorts05_Tint2.png",
-        
+
         "Icon_UTorso_Shirt_PodReward.png",
         "ftorso_sweaterRewardPodMaze_base.png",
         "ftorso_sweaterRewardPodMaze_tint1.png",
-        
+
         "Icon_UTorso_Fleece_GardenSpiralReward.png",
         "MTorso_Fleece-GardenSpiralReward-base.png",
         "MTorso_Fleece-GardenSpiralReward-tint1.png",
         "MTorso_Fleece-GardenSpiralReward-tint2.png",
         "MTorso_FleeceBlueFlowerArm_base.png",
-        
+
         "Icon_UTorso_Vest_ShellReward.png",
         "FTorso_ShellVest_base.png",
-        
+
         "Icon_U_NoPrint.png",
         "FTorso_PlainVest_base.png",
         "FTorso_PlainVest_Tint2.png",
-        
+
         "Icon_UTorso_LeatherJacket_Minkata.png",
         "UTorso_LeatherJacketMinkata_Tint1.png",
         "UTorso_LeatherJacketMinkataArm_tint1.png",
-        
+
         "Icon_UTorse_Fleece_KelsReward.png",
         "UTorso_Fleece_KelsReward_Base.png",
         "UTorso_Fleece_KelsRewardArm_Base.png",
-        
+
         "Icon_UTorso_Shirt_GoInst.png",
         "FTorso_xSleeve_GoInst_Base.png",
         "FTorso_xSleeve_GoInst_Tint1.png",
@@ -810,7 +974,15 @@
         "FTorso_xSleeve_CavernToday_Tint2.png",
         "Icon_UTorso_Fleece_CavernToday.png",
         "MTorso_Fleece_CavernToday_Base.png",
-        "MTorso_Fleece_CavernToday_Tint1.png"
+        "MTorso_Fleece_CavernToday_Tint1.png",
+
+        "Icon_UTorso_Shirt_Mystitech.png",
+        "FTorso_ShortSleeve_MTP_Base.png",
+        "FTorso_ShortSleeve_MTP_Tint1.png",
+        "FTorso_LongSleeve_MTP_Base.png",
+        "FTorso_LongSleeve_MTP_Tint1.png",
+        "FTorso_HoodSweatMTP_Base.png",
+        "FTorso_HoodSweatMTP_Tint1.png"
       ],
       "clItems": [
         {
@@ -863,9 +1035,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01; nonStandard",
           "text": "Long Sleeve T-Shirt - Mysterium 2021",
           "meshes": [
-            "FHTorso_SMsh",
-            "FMTorso_SMsh",
-            "FLTorso_SMsh"
+            {
+                "name": "FHTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FMTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FLTorso_SMsh",
+                "page": "Female"
+            }
           ],
           "elements": [
             {
@@ -933,9 +1114,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01",
           "text": "Long Sleeve T-Shirt - GZ Pride",
           "meshes": [
-            "FHTorso_SMsh",
-            "FMTorso_SMsh",
-            "FLTorso_SMsh"
+            {
+                "name": "FHTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FMTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FLTorso_SMsh",
+                "page": "Female"
+            }
           ],
           "elements": [
             {
@@ -1305,9 +1495,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01",
           "text": "Long Sleeve T-Shirt - Guild of Instructors",
           "meshes": [
-            "FHTorso_SMsh",
-            "FMTorso_SMsh",
-            "FLTorso_SMsh"
+            {
+                "name": "FHTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FMTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FLTorso_SMsh",
+                "page": "Female"
+            }
           ],
           "elements": [
             {
@@ -1408,9 +1607,18 @@
           "desc": "ColorLabel1=Shirt; ColorLabel2=Logo; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01; nonStandard;",
           "text": "Long Sleeve T-Shirt - The Cavern Today",
           "meshes": [
-            "FHTorso_SMsh",
-            "FMTorso_SMsh",
-            "FLTorso_SMsh"
+            {
+                "name": "FHTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FMTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FLTorso_SMsh",
+                "page": "Female"
+            }
           ],
           "elements": [
             {
@@ -1457,6 +1665,116 @@
                 "0": "mtorso_fleece01arm_base*0#0.hsm",
                 "8": "mtorso_fleece01arm_tint1*0#0.hsm",
                 "9": "mtorso_fleece01arm_tint2*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FHood_MTP",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mystitech.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2= ; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve; nonStandard;",
+          "text": "Mystitech Productions T-Shirt, logo by Larry LeDeay",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_MTP_Base.png",
+                "8": "FTorso_ShortSleeve_MTP_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FHoodLS_MTP",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mystitech.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2= ; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01; nonStandard;",
+          "text": "Mystitech Productions T-Shirt, logo by Larry LeDeay",
+          "meshes": [
+            {
+                "name": "FHTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FMTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FLTorso_SMsh",
+                "page": "Female"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_LongSleeve_MTP_Base.png",
+                "8": "FTorso_LongSleeve_MTP_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FHoodSweat_MTP",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mystitech.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1= Sweatshirt ; ColorLabel2= ; isLogoFor=FTorso_Sweatshirt_Blank; GroupName=Hooded; nonStandard;",
+          "text": "Mystitech Productions Hoodie, logo by Larry LeDeay",
+          "meshes": [
+            "FHTorso16_SMsh",
+            "FMTorso16_SMsh",
+            "FLTorso16_SMsh"
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_HoodSweatMTP_Base.png",
+                "8": "FTorso_HoodSweatMTP_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
+                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
               }
             }
           ]

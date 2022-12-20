@@ -69,7 +69,10 @@
         "MTorso_xSleeve_MTP_Base.png",
         "MTorso_xSleeve_MTP_Tint1.png",
         "MTorso_HoodSweatMTP_Base.png",
-        "MTorso_HoodSweatMTP_Tint1.png"
+        "MTorso_HoodSweatMTP_Tint1.png",
+        
+        "Icon_MLegs_shortstrydye.png",
+        "MLegs_Shorts_TransDye_Base.png"
       ],
       "clItems": [
         {
@@ -908,6 +911,39 @@
               }
             }
           ]
+        },
+        {
+          "name": "MLegs_Shorts_TransDye",
+          "type": "pants",
+          "group": "Male",
+          "icon": "Icon_MLegs_shortstrydye.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1 = ; ColorLabel2 = ; GroupName = Shorts; SinglePlayer ; isLogoFor = 02_MLegs01_01; nonStandard;",
+          "text": "Swimtrunks",
+          "meshes": [
+            {
+                "name": "MHLegs01_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMLegs01_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLLegs_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Legs",
+              "layers": {
+                "0": "MLegs_Shorts_TransDye_Base.png",
+                "1": "mlegs_shorts01_skin*0#0.hsm"
+              }
+            }
+          ]
         }
       ]
     },
@@ -982,7 +1018,10 @@
         "FTorso_LongSleeve_MTP_Base.png",
         "FTorso_LongSleeve_MTP_Tint1.png",
         "FTorso_HoodSweatMTP_Base.png",
-        "FTorso_HoodSweatMTP_Tint1.png"
+        "FTorso_HoodSweatMTP_Tint1.png",
+        
+        "Icon_FLegs_shortstrydye.png",
+        "FLegs_Shorts_TransDye_Base.png"
       ],
       "clItems": [
         {
@@ -1775,6 +1814,39 @@
               "layers": {
                 "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
                 "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FLegs_Shorts_TransDye",
+          "type": "pants",
+          "group": "Female",
+          "icon": "Icon_FLegs_shortstrydye.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1 = ; ColorLabel2 = ; GroupName = Shorts01; SinglePlayer; isLogoFor=02_FLegs01_02; nonStandard;",
+          "text": "Swimtrunks",
+          "meshes": [
+            {
+                "name": "FHLegs01_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMShorts_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLLegs_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Legs",
+              "layers": {
+                "0": "FLegs_Shorts_TransDye_Base.png",
+                "1": "flegsshorts01_skin*0#0.hsm"
               }
             }
           ]

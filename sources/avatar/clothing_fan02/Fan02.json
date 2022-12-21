@@ -721,7 +721,7 @@
           "tint1": [0.067, 0.067, 0.067],
           "tint2": [0.671, 0.655, 0.506],
           "desc": "ColorLabel1=Shirt; ColorLabel2=Logo; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01; nonStandard;",
-          "text": "Long Sleeve T-Shirt - Guild of Instructors",
+          "text": "Long Sleeve T-Shirt - The Cavern Today",
           "meshes": [
             {
                 "name": "MHTorso_SMsh",
@@ -841,7 +841,7 @@
           "tint1": [1, 1, 1],
           "tint2": [1, 1, 1],
           "desc": "ColorLabel1=Shirt; ColorLabel2= ; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01; nonStandard;",
-          "text": "Mystitech Productions T-Shirt, logo by Larry LeDeay",
+          "text": "Mystitech Productions Long Sleeve T-Shirt, logo by Larry LeDeay",
           "meshes": [
             {
                 "name": "MHTorso_SMsh",
@@ -1756,7 +1756,7 @@
           "tint1": [1, 1, 1],
           "tint2": [1, 1, 1],
           "desc": "ColorLabel1=Shirt; ColorLabel2= ; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01; nonStandard;",
-          "text": "Mystitech Productions T-Shirt, logo by Larry LeDeay",
+          "text": "Mystitech Productions Long Sleeve T-Shirt, logo by Larry LeDeay",
           "meshes": [
             {
                 "name": "FHTorso_SMsh",

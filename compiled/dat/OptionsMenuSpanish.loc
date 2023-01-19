@@ -201,7 +201,10 @@ Mirar - Arrastrar pulsando el botón dcho. del Ratón
 				<translation language="Spanish">Créditos de URU</translation>
 			</element>
 			<element name="URULive">
-				<translation language="Spanish">URU Live</translation>
+				<translation language="Spanish">Vídeos</translation>
+			</element>
+			<element name="Explore">
+				<translation language="Spanish">Volver</translation>
 			</element>
 		</set>
 		<set name="Messages">

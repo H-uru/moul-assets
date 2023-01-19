@@ -197,7 +197,7 @@ Look Around - Right Mouse Drag
 				<translation language="English">Ok</translation>
 			</element>
 			<element name="Prev">
-				<translation language="English">&lt;&lt; Previous</translation>
+				<translation language="English">&lt;&lt; Prev</translation>
 			</element>
 			<element name="QuitURU">
 				<translation language="English">Quit URU</translation>
@@ -215,7 +215,10 @@ Look Around - Right Mouse Drag
 				<translation language="English">URU Credits</translation>
 			</element>
 			<element name="URULive">
-				<translation language="English">Uru Live Intro</translation>
+				<translation language="English">Videos</translation>
+			</element>
+			<element name="Explore">
+				<translation language="English">Go Back</translation>
 			</element>
 		</set>
 		<set name="Messages">

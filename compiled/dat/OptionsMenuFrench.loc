@@ -178,13 +178,13 @@ Regarder autour de soi - Clic droit maintenu enfoncé
 			<element name="Navigation">
 			</element>
 			<element name="Next">
-				<translation language="French">Suivant</translation>
+				<translation language="French">Suivant &gt;&gt;</translation>
 			</element>
 			<element name="Ok">
 				<translation language="French">Ok</translation>
 			</element>
 			<element name="Prev">
-				<translation language="French">Précédent</translation>
+				<translation language="French">&lt;&lt; Précédent</translation>
 			</element>
 			<element name="QuitURU">
 				<translation language="French">Quitter URU</translation>
@@ -201,7 +201,10 @@ Regarder autour de soi - Clic droit maintenu enfoncé
 				<translation language="French">Crédits URU</translation>
 			</element>
 			<element name="URULive">
-				<translation language="French">URU Live</translation>
+				<translation language="French">Vidéos</translation>
+			</element>
+			<element name="Explore">
+				<translation language="French">Retour</translation>
 			</element>
 		</set>
 		<set name="Messages">

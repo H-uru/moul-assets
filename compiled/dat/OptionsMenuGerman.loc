@@ -178,13 +178,13 @@ Umsehen - Maus bei gedrückter rechter Maustaste
 			<element name="Navigation">
 			</element>
 			<element name="Next">
-				<translation language="German">Weiter</translation>
+				<translation language="German">Nächstes &gt;&gt;</translation>
 			</element>
 			<element name="Ok">
 				<translation language="German">Ok</translation>
 			</element>
 			<element name="Prev">
-				<translation language="German">Zurück</translation>
+				<translation language="German">&lt;&lt; Vorheriges</translation>
 			</element>
 			<element name="QuitURU">
 				<translation language="German">URU verlassen</translation>
@@ -201,7 +201,10 @@ Umsehen - Maus bei gedrückter rechter Maustaste
 				<translation language="German">URU Credits</translation>
 			</element>
 			<element name="URULive">
-				<translation language="German">URU Live</translation>
+				<translation language="German">Videos</translation>
+			</element>
+			<element name="Explore">
+				<translation language="German">Optionen</translation>
 			</element>
 		</set>
 		<set name="Messages">

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+    <age name="Elonin">
+        <set name="Journals">
+            <element name="FlowerBook">
+                <translation language="English"><![CDATA[<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>Carnation 
+lat. Dianthus
+
+<img src=CarnationOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Forgetmenot
+lat. Myosotis
+
+<img src=ForgetMeNotOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Lily
+lat. Lilium
+
+<img src=LilyOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Poppy
+lat. Papaver
+
+<img src=PoppieOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Rose
+lat. Rosa
+
+<img src=RosesOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Tulip
+lat. Tulipa
+
+<img src=TulipOld.hsm resize=no blend=alpha>
+
+]]></translation>
+            </element>
+            <element name="JournalBook">
+                <translation language="English"><![CDATA[<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
+ Welcome to Elonin! I hope you find this place as nice as I do! 
+ The linking book was passed on to me by one of my oldest friends, Rebus. He never really revealed where this apartment is situated. One time he said 'When we found it' and when I then asked 'Who wrote the book then?' he said ' Oh, I meant we found the book'. He just waved me off when I tried to get a straight answer. 
+When he took me here the first time he told me about how he and his friends found this place, the excitement they felt when they found this whole apartment with rooms connected by stairs, halls and corridors. There were no signs of it being abandoned in a haste, it was as if it had been unused for quite a time. Quite empty and dark, but not damaged at all. They decided to use this place as their 'headquarters' when they explored the cavern in the early days and found great pleasure in restoring it. Most of the furniture left was still usable after some cleaning and polishing. They repaired the plumbing and had the water tested for purity. They brought books, textiles, paintings and instruments in, he told me. When I asked him about how they managed to get the grand piano in place, he just laughed and said 'Piece by piece, lass, piece by piece'. 
+Years went by and things happened in their lives that made them decide to pass the linking book on. And they chose me! 
+I love this place. My friends and I spend a lot of time here. But now it's time to invite others and to not keep this to ourselves anymore. So from now on this is a Guesthouse, open to all explorers! Use it for leisure, parties, meetings or whatever, but please leave it as you found it and tidy up if needed!
+
+
+ This place is bigger than you think at first glance but to gain access to all of it you have to find the code that unlocks the 'four buttons doors'. Those doors were locked when Rebus and his friends came here, but of course they found out how to open them. To entertain my friends and fellow explorers I decided to construct a puzzle that sent them on a 'quest' to find the hidden code. It's quite clever if I may say so myself, all I will tell you is that it's all about flowers...
+
+Dulcamara    March 2022
+
+**************************************
+
+ The restoration of Elonin's garden age is now done and it's safe for all of you to visit. Enjoy!
+ We have also been hard at work in the rooms behind the one locked door, at the end of one of the corridors leading from the main court.
+ So using the handle now will swing the door open and let you into this area of Elonin. 
+ 
+ Dulcamara December 2022 
+<pb>
+<pb>
+Special Thanks goes to:
+OpenURU and GuildofWriters
+rarified and Doobes
+Korovev for providing the MTP logo, created by Larry LeDeay
+Beta testers Philip and GrandbadBill
+my friend ametist for plumbing, lighting and various mechanics
+<p align=center>*******
+Textures from Cyan.Inc, Pixabay.com and textures.com
+Sounds from Bo 'Dixie' Albinsson, freesound.org and Cyan.Inc
+Music from http://www.freesfx.co.uk 
+
+]]></translation>
+            </element>
+        </set>
+    </age>
+</localizations>

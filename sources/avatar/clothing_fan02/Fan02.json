@@ -72,7 +72,11 @@
         "MTorso_HoodSweatMTP_Tint1.png",
         
         "Icon_MLegs_shortstrydye.png",
-        "MLegs_Shorts_TransDye_Base.png"
+        "MLegs_Shorts_TransDye_Base.png",
+        
+        "Icon_UTorso_Shirt_Kalamee.png",
+        "MTorso_ShortSleeve_Kalamee_Base.png",
+        "MTorso_ShortSleeve_Kalamee_Tint1.png"
       ],
       "clItems": [
         {
@@ -944,6 +948,47 @@
               }
             }
           ]
+        },
+        {
+          "name": "MTorso_ShortSleeve_Kalamee",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Kalamee.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve; nonStandard;",
+          "text": "Short Sleeve T-Shirt - Kalamee",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Kalamee_Base.png",
+                "8": "MTorso_ShortSleeve_Kalamee_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
         }
       ]
     },
@@ -1021,7 +1066,11 @@
         "FTorso_HoodSweatMTP_Tint1.png",
         
         "Icon_FLegs_shortstrydye.png",
-        "FLegs_Shorts_TransDye_Base.png"
+        "FLegs_Shorts_TransDye_Base.png",
+        
+        "Icon_UTorso_Shirt_Kalamee.png",
+        "FTorso_ShortSleeve_Kalamee_Base.png",
+        "FTorso_ShortSleeve_Kalamee_Tint1.png"
       ],
       "clItems": [
         {
@@ -1847,6 +1896,46 @@
               "layers": {
                 "0": "FLegs_Shorts_TransDye_Base.png",
                 "1": "flegsshorts01_skin*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_ShortSleeve_Kalamee",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Kalamee.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve; nonStandard;",
+          "text": "Short Sleeve T-Shirt - Kalamee",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Kalamee_Base.png",
+                "8": "FTorso_ShortSleeve_Kalamee_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
               }
             }
           ]

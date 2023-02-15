@@ -465,5 +465,10 @@ zlib (c) 1995-2002 Jean-loup Gailly e Mark Adler
 				<translation language="Italian">This is a dummy text object, you should never see me in game!</translation>
 			</element>
 		</set>
+		<set name="Messages">
+			<element name="AgeBookGet">
+				<translation language="Italian">Il libro di %1s è stato aggiunto alla tua libreria su Relto.</translation>
+			</element>
+		</set>
 	</age>
 </localizations>

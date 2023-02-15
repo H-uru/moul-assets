@@ -386,5 +386,10 @@ https://zlib.net]]></translation>
 				<translation language="French">Ceci est un objet texte bidon, ne devrait pas apparaître dans le jeu !</translation>
 			</element>
 		</set>
+		<set name="Messages">
+			<element name="AgeBookGet">
+				<translation language="French">Le livre %1s a été ajouté à votre bibliothèque dans Relto.</translation>
+			</element>
+		</set>
 	</age>
 </localizations>

@@ -466,5 +466,10 @@ zlib (c) 1995-2002 Jean-loup Gailly y Mark Adler
 				<translation language="Spanish">Este objeto es un texto tonto, ¡no me verás nunca en el juego!</translation>
 			</element>
 		</set>
+		<set name="Messages">
+			<element name="AgeBookGet">
+				<translation language="Spanish">El libro %1s se ha agregado a tu biblioteca en Relto.</translation>
+			</element>
+		</set>
 	</age>
 </localizations>

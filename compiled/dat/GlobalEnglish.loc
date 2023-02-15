@@ -381,5 +381,10 @@ https://zlib.net]]></translation>
 				<translation language="English">This is a dummy text object, you should never see me in game!</translation>
 			</element>
 		</set>
+		<set name="Messages">
+			<element name="AgeBookGet">
+				<translation language="English">%1s Book has been added to your Relto Library.</translation>
+			</element>
+		</set>
 	</age>
 </localizations>

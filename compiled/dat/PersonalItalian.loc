@@ -8,6 +8,9 @@
 			<element name="DeleteNeighborhoodBook">
 				<translation language="Italian">Sei sicuro di voler cancellare questo Libro, perdendo l'associazione a questo Quartiere?</translation>
 			</element>
+			<element name="RemoveBook">
+				<translation language="Italian">Sei sicuro di voler rimuovere questo libro dallo scaffale?</translation>
+			</element>
 		</set>
 		<set name="Journals">
 			<element name="Yeesha">

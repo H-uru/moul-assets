@@ -8,6 +8,9 @@
 			<element name="DeleteNeighborhoodBook">
 				<translation language="German">Wollen Sie das Buch wirklich löschen? Dabei geht Ihr Mitgliedschaft in dieser Gemeinde verloren.</translation>
 			</element>
+			<element name="RemoveBook">
+				<translation language="German">Möchten Sie dieses Buch wirklich aus Ihrem Regal entfernen?</translation>
+			</element>
 		</set>
 		<set name="Journals">
 			<element name="Yeesha">

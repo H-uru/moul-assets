@@ -8,6 +8,9 @@
 			<element name="DeleteNeighborhoodBook">
 				<translation language="English">Are you sure you want to delete this book, and lose your membership in this neighborhood? Re-insert your KI into the Marker Machine to restore your GZ link.</translation>
 			</element>
+			<element name="RemoveBook">
+				<translation language="English">Are you sure you want to remove this book from your shelf?</translation>
+			</element>
 		</set>
 		<set name="Journals">
 			<element name="Yeesha">

@@ -201,7 +201,10 @@ Guardarsi intorno - Mouse destro + Trascinare
 				<translation language="Italian">Riconoscimenti di URU</translation>
 			</element>
 			<element name="URULive">
-				<translation language="Italian">URU Live</translation>
+				<translation language="Italian">Video</translation>
+			</element>
+			<element name="Explore">
+				<translation language="Italian">Alle Opzioni</translation>
 			</element>
 		</set>
 		<set name="Messages">

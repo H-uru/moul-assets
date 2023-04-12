@@ -3998,7 +3998,7 @@ That's all I've got for now.
 -Carl Palmner]]></translation>
             </element>
             <element name="PainterBook">
-                <translation language="English"><![CDATA[<cover src="ChisoPrenivPainterJournal*1#0.hsm"><font size=20 face=URU color=000000><margin left=62 right=62 top=48><pb>There has to be an easier way to collect these blasted things, I thought. One that doesn't involve my immediate death. That would be nice.
+                <translation language="English"><![CDATA[<cover src="ChisoPrenivPainterJournal*1#0.hsm"><font size=20 face=Sharper color=000000><margin left=62 right=62 top=48><pb>There has to be an easier way to collect these blasted things, I thought. One that doesn't involve my immediate death. That would be nice.
 
 I sighed, withdrawing my arm to wipe the perspiration from my brow. The refreshing breeze wafting along the Tokotah Alley was doing little to stifle the nervous anticipation I felt, perched on the edge of a crumbling pathway the sight of which would give most health and safety inspectors good cause to lie down in a darkened room for several hours. I idly wondered what had happened to the cones that once denoted this walkway as unsafe. Not that I felt that much explanation was required in matters of the dangers presented by a two thousand foot drop.
  
@@ -4228,47 +4228,61 @@ And this time, I tried to look beyond what was merely there in the physical and 
 Perhaps - just maybe - there was a bigger picture here in D'ni that I had yet to truly see.]]></translation>
             </element>
             <element name="RebusJournal">
-                <translation language="English"><![CDATA[<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>July 2009
-These are personal interpretations, sketches, and thoughts about Moysenland composed from the scattered notes I have in my belonging.
+                <translation language="English"><![CDATA[<cover src="RebusMoyJrnlCover.hsm"><margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
+July 2009
+This is personal interpretentions, sketches and thoughts of findings in Moysenland and amongst the scattered notes I have in my belonging.
 
-What I have found so far is that this area is stable, but the surrounding canal is filled with something that acts like quicksand. On the other side there are cliffs with several deep valleys between the peaks.
+ What I have found so far is that this area is stable but the surrounding canal is filled with something that acts like quicksand. On the other side are cliffs
+ with several deep valleys between the peaks. 
+ 
+ Moysenland was a harvest age, and there were inhabitants here. 
+ The center island had terraces where the inhabitants grew some special crops. <img src=CenterIsland.hsm align=center resize=no blend=alpha>
+ The MoysenTrees had its place in the middle, as we still can see today.
+ A railway connected the island with the mainland.
+ There were controlled floodings that made the lower terrace perfect for a sort of rice. 
+ The MoysenLily gave edable fruits and both Moysenberries and the MoysenTree itself were used.
+ <img src=BlackMoysenRice.hsm align=center resize=no blend=alpha>
+ <img src=MoysenLily.hsm align=center resize=no blend=alpha>
+ <img src=MoysenBerry.hsm align=center resize=no blend=alpha>
+ Who wrote this age is not known but the D'ni had a station here. The inhabitants probably sold the crops or exchanged it. I have seen ruins of the communityhouse, 
+ and I think the inhabitants had a vibrant cultural life, as can be seen in the inner room in the cave. It was probably the last big flooding that made the Dni to leave. 
+ Very sparse notes tells about that. I have seen floodings here, they seem to come after heavy rains and the water raises quite calmly up above the quicksand and 
+ flood into the center island through the tunnel. Then it slowly disappears during a couple of days. I suspect that the last severe flooding took away the soil and 
+ most of the vegetation on the surrounding hills too. That was probably the cause of the damaged railway and tunnel on the center island. We have not seen any
+ signs of the inhabitants. 
+ There were small villages on the mainland, roads and paths between them. The only animals left are fishes, but bigger animals lived here, some of which the inhabitants
+ used to get meat and skin from. Probably both tamed and wild species.
+ 
+ Weather and temperature: 
+ Heavy rains and thunderstorms occur in periods when the temperature drops to about +10 degrees Celsius, 
+ most often cloudy with a temperature between +15 to +25 degrees Celsius.
+ 
+ Daylength: 
+ same as Earth. 
+ 
+ Compassdirections: 
+ standing at the link-in-point and looking toward the lanterna one face North. 
 
-Moysenland was a harvest Age, and it was inhabited.
-
-The center island had terraces where the inhabitants grew some special crops.
-<img src=CenterIsland.hsm align=center resize=no blend=alpha>
-The Moysentrees had their place in the middle, as we still can see today.
-
-A railway connected the island with the mainland.
-
-There were controlled floods that made the lower terrace perfect for a sort of rice.
-
-The Moysenlily gave edible fruits and both Moysenberries and the Moysentrees themselves were used.
-<img src=BlackMoysenRice.hsm align=center resize=no blend=alpha>
-<img src=MoysenLily.hsm align=center resize=no blend=alpha>
-<img src=MoysenBerry.hsm align=center resize=no blend=alpha>
-It is not known who wrote this Age, but the D'ni had a station here. The inhabitants probably sold or exchanged the crops. I have seen ruins of the town hall, and I think the inhabitants had a vibrant cultural life, as can be seen in the inner room in the cave. It was probably the last big flood that made the D'ni leave.
-
-There are very sparse notes about that event. I have seen floods here; they seem to come after heavy rains and the water rises quite calmly up above the quicksand and flow into the center island through the tunnel. Then, it slowly disappears over a couple of days. I suspect that the last severe flood washed away the soil and most of the vegetation on the surrounding hills, too. That was probably the cause of the damaged railway and tunnel on the center island. We have not seen any signs of the inhabitants.
-
-There were small villages on the mainland with roads and paths between them. The only animals left are fishes, but bigger animals lived here -- some of which the inhabitants got meat and skins from. Probably both domesticated and wild species.
-
-Weather and temperature: 
-Heavy rains and thunderstorms occur in periods when the temperature drops to about +10 degrees Celsius. It is most often cloudy with a temperature between +15 and +25 degrees Celsius.
-
-Day length:
-Same as Earth.
-
-Compass directions:
-Standing at the link-in point and looking toward the lanterns, one is facing North. 
-
-Flora and fauna:
-Moysentrees, small flying insects, tiny grass-like vegetation, a variety of fishes, and birds. All of these need to be further examined and described.
-
-The water in the well is clean and potable. The fish are edible.
-
-April 2022
-With the successful restoration of Tiam and Elonin, I found myself thinking about Moysenland Age. I need to properly survey that Age again -- I have not been there for years. Time to organize an expedition!]]></translation>
+ Flora and fauna:
+ MoysenTrees, small flying insects, tiny grass-like vegetation,
+ fishes and birds. All of these need to be further examined and described.
+ 
+ The water in the well is clean and can be used. The fishes are edable.
+ 
+ April 2022
+ 
+ With the successful restoration of Tiam and Elonin I found myself thinking
+ about Moysenland Age. I need to properly survey that Age again, 
+ I have not been there for years. Time to organize an expedition!
+ 
+ Decemeber 2022
+ 
+ We have decided to not go further with the restoration of Moysenland at this point.
+ On our last visit we found traces of someone being there. The boat was dragged
+ up on land and there were traces of a campfire on the center island. 
+ If it's the former inhabitants we don't want to disturb in any way. 
+ So we have left Moysenland for now and continued the restoration work with
+ another age.]]></translation>
             </element>
             <element name="TennyJrnl">
                 <translation language="English"><![CDATA[<cover src="tennysjournal01.hsm"><margin left=62 right=62 top=48><font size=16 face=Michelle><p align=left>Sanctuary Journal
@@ -5862,7 +5876,62 @@ In other news, Cyan announced their RIVEN remake today. That was about expected,
 11/1/22
 This journal is getting pretty full at this point. Honestly, I think I'm about ready to finish it up and start another. Yet more missing artifacts showed up this morning as well. ...Is that Calum's chess set in here too? Why not send this to him directly? Someone's decided to test the waters, I suppose. 
 
-I expect I'll probably barely squeeze November and December into this book- but that'll probably be it. You've done a good job little green journal.]]></translation>
+I expect I'll probably barely squeeze November and December into this book- but that'll probably be it. You've done a good job little green journal. 
+
+<pb>11/7/22
+Nothing much here. SkyisBlu had a wonderful Cooking Session today!  Returned TIki's Gnome to him as well. 
+
+11/29/22
+Exhaustion leads to forgetting to write, it seems. Between another Iwonk Wonky Talk stream about spooky games, Kura'quen coming suddenly to the Cavern asking to join the town hall on Wednesday, and then Thanksgiving over last week. (It was last week wasn't it?) I've completely lost track of things. 
+
+11/30/22
+Ami decided to make an announcement at a time neither I or Calum would be present. I feel targeted, and I'm not sure whether to be flattered or offended.
+
+In other news, it sounds like Haru'sara stole a multitude of crystals from Rei'schu. Late last night, the Priestesses of Rei'schu discovered that several crystal objects were stolen- among them, a Translation Necklace, several shape shifting story stones, several audio log stones, atleast ONE Soul Memory Stone, and a few crystal equivalents to Blank Linking Books. 
+
+<pb>12/4/22
+Logan was the True Seed's so-called "Prophet"!? I can't even-
+
+12/12/22
+Spending two days in Rei'schu was not how I expected to spend the weekend, but I'm glad to have made the trip. Given the nonsense that's been happening... Oh I don't even know what to write here. I don't have much room left in this journal anyways. I think I need to start a new volume soon. 
+<pb>12/15/22
+Maurus has been putting feelers out for a lost shipment of clothing items meant as a surprise for the TCT Team. Given my previous efforts for getting the fleeces made for Naybree, I'll do my due diligence and keep my eyes peeled for any miscelaneous packages heading my way that *aren't* stolen items being returned. Hopefully they won't be missing for too long.
+<pb>12/18/22
+We heard back from Tenny. He's doing alright, and he's got Logan in a hospital to deal with both the fall, and the lingering 'bug' symptoms. Ami's apparently either spending time with them at the hospital, or with her family. It's good to hear she's spending time with them, though. I'd worried she was going to be alone after all of that. 
+<pb>12/31/22
+A busy farewell to this year, and to this journal. Not much room left in this book. Calum got me a very pretty journal with "2023" stamped on its cover. I'll be migrating to that one the first chance I get. Don't know quite what I'll do with this one but I think I'll leave it be here for the time being. ]]></translation>
+            </element>
+            <element name="rebusbook2">
+                <translation language="English"><![CDATA[<cover src="RebusCoverBrown.hsm">
+<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
+
+February 2023
+
+Mirtahm
+Nothing compares to the feeling of linking in to a new age!
+When you just stand there, and with the words of Anna in your
+mind, 'What do you see', slowly turn around and look.
+
+I chosed this link book because I knew that this age had been 
+visited earlier by my friends.
+That time I didn't have the opportunity to go along with them, so
+it was with great pleasure I finally could open the link book and 
+put my hand on the page.
+
+TikiBear and ametist accompanied me. We linked in to a big room 
+and it was quite dark so not much to see this first time. We went back
+for flashlights and returned.
+
+An awesome sight greated us in the light. D'ni structures, caves
+and open views.
+<img src=Mirtbridge.hsm align=center resize=no blend=alpha>
+
+We started working with the machinery last summer and got it working
+quite fast. Cleaning and polishing took it's time, 
+but ametist and TikiBear called upon their fellow explorers.
+
+I forsee this age to be open for the public very soon, just some
+final testing awaits.]]></translation>
             </element>
             <element name="waynesrelto">
                 <translation language="English"><![CDATA[<cover src="xYeeshaBookCover*1#0.hsm"><font size=10><img src="xYeeshaBookBorder*1#0.hsm" pos=0,0 blend=alpha><pb><img src="xLinkPanelBlackVoid*1#0.hsm" align=center link=1 blend=alpha><img src="xYeeshaBookStampSquare*1#0.hsm" pos=140,255 resize=no blend=alpha>]]></translation>

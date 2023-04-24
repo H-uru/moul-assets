@@ -39,7 +39,7 @@ We use GitHub's [issue tracker](https://github.com/H-uru/moul-assets/issues) to 
 - any other pertinent notes, such as why you think the issue is happening and any mitigation you attempted
 
 ## Submitting Changes
-Changes to moul-assets generall fall under two categories: objective and subjective. Before submitting any changes to the repository, you will need to [request access](https://guildofwriters.org/assets_repo) to the LFS store.
+Changes to moul-assets generally fall under two categories: objective and subjective. Before submitting any changes to the repository, you will need to [request access](https://guildofwriters.org/assets_repo) to the LFS store.
 
 ### Submitting Objective Changes
 Objective changes tend to be limited in scope and are generally minor adjustments or fixes to content already accepted to the repository. These changes should require limited discussion and should demonstrate a clear and apparent improvement to the game. These changes may be developed and submitted using [GitHub Flow](https://guides.github.com/introduction/flow/index.html). To propose changes to the repository:
@@ -50,7 +50,7 @@ Objective changes tend to be limited in scope and are generally minor adjustment
 ### Submitting Subjective Changes
 Subjective changes tend to be larger in scope, such as a new Age or expansion of a previously existing Age, and generally require discussions around myriad aspects of their development. This can be a lengthy process involving many revisions to your contribution. For this reason, we do not accept pull requests for subjective changes until the changes have gone through an external content review process. There is currently no accepted content review process; we leave it up to the contributor to revise their content with discerning member(s) of the Age creation and development community. For a subjective change to be considered, an endorsement from at least *one* (1) discerning member of the Age creation and development community must be provided. If you need assistance with identifying a process or a discerning member, contact a [maintainer](https://github.com/H-uru/moul-assets/people).
 
-Subjective changes to the game are, by their very nature, subjective, hence our relucance to impose and document a specific review process. However, all subjective submissions should:
+Subjective changes to the game are, by their very nature, subjective, hence our reluctance to impose and document a specific review process. However, all subjective submissions should:
 - be relatively bug-free
 - be tested against the Myst Online: Uru Live version of the [Plasma Engine](https://github.com/H-uru/Plasma) by the creator (at minimum)
 - match the art style of the currently accepted content both visually and audibly

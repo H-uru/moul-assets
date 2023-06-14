@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+	<age name="Global">
+		<set name="AgeNames">
+			<element name="ConcertHallFoyer">
+				<translation language="Russian">Фойе концертного зала</translation>
+			</element>
+			<element name="EderGira">
+				<translation language="Russian">Эдер Гира</translation>
+			</element>
+			<element name="EderKemo">
+				<translation language="Russian">Эдер Кемо</translation>
+			</element>
+			<element name="FerryTerminal">
+				<translation language="Russian">Паромный терминал</translation>
+			</element>
+			<element name="Gahreesen">
+				<translation language="Russian">Гарисен</translation>
+			</element>
+            <element name="GoMePubNew">
+				<translation language="Russian">Паб Новых Вестников</translation>
+			</element>
+			<element name="GreatZero">
+				<translation language="Russian">Великий Нуль</translation>
+			</element>
+			<element name="GreatZeroObservation">
+				<translation language="Russian">Смотровая Великого Нуля</translation>
+			</element>
+			<element name="Kadish">
+				<translation language="Russian">Кадиш</translation>
+			</element>
+			<element name="LibraryCourtyard">
+				<translation language="Russian">Библиотечный двор</translation>
+			</element>
+			<element name="Neighborhood">
+				<translation language="Russian">Район</translation>
+			</element>
+			<element name="Nexus">
+				<translation language="Russian">Нексус</translation>
+			</element>
+			<element name="PalaceAlcove">
+				<translation language="Russian">Пещерный дворец</translation>
+			</element>
+			<element name="Relto">
+				<translation language="Russian">Релто</translation>
+			</element>
+			<element name="Teledahn">
+				<translation language="Russian">Теледан</translation>
+			</element>
+			<element name="TokotahAlley">
+				<translation language="Russian">Аллея Такота</translation>
+			</element>
+		</set>
+		<set name="Colors">
+			<element name="Black">
+				<translation language="Russian">черный</translation>
+			</element>
+			<element name="Blue">
+				<translation language="Russian">синий</translation>
+			</element>
+			<element name="Brown">
+				<translation language="Russian">коричневый</translation>
+			</element>
+			<element name="Cyan">
+				<translation language="Russian">циан</translation>
+			</element>
+			<element name="DarkBrown">
+				<translation language="Russian">темнокоричневый</translation>
+			</element>
+			<element name="DarkGreen">
+				<translation language="Russian">темнозеленый</translation>
+			</element>
+			<element name="DarkPurple">
+				<translation language="Russian">темнофиолетовый</translation>
+			</element>
+			<element name="Gray">
+				<translation language="Russian">серый</translation>
+			</element>
+			<element name="Green">
+				<translation language="Russian">зеленый</translation>
+			</element>
+			<element name="Magenta">
+				<translation language="Russian">пурпурный</translation>
+			</element>
+			<element name="Maroon">
+				<translation language="Russian">бордовый</translation>
+			</element>
+			<element name="NavyBlue">
+				<translation language="Russian">темносиний</translation>
+			</element>
+			<element name="Orange">
+				<translation language="Russian">оранжевый</translation>
+			</element>
+			<element name="Pink">
+				<translation language="Russian">розовый</translation>
+			</element>
+			<element name="Red">
+				<translation language="Russian">красный</translation>
+			</element>
+			<element name="SlateBlue">
+				<translation language="Russian">голубой</translation>
+			</element>
+			<element name="SteelBlue">
+				<translation language="Russian">бирюзовый</translation>
+			</element>
+			<element name="Tan">
+				<translation language="Russian">бежевый</translation>
+			</element>
+			<element name="White">
+				<translation language="Russian">белый</translation>
+			</element>
+			<element name="Yellow">
+				<translation language="Russian">желтый</translation>
+			</element>
+		</set>
+		<set name="FolderNames">
+			<element name="AgeJournals">
+				<translation language="Russian">Журналы эпох</translation>
+			</element>
+			<element name="AgeMembers">
+				<translation language="Russian">Все игроки</translation>
+			</element>
+			<element name="AgeOwners">
+				<translation language="Russian">Владельцы</translation>
+			</element>
+			<element name="AgeTypeJournal">
+				<translation language="Russian">Журналы эпох</translation>
+			</element>
+			<element name="AgesICanVisit">
+				<translation language="Russian">Доступные эпохи</translation>
+			</element>
+			<element name="AgesIOwn">
+				<translation language="Russian">Эпохи во владении</translation>
+			</element>
+			<element name="AllPlayers">
+				<translation language="Russian">Все игроки</translation>
+			</element>
+			<element name="AvatarCloset">
+				<translation language="Russian">Гардероб персонажа</translation>
+			</element>
+			<element name="AvatarOutfit">
+				<translation language="Russian">Гардероб</translation>
+			</element>
+			<element name="BuddyList">
+				<translation language="Russian">Друзья</translation>
+			</element>
+			<element name="CanVisit">
+				<translation language="Russian">Доступ имеют</translation>
+			</element>
+			<element name="Chronicle">
+				<translation language="Russian">Хроника</translation>
+			</element>
+			<element name="HoodMembers">
+				<translation language="Russian">Соседи</translation>
+			</element>
+			<element name="IgnoreList">
+				<translation language="Russian">зЧерный список</translation>
+			</element>
+			<element name="Inbox">
+				<translation language="Russian">Входящие</translation>
+			</element>
+			<element name="PeopleIKnowAbout">
+				<translation language="Russian">Последние</translation>
+			</element>
+			<element name="PublicAges">
+				<translation language="Russian">Публичные районы</translation>
+			</element>
+			<element name="SubAges">
+				<translation language="Russian">Подэпохи</translation>
+			</element>
+			<element name="UserDefined">
+				<translation language="Russian">Пользователь установлен</translation>
+			</element>
+		</set>
+		<set name="Formats">
+			<element name="Date">
+				<translation language="Russian">\%m/\%d/\%y</translation>
+			</element>
+			<element name="DateTime">
+				<translation language="Russian">\%m/\%d/\%y  \%H:\%M</translation>
+			</element>
+			<element name="Possesive">
+				<translation language="Russian">%1s's %2s</translation>
+			</element>
+		</set>
+		<set name="Journals">
+			<element name="URUCredits">
+				<translation language="Russian"><![CDATA[<cover src="xUruCreditsJournalCover*1#0.hsm"><font face=Uru size=24 spacing=-10 color=000000><margin right=32 left=32 top=22 bottom=23><p align=left><font size=26><p align=center>Концепция<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Рэнд Миллер<p align=right>Директор
+
+<p align=center>Программирование<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Марк Х. ДеФорест<p align=right>CTO
+<p align=left>Боб Засио<p align=right>Ведущий программист графики
+<p align=left>Эрик С. Андерсон<p align=right>Ведущий программист сервера
+<p align=left>Джефф Лундин<p align=right>Машинный программист
+<p align=left>Джейсон М. Калверт<p align=right>Машинист-программист
+<p align=left>Адам Ван Орнум<p align=right>Инженер-программист
+<p align=left>Рэнди Риджуэй<p align=right>Программист-физик
+<p align=left>Крис Дойл<p align=right>Старший тех. Художник, геймплей
+<p align=left>Дерек Оделл<p align=right>Тех. Художник, геймплей
+<p align=left>Тай Хули<p align=right>Тех. Художник, геймплей
+Реализация звука
+<p align=left>Карл Джонсон<p align=right>Тех. Художник, геймплей<font spacing=-18>
+
+<pb><font size=26><p align=center>Арт<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Джош Стауб<p align=right>Директор по искусству и визуальному дизайну
+<p align=left>Джейсон К. Баскетт<p align=right>Руководитель анимации
+<p align=left>Остин Томас<p align=right>Художник
+<p align=left>Виктория Брейс<p align=right>Художник
+<p align=left>Эрик А. Андерсон<p align=right>Художественный руководитель
+<font spacing=-18>
+
+<font size=26><p align=center>Звук и музыка<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Тим Ларкин<p align=right>Звуковой дизайн
+
+<font size=26><p align=center>Концепция и управление<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Ричард А. Уотсон<p align=right>Д'ни историк, дизайн
+<p align=left>Райан С. Дж. Миллер<p align=right>Руководитель отдела игрового дизайна
+<p align=left>Райан Дж. Варзеха<p align=right>Менеджер сообщества
+<font spacing=-18>
+
+<pb><font size=26><p align=center>Контроль качества (QC)/поддержка клиентов (CS)<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Ллойд Белл<p align=right>Директор по QC и CS
+<p align=left>Грег Дж. Миранда<p align=right>Старший ведущий специалист по QC / Ведущий специалист по CS
+<p align=left>Виктория Л. Алмонд<p align=right>Руководитель отдела QC / Старший руководитель отдела CS
+<p align=left>Карл Джонсон<p align=right>Руководитель QC и CS /  Старший веб разработчик
+<p align=left>Аарон Бигальски<p align=right>Руководитель CS
+<p align=left>M. Вольф Коварт<p align=right>Руководитель CS
+<p align=left>Майкл Догерра<p align=right>Руководитель CS
+<p align=left>Брэндон Ноулз<p align=right>Руководитель CS
+<p align=left>Керрин Миллер<p align=right>Руководитель CS
+<p align=left>Тейлор Бейли<p align=right>Поддержка клиентов
+<p align=left>Джесси Бронсон<p align=right>Поддержка клиентов
+<p align=left>Бен Дрехсель<p align=right>Поддержка клиентов
+<p align=left>Крис Ламберт<p align=right>Поддержка клиентов
+<p align=left>Боб Матиас<p align=right>Поддержка клиентов
+<p align=left>Эмили Нортон<p align=right>Поддержка клиентов
+<p align=left>Брэдфорд Чепмен<p align=right>Тестер QC
+<p align=left>Джон Тайтингфонг<p align=right>Тестер QC
+<p align=left>Элиза Уайатт<p align=right>Тестер QC
+
+<font size=26><p align=center>Административная поддержка<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Тони Фрайман<p align=right>Генеральный директор
+<p align=left>Марк Добрац<p align=right>Менеджер проекта
+<p align=left>Марк Кламмер<p align=right>Финансовый директор
+<p align=left>Дейв Смит<p align=right>Менеджер по информационным технологиям
+<p align=left>Байрон Р. Хайнеманн<p align=right>Менеджер по техническому обслуживанию и пасхалкам
+<p align=left>Элоиза Макклоски<p align=right>Офис, бухгалтерия
+
+<font size=26><p align=center>Артисты озвучивания<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Дэвид Огден Стирс<p align=right>Занди
+<p align=left>Ренгин Алтай<p align=right>Йиша
+
+<pb><font size=26><p align=center>Музыканты<font spacing=-5>
+<font size=24 spacing=-10><p align=left>Эрик Энгербретсон<p align=right>Гитара
+<p align=left>Труппа друзей танца "Сиронка"<p align=right>Вокалисты
+<p align=left>Таша Кунц<p align=right>Вокалистка
+
+<font size=26><p align=center>Особая благодарность ранним разработчикам Uru<font spacing=-5>
+<font size=24 spacing=-10><p align=center>Райан Оллред, Джеймс Битти, Джон М. Биггс, Сьюзен Р. Бондс, Колин Бонстед, Крис Брандкамп, Мэтью К. Буррак, Гэри В. Батчер, Кристофер Л. Кланин, Терри Дж. Кулидж, Марк Т. Финч, Роберт Дж. Эмануэле, Питер Гейдж, Пол Галлахер, Роберт Грейс, Майк Хайнс, Стив Хугендик, Триша (Бланд) Киндер, Брайан Кулиг, Стефан Мартиньер, Мэтью Б. Маклаурин, Дуглас Т. Макбрайд, Стив Огден, Кристиан Пикколо, Крис Дж. Пурвис, Пол А. Кверна, Натан Ридт, Терри Шмидбауэр, Билл Слиз, Род Стаффорд, Марк Стенерсен
+<font size=26><p align=center>Специальная благодарность (продолжение)<font spacing=-5>
+<font size=24 spacing=-10><p align=center>Адриан Стоун, Уильям Стоунхэм, Брайс Теббс, Мустафа Тамер, Патти ВанХил, Эрик Г. Вотава, Джефф Уилсон, Эрик Р. Уорман, Кайл Уилсон
+
+<font size=26><p align=center>Дополнительное развитие Cyan<font spacing=-5>
+<font size=24 spacing=-10>Тейлор Бейли, Окала Беллоуз, Аарон Бигальски, Брайс Дж. Биггерстафф, Джон Брукс, Брайан Буссард, Т. Эллиот Кэннон, Брет Карлсон, Тим С. ДеВольф, Эрик Эллис, Скотт Эллвангер, Марк Энгберг/Колаб, Брэд Хэлпин, Кили Ханивелл, Дэниел Джонстон, Гил Кепплер, Брэндон А. Ноулз, Джефф Освальт, Райан Б. Перш, Мелинда Рассел, Том Шиллинджер, Мика Шитс, Ли Шелдон, Тайлер Дж. Смит, Крейг Фойгт, Закари М. Уэллсандт, Морин Вик
+
+<pb>
+<font size=26><p align=center>Особая благодарность<font spacing=-5>
+<font size=24 spacing=-10><p align=center>
+Блейк Льюин
+Роджер Фасо
+Эрик Лардж
+Рон Майнерс
+Селия Перс
+
+<pb><font size=26><p align=center>Правовое регулирование<font spacing=-5>
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>Танцевальная труппа "Friends of Sironka"
+Некоторые звуки и запись вокала предоставлены танцевальной труппой "Friends of Sironka"
+неэксклюзивная лицензия Cyan, используется по разрешению.
+
+<font size=24 spacing=-10><p align=center>AGEIA - поставщик физического движка PhysX
+AGEIA и PhysX являются торговыми марками AGEIA Technologies, Inc. и используются по лицензии.
+
+<font size=24 spacing=-10><p align=center>"Burn you up, Burn you down"
+Исполняет Питер Гэбриэл
+Авторы: Питер Гэбриэл, Нил Спаркес и Карл Уоллингер
+Опубликовано Real World Music Limited/Universal Music Limited
+Питер Гэбриэл появляется благодаря любезности исполнительного директора Real World Records'/Geffen Records и EMI Records
+<font size=24 spacing=-10><p align=center>Bink
+Использует Bink Video. Copyright (C) 1997-2003 by RAD Game Tools, Inc.
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>FaceGen Modeller 2.1
+Singular Inversions, Inc.
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>Электронная фильмотека Artbeats
+Artbeats
+
+<img align=center resize=no blend=alpha src="xUruCreditsLegalLogos*1#0.hsm">
+
+<pb><font size=26><p align=center>Лицензии на открытый исходный код<font spacing=-5>
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>OpenSSL
+Copyright (c) 2000 The Apache Software Foundation. Все права защищены.
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>Свободный шрифт
+Проект FreeType является авторским правом (c) 1996-2000 Дэвида Тернера, Роберта Вильгельма и Вернера Лемберга. Все права защищены.
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>Python
+Copyright (c) 2001, 2002 Python Software Foundation. Все права защищены.
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>Boost
+Copyright (c) 2002 CrystalClear Software, inc. Разрешение на использование, копирование, изменение, распространение и продажу данного программного обеспечения для любых целей предоставляется без взимания платы.
+<font spacing=-18>
+<pb><font size=24 spacing=-10><p align=center>OggVorbis
+Copyright (c) 2003, Xiph.Org Foundation
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>Speex
+Copyright (c) 2002-2003, Jean-Marc Vlin/Xiph.Org Foundation
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>LibJpeg
+Libpng версии 1.0.7, 1 июля 2000 года, по 1.2.5, 3 октября 2002 года, являются авторскими правами (c) 2000-2002 гг.
+Гленн Рандерс-Персон
+<font spacing=-18>
+<font size=24 spacing=-10><p align=center>zLib
+zlib (c) 1995-2002 Жан-Луп Гайли и Марк Адлер]]></translation>
+			</element>
+		</set>
+		<set name="TextObjects">
+			<element name="Dummy">
+				<translation language="Russian">Это фиктивный текстовый объект, вы никогда не увидите меня в игре!</translation>
+			</element>
+		</set>
+		<set name="Messages">
+			<element name="AgeBookGet">
+				<translation language="Russian">Книга %1s была добавлена в вашу библиотеку Релто.</translation>
+			</element>
+		</set>
+	</age>
+</localizations>

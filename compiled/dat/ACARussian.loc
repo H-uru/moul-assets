@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-16"?>
+<localizations>
+	<age name="ACA">
+		<set name="Clothing">
+			<element name="Afro">
+				<translation language="Russian">Афро</translation>
+			</element>
+			<element name="Bald">
+				<translation language="Russian">Лысина</translation>
+			</element>
+			<element name="Balding">
+				<translation language="Russian">Облысение</translation>
+			</element>
+			<element name="BareFeet">
+				<translation language="Russian">Босые ноги</translation>
+			</element>
+			<element name="Belt">
+				<translation language="Russian">Ремень</translation>
+			</element>
+			<element name="Blouse">
+				<translation language="Russian">Блузка</translation>
+			</element>
+			<element name="BomberJacket">
+				<translation language="Russian">Бомбер-жакет</translation>
+			</element>
+			<element name="Boot">
+				<translation language="Russian">Ботинок</translation>
+			</element>
+			<element name="Boots">
+				<translation language="Russian">Ботинки</translation>
+			</element>
+			<element name="CanvasGloves">
+				<translation language="Russian">Шерстянные перчатки</translation>
+			</element>
+			<element name="Cap">
+				<translation language="Russian">Кепка</translation>
+			</element>
+			<element name="Capris">
+				<translation language="Russian">Брюки "капри"</translation>
+			</element>
+			<element name="CargoPants">
+				<translation language="Russian">Рабочие штаны</translation>
+			</element>
+			<element name="CargoShorts">
+				<translation language="Russian">Рабочие шорты</translation>
+			</element>
+			<element name="Coat">
+				<translation language="Russian">Покров</translation>
+			</element>
+			<element name="Color1">
+				<translation language="Russian">Цвет 1</translation>
+			</element>
+			<element name="Color2">
+				<translation language="Russian">Цвет 2</translation>
+			</element>
+			<element name="Curly">
+				<translation language="Russian">Кудри</translation>
+			</element>
+			<element name="DressShirt">
+				<translation language="Russian">Рубашка</translation>
+			</element>
+			<element name="Dye1">
+				<translation language="Russian">Цвет 1</translation>
+			</element>
+			<element name="Dye2">
+				<translation language="Russian">Цвет 2</translation>
+			</element>
+			<element name="Eyes">
+				<translation language="Russian">Глаза</translation>
+			</element>
+			<element name="Face">
+				<translation language="Russian">Лицо</translation>
+			</element>
+			<element name="FieldVest">
+				<translation language="Russian">Походный костюм</translation>
+			</element>
+			<element name="FingerlessGloves">
+				<translation language="Russian">Перчатки без пальцев</translation>
+			</element>
+			<element name="FleecePullover">
+				<translation language="Russian">Шерстянной пуловер</translation>
+			</element>
+			<element name="Glasses">
+				<translation language="Russian">Очки</translation>
+			</element>
+			<element name="Glove">
+				<translation language="Russian">Перчатка</translation>
+			</element>
+			<element name="Gloves">
+				<translation language="Russian">Перчатки</translation>
+			</element>
+			<element name="GolfCap">
+				<translation language="Russian">Кепка для игры в гольф</translation>
+			</element>
+			<element name="HairTint">
+				<translation language="Russian">Цвет волос</translation>
+			</element>
+			<element name="Hand">
+				<translation language="Russian">Рука</translation>
+			</element>
+			<element name="Hands">
+				<translation language="Russian">Руки</translation>
+			</element>
+			<element name="HardHat">
+				<translation language="Russian">Каска</translation>
+			</element>
+			<element name="Hat">
+				<translation language="Russian">Шляпа</translation>
+			</element>
+			<element name="HighlandSweater">
+				<translation language="Russian">Горный свитер</translation>
+			</element>
+			<element name="HikingBoots">
+				<translation language="Russian">Походные ботинки</translation>
+			</element>
+			<element name="HikingShoes">
+				<translation language="Russian">Походная обувь</translation>
+			</element>
+			<element name="HoodedSweatshirt">
+				<translation language="Russian">Закрытая толстовка</translation>
+			</element>
+			<element name="Jacket">
+				<translation language="Russian">Жакет</translation>
+			</element>
+			<element name="Jeans">
+				<translation language="Russian">Джинсы</translation>
+			</element>
+			<element name="Khakis">
+				<translation language="Russian">Брюки</translation>
+			</element>
+			<element name="KnitHat">
+				<translation language="Russian">Вязанная шапка</translation>
+			</element>
+			<element name="KnitSweater">
+				<translation language="Russian">Вязанный свитер</translation>
+			</element>
+			<element name="Laces">
+				<translation language="Russian">Шнурки</translation>
+			</element>
+			<element name="Leather">
+				<translation language="Russian">Кожа</translation>
+			</element>
+			<element name="LeatherJacket">
+				<translation language="Russian">Кожанная куртка</translation>
+			</element>
+			<element name="LeatherJacketClock">
+				<translation language="Russian">Кожанная куртка - часы</translation>
+			</element>
+			<element name="LeatherJacketDRC">
+				<translation language="Russian">Кожанная куртка - DRC</translation>
+			</element>
+			<element name="LeatherJacketTower">
+				<translation language="Russian">Кожанная куртка - Башня</translation>
+			</element>
+			<element name="Logo">
+				<translation language="Russian">Логотип</translation>
+			</element>
+			<element name="LongSleeveShirt">
+				<translation language="Russian">Ркбашка с рукавами</translation>
+			</element>
+			<element name="LongSleeveShirtClock">
+				<translation language="Russian">Ркбашка с рукавами - Часы</translation>
+			</element>
+			<element name="LongSleeveShirtTower">
+				<translation language="Russian">Рубашка с рукавами - Башня</translation>
+			</element>
+			<element name="LongSleeveTShirt">
+				<translation language="Russian">Футболка с рукавами</translation>
+			</element>
+			<element name="LongSleeveTShirtCosmicOsmo">
+				<translation language="Russian">Футболка с рукавами - Cosmic Osmo</translation>
+			</element>
+			<element name="LongSleeveTShirtMyst">
+				<translation language="Russian">Футболка с рукавами - Myst</translation>
+			</element>
+			<element name="LongSleeveTShirtRiven">
+				<translation language="Russian">Футболка с рукавами - Riven</translation>
+			</element>
+			<element name="Nails">
+				<translation language="Russian">Ногти</translation>
+			</element>
+			<element name="PanamaHat">
+				<translation language="Russian">Панамка</translation>
+			</element>
+			<element name="Pants">
+				<translation language="Russian">Штаны</translation>
+			</element>
+			<element name="PoloShirt">
+				<translation language="Russian">Спортивная футболка</translation>
+			</element>
+			<element name="PonyTail">
+				<translation language="Russian">Конский хвост</translation>
+			</element>
+			<element name="Pullover">
+				<translation language="Russian">Пуловер</translation>
+			</element>
+			<element name="Roman">
+				<translation language="Russian">Римлянин</translation>
+			</element>
+			<element name="RunningShoes">
+				<translation language="Russian">Кроссовки</translation>
+			</element>
+			<element name="SailorPants">
+				<translation language="Russian">Штаны моряка</translation>
+			</element>
+			<element name="Sandal">
+				<translation language="Russian">Сандалина</translation>
+			</element>
+			<element name="Sandals">
+				<translation language="Russian">Сандали</translation>
+			</element>
+			<element name="ShearlingCoat">
+				<translation language="Russian">Пиджак</translation>
+			</element>
+			<element name="Shirt">
+				<translation language="Russian">Рубаха</translation>
+			</element>
+			<element name="Shoe">
+				<translation language="Russian">Обувь</translation>
+			</element>
+			<element name="Shoes">
+				<translation language="Russian">Обувь</translation>
+			</element>
+			<element name="ShortHairLeftPart">
+				<translation language="Russian">Короткая стрижка - Влево</translation>
+			</element>
+			<element name="ShortHairRightPart">
+				<translation language="Russian">Короткая стрижка - Вправо</translation>
+			</element>
+			<element name="ShortSleeveTShirt">
+				<translation language="Russian">Футболка</translation>
+			</element>
+			<element name="ShortSleeveTShirtCosmicOsmo">
+				<translation language="Russian">Футболка - Cosmic Osmo</translation>
+			</element>
+			<element name="ShortSleeveTShirtMyst">
+				<translation language="Russian">Футболка - Myst</translation>
+			</element>
+			<element name="ShortSleeveTShirtRiven">
+				<translation language="Russian">Футболка - Riven</translation>
+			</element>
+			<element name="Shorts">
+				<translation language="Russian">Шорты</translation>
+			</element>
+			<element name="SleevelessShirt">
+				<translation language="Russian">Безрукавка</translation>
+			</element>
+			<element name="Sweater">
+				<translation language="Russian">Свитер</translation>
+			</element>
+			<element name="Sweatshirt">
+				<translation language="Russian">Толстовка</translation>
+			</element>
+			<element name="TShirt">
+				<translation language="Russian">Футболка</translation>
+			</element>
+			<element name="TieDyeTShirt">
+				<translation language="Russian">Вязанная разноцветка</translation>
+			</element>
+			<element name="Turtleneck">
+				<translation language="Russian">Свитер с воротником</translation>
+			</element>
+			<element name="Undershirt">
+				<translation language="Russian">Майка</translation>
+			</element>
+			<element name="VNeck">
+				<translation language="Russian">Рубашка</translation>
+			</element>
+			<element name="Vest">
+				<translation language="Russian">Жилетка</translation>
+			</element>
+			<element name="Windbreaker">
+				<translation language="Russian">Ветровка</translation>
+			</element>
+			<element name="WorkShirt">
+				<translation language="Russian">Рабочая кофта</translation>
+			</element>
+			<element name="YeeshaReward">
+				<translation language="Russian">Награда Йиши</translation>
+			</element>
+			<element name="Zipper">
+				<translation language="Russian">Молния</translation>
+			</element>
+		</set>
+		<set name="GUI">
+			<element name="Age">
+				<translation language="Russian">Возраст</translation>
+			</element>
+			<element name="Build">
+				<translation language="Russian">Комплекция</translation>
+			</element>
+			<element name="Cheeks">
+				<translation language="Russian">Щеки</translation>
+			</element>
+			<element name="ChinAngle">
+				<translation language="Russian">Угол Подбородка</translation>
+			</element>
+			<element name="ChinWidth">
+				<translation language="Russian">Ширина Подбородка</translation>
+			</element>
+			<element name="Eyebrows">
+				<translation language="Russian">Брови</translation>
+			</element>
+			<element name="Mouth">
+				<translation language="Russian">Рот</translation>
+			</element>
+			<element name="NoseAngle">
+				<translation language="Russian">Угол Носа</translation>
+			</element>
+			<element name="NoseLength">
+				<translation language="Russian">Длина Носа</translation>
+			</element>
+			<element name="NoseWidth">
+				<translation language="Russian">Ширина Носа</translation>
+			</element>
+			<element name="QuitConfirm">
+				<translation language="Russian">Вы уверены, что хотите выйти из Uru?</translation>
+			</element>
+			<element name="ResetConfirm">
+				<translation language="Russian">Вы уверены, что хотите сбросить ваши настройки?</translation>
+			</element>
+			<element name="SkinColor">
+				<translation language="Russian">Цвет Кожи</translation>
+			</element>
+			<element name="Texture1">
+				<translation language="Russian">Текстура 1</translation>
+			</element>
+			<element name="Texture2">
+				<translation language="Russian">Текстура 2</translation>
+			</element>
+			<element name="Texture3">
+				<translation language="Russian">Текстура 3</translation>
+			</element>
+		</set>
+	</age>
+</localizations>

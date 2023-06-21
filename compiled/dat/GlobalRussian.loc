@@ -118,7 +118,7 @@
 				<translation language="Russian">Журналы эпох</translation>
 			</element>
 			<element name="AgeMembers">
-				<translation language="Russian">Все игроки</translation>
+				<translation language="Russian">Игроки Эпохи</translation>
 			</element>
 			<element name="AgeOwners">
 				<translation language="Russian">Владельцы</translation>

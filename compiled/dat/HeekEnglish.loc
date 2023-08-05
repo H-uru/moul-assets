@@ -20,6 +20,9 @@
 			<element name="WelcomePlural">
 				<translation language="English">Please welcome %1s, a rank %2s player with %3s points!</translation>
 			</element>
+			<element name="Quit">
+				<translation language="English">Do you want to leave the Ahyoheek game?</translation>
+			</element>
 		</set>
 	</age>
 </localizations>

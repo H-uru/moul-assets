@@ -21,7 +21,7 @@
 				<translation language="Italian">Benvenuto a %1s, giocatore di grado %2s con %3s punti!</translation>
 			</element>
 			<element name="Quit">
-				<translation language="Italian">Vuoi lasciare il gioco Ahyoheek?</translation>
+				<translation language="Italian">Vuoi lasciare il gioco Ahyoheek e rinunciare a questo round?</translation>
 			</element>
 		</set>
 	</age>

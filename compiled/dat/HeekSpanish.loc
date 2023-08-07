@@ -21,7 +21,7 @@
 				<translation language="Spanish">¡Demos la bienvenida a %1s, jugador de rango %2s con una puntuación de %3s puntos!</translation>
 			</element>
 			<element name="Quit">
-				<translation language="Spanish">¿Quieres dejar el juego Ahyoheek?</translation>
+				<translation language="Spanish">¿Quieres dejar el juego Ahyoheek y perder esta ronda?</translation>
 			</element>
 		</set>
 	</age>

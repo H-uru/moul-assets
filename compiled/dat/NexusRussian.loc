@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+	<age name="Nexus">
+		<set name="Categories">
+			<element name="Caverns">
+				<translation language="Russian">Пещеры</translation>
+			</element>
+			<element name="CityLocations">
+				<translation language="Russian">Локации города</translation>
+			</element>
+			<element name="PersonalLinks">
+				<translation language="Russian">Эпохи Релто</translation>
+			</element>
+			<element name="PrivateLinks">
+				<translation language="Russian">Личные Эпохи</translation>
+			</element>
+			<element name="PublicLinks">
+				<translation language="Russian">Публичные Эпохи</translation>
+			</element>
+		</set>
+		<set name="CityNames">
+			<element name="City1">
+				<translation language="Russian">Пещера 1</translation>
+			</element>
+			<element name="City2">
+				<translation language="Russian">Пещера 2</translation>
+			</element>
+			<element name="City3">
+				<translation language="Russian">Пещера 3</translation>
+			</element>
+			<element name="City4">
+				<translation language="Russian">Пещера 4</translation>
+			</element>
+			<element name="City5">
+				<translation language="Russian">Пещера 5</translation>
+			</element>
+		</set>
+		<set name="Headers">
+			<element name="Name">
+				<translation language="Russian">Имя</translation>
+			</element>
+			<element name="Population">
+				<translation language="Russian">Население</translation>
+			</element>
+		</set>
+		<set name="Messages">
+			<element name="CityFull">
+				<translation language="Russian">Город Ае'гура переполнен. Пожалуйста, повторите попытку позже.</translation>
+			</element>
+			<element name="CityPopulation">
+				<translation language="Russian">Текущее население: %1s Максимальное население: %2s</translation>
+			</element>
+			<element name="GuildPubFull">
+				<translation language="Russian">%1s переполнен. Попробуйте позже.</translation>
+			</element>
+			<element name="GuildPubPopulation">
+				<translation language="Russian">Текущее население: %1s Максимальное население: %2s</translation>
+			</element>
+			<element name="HoodCreate">
+				<translation language="Russian">Вы уверены, что хотите создать новое соседство? Нажав "Да", вы перенесете существующее членство. Снова вставьте свой KI в устройство, чтобы восстановить связь с GZ.
+</translation>
+			</element>
+			<element name="KirelFull">
+				<translation language="Russian">Kirel переполнен. Пожалуйста, повторите попытку позже.</translation>
+			</element>
+			<element name="KirelPopulation">
+				<translation language="Russian">Текущее население: %1s Максимальное население: %2s</translation>
+			</element>
+			<element name="LinkDelete">
+				<translation language="Russian">Вы уверены, что хотите удалить свою связь с %1s?</translation>
+			</element>
+			<element name="PubFull">
+				<translation language="Russian">Паб Наблюдателя переполнен. Пожалуйста, повторите попытку позже.</translation>
+			</element>
+			<element name="PubPopulation">
+				<translation language="Russian">Текущее население: %1s Максимальное население: %2s</translation>
+			</element>
+			<element name="GoMePubNewFull">
+				<translation language="Russian">Паб Новых Вестников переполнен. Пожалуйста, повторите попытку позже.</translation>
+			</element>
+			<element name="GoMePubNewPubPopulation">
+				<translation language="Russian">Текущее население: %1s Максимальное население: %2s</translation>
+			</element>
+			<element name="EloninFull">
+				<translation language="Russian">Элонин переполнен. Пожалуйста, повторите попытку позже.</translation>
+			</element>
+			<element name="EloninPopulation">
+				<translation language="Russian">Текущее население: %1s Максимальное население: %2s</translation>
+			</element>
+			<element name="UsingCityInstance">
+				<translation language="Russian">Связь с %1s</translation>
+			</element>
+		</set>
+		<set name="Neighborhood">
+			<element name="MakePrivate">
+				<translation language="Russian">Сделать личным</translation>
+			</element>
+			<element name="MakePublic">
+				<translation language="Russian">Сделать публичным</translation>
+			</element>
+		</set>
+	</age>
+</localizations>

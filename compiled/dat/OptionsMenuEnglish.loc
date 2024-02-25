@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localizations>
 	<age name="OptionsMenu">
+		<set name="AudioSettings">
+			<element name="EnableEFX">
+				<translation language="English">Enable EFX</translation>
+			</element>
+			<element name="EnableSubtitles">
+				<translation language="English">Enable Subtitles</translation>
+			</element>
+			<element name="EnableVoiceChat">
+				<translation language="English">Enable Voice Chat</translation>
+			</element>
+			<element name="MicrophoneLevel">
+				<translation language="English">Microphone Level</translation>
+			</element>
+			<element name="OutputDevice">
+				<translation language="English">Output Device</translation>
+			</element>
+		</set>
 		<set name="GameSettings">
 			<element name="Advanced">
 				<translation language="English">Advanced Settings</translation>
@@ -35,6 +52,9 @@
 			<element name="MyVoice">
 				<translation language="English">My Voice</translation>
 			</element>
+			<element name="NPCVoices">
+				<translation language="English">NPC Voices</translation>
+			</element>
 			<element name="OtherVoice">
 				<translation language="English">Other Player's Voice</translation>
 			</element>
@@ -64,10 +84,34 @@
 			</element>
 		</set>
 		<set name="GraphicsSettings">
+			<element name="Ansiotropic">
+				<translation language="English">Anisotropic Filtering</translation>
+			</element>
+			<element name="AntiAliasing">
+				<translation language="English">Anti-Aliasing</translation>
+			</element>
+			<element name="GraphicsQuality">
+				<translation language="English">Graphics Quality</translation>
+			</element>
+			<element name="Resolution">
+				<translation language="English">Video Resolution</translation>
+			</element>
 			<element name="RestartWarning">
 				<translation language="English">Video Quality and Texture Quality changes will not take effect until Uru is restarted.
 
 Would you like to quit?</translation>
+			</element>
+			<element name="TextureQuality">
+				<translation language="English">Texture Quality</translation>
+			</element>
+			<element name="VSync">
+				<translation language="English">Vertical Sync</translation>
+			</element>
+			<element name="Windowed">
+				<translation language="English">Windowed</translation>
+			</element>
+			<element name="WindowedMac">
+				<translation language="English">(On Mac press Command + Return)</translation>
 			</element>
 		</set>
 		<set name="InGameHelp">

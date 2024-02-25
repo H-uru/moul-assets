@@ -35,6 +35,9 @@
 			<element name="MyVoice">
 				<translation language="Italian">Tua voce</translation>
 			</element>
+			<element name="NPCVoices">
+				<translation language="Italian">NPC Voices</translation>
+			</element>
 			<element name="OtherVoice">
 				<translation language="Italian">Voce altri giocatori</translation>
 			</element>
@@ -61,6 +64,33 @@
 			</element>
 			<element name="WalkAndPan">
 				<translation language="Italian">Cammina e panoramica</translation>
+			</element>
+		</set>
+		<set name="GraphicsSettings">
+			<element name="Ansiotropic">
+				<translation language="Italian">Filtro anisotropico</translation>
+			</element>
+			<element name="AntiAliasing">
+				<translation language="Italian">Antialias</translation>
+			</element>
+			<element name="GraphicsQuality">
+				<translation language="Italian">Qualità grafica</translation>
+			</element>
+			<element name="Resolution">
+				<translation language="Italian">Risoluzione video</translation>
+			</element>
+			<element name="RestartWarning">
+			</element>
+			<element name="TextureQuality">
+				<translation language="Italian">Qualità texture</translation>
+			</element>
+			<element name="VSync">
+				<translation language="Italian">Sync verticale</translation>
+			</element>
+			<element name="Windowed">
+				<translation language="Italian">In finestra</translation>
+			</element>
+			<element name="WindowedMac">
 			</element>
 		</set>
 		<set name="InGameHelp">
@@ -161,6 +191,9 @@ Guardarsi intorno - Mouse destro + Trascinare
 			<element name="DemoTrailer">
 				<translation language="Italian">Anteprima di URU</translation>
 			</element>
+			<element name="Explore">
+				<translation language="Italian">Alle Opzioni</translation>
+			</element>
 			<element name="GameSettings">
 				<translation language="Italian">Impostazioni gioco</translation>
 			</element>
@@ -202,9 +235,6 @@ Guardarsi intorno - Mouse destro + Trascinare
 			</element>
 			<element name="URULive">
 				<translation language="Italian">Video</translation>
-			</element>
-			<element name="Explore">
-				<translation language="Italian">Alle Opzioni</translation>
 			</element>
 		</set>
 		<set name="Messages">

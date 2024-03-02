@@ -72,6 +72,8 @@
 			<element name="AntiAliasing">
 				<translation language="French">Anti-crénelage</translation>
 			</element>
+			<element name="DynamicReflections">
+			</element>
 			<element name="GraphicsQuality">
 				<translation language="French">Qualité graphique</translation>
 			</element>

@@ -90,6 +90,9 @@
 			<element name="AntiAliasing">
 				<translation language="English">Anti-Aliasing</translation>
 			</element>
+			<element name="DynamicReflections">
+				<translation language="English">Dynamic Reflections</translation>
+			</element>
 			<element name="GraphicsQuality">
 				<translation language="English">Graphics Quality</translation>
 			</element>

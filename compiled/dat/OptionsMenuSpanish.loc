@@ -71,6 +71,8 @@
 			</element>
 			<element name="AntiAliasing">
 			</element>
+			<element name="DynamicReflections">
+			</element>
 			<element name="GraphicsQuality">
 				<translation language="Spanish">Calidad de los gráficos</translation>
 			</element>

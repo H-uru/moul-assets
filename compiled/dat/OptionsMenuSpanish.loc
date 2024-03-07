@@ -35,6 +35,8 @@
 			<element name="MyVoice">
 				<translation language="Spanish">Mi voz</translation>
 			</element>
+			<element name="NPCVoices">
+			</element>
 			<element name="OtherVoice">
 				<translation language="Spanish">Voz del otro jugador</translation>
 			</element>
@@ -61,6 +63,37 @@
 			</element>
 			<element name="WalkAndPan">
 				<translation language="Spanish">Caminar y ver</translation>
+			</element>
+		</set>
+		<set name="GraphicsSettings">
+			<element name="Ansiotropic">
+				<translation language="Spanish">Filtro anisotrópico</translation>
+			</element>
+			<element name="AntiAliasing">
+			</element>
+			<element name="DynamicReflections">
+			</element>
+			<element name="GraphicsQuality">
+				<translation language="Spanish">Calidad de los gráficos</translation>
+			</element>
+			<element name="Resolution">
+				<translation language="Spanish">Resolución de vídeo</translation>
+			</element>
+			<element name="RestartWarning">
+				<translation language="Spanish">Video Quality and Texture Quality changes will not take effect until Uru is restarted.
+
+Would you like to quit?</translation>
+			</element>
+			<element name="TextureQuality">
+				<translation language="Spanish">Calidad de las texturas</translation>
+			</element>
+			<element name="VSync">
+				<translation language="Spanish">Sincr. vertical</translation>
+			</element>
+			<element name="Windowed">
+				<translation language="Spanish">En ventana</translation>
+			</element>
+			<element name="WindowedMac">
 			</element>
 		</set>
 		<set name="InGameHelp">

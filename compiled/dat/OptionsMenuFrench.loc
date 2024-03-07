@@ -35,6 +35,8 @@
 			<element name="MyVoice">
 				<translation language="French">Ma voix</translation>
 			</element>
+			<element name="NPCVoices">
+			</element>
 			<element name="OtherVoice">
 				<translation language="French">Voix des autres joueurs</translation>
 			</element>
@@ -61,6 +63,36 @@
 			</element>
 			<element name="WalkAndPan">
 				<translation language="French">Marcher et regarder</translation>
+			</element>
+		</set>
+		<set name="GraphicsSettings">
+			<element name="Ansiotropic">
+				<translation language="French">Filtrage anisotropique</translation>
+			</element>
+			<element name="AntiAliasing">
+				<translation language="French">Anti-crénelage</translation>
+			</element>
+			<element name="DynamicReflections">
+			</element>
+			<element name="GraphicsQuality">
+				<translation language="French">Qualité graphique</translation>
+			</element>
+			<element name="Resolution">
+				<translation language="French">Résolution vidéo</translation>
+			</element>
+			<element name="RestartWarning">
+			</element>
+			<element name="TextureQuality">
+				<translation language="French">Qualité textures</translation>
+			</element>
+			<element name="VSync">
+				<translation language="French">Synchro verticale</translation>
+			</element>
+			<element name="Windowed">
+				<translation language="French">Fenêtré</translation>
+			</element>
+			<element name="WindowedMac">
+				<translation language="French">(On Mac press Command + Return)</translation>
 			</element>
 		</set>
 		<set name="InGameHelp">

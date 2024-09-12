@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+    <age name="Elonin">
+        <set name="Journals">
+            <element name="FlowerBook">
+                <translation language="French"><![CDATA[<cover src="EloninFlowerbook.hsm">
+<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>Eillet 
+lat. Dianthus
+
+<img src=CarnationOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Ne m'oblie pas
+lat. Myosotis
+
+<img src=ForgetMeNotOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Lys
+lat. Lilium
+
+<img src=LilyOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Coquelicot
+lat. Papaver
+
+<img src=PoppieOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Rose
+lat. Rosa
+
+<img src=RosesOld.hsm resize=no blend=alpha>
+
+
+
+
+
+Tulipe
+lat. Tulipa
+
+<img src=TulipOld.hsm resize=no blend=alpha>
+
+]]></translation>
+            </element>
+            <element name="JournalBook">
+                <translation language="French"><![CDATA[<cover src="EloninJournalCover.hsm">
+<margin left=62 right=62 top=48 bottom=48><font face=Michelle size=18>
+Bienvenue à Elonin! J’espère que vous apprécierez cet endroit aussi bien que moi! 
+Le livre de liaison m’a été transmis par un de mes plus vieux amis, Rebus. Il n’a jamais révélé où se trouvait cet appartement. Une fois, il a dit "Quand nous l’avons trouvé" et quand j’ai demandé "Qui a écrit le livre alors?" il a répondu "Oh, je voulais dire que nous avons trouvé le livre". Il m’a juste fait signe au moment où j’aimerais avoir une réponse directe. 
+Lorsqu’il m’a emmené ici pour la première fois, il m’a raconté comment lui et ses amis ont découvert ce lieu, l’excitation qu’ils ont ressentie lorsqu’ils ont trouvé cet immense appartement, constituées de pièces reliées par des escaliers, des halls et des couloirs. Il n’y avait aucun signe d’abandon à la hâte, c’était comme s’il était inoccupé pendant un certain temps. Assez vide et sombre, mais pas du tout endommagé. Ils avaient décidé de se servir de cet endroit pour fonder leur 'quartier général', pendant les débuts de l’exploration de la caverne, et semblaient réjouis à le restaurer. La plupart du mobilier restant était encore utilisable après un peu de nettoyage et de polissage. Ils ont réparé la plomberie et fait tester la pureté de l’eau. Ils ont apporté des livres, des tissus, des peintures et des instruments, m’a-t-il dit. Quand je lui ai demandé comment ils avaient réussi à mettre le piano à queue en place, il a simplement ri et dit : "Pièce par pièce, chérie, pièce par pièce!". 
+Les années ont passé et des moments se sont produits dans leur vie qui les ont décidés à transmettre le livre de liaison. Et ils m’ont choisi! J’adore cet endroit. Mes amis et moi passons beaucoup de temps ici. Mais maintenant, il est temps d’inviter d’autres personnes et de ne plus garder ça pour nous. Donc à partir de maintenant, c’est une Guesthouse, ouvert à tous les explorateurs! Utilisez-la pour vos loisirs, vos fêtes, vos réunions ou autres, mais laissez-la dans l’état où vous l’avez trouvée et rangez-la si nécessaire! 
+
+Cet endroit est plus grand que vous ne le pensez à première vue, mais pour y accéder, vous devez trouver le code qui déverrouille la 'porte aux quatre boutons'. Ces portes étaient verrouillées lorsque Rebus et ses amis sont arrivés ici, mais, évidemment, ils ont trouvé comment les ouvrir. Pour divertir mes amis et compagnons d’exploration, j’ai décidé de construire un puzzle qui les envoie dans une 'quête' pour trouver le code caché. C’est assez astucieux si je puis dire, tout ce que je peux vous dire c’est qu’il s’agit de fleurs…
+
+Dulcamara, mars 2022
+
+**************************************
+
+ La restauration de l'âge du jardin d'Elonin est maintenant terminé et vous pouvez visiter en toute sécurité. Amusez-vous bien!
+Nous avons également travaillé dur dans les pièces derrière la porte verrouillée, au bout de l'un des couloirs menant de la cour principale. Donc, la poignée ouvre maintenant la porte et vous laisse entrer dans cette zone d'Elonin.
+
+Dulcamara, décembre 2022
+<pb>
+<pb>
+Les remerciements spéciaux vont vers : 
+OpenUru et Guild of Writers, 
+Rarified et Doobes, 
+Les bêta-testeurs Philip et GrandbadBill,
+Korovev et Larry LeDeay - MTPlogo
+LeCyclope et skyisblu - traduction en français
+Mon ami ametist pour la plomberie, l’éclairage et divers mécanismes 
+<p align=center>************** 
+Textures de Cyan.Inc, Pixabay.com et textures.com 
+Sons de Bo ‘Dixie’ Albinsson, 
+freesound.org et Cyan.Inc, 
+Musique de http://www.freefx.co.uk, 
+
+  ]]></translation>
+            </element>
+        </set>
+    </age>
+</localizations>

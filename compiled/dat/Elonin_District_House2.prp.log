@@ -1,0 +1,1018 @@
+Changing Blender's framerate to 30.
+
+
+WARNING - importing single PRPs is very likely to break some references. Never use it if you intend to re-export the Age.
+--------------------------------------
+---> Importing D:\Games\Uru Live\dat\Elonin_District_House2.prp
+Import as PRP: .age file present, this should somewhat reduce the number of broken cross references...
+Age name is Elonin
+
+Importing page House2
+    535 objects
+    LinkingBookEB
+WARNING - texture xlinkpanelederbahvahnter*1#0.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    MamaLibdoorhandleIn
+    MamaLibdoorhandle
+    MamaLibdoor
+    RgnFtStpStnBarr_001
+    RgnFtStpStnBarr
+    RgnFootstepStoneBarr
+    PointFireRT2
+    PointFireRT
+    MamaPzlDoor2
+    JournalBook
+    FootStepRgn_009
+    FootStepRgn_008
+    FootStepRgn_007
+    FootStepRgn_001
+    MamaWtrRun3
+    MamaWtrSurface2
+    MamaWtrSurface3
+    MamaWtrRun2
+    MamaWclid2
+    MamaToiWtr
+    MamaWclid
+    MamaWtrRun
+    MamaWtrSurface
+    PianoFlatButton
+    FootStepRgn_006
+    FootStepRgn_005
+    FootStepRgn_004
+    FootStepRgn_003
+    LinkEderToElonin
+    VisRegion_House_2
+    FrBtnExclPoint
+    FrBtnDrExclRgn
+    Brownbook_001
+    CollNexTerminal
+    CamLibrary
+    libraryColumn01_001
+    RgnLibDrExcl
+    LibLevBaseIn_001
+    LibLevBaseIn
+    LibLevBase
+WARNING - texture GrayrockWallCyan..hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_Podiumdoors_001
+    BookOpenLib
+    LampShineWall_025
+    LampShineWall_024
+    LampShineWall_023
+    LampShineWall_022
+    LampShineWall_021
+    LampShineWall_020
+    LampShineWall_019
+    LampShineWall_018
+    LampShineWall_010
+    LampShineWall_009
+    CollLibvase_002
+    CollLibvase_001
+    CollLibvase
+    LampShineWall_008
+    PointLib_011
+    PointLib_010
+    PointLib_009
+    PointLib_008
+    PointLib_007
+    PointLib_006
+    PointLib_005
+    PointLib_004
+    PointLib_003
+    PointLib_002
+    PointLib_001
+    lamp_009
+    lamp_002
+    lamp_001
+    PointLib
+    CollH2_floorlist_001
+    LampShine_023
+    LampShine_021
+    LampShine_020
+    CollOutWind_005
+    CollOutWind_004
+    CollOutWind_003
+    SmallCeilLamp_005
+WARNING - texture CelingLamp.png.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_stoveash
+    Wtrfallfence
+    Wtrfence
+    PointLivroomNogroup_001
+    PointLivroomNogroup
+    H2_14livroomrug_001
+WARNING - texture H2_14livroomrug.001_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_floorlist_003
+    CollH2_floorlist
+    H2_floorlist
+    LampShineWall_007
+    LampShineWall_006
+    SmallCeilLamp_002
+    CollShortBarrSt
+    Room_2Livrmwall_004
+    ColliderStair_006
+    CollLivrmWllDwn
+    CollLivrmWll
+    CollCamBtmCorner
+    CollOutWind_002
+    CollOutWind_001
+    CollOutWind
+    CollCamStairOut_001
+    CollCamStairOut
+    Room_2downCorridor_001
+    kirelLightFixture_007
+    EntryDoor
+    H2_ChairLone
+    CollChairLone
+    SitRgnDblCorr_003
+    SitRgnDblCorr_002
+    SitRgnDblCorr_001
+    SitRgnDblCorr
+    TreeSilh_003
+    TreeSilh_002
+    TreeSilh_001
+    TreeSilh
+    H2_paintframe
+    LampenscheinNew_002
+    H2_grit
+    Wall_1Corr2
+WARNING - texture Wall_1Corr2_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_85tblchair8
+    H2_85tblchair6
+    H2_85tblchair5
+    H2_85tblchair4
+    H2_85tblchair3
+    H2_85tblchair2
+    H2_85tblchair
+    CollBedroof_001
+    SitRgnFireLiv1
+    CollFlasksCell
+    DoorSmallHandle_001
+    H2_95lamp1
+    H2_97glasslamp4
+    LampenscheinNew_016
+    PointLivroom_021
+    Room2_Window_001
+    CamRgnFireLiv1
+    CollStaircube
+    H2_GlassdoorL
+    H2_62hinges
+    H2_doorwayTest
+    H2_75flush
+    H1_candle_002
+    H1_candle_001
+    H1_candle
+    PointLivroom2Shad
+    CollSidewallBedbath
+    LampCorridorShad
+    CollRedLamp
+    MainstairF_000
+WARNING - texture MainstairF.000_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Trunk_002
+    Trunk_001
+    H2_livroomshelf
+    Room2_Corner2
+WARNING - texture Room2_Corner2_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room2_Corner
+WARNING - texture Room2_Corner_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Collcamcellar_001
+    Collcamcellar
+    LampShine_001
+    LampShine_000
+    Room_2UpCorrValv_002
+WARNING - texture Room_2UpCorrValv.002_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_Deskbulb
+    H2_Podiumdoors
+    Room_2Livrmborder_002
+    LampShineWall_017
+    LampShineWall_005
+    H2_Corrdoors_002
+WARNING - texture UODoor.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    LampShineWall_004
+    H2_90doorway_002
+    H2_90doorwayVP
+    H2_doorbed
+    H2_68pump
+    Room_2Corridor2R
+WARNING - texture Room_2Corridor2R_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2Corridor2border
+    LampenscheinNew_014
+    LampenscheinNew_013
+    PointCorridor_011
+    PointLivroom_020
+    LampShineWall_016
+    LampShineWall_013
+    LampShineWall_011
+    LampShineWall_015
+    LampShineWall_014
+    LampShineWall_012
+    CollValvCorr6
+    LampShineWall_001
+    LampShineWall
+    LampShineWall_003
+    LampShineWall_002
+    LampShine_019
+    LampShine_018
+    LampShine_017
+    LampShine_016
+    LampShine_015
+    LampShine_014
+    LampShine_013
+    LampShine_012
+    LampShine_011
+    LampShine_008
+    PointLivroom_018
+    PointLivroom_017
+    PointCorrChar
+    OperKlavFeet
+    Room2_Stairs_001
+WARNING - texture Cyanrailing.png.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_97glasslamp3
+    H2_95_003
+    LampShine_010
+    LampShine_009
+    LampShine_007
+    LampShine_006
+    LampenscheinNew_012
+    H2_97glasslamp2
+    H2_95lamp2
+    LampenscheinNew_011
+    H2_95lamp
+    H2_97lampglass
+    LampenscheinNew_010
+    PointLivroom_016
+    PointLivroom_015
+    LampShine_005
+    LampShine_004
+    LampShine_003
+    LampShine_002
+    Room2_LivrmInstrpod
+WARNING - texture Room2_LivrmInstrpod_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2Livrmborder
+    PointLivroom_012
+    Room_2Livrmfloorlist
+    Room_2Livrmwall_001
+WARNING - texture Room_2Livrmwall.001_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_77_001
+    Room_2Livrmpod
+    Room2_Outwall
+    PointLivroom_011
+    Room_2LivrmWall
+WARNING - texture Room_2LivrmWall_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2Stovewall
+WARNING - texture Room_2Stovewall_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2LivrmInvalv
+    Room_2LivrmVlv
+    Room_2CorrValv2
+    PointLivroom_010
+    Roof_2Livroom
+    PointLivroom_009
+    LampFlare_001
+    PointLivroom_008
+    PointLivroom_007
+    PointLivroom_006
+    PointLivroom_005
+    H2_17sheet
+    Room2_FloorBath
+WARNING - texture Room2_FloorBath_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2UpCorr_001
+WARNING - texture Room_2UpCorr.001_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2UpCorrValv_001
+WARNING - texture Room_2UpCorrValv.001_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2UpCorrBord
+    PointCorridor_005
+    Room_2UpCorrValv
+WARNING - texture Room_2UpCorrValv_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    PointCorridor_007
+    PointCorridor_008
+    PointCorridor_006
+    Room_2UpCorr
+WARNING - texture Room_2UpCorr_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Roof_2Corridor
+WARNING - texture Roof_2Corridor_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room2_Bathroof
+WARNING - texture Room2_Bathroof_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2Bathwall
+    Room_2Bath
+    CollbedCurt_001
+    CollbedCurt
+    CollBedroof
+    PointBedroom_009
+    LightvolBedroom
+    Room_2BedRoof
+WARNING - texture Room_2BedRoof_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2BedFloor
+WARNING - texture Room_2BedFloor_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    PointBedroom_007
+    PointBedroom_006
+    PointBedroom_005
+    Room_2BedBord
+    Room_2Bed
+WARNING - texture Room_2Bed_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_12_birdkey
+    H2_12_bird
+    H2_71tub
+    H2_18lampbulbs
+    H2_18glass
+    H2_55glass
+    H1_shinylampglass
+    H2_Podiumdoorway
+    H2_16handle
+    paperDoorcode
+    FixCamLink
+    RgnFixCamLink
+    H2_20shadow
+    H2_hingepainting
+    RgnFixCamSafe
+    FixCamSafe
+    goldbook_001
+    SitRgnFire
+    FireSit
+    H2_91dust
+    H2_GrNeedle
+    H2_Vinyl
+    H2_GramHandle
+    Collider_Bathpump_001
+    LampenscheinNew_009
+    H1_shinylamp_001
+    H1_grammVinyl
+    H1_grammoNeedle
+    H1_gramHandle
+    WaterRunning3
+    H1_shinylamp
+    LampenscheinNew_008
+    RgnWatRun2
+    WtrSurface2
+    WtrSurface3
+    WaterRunning2
+    RgnFlushWC2
+    FixCamSitRgn2
+    FixCamRgnSit
+    SitRgnDbl_005
+    SitRgnDbl_004
+    CollBathfloor_001
+    H1_StairCollider
+    RgnBird
+    TrigBird
+    H2_12_birdlegs
+    H2_17colliderBed
+    H2_17collider
+    H2_Wframe
+    LampenscheinNew_007
+    LampenscheinNew_004
+    LampenscheinNew_003
+    H2_41_001
+    PianoSit
+    SitRgnPiano
+    Collider_Klavier_012
+    LampenscheinNew_001
+    AssortedBooks
+    Brownbook
+    FallenBooks
+    DiffBooks
+    goldbook
+    H2_49Mama
+    BooksCollTwo
+WARNING - texture BooksCollTwo_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    BooksCollOne
+WARNING - texture BooksCollOne_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_54new_001
+    H2_54new
+WARNING - texture H2_54new_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_75toiWtr
+    Room_2Drway_001
+    Room_2Drway
+    H2_37new
+    H2_37new_001
+    PointBedroom_004
+    PointBedroom_003
+    PointBedroom_002
+    PointBedroom_001
+    PointBedroom
+    RgnFlushWC
+    SoundFlush
+    WaterRunning
+    WtrSurface
+    WtrToilet
+    RgnWatRun
+    A_1Door
+    A6Rgn
+    A5Rgn
+    A4Rgn
+    A3Rgn
+    A2Rgn
+    A1Rgn
+    RgnHarp
+    HarpTouch
+    SitRgnDbl_003
+    SitRgnDbl_002
+    SitRgnDbl_001
+    A6RgnCam
+    A5RgnCam
+    A4RgnCam
+    A3RgnCam
+    A2RgnCam
+    A1RgnCam
+    SitRgnDbl
+    WCsit
+    CollBathfloor
+    H1_grammophone
+    H1_GrTable
+    Collider_Bathpump
+    Collider_Treppe_004
+    LampCorridor
+    Stairs
+    kirelLightFixture_005
+    Wall_1
+WARNING - texture Wall_1_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    kirelLightFixture_004
+    kirelLightFixture_003
+    kirelLightFixture_002
+    Trunk
+    TrunkDetails
+    H1_237_001
+    PianoSound
+    Painting_003
+    H2_27bedpinting
+    H2_29deskpapers
+    PointLivroom
+    PointLivroom_002
+    H2_9tbllamp
+    Collider_Harfe_001
+    Lampenschein_003
+WARNING - texture sprite_brown_star.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_97glasslamps
+    H2_95pianolamps
+    firellamp
+    H2_yellamp
+    H2_100candle
+    H2_94shadow
+    Room2_Livroomfloor
+WARNING - texture Room2_Livroomfloor_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_1_018
+WARNING - texture Room_1.018_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_96shadow
+    H2_103corrvalve
+    H2_102livroomvalve
+    Room_2LivRmBord
+    H2_91firepiece
+    Room_1Border_2
+    Pa_Columns_1_002
+    Room2_Window1
+    Room2_Window
+    Room2_1
+    WCrgn
+    ColliderWallLivRm
+    Collider_Klavier_015
+    Collider_Klavier_014
+    Collider_Klavier_013
+    Collider_Klavier_011
+    Collider_Klavier_010
+    Collider_Klavier_009
+    Collider_Klavier_008
+    Collider_Klavier_007
+    Collider_Klavier_006
+    Collider_Klavier_005
+    Collider_Klavier_004
+    Collider_Klavier_003
+    Collider_Klavier_002
+    Collider_Klavier_001
+    Room_2Borderstove
+    H2_65doorglass
+    H2_66doorglass
+    H2_Corrdoors
+    PointLivroom_003
+    H2_26bedsofa
+    H2_84chaircloth
+    H2_25grammotbl
+    H2_17bedsheet2
+    ColliderStair_004
+    Collider_Treppe_002
+    Collider_Treppe
+    H2_bigflask
+    kirelLightFixture
+    Room_2downCorridor
+WARNING - texture Room_2downCorridor_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    MainstairF_002
+WARNING - texture MainstairF.002_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_rugbed
+WARNING - texture H2_rugbed_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Wall_1_001
+WARNING - texture Wall_1.001_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    MainstairF_001
+WARNING - texture MainstairF.001_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2Livrmborder_001
+    H2_14livroomrug
+WARNING - texture H2_14_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2Livrmwall_002
+WARNING - texture Room_2Livrmwall.002_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    LinkInPointDefault
+    Room_2Livrmwall
+    H2_6rug
+WARNING - texture H2_6rug_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room2_Stairs
+    RecDoor_002
+    Roof_2Roof
+WARNING - texture Roof_2Roof_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room2_FloorCorr
+    BassEmitter
+    BassClickRgn
+    H2_64bathpillars
+    H2_bathhanger
+    H2_73towel
+    H2_74soap
+    H2_72mirror
+    H2_75toilet
+    Collider_sink2
+    H2_69bathtbl
+    H2_70sink
+    H2_43typewriter
+    H2_59
+    H2_57
+WARNING - texture clftblack_0x1.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_1candshadow
+WARNING - texture clftblack_0x1.png.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_11candle7
+WARNING - texture islmmenorahflame_.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Collider_Kontraba
+    H2_82cello
+    H2_78harp
+    H2_77harpchair
+    H2_81pianonote
+    Collider_Harfe
+    FlatButton_9ClickRgn
+    FlatButton_9OneShot
+    HarpEmitter
+    kirelDwellingDoor03
+    H2_58
+    H2_4pillows
+    H2_44shelf
+    H2_21bedcurtains
+    H2_22pillows
+    H2_28bedcupbrd
+    H2_56
+    H2_53wine
+    H2_desklamp
+    H2_42deskchair
+    H2_40beddesk
+    H2_2burner
+    H2_18bedlampfoot
+    H2_31shelfes
+    H2_34vase
+    H2_36bowl
+    H2_35lamp
+    H2_39pen
+    H2_38hat
+    H2_23bedcurtains2
+    H2_3cupbrd
+    H2_5porcelain
+    H2_85chair
+    H2_19bigbed
+    H2_51compass
+    H2_52key
+    H2_24grammo
+    H2_41celloholder
+    H2_30curtains
+    H2_93halllamps
+    ADoorSound
+    Stairs_001
+    H2_37new_002
+    H2_GlassdoorR
+    Room2_Stairs1_002
+WARNING - texture Room2_Stairs1.002_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    Room_2Corridor2L
+WARNING - texture Room_2Corridor2L_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    H2_68_002
+    Room_2_004
+    H1_31_002
+    H1_31_001
+    dome01_004
+    arch12_001
+    Roof_2Roof_1_002
+    dome01_003
+    dome01_002
+    Room2_Floor1_001
+WARNING - texture Room2_Floor1.001_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    ceiling_light01
+WARNING - texture li204_0x0.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+    floor_closed_door
+WARNING - texture floor_closed_door_LIGHTMAPGEN.hsm has compression type 3, which cannot be extracted without reconverting it to PNG.
+
+
+Done !
+Setting up armature hierarchy...
+Setting up hierarchy...
+WARNING - trying to get a Blender object from plKey <plKey "<481|1>[0001]LinkingBook_ClkRegion_001">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|1>[0001]LinkingBook_SeekPoint_001">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|1>[0001]LibDoorhandle">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]H2_75wclid_001">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]H1_101wcLid_001">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|1>[0001]LibDoorhandleIn">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|1>[0001]TuerAdjustRight">, but it failed to import correctly or was not imported yet. Skipping.
+Repositioning world-space collisions...
+Creating animations...
+    Master MamaLibdoorhandleIn
+        MamaLibdoorhandleIn_(Entire Animation), on object MamaLibdoorhandleIn
+    Master MamaLibdoorhandle
+        MamaLibdoorhandle_(Entire Animation), on object MamaLibdoorhandle
+    Master MamaLibdoor
+        MamaLibdoor_(Entire Animation), on object MamaLibdoor
+    Master PointFireRT2
+        PointFireRT2_(Entire Animation), on object PointFireRT2
+    Master PointFireRT
+        PointFireRT_(Entire Animation), on object PointFireRT
+    Master MamaPzlDoor2
+        MamaPzlDoor2_(Entire Animation), on object MamaPzlDoor2
+    Master MamaWtrRun3
+        MamaWtrRun3_(Entire Animation), on object MamaWtrRun3
+    Master MamaWtrSurface2
+        MamaWtrSurface2_(Entire Animation), on object MamaWtrSurface2
+    Master MamaWtrSurface3
+        MamaWtrSurface3_(Entire Animation), on object MamaWtrSurface3
+    Master MamaWtrRun2
+        MamaWtrRun2_(Entire Animation), on object MamaWtrRun2
+    Master MamaWclid2
+        MamaWclid2_(Entire Animation), on object MamaWclid2
+    Master MamaToiWtr
+        MamaToiWtr_(Entire Animation), on object MamaToiWtr
+    Master MamaWclid
+        MamaWclid_(Entire Animation), on object MamaWclid
+    Master MamaWtrRun
+        MamaWtrRun_(Entire Animation), on object MamaWtrRun
+    Master MamaWtrSurface
+        MamaWtrSurface_(Entire Animation), on object MamaWtrSurface
+    Master PianoFlatButton
+        PianoFlatButton_(Entire Animation), on object PianoFlatButton
+Setting up scene references...
+Setting up camera references...
+Setting up modifier references...
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamFireLiv1">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamFire">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamArmChairs">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamBigSofa">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamA6">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamA5">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamA4">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamA3">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamA2">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamA1">, but it failed to import correctly or was not imported yet. Skipping.
+WARNING - trying to get a Blender object from plKey <plKey "<481|0>[0001]FixCamBedroom">, but it failed to import correctly or was not imported yet. Skipping.
+Importing remaining softvolumes...
+WARNING - Object VisRegion_House_1 should be added to scene with location <plLocation "481|1">, which does not exist.
+WARNING - Object VisRgnCourts should be added to scene with location <plLocation "481|3">, which does not exist.
+WARNING - Object LightvolLib should be added to scene with location <plLocation "481|0">, which does not exist.
+
+ZLZ Uru Importer: Be Invoked !
+Changing Blender's framerate to 30.
+
+
+--------------------------------------
+---> Importing D:\Myst Online Uru Live(again)\dat\Descent.age
+Age name is Descent
+Importing FNI
+Importing pages...
+
+Importing page Textures
+    ...Does not contain visible data. Ignoring.
+
+Importing page BuiltIn
+    ...Does not contain visible data. Ignoring.
+
+Importing page TreasureBookShaft
+    243 objects
+    FakeRails
+    ShaftFake1
+        Layer Map__1: not importing rotation
+        Layer Map__339: not importing rotation
+        Layer Map__7325: not importing rotation
+    FakeRailBkt2
+        Layer Map__11: not importing rotation
+    FakeRailBkt03
+    Cylinder01
+    LowerRm01
+        Layer Map__348: not importing rotation
+        Layer Map__426: not importing rotation
+        Layer Map__496: not importing rotation
+        Layer Map__376: not importing rotation
+        Layer Map__386: not importing rotation
+        Layer Map__390: not importing rotation
+        Layer Map__56: not importing rotation
+        Layer Map__60: not importing rotation
+        Layer Map__156: not importing rotation
+        Layer Map__158: not importing rotation
+        Layer Map__160: not importing rotation
+        Layer Map__162: not importing rotation
+        Layer Map__174: not importing rotation
+        Layer Map__302: not importing rotation
+        Layer Map__312: not importing rotation
+        Layer Map__318: not importing rotation
+        Layer Map__326: not importing rotation
+        Layer Map__330: not importing rotation
+        Layer Map__336: not importing rotation
+        Layer Map__3390: not importing rotation
+        Layer Map__178: not importing rotation
+        Layer Map__374: not importing rotation
+    LowerRm02
+        Layer Map__8: not importing rotation
+-------------------------- Korman --------------------------
+--------------------  BUILDING CUBE MAP --------------------
+Finding Face Images    (step 1/4):    Finding Face Images    (step 1/4): 1 of 6   Finding Face Images    (step 1/4): 2 of 6   Finding Face Images    (step 1/4): 3 of 6   Finding Face Images    (step 1/4): 4 of 6   Finding Face Images    (step 1/4): 5 of 6   Finding Face Images    (step 1/4): DONE IN 0.00s
+Loading Face Images    (step 2/4): 1 of 6   Loading Face Images    (step 2/4): 2 of 6   Loading Face Images    (step 2/4): 4 of 6   Loading Face Images    (step 2/4): DONE IN 0.06s
+Scaling Face Images    (step 3/4): DONE IN 0.00s
+Generating Cube Map    (step 4/4):    Generating Cube Map    (step 4/4): DONE IN 0.60s
+
+COMPLETED IN 0.66s
+------------------------------------------------------------
+
+        Layer Map__14: not importing rotation
+    LowerRm03
+        Layer Map__518: not importing rotation
+        Layer Map__520: not importing rotation
+        Layer Map__522: not importing rotation
+    LowerRm04
+    LowerRm05
+        Layer Map__506: not importing rotation
+    LowerRm06
+        Layer Map__536: not importing rotation
+    Wall2C
+        Layer Map__80: not importing rotation
+    Wall4
+    StairRail1
+        Layer Map__34: not importing rotation
+    Floor3A
+        Layer Map__40: not importing rotation
+        Layer Map__44: not importing rotation
+    CrptTrngl01
+    Facia1
+    Pillar2
+    CatWalkOuter05
+        Layer Map__88: not importing rotation
+        Layer Map__94: not importing rotation
+    CarpetOverhang02
+    CrptTrngl07
+    CarpetOverhang01
+    CrptTrngl05
+    CarpetTail03
+    CarpetTail02
+    BridgeSupport04
+    BridgeSupport05
+    CatWalkOuter06
+    CrptTrngl09
+    CrptTrngl03
+    CarpetOverhang
+    CrptTrngl02
+    CarpetTail01
+    CarpetTail04
+    BridgeSupport06
+    BridgeSupport08
+    BridgeSupport11
+    CatWalkGrips10
+    CatWalkGrips11
+    CatWalkGrips12
+    FlrInr
+    CrptPc01
+    FlrWide
+        Layer Map__184: not importing rotation
+        Layer Map__186: not importing rotation
+        Layer Map__190: not importing rotation
+    Pnl01
+        Layer Map__202: not importing rotation
+    Pnl02
+    LngRib01
+    LngRib04
+    FlrMid
+    Floor3
+        Layer Map__244: not importing rotation
+    4faciaC
+    4faciaA
+    StairSide01
+        Layer Map__258: not importing rotation
+        Layer Map__264: not importing rotation
+        Layer Map__266: not importing rotation
+    ShadowDecal5
+    RoundWall
+    NoseSupport
+    NoseSupport0101
+    NoseSupport04
+    NoseSupport06
+    NoseSupport07
+    NoseSupport07Decal01
+    BridgeSupport12
+    CatWalkGrips17
+    NoseSupport08
+    NoseSupportTall
+    NoseSupport14
+    BridgeSupport13
+    CatWalkGrips18
+    CatWalkGrips19
+    CatWalkGrips20
+    BridgeSupport14
+    RoundWall01
+    LampParent04
+    LightCyl04
+    Glare05
+    RoundWall12
+        Layer Map__466: not importing rotation
+    LampParent0102
+    LightCyl05
+    Glare06
+    LampParent0201
+    LightCyl06
+    Glare07
+    LampParent0301
+    LightCyl07
+    Glare08
+    LampParent0401
+    LightCyl08
+    Glare09
+    LampParent05
+    LightCyl09
+    Glare10
+    LampParent06
+    LightCyl10
+    Glare11
+    CatWalkGrips21
+    NoseSupportTall01
+    NoseSupportTall02
+    NoseSupportTall03
+    NoseSupportTall04
+    Pillar03
+    NoseSupportTall06
+    NoseSupportTall07
+    UpperShaft30
+        Layer Map__13: not importing rotation
+    BalconyRails
+        Layer Map__252: not importing rotation
+    4faciaC01
+    NoseSupport01
+    ElevatorRailCap01
+    ElevatorRailCap02
+    LampParent408
+    LightCyl108
+    Glare18
+    LampParent407
+    LightCyl107
+    Glare17
+    Glare16
+    LampParent406
+    LightCyl106
+    Glare15
+    LampParent405
+    LightCyl105
+    Glare14
+    LampParent404
+    LightCyl104
+    LampParent03
+    LightCyl03
+    Glare04
+    LampParent409
+    LightCyl109
+    Glare19
+    LongPipeElbow27
+    Room02
+    LinkInPointShaftFall
+    ShaftCircleCam
+    RestRmCam
+    RestRmCam.Target
+    RTKILightSputter
+    RTOmniLight17
+    RestRmCollider
+    CaveWalls
+        Layer Map__880: not importing rotation
+        Layer Map__3391: not importing rotation
+        Layer Map__73250: not importing rotation
+    CrackDecal04
+    CrackDecal03
+    CrackDecal02
+    Group01
+    atrBed
+    atrPillow
+    Group03
+    atrBed02
+    RestRmCamRegionTrig
+    ShaftDoorCamTrig
+    tianaPillow02
+    kitTowel02
+    Ablanket02
+    kitCloth09
+    tianaPillow01
+    RestRmInnerDoorCamTrig
+    CircleCamTrig1
+    RestRmCam01
+    RestRmCam01.Target
+    FallFollowCam
+    FallFollowCam.Target
+    CircleCamTrig2
+    Panic region Linkout
+    FallCamRegion
+    EntryLamposios
+    YeeshaPage09
+        Layer Map__504: not importing rotation
+    RgnYeeshaPage09
+    FakeRailBkt04
+    FakeRailBkt05
+    Blanket
+    RestAreaDoorGlare
+    MT-PodiumPlatform
+        Layer Map__5842: not importing rotation
+    RestRmMTCam
+    RestRmMTCam.Target
+    MT-BookPodiumBase
+        Layer Map__58423: not importing rotation
+    MT-Podium-KI-Logo
+    MT-PodiumHood
+    MT-BookPodiumGear
+    SfxSoReg-ShaftAmb-Vol
+    SfxShaftAmb01Emit
+    SfxRegSenFeet-Stone
+    SfxSoReg-Shaft-Verb01
+    SfxSoReg-Shaft-Verb02
+    SfxKIDispensorIdleLEmit
+    SfxKIDispensorIdleREmit
+    SfxSoReg-LinkRm-Vol
+    GZMarkerMaster34
+    OuterSphere34
+    GZMarkerSprite34
+    GZMarkerBounceSprite34
+    GZBeam34
+    GZMarkerDetector34Close
+    SfxGZMarkerEmit34
+    GZMarkerDetector34Far
+    ShaftDrwaysBlackFill
+    AgeSDLHook
+    atrPillow01
+    atrBed01
+    bed_frame
+    metal_thing
+    bed_frame2
+    bed
+    bed_leg1
+    blanket1
+    bed_leg4
+    bed_leg3
+    blanket2
+    lantern
+    LanternGlare03
+    RTWatsonLampLight
+    CotCollision
+    WatsonJournal
+    bed_leg05
+    Floor
+    BookShadow10
+    CotShadow
+    RgnWatsonJournal
+    WatsonJournalCover
+WARNING - texture xwatsonjournalcover*1#0.hsm has compression type 2, which cannot be extracted without reconverting it to PNG.
+    SfxGZM-PickupEmit01
+    Box01
+    SpiralWayCollision02
+    Slider
+    YeeshaPage09Decal
+    CalendarStarDecal
+    RTCalendarLight06
+    StarDummy
+    CalendarGlare05
+    StarsParticles
+    CalStar05Dtct
+    KIHandInsertPOS
+    clkKISlot
+    SfxKILightEngageEmit
+    SfxKI-GlowEmit
+    SfxSoRegDispensor-Volume
+    KI-LightLogo
+    KI-LightGlow
+    KILightDispenserDetector
+    grsnKILightDistributor
+    KILightBtnSputter
+    SparkEmitter
+    ParticlePlaneCollision
+    ParticleCollisionLow
+    RTKILightOn
+    KILightBtnOn
+    ShaftProxy
+
+
+Done !
+Setting up armature hierarchy...
+Setting up hierarchy...
+Repositioning world-space collisions...
+Creating animations...
+    Master RTKILightSputter
+        RTKILightSputter_(Entire Animation)_anim_0, on object RTKILightSputter
+    Master OuterSphere34
+        OuterSphere34_(Entire Animation)_anim_0, on object OuterSphere34
+    Master GZMarkerBounceSprite34
+        GZMarkerBounceSprite34_(Entire Animation)_anim_0, on object GZMarkerBounceSprite34
+    Master RTCalendarLight06
+        RTCalendarLight06_(Entire Animation)_anim_0, on object RTCalendarLight06
+    Master StarDummy
+        StarDummy_(Entire Animation)_anim_0, on object StarDummy
+    Master KILightBtnSputter
+    Master SparkEmitter
+WARNING: particle emitters not supported yet, no anim for them !
+    Master RTKILightOn
+        RTKILightOn_(Entire Animation)_anim_0, on object RTKILightOn
+    Master KILightBtnOn
+Setting up scene references...
+Setting up camera references...
+Setting up modifier references...
+Importing remaining softvolumes...
+Setting up softvolume references...
+Done in 16.62 seconds.

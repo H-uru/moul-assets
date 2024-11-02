@@ -28,6 +28,9 @@
 			<element name="Boots">
 				<translation language="Italian">Scarpe</translation>
 			</element>
+			<element name="Bracelet">
+				<translation language="Italian">Braccialetto</translation>
+			</element>
 			<element name="CanvasGloves">
 				<translation language="Italian">Guanti di tela</translation>
 			</element>

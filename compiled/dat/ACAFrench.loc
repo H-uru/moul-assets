@@ -29,6 +29,9 @@
 			<element name="Boots">
 				<translation language="French">Bottes</translation>
 			</element>
+			<element name="Bracelet">
+				<translation language="French">Bracelet</translation>
+			</element>
 			<element name="CanvasGloves">
 				<translation language="French">Gants en laine</translation>
 			</element>

@@ -80,7 +80,16 @@
 
         "Icon_UTorso_Shirt_Riven2024.png",
         "MTorso_xSleeve_Riven2024_Base.png",
-        "MTorso_xSleeve_Riven2024_Tint.png"
+        "MTorso_xSleeve_Riven2024_Tint.png",
+
+        "Icon_UTorso_Shirt_RFD.png",
+        "MTorso_Xsleeve_RFD_Base.png",
+        "MTorso_Xsleeve_RFD_tint1.png",
+        "MTorso_Xsleeve_RFD_tint2.png",
+
+        "Icon_UTorso_ExpEmp.png",
+        "MTorso_ExpEmp_base.png",
+        "UTorso_ExpEmpSleeve_base.png"
       ],
       "clItems": [
         {
@@ -1034,6 +1043,126 @@
               }
             }
           ]
+        },
+        {
+          "name": "MTorso_LongSleeve_RFD",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_RFD.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Text; isLogoFor=01_MTorso01_01; GroupName=LongSleeve01",
+          "text": "Long-Sleeved Shirt - Radio Free D'ni",
+          "meshes": [
+            {
+                "name": "MHTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_Xsleeve_RFD_Base.png",
+                "8": "MTorso_Xsleeve_RFD_tint1.png",
+                "9": "MTorso_Xsleeve_RFD_tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MTorso_ShortSleeve_RFD",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_RFD.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Text; isLogoFor=02_MTorso12_01; GroupName=ShortSleeve",
+          "text": "Short-Sleeved Shirt - Radio Free D'ni",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_Xsleeve_RFD_Base.png",
+                "8": "MTorso_Xsleeve_RFD_tint1.png",
+                "9": "MTorso_Xsleeve_RFD_tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "mtorso_shortsleevearm_base*0#0.hsm",
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_ExpEmp",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_ExpEmp.png",
+          "tint1": [1.0, 1.0, 1.0],
+          "tint2": [1.0, 1.0, 1.0],
+          "desc": "ColorLabel1=; ColorLabel2=; GroupName=Pub; isLogoFor=MReward_PubJacket; nonStandard",
+          "text": "Explorer's Emporium Jacket",
+          "meshes": [
+            {
+                "name": "MHTorso_Pub_SMsh",
+                "page": "Male04"
+            },
+            {
+                "name": "MMTorso_Pub_SMsh",
+                "page": "Male04"
+            },
+            {
+                "name": "MLTorso_Pub_SMsh",
+                "page": "Male04"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ExpEmp_base.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "UTorso_ExpEmpSleeve_base.png"
+              }
+            }
+          ]
         }
       ]
     },
@@ -1119,7 +1248,20 @@
 
         "Icon_UTorso_Shirt_Riven2024.png",
         "FTorso_xSleeve_Riven2024_Base.png",
-        "FTorso_xSleeve_Riven2024_Tint.png"
+        "FTorso_xSleeve_Riven2024_Tint.png",
+
+        "Icon_UTorso_Shirt_RFD.png",
+        "FTorso_longsleeve_RFD_base.png",
+        "FTorso_longsleeve_RFD_tint1.png",
+        "FTorso_longsleeve_RFD_tint2.png",
+
+        "FTorso_shortsleeve_RFD_base.png",
+        "FTorso_shortsleeve_RFD_tint1.png",
+        "FTorso_shortsleeve_RFD_tint2.png",
+
+        "Icon_UTorso_ExpEmp.png",
+        "FTorso_ExpEmp_base.png",
+        "UTorso_ExpEmpSleeve_base.png"
       ],
       "clItems": [
         {
@@ -2025,6 +2167,125 @@
               "layers": {
                 "1": "mtorso_shortsleevearm_skin*0#0.hsm",
                 "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_ShortSleeve_RFD",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_RFD.png",
+          "tint1": [0.0, 0.0, 0.0],
+          "tint2": [0.0, 0.0, 0.0],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Text; isLogoFor=02_FTorso12_01; GroupName=ShortSleeve",
+          "text": "Short Sleeve T-Shirt - Radio Free D'ni",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_shortsleeve_RFD_base.png",
+                "8": "FTorso_shortsleeve_RFD_tint1.png",
+                "9": "FTorso_shortsleeve_RFD_tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
+                "8": "fsleeve04t02l1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FTorso_LongSleeve_RFD",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_RFD.png",
+          "tint1": [1, 1, 1],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Text; isLogoFor=01_FTorso01_01; GroupName=LongSleeve01",
+          "text": "Long-Sleeved Shirt - Radio Free D'ni",
+          "meshes": [
+            {
+                "name": "FHTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FMTorso_SMsh",
+                "page": "Female"
+            },
+            {
+                "name": "FLTorso_SMsh",
+                "page": "Female"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_longsleeve_RFD_base.png",
+                "8": "FTorso_longsleeve_RFD_tint1.png",
+                "9": "FTorso_longsleeve_RFD_tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_ExpEmp",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_ExpEmp.png",
+          "tint1": [1.0, 1.0, 1.0],
+          "tint2": [1.0, 1.0, 1.0],
+          "desc": "ColorLabel1=; ColorLabel2=; GroupName=Pub; isLogoFor=FReward_PubJacket; nonStandard",
+          "text": "Explorer's Emporium Jacket",
+          "meshes": [
+            {
+                "name": "FHTorso_Pub_SMsh",
+                "page": "Female04"
+            },
+            {
+                "name": "FMTorso_Pub_SMsh",
+                "page": "Female04"
+            },
+            {
+                "name": "FLTorso_Pub_SMsh",
+                "page": "Female04"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ExpEmp_base.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "UTorso_ExpEmpSleeve_base.png"
               }
             }
           ]

@@ -29,6 +29,9 @@
 			<element name="Boots">
 				<translation language="German">Stiefel</translation>
 			</element>
+			<element name="Bracelet">
+				<translation language="German">Armband</translation>
+			</element>
 			<element name="CanvasGloves">
 				<translation language="German">Stoffhandschuhe</translation>
 			</element>

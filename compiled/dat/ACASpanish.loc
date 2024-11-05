@@ -28,6 +28,9 @@
 			<element name="Boots">
 				<translation language="Spanish">Botas</translation>
 			</element>
+			<element name="Bracelet">
+				<translation language="Spanish">Pulsera</translation>
+			</element>
 			<element name="CanvasGloves">
 				<translation language="Spanish">Guantes tela</translation>
 			</element>

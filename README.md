@@ -8,7 +8,7 @@ This repository is used to host assets used in Cyan World's Myst Online: Uru Liv
 * [korman](https://github.com/H-uru/korman) - Blender plugin for creating ages for Cyan Worlds' Plasma engine.
 
 ## Contributing
-This repository is intended to track large binary files where diffs are impractical. All binary objects are stored on the Guild of Writers server to avoid incurring additional fees from GitHub. To prevent abuse/spam, the ability to push binary objects is restricted to approved users, even in your own fork. If you would like to contribute to this repository, you can request access [here](https://guildofwriters.org/assets_repo).
+This repository is intended to track large binary files where diffs are impractical. All binary objects are stored on the Guild of Writers server to avoid incurring additional fees from GitHub. To prevent abuse/spam, the ability to push binary objects is restricted to approved users, even in your own fork. If you would like to contribute to this repository, you can request access [here](https://guildofwriters.org/assets_repo). A more detailed [contributing guide](CONTRIBUTING.md) is available.
 
 ## Source Assets
 Source assets in this repository must be complete and in a format that is trivial to export or compile for the Myst Online version of the Plasma engine. Therefore, the sources must be one of the following:

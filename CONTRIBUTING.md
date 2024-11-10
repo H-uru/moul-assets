@@ -12,7 +12,7 @@ The goal of the moul-assets project is to provide baseline assets for the MMORPG
 - providing a coherent, well-tested content baseline for [Myst Online: Uru Live](https://mystonline.com) shard operators
 - conservatively improving the base game Ages as created by Cyan Worlds, Inc. with objective bug fixes and enhancements
 - improving the player experience
-- integrating new content/Ages that serve a clear purpose in enhancing Myst Online: Uru Live as a video game
+- integrating new content that serve a clear purpose in enhancing Myst Online: Uru Live as a video game
 - avoiding nontrivial breaks in compatibility with the official **Myst Online: Uru Live (again)** game run by Cyan Worlds, Inc.
 
 Further, we have identified these non-goals:
@@ -48,7 +48,7 @@ Objective changes tend to be limited in scope and are generally minor adjustment
 - document in the pull request body what you have changed and why
 
 ### Submitting Subjective Changes
-Subjective changes tend to be larger in scope, such as a new Age or expansion of a previously existing Age, and generally require discussions around myriad aspects of their development. This can be a lengthy process involving many revisions to your contribution. For this reason, we do not accept pull requests for subjective changes until the changes have gone through an external content review process. There is currently no accepted content review process; we leave it up to the contributor to revise their content with discerning member(s) of the Age creation and development community. For a subjective change to be considered, an endorsement from at least *one* (1) discerning member of the Age creation and development community must be provided. If you need assistance with identifying a process or a discerning member, contact a [maintainer](https://github.com/H-uru/moul-assets/people).
+Subjective changes tend to be larger in scope and generally require discussions around myriad aspects of their development. This can be a lengthy process involving many revisions to your contribution. At this time, we are not interested in unsolicted submissions of new Ages. New Ages should be submitted to the individual Shard(s) that you would are interested in Age appearing on.
 
 Subjective changes to the game are, by their very nature, subjective, hence our reluctance to impose and document a specific review process. However, all subjective submissions should:
 - be relatively bug-free
@@ -56,5 +56,3 @@ Subjective changes to the game are, by their very nature, subjective, hence our 
 - match the art style of the currently accepted content both visually and audibly
 - not look like a "video game"
 - have largely correct lighting
-
-Ensuring contributions meet these criteria should be done as part of the preliminary review process done outside of this repository.

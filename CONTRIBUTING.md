@@ -16,8 +16,8 @@ The goal of the moul-assets project is to provide baseline assets for the MMORPG
 - avoiding nontrivial breaks in compatibility with the official **Myst Online: Uru Live (again)** game run by Cyan Worlds, Inc.
 
 Further, we have identified these non-goals:
-- accepting all fan created content
-- accepting fan created content published on any particular shard, including the official **Myst Online: Uru Live (again)** game run by Cyan Worlds, Inc.
+- accepting all fan-created content
+- accepting fan-created content published on any particular shard, including the official **Myst Online: Uru Live (again)** game run by Cyan Worlds, Inc.
 - accepting fan content geared toward role-playing done on any particular shard, including the official **Myst Online: Uru Live (again)** game run by Cyan Worlds, Inc.
 - supporting exploit-based gameplay
 
@@ -28,7 +28,7 @@ Real-time discussion with team members and other contributors is an excellent wa
 - Server: irc.guildofwriters.org:6667
 - Channel: #writers
 
-We also use the [Guild of Writers' forum](https://forum.guildofwriters.org/viewforum.php?f=3) for more permanent discussions. Further, many team members can also be found on the [OpenUru discord](https://discord.com/invite/tVknpHQ).
+We also use the [Guild of Writers' forum](https://forum.guildofwriters.org/viewforum.php?f=3) for more permanent discussions. Further, many team members can also be found on the [OpenUru Discord](https://discord.com/invite/tVknpHQ).
 
 ## Reporting Bugs and Requesting Features
 We use GitHub's [issue tracker](https://github.com/H-uru/moul-assets/issues) to list bugs and feature requests. Good bug reports tend to have:
@@ -52,7 +52,7 @@ Subjective changes tend to be larger in scope and generally require discussions 
 
 Subjective changes to the game are, by their very nature, subjective, hence our reluctance to impose and document a specific review process. However, all subjective submissions should:
 - be relatively bug-free
-- be tested against the Myst Online: Uru Live version of the [Plasma Engine](https://github.com/H-uru/Plasma) by the creator (at minimum)
+- be tested against the current H'uru version of the [Plasma Engine](https://github.com/H-uru/Plasma) by the creator (at minimum)
 - match the art style of the currently accepted content both visually and audibly
 - not look like a "video game"
 - have largely correct lighting

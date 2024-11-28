@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+	<age name="Heek">
+		<set name="Messages">
+			<element name="NoKI">
+				<translation language="Russian">Чтобы играть в Ayoheek, вам нужен KI. Пожалуйста, отправляйтесь в Эпоху Гарнизон и возьмите его.</translation>
+			</element>
+			<element name="Rank">
+				<translation language="Russian">Теперь у вас ранг %1s и %2s очко!</translation>
+			</element>
+			<element name="RankPlural">
+				<translation language="Russian">Теперь у вас ранг %1s и %2s очков!</translation>
+			</element>
+			<element name="SinglePlayerWarn">
+				<translation language="Russian">За этим столом Ahyoheek только вы, для игры требуется двое или более человек.</translation>
+			</element>
+			<element name="Welcome">
+				<translation language="Russian">Поприветствуйте %1s, игрока ранга %2s с %3s очком!</translation>
+			</element>
+			<element name="WelcomePlural">
+				<translation language="Russian">Поприветствуйте %1s, игрока ранга %2s с %3s очками!</translation>
+			</element>
+		</set>
+	</age>
+</localizations>

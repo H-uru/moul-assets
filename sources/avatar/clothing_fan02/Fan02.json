@@ -107,16 +107,16 @@
           "text": "Mysterium 2021 T-Shirt",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -130,9 +130,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -148,16 +157,16 @@
           "text": "Long Sleeve T-Shirt - Mysterium 2021",
           "meshes": [
             {
-                "name": "MHTorso_SMsh",
-                "page": "Male"
+              "name": "MHTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male"
+              "name": "MMTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male"
+              "name": "MLTorso_SMsh",
+              "page": "Male"
             }
           ],
           "elements": [
@@ -171,7 +180,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "mtorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Male"
+                }
               }
             }
           ]
@@ -187,16 +199,16 @@
           "text": "Short Sleeve T-Shirt - GZ Pride",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -210,9 +222,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -228,16 +249,16 @@
           "text": "Long Sleeve T-Shirt - GZ Pride",
           "meshes": [
             {
-                "name": "MHTorso_SMsh",
-                "page": "Male"
+              "name": "MHTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male"
+              "name": "MMTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male"
+              "name": "MLTorso_SMsh",
+              "page": "Male"
             }
           ],
           "elements": [
@@ -251,7 +272,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "mtorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Male"
+                }
               }
             }
           ]
@@ -267,16 +291,16 @@
           "text": "Short Sleeve T-Shirt - Cavern Tour",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -290,9 +314,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -307,15 +340,27 @@
           "desc": "ColorLabel1=Left Side; ColorLabel2=Right Side; isLogoFor=03_MLegs02_01; GroupName=CargoPants",
           "text": "Cargo Pants",
           "meshes": [
-            "MHLegs02_SMsh",
-            "MMLegs02_SMsh",
-            "MLLegs02_SMsh"
+            {
+              "name": "MHLegs02_SMsh",
+              "page": "Male02"
+            },
+            {
+              "name": "MMLegs02_SMsh",
+              "page": "Male02"
+            },
+            {
+              "name": "MLLegs02_SMsh",
+              "page": "Male02"
+            }
           ],
           "elements": [
             {
               "name": "Legs",
               "layers": {
-                "0": "mlegs_cargo01_base*0#0.hsm",
+                "0": {
+                  "name": "mlegs_cargo01_base*0#0.hsm",
+                  "page": "Male02"
+                },
                 "8": "MLegs_Cargo05_Tint1.png",
                 "9": "MLegs_Cargo05_Tint2.png"
               }
@@ -332,16 +377,31 @@
           "desc": "ColorLabel1=Left Side; ColorLabel2=Right Side; isLogoFor=02_MLegs03_01; GroupName=CargoShorts",
           "text": "Cargo Shorts",
           "meshes": [
-            "MHLegs03_SMsh",
-            "MMLegs03_SMsh",
-            "MLLegs03_SMsh"
+            {
+              "name": "MHLegs03_SMsh",
+              "page": "Male01"
+            },
+            {
+              "name": "MMLegs03_SMsh",
+              "page": "Male01"
+            },
+            {
+              "name": "MLLegs03_SMsh",
+              "page": "Male01"
+            }
           ],
           "elements": [
             {
               "name": "Legs",
               "layers": {
-                "0": "flegs_shorts02_base*0#0.hsm",
-                "1": "mlegs_shorts01_skin*0#0.hsm",
+                "0": {
+                  "name": "flegs_shorts02_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mlegs_shorts01_skin*0#0.hsm",
+                  "page": "Male01"
+                },
                 "8": "FLegs_Shorts05_Tint1.png",
                 "9": "FLegs_Shorts05_Tint2.png"
               }
@@ -359,16 +419,16 @@
           "text": "Hooded Sweatshirt - Pod Reward",
           "meshes": [
             {
-                "name": "MH_Sweatshirt_SMsh",
-                "page": "Male02"
+              "name": "MH_Sweatshirt_SMsh",
+              "page": "Male02"
             },
             {
-                "name": "MMTorso12_SMsh",
-                "page": "Male02"
+              "name": "MMTorso12_SMsh",
+              "page": "Male02"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male02"
+              "name": "MLTorso_SMsh",
+              "page": "Male02"
             }
           ],
           "elements": [
@@ -382,8 +442,14 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_sweatsleeve_base*0#0.hsm",
-                "8": "mtorso_sweatsleeve_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_sweatsleeve_base*0#0.hsm",
+                  "page": "Male02"
+                },
+                "8": {
+                  "name": "mtorso_sweatsleeve_tint1*0#0.hsm",
+                  "page": "Male02"
+                }
               }
             }
           ]
@@ -399,16 +465,16 @@
           "text": "Door Runner's Fleece Jacket",
           "meshes": [
             {
-                "name": "MHTorso06_SMsh",
-                "page": "Male01"
+              "name": "MHTorso06_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -424,8 +490,14 @@
               "name": "Arm",
               "layers": {
                 "0": "MTorso_FleeceBlueFlowerArm_base.png",
-                "8": "mtorso_fleece01arm_tint1*0#0.hsm",
-                "9": "mtorso_fleece01arm_tint2*0#0.hsm"
+                "8": {
+                  "name": "mtorso_fleece01arm_tint1*0#0.hsm",
+                  "page": "Male01"
+                },
+                "9": {
+                  "name": "mtorso_fleece01arm_tint2*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -440,23 +512,41 @@
           "desc": "ColorLabel1= Shirt ; ColorLabel2= ; isLogoFor=MReward_DRCVest; GroupName=DRCVest; nonStandard",
           "text": "Vest - Path of the Shell Reward",
           "meshes": [
-            "MHTorsoDRCVest_SMsh",
-            "MMTorsoDRCVest_SMsh",
-            "MLTorsoDRCVest_SMsh"
+            {
+              "name": "MHTorsoDRCVest_SMsh",
+              "page": "Male02"
+            },
+            {
+              "name": "MMTorsoDRCVest_SMsh",
+              "page": "Male02"
+            },
+            {
+              "name": "MLTorsoDRCVest_SMsh",
+              "page": "Male02"
+            }
           ],
           "elements": [
             {
               "name": "Chest",
               "layers": {
                 "0": "MTorso_ShellVest_base.png",
-                "8": "mtorso_drcvest_tint1*0#0.hsm"
+                "8": {
+                  "name": "mtorso_drcvest_tint1*0#0.hsm",
+                  "page": "Male02"
+                }
               }
             },
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_dressarm_skin*0#0.hsm",
-                "8": "mtorso_drcvestarm_tint1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_dressarm_skin*0#0.hsm",
+                  "page": "Male02"
+                },
+                "8": {
+                  "name": "mtorso_drcvestarm_tint1*0#0.hsm",
+                  "page": "Male02"
+                }
               }
             }
           ]
@@ -471,24 +561,42 @@
           "desc": "ColorLabel1= Shirt ; ColorLabel2= Vest; isLogoFor=MReward_DRCVest; GroupName=DRCVest; nonStandard",
           "text": "Plain Vest",
           "meshes": [
-            "MHTorsoDRCVest_SMsh",
-            "MMTorsoDRCVest_SMsh",
-            "MLTorsoDRCVest_SMsh"
+            {
+              "name": "MHTorsoDRCVest_SMsh",
+              "page": "Male02"
+            },
+            {
+              "name": "MMTorsoDRCVest_SMsh",
+              "page": "Male02"
+            },
+            {
+              "name": "MLTorsoDRCVest_SMsh",
+              "page": "Male02"
+            }
           ],
           "elements": [
             {
               "name": "Chest",
               "layers": {
                 "0": "MTorso_PlainVest_base.png",
-                "8": "mtorso_drcvest_tint1*0#0.hsm",
+                "8": {
+                  "name": "mtorso_drcvest_tint1*0#0.hsm",
+                  "page": "Male02"
+                },
                 "9": "MTorso_PlainVest_tint2.png"
               }
             },
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_dressarm_skin*0#0.hsm",
-                "8": "mtorso_drcvestarm_tint1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_dressarm_skin*0#0.hsm",
+                  "page": "Male02"
+                },
+                "8": {
+                  "name": "mtorso_drcvestarm_tint1*0#0.hsm",
+                  "page": "Male02"
+                }
               }
             }
           ]
@@ -504,25 +612,31 @@
           "text": "Leather Jacket - Minkata Reward",
           "meshes": [
             {
-                "name": "MHTorso01_SMsh",
-                "page": "Male02"
+              "name": "MHTorso01_SMsh",
+              "page": "Male02"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male02"
+              "name": "MMTorso_SMsh",
+              "page": "Male02"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male02"
+              "name": "MLTorso_SMsh",
+              "page": "Male02"
             }
           ],
           "elements": [
             {
               "name": "Chest",
               "layers": {
-                "0": "utorso_leatherjacket01_base*0#0.hsm",
+                "0": {
+                  "name": "utorso_leatherjacket01_base*0#0.hsm",
+                  "page": "Male02"
+                },
                 "8": "UTorso_LeatherJacketMinkata_Tint1.png",
-                "9": "utorso_leatherjacket01_tint2*0#0.hsm"
+                "9": {
+                  "name": "utorso_leatherjacket01_tint2*0#0.hsm",
+                  "page": "Male02"
+                }
               }
             },
             {
@@ -544,16 +658,16 @@
           "text": "Ambiguous Whiskers Fleece",
           "meshes": [
             {
-                "name": "MHTorso06_SMsh",
-                "page": "Male01"
+              "name": "MHTorso06_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -582,16 +696,16 @@
           "text": "Short Sleeve T-Shirt - Guild of Instructors",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -605,9 +719,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -623,16 +746,16 @@
           "text": "Long Sleeve T-Shirt - Guild of Instructors",
           "meshes": [
             {
-                "name": "MHTorso_SMsh",
-                "page": "Male"
+              "name": "MHTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male"
+              "name": "MMTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male"
+              "name": "MLTorso_SMsh",
+              "page": "Male"
             }
           ],
           "elements": [
@@ -646,7 +769,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "mtorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Male"
+                }
               }
             }
           ]
@@ -662,16 +788,16 @@
           "text": "Hooded Sweatshirt - The Cavern Today",
           "meshes": [
             {
-                "name": "MH_Sweatshirt_SMsh",
-                "page": "Male02"
+              "name": "MH_Sweatshirt_SMsh",
+              "page": "Male02"
             },
             {
-                "name": "MMTorso12_SMsh",
-                "page": "Male02"
+              "name": "MMTorso12_SMsh",
+              "page": "Male02"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male02"
+              "name": "MLTorso_SMsh",
+              "page": "Male02"
             }
           ],
           "elements": [
@@ -686,8 +812,14 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_sweatsleeve_base*0#0.hsm",
-                "8": "mtorso_sweatsleeve_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_sweatsleeve_base*0#0.hsm",
+                  "page": "Male02"
+                },
+                "8": {
+                  "name": "mtorso_sweatsleeve_tint1*0#0.hsm",
+                  "page": "Male02"
+                }
               }
             }
           ]
@@ -703,16 +835,16 @@
           "text": "Short Sleeve T-Shirt - The Cavern Today",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -727,9 +859,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -745,16 +886,16 @@
           "text": "Long Sleeve T-Shirt - The Cavern Today",
           "meshes": [
             {
-                "name": "MHTorso_SMsh",
-                "page": "Male"
+              "name": "MHTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male"
+              "name": "MMTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male"
+              "name": "MLTorso_SMsh",
+              "page": "Male"
             }
           ],
           "elements": [
@@ -769,7 +910,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "mtorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Male"
+                }
               }
             }
           ]
@@ -785,16 +929,16 @@
           "text": "The Cavern Today Fleece Pullover",
           "meshes": [
             {
-                "name": "MHTorso06_SMsh",
-                "page": "Male01"
+              "name": "MHTorso06_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -808,8 +952,14 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_fleece01arm_base*0#0.hsm",
-                "8": "mtorso_fleece01arm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_fleece01arm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_fleece01arm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -825,16 +975,16 @@
           "text": "Mystitech Productions T-Shirt, logo by Larry LeDeay",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -848,8 +998,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -865,16 +1021,16 @@
           "text": "Mystitech Productions Long Sleeve T-Shirt, logo by Larry LeDeay",
           "meshes": [
             {
-                "name": "MHTorso_SMsh",
-                "page": "Male"
+              "name": "MHTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male"
+              "name": "MMTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male"
+              "name": "MLTorso_SMsh",
+              "page": "Male"
             }
           ],
           "elements": [
@@ -888,7 +1044,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "mtorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Male"
+                }
               }
             }
           ]
@@ -904,16 +1063,16 @@
           "text": "Mystitech Productions Hoodie, logo by Larry LeDeay",
           "meshes": [
             {
-                "name": "MH_Sweatshirt_SMsh",
-                "page": "Male02"
+              "name": "MH_Sweatshirt_SMsh",
+              "page": "Male02"
             },
             {
-                "name": "MMTorso12_SMsh",
-                "page": "Male02"
+              "name": "MMTorso12_SMsh",
+              "page": "Male02"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male02"
+              "name": "MLTorso_SMsh",
+              "page": "Male02"
             }
           ],
           "elements": [
@@ -927,8 +1086,14 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_sweatsleeve_base*0#0.hsm",
-                "8": "mtorso_sweatsleeve_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_sweatsleeve_base*0#0.hsm",
+                  "page": "Male02"
+                },
+                "8": {
+                  "name": "mtorso_sweatsleeve_tint1*0#0.hsm",
+                  "page": "Male02"
+                }
               }
             }
           ]
@@ -944,16 +1109,16 @@
           "text": "Swimtrunks",
           "meshes": [
             {
-                "name": "MHLegs01_SMsh",
-                "page": "Male01"
+              "name": "MHLegs01_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMLegs01_SMsh",
-                "page": "Male01"
+              "name": "MMLegs01_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLLegs_SMsh",
-                "page": "Male01"
+              "name": "MLLegs_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -961,7 +1126,10 @@
               "name": "Legs",
               "layers": {
                 "0": "MLegs_Shorts_TransDye_Base.png",
-                "1": "mlegs_shorts01_skin*0#0.hsm"
+                "1": {
+                  "name": "mlegs_shorts01_skin*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -977,16 +1145,16 @@
           "text": "Short Sleeve T-Shirt - Kalamee",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -1000,9 +1168,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1018,16 +1195,16 @@
           "text": "Short Sleeve T-Shirt - Riven: Moiety Hive",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -1041,9 +1218,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1059,16 +1245,16 @@
           "text": "Long-Sleeved Shirt - Radio Free D'ni",
           "meshes": [
             {
-                "name": "MHTorso_SMsh",
-                "page": "Male"
+              "name": "MHTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male"
+              "name": "MMTorso_SMsh",
+              "page": "Male"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male"
+              "name": "MLTorso_SMsh",
+              "page": "Male"
             }
           ],
           "elements": [
@@ -1083,7 +1269,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "mtorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "mtorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Male"
+                }
               }
             }
           ]
@@ -1099,16 +1288,16 @@
           "text": "Short-Sleeved Shirt - Radio Free D'ni",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -1123,9 +1312,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1141,16 +1339,16 @@
           "text": "Explorer's Emporium Jacket",
           "meshes": [
             {
-                "name": "MHTorso_Pub_SMsh",
-                "page": "Male04"
+              "name": "MHTorso_Pub_SMsh",
+              "page": "Male04"
             },
             {
-                "name": "MMTorso_Pub_SMsh",
-                "page": "Male04"
+              "name": "MMTorso_Pub_SMsh",
+              "page": "Male04"
             },
             {
-                "name": "MLTorso_Pub_SMsh",
-                "page": "Male04"
+              "name": "MLTorso_Pub_SMsh",
+              "page": "Male04"
             }
           ],
           "elements": [
@@ -1179,16 +1377,16 @@
           "text": "Short Sleeve T-Shirt - Sameehn",
           "meshes": [
             {
-                "name": "MHTorso08_SMsh",
-                "page": "Male01"
+              "name": "MHTorso08_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MMTorso_SMsh",
-                "page": "Male01"
+              "name": "MMTorso_SMsh",
+              "page": "Male01"
             },
             {
-                "name": "MLTorso_SMsh",
-                "page": "Male01"
+              "name": "MLTorso_SMsh",
+              "page": "Male01"
             }
           ],
           "elements": [
@@ -1202,9 +1400,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1296,8 +1503,8 @@
         "FTorso_xSleeve_Riven2024_Tint.png",
 
         "Icon_UTorso_Shirt_RFD.png",
-        "FTorso_longsleeve_RFD_base.png",
-        "FTorso_longsleeve_RFD_tint1.png",
+        "FTorso_LongSleeve_RFD_Base.png",
+        "FTorso_LongSleeve_RFD_Tint1.png",
         "FTorso_longsleeve_RFD_tint2.png",
 
         "FTorso_shortsleeve_RFD_base.png",
@@ -1324,16 +1531,16 @@
           "text": "Mysterium 2021 T-Shirt",
           "meshes": [
             {
-                "name": "FHTorso12_SMsh",
-                "page": "Female01"
+              "name": "FHTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMTorso12_SMsh",
-                "page": "Female01"
+              "name": "FMTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLTorso12_SMsh",
-                "page": "Female01"
+              "name": "FLTorso12_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -1347,8 +1554,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1364,16 +1577,16 @@
           "text": "Long Sleeve T-Shirt - Mysterium 2021",
           "meshes": [
             {
-                "name": "FHTorso_SMsh",
-                "page": "Female"
+              "name": "FHTorso_SMsh",
+              "page": "Female"
             },
             {
-                "name": "FMTorso_SMsh",
-                "page": "Female"
+              "name": "FMTorso_SMsh",
+              "page": "Female"
             },
             {
-                "name": "FLTorso_SMsh",
-                "page": "Female"
+              "name": "FLTorso_SMsh",
+              "page": "Female"
             }
           ],
           "elements": [
@@ -1387,7 +1600,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "ftorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Female"
+                }
               }
             }
           ]
@@ -1403,16 +1619,16 @@
           "text": "Short Sleeve T-Shirt - GZ Pride",
           "meshes": [
             {
-                "name": "FHTorso12_SMsh",
-                "page": "Female01"
+              "name": "FHTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMTorso12_SMsh",
-                "page": "Female01"
+              "name": "FMTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLTorso12_SMsh",
-                "page": "Female01"
+              "name": "FLTorso12_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -1426,8 +1642,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1443,16 +1665,16 @@
           "text": "Long Sleeve T-Shirt - GZ Pride",
           "meshes": [
             {
-                "name": "FHTorso_SMsh",
-                "page": "Female"
+              "name": "FHTorso_SMsh",
+              "page": "Female"
             },
             {
-                "name": "FMTorso_SMsh",
-                "page": "Female"
+              "name": "FMTorso_SMsh",
+              "page": "Female"
             },
             {
-                "name": "FLTorso_SMsh",
-                "page": "Female"
+              "name": "FLTorso_SMsh",
+              "page": "Female"
             }
           ],
           "elements": [
@@ -1466,7 +1688,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "ftorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Female"
+                }
               }
             }
           ]
@@ -1482,16 +1707,16 @@
           "text": "Short Sleeve T-Shirt - Cavern Tour",
           "meshes": [
             {
-                "name": "FHTorso12_SMsh",
-                "page": "Female01"
+              "name": "FHTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMTorso12_SMsh",
-                "page": "Female01"
+              "name": "FMTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLTorso12_SMsh",
-                "page": "Female01"
+              "name": "FLTorso12_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -1505,8 +1730,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1521,21 +1752,27 @@
           "desc": "ColorLabel1=Left Side; ColorLabel2=Right Side; isLogoFor=03_FLegs02_01; GroupName=CargoPants",
           "text": "Cargo Pants",
           "meshes": [
-            "FHLegs02_SMsh",
             {
-                "name": "FMLegs_SMsh",
-                "page": "Female02"
+              "name": "FHLegs02_SMsh",
+              "page": "Female02"
             },
             {
-                "name": "FLLegs_SMsh",
-                "page": "Female02"
+              "name": "FMLegs_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLLegs_SMsh",
+              "page": "Female02"
             }
           ],
           "elements": [
             {
               "name": "Legs",
               "layers": {
-                "0": "mlegs_cargo01_base*0#0.hsm",
+                "0": {
+                  "name": "mlegs_cargo01_base*0#0.hsm",
+                  "page": "Female02"
+                },
                 "8": "MLegs_Cargo05_Tint1.png",
                 "9": "MLegs_Cargo05_Tint2.png"
               }
@@ -1553,16 +1790,16 @@
           "text": "Cargo Shorts",
           "meshes": [
             {
-                "name": "FHLegs04_SMsh",
-                "page": "Female01"
+              "name": "FHLegs04_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMLegs04_SMsh",
-                "page": "Female01"
+              "name": "FMLegs04_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLLegs_SMsh",
-                "page": "Female01"
+              "name": "FLLegs_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -1587,9 +1824,18 @@
           "desc": "ColorLabel1= Sweatshirt ; ColorLabel2=; isLogoFor=FTorso_Sweatshirt_Blank; GroupName=Hooded; nonStandard",
           "text": "Hooded Sweatshirt - Pod Reward",
           "meshes": [
-            "FHTorso16_SMsh",
-            "FMTorso16_SMsh",
-            "FLTorso16_SMsh"
+            {
+              "name": "FHTorso16_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FMTorso16_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLTorso16_SMsh",
+              "page": "Female02"
+            }
           ],
           "elements": [
             {
@@ -1602,8 +1848,14 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
-                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_hoodsweat01arm_base*0#0.hsm",
+                  "page": "Female02"
+                },
+                "8": {
+                  "name": "mtorso_hoodsweat01arm_tint1*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             }
           ]
@@ -1618,9 +1870,18 @@
           "desc": "ColorLabel1= Pullover ; ColorLabel2= Spiral ; isLogoFor=03_FTorso06_01; GroupName=Fleece; nonStandard",
           "text": "Door Runner's Fleece Jacket",
           "meshes": [
-            "FHTorso06_SMsh",
-            "FMTorso06_SMsh",
-            "FLTorso06_SMsh"
+            {
+              "name": "FHTorso06_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FMTorso06_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLTorso06_SMsh",
+              "page": "Female02"
+            }
           ],
           "elements": [
             {
@@ -1635,8 +1896,14 @@
               "name": "Arm",
               "layers": {
                 "0": "MTorso_FleeceBlueFlowerArm_base.png",
-                "8": "mtorso_fleece01arm_tint1*0#0.hsm",
-                "9": "mtorso_fleece01arm_tint2*0#0.hsm"
+                "8": {
+                  "name": "mtorso_fleece01arm_tint1*0#0.hsm",
+                  "page": "Female02"
+                },
+                "9": {
+                  "name": "mtorso_fleece01arm_tint2*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             }
           ]
@@ -1651,23 +1918,41 @@
           "desc": "ColorLabel1= Shirt ; ColorLabel2= ; isLogoFor=FReward_DRCVest; GroupName=DRCVest; nonStandard",
           "text": "Vest - Path of the Shell Reward",
           "meshes": [
-            "FHTorsoDRCVest_SMsh",
-            "FMTorsoDRCVest_SMsh",
-            "FLTorsoDRCVest_SMsh"
+            {
+              "name": "FHTorsoDRCVest_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FMTorsoDRCVest_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLTorsoDRCVest_SMsh",
+              "page": "Female02"
+            }
           ],
           "elements": [
             {
               "name": "Chest",
               "layers": {
                 "0": "FTorso_ShellVest_base.png",
-                "8": "ftorso_drcvest_tint1*0#0.hsm"
+                "8": {
+                  "name": "ftorso_drcvest_tint1*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             },
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_dressarm_skin*0#0.hsm",
-                "8": "mtorso_drcvestarm_tint1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_dressarm_skin*0#0.hsm",
+                  "page": "Female02"
+                },
+                "8": {
+                  "name": "mtorso_drcvestarm_tint1*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             }
           ]
@@ -1682,24 +1967,42 @@
           "desc": "ColorLabel1= Shirt ; ColorLabel2= Vest; isLogoFor=FReward_DRCVest; GroupName=DRCVest; nonStandard",
           "text": "Plain Vest",
           "meshes": [
-            "FHTorsoDRCVest_SMsh",
-            "FMTorsoDRCVest_SMsh",
-            "FLTorsoDRCVest_SMsh"
+            {
+              "name": "FHTorsoDRCVest_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FMTorsoDRCVest_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLTorsoDRCVest_SMsh",
+              "page": "Female02"
+            }
           ],
           "elements": [
             {
               "name": "Chest",
               "layers": {
                 "0": "FTorso_PlainVest_base.png",
-                "8": "ftorso_drcvest_tint1*0#0.hsm",
+                "8": {
+                  "name": "ftorso_drcvest_tint1*0#0.hsm",
+                  "page": "Female02"
+                },
                 "9": "FTorso_PlainVest_Tint2.png"
               }
             },
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_dressarm_skin*0#0.hsm",
-                "8": "mtorso_drcvestarm_tint1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_dressarm_skin*0#0.hsm",
+                  "page": "Female02"
+                },
+                "8": {
+                  "name": "mtorso_drcvestarm_tint1*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             }
           ]
@@ -1715,25 +2018,31 @@
           "text": "Leather Jacket - Minkata Reward",
           "meshes": [
             {
-                "name": "FHTorso01_SMsh",
-                "page": "Female02"
+              "name": "FHTorso01_SMsh",
+              "page": "Female02"
             },
             {
-                "name": "FMTorso01_SMsh",
-                "page": "Female02"
+              "name": "FMTorso01_SMsh",
+              "page": "Female02"
             },
             {
-                "name": "FLTorso_SMsh",
-                "page": "Female02"
+              "name": "FLTorso_SMsh",
+              "page": "Female02"
             }
           ],
           "elements": [
             {
               "name": "Chest",
               "layers": {
-                "0": "utorso_leatherjacket01_base*0#0.hsm",
+                "0": {
+                  "name": "utorso_leatherjacket01_base*0#0.hsm",
+                  "page": "Female02"
+                },
                 "8": "UTorso_LeatherJacketMinkata_Tint1.png",
-                "9": "utorso_leatherjacket01_tint2*0#0.hsm"
+                "9": {
+                  "name": "utorso_leatherjacket01_tint2*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             },
             {
@@ -1754,9 +2063,18 @@
           "desc": "ColorLabel1 =; ColorLabel2 = ; isLogoFor=03_FTorso06_01; GroupName=Fleece; nonStandard",
           "text": "Ambiguous Whiskers Fleece",
           "meshes": [
-            "FHTorso06_SMsh",
-            "FMTorso06_SMsh",
-            "FLTorso06_SMsh"
+            {
+              "name": "FHTorso06_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FMTorso06_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLTorso06_SMsh",
+              "page": "Female02"
+            }
           ],
           "elements": [
             {
@@ -1807,8 +2125,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1847,7 +2171,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "ftorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Female"
+                }
               }
             }
           ]
@@ -1862,9 +2189,18 @@
           "desc": "ColorLabel1= Sweatshirt ; ColorLabel2=Logo; isLogoFor=FTorso_Sweatshirt_Blank; GroupName=Hooded; nonStandard;",
           "text": "Hooded Sweatshirt - The Cavern Today",
           "meshes": [
-            "FHTorso16_SMsh",
-            "FMTorso16_SMsh",
-            "FLTorso16_SMsh"
+            {
+              "name": "FHTorso16_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FMTorso16_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLTorso16_SMsh",
+              "page": "Female02"
+            }
           ],
           "elements": [
             {
@@ -1878,8 +2214,14 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
-                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_hoodsweat01arm_base*0#0.hsm",
+                  "page": "Female02"
+                },
+                "8": {
+                  "name": "mtorso_hoodsweat01arm_tint1*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             }
           ]
@@ -1919,8 +2261,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1960,7 +2308,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "ftorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Female"
+                }
               }
             }
           ]
@@ -1975,9 +2326,18 @@
           "desc": "ColorLabel1=Pullover; ColorLabel2=; isLogoFor=03_FTorso06_01; GroupName=Fleece; nonStandard;",
           "text": "The Cavern Today Fleece Pullover",
           "meshes": [
-            "FHTorso06_SMsh",
-            "FMTorso06_SMsh",
-            "FLTorso06_SMsh"
+            {
+              "name": "FHTorso06_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FMTorso06_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLTorso06_SMsh",
+              "page": "Female02"
+            }
           ],
           "elements": [
             {
@@ -1990,9 +2350,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_fleece01arm_base*0#0.hsm",
-                "8": "mtorso_fleece01arm_tint1*0#0.hsm",
-                "9": "mtorso_fleece01arm_tint2*0#0.hsm"
+                "0": {
+                  "name": "mtorso_fleece01arm_base*0#0.hsm",
+                  "page": "Female02"
+                },
+                "8": {
+                  "name": "mtorso_fleece01arm_tint1*0#0.hsm",
+                  "page": "Female02"
+                },
+                "9": {
+                  "name": "mtorso_fleece01arm_tint2*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             }
           ]
@@ -2008,16 +2377,16 @@
           "text": "Mystitech Productions T-Shirt, logo by Larry LeDeay",
           "meshes": [
             {
-                "name": "FHTorso12_SMsh",
-                "page": "Female01"
+              "name": "FHTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMTorso12_SMsh",
-                "page": "Female01"
+              "name": "FMTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLTorso12_SMsh",
-                "page": "Female01"
+              "name": "FLTorso12_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -2031,8 +2400,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2048,16 +2423,16 @@
           "text": "Mystitech Productions Long Sleeve T-Shirt, logo by Larry LeDeay",
           "meshes": [
             {
-                "name": "FHTorso_SMsh",
-                "page": "Female"
+              "name": "FHTorso_SMsh",
+              "page": "Female"
             },
             {
-                "name": "FMTorso_SMsh",
-                "page": "Female"
+              "name": "FMTorso_SMsh",
+              "page": "Female"
             },
             {
-                "name": "FLTorso_SMsh",
-                "page": "Female"
+              "name": "FLTorso_SMsh",
+              "page": "Female"
             }
           ],
           "elements": [
@@ -2071,7 +2446,10 @@
             {
               "name": "Arm",
               "layers": {
-                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "ftorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Female"
+                }
               }
             }
           ]
@@ -2086,9 +2464,18 @@
           "desc": "ColorLabel1= Sweatshirt ; ColorLabel2= ; isLogoFor=FTorso_Sweatshirt_Blank; GroupName=Hooded; nonStandard;",
           "text": "Mystitech Productions Hoodie, logo by Larry LeDeay",
           "meshes": [
-            "FHTorso16_SMsh",
-            "FMTorso16_SMsh",
-            "FLTorso16_SMsh"
+            {
+              "name": "FHTorso16_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FMTorso16_SMsh",
+              "page": "Female02"
+            },
+            {
+              "name": "FLTorso16_SMsh",
+              "page": "Female02"
+            }
           ],
           "elements": [
             {
@@ -2101,8 +2488,14 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_hoodsweat01arm_base*0#0.hsm",
-                "8": "mtorso_hoodsweat01arm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_hoodsweat01arm_base*0#0.hsm",
+                  "page": "Female02"
+                },
+                "8": {
+                  "name": "mtorso_hoodsweat01arm_tint1*0#0.hsm",
+                  "page": "Female02"
+                }
               }
             }
           ]
@@ -2118,16 +2511,16 @@
           "text": "Swimtrunks",
           "meshes": [
             {
-                "name": "FHLegs01_SMsh",
-                "page": "Female01"
+              "name": "FHLegs01_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMShorts_SMsh",
-                "page": "Female01"
+              "name": "FMShorts_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLLegs_SMsh",
-                "page": "Female01"
+              "name": "FLLegs_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -2151,16 +2544,16 @@
           "text": "Short Sleeve T-Shirt - Kalamee",
           "meshes": [
             {
-                "name": "FHTorso12_SMsh",
-                "page": "Female01"
+              "name": "FHTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMTorso12_SMsh",
-                "page": "Female01"
+              "name": "FMTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLTorso12_SMsh",
-                "page": "Female01"
+              "name": "FLTorso12_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -2174,8 +2567,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2191,16 +2590,16 @@
           "text": "Short Sleeve T-Shirt - Riven: Moiety Hive",
           "meshes": [
             {
-                "name": "FHTorso12_SMsh",
-                "page": "Female01"
+              "name": "FHTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMTorso12_SMsh",
-                "page": "Female01"
+              "name": "FMTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLTorso12_SMsh",
-                "page": "Female01"
+              "name": "FLTorso12_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -2214,8 +2613,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2231,16 +2636,16 @@
           "text": "Short Sleeve T-Shirt - Radio Free D'ni",
           "meshes": [
             {
-                "name": "FHTorso12_SMsh",
-                "page": "Female01"
+              "name": "FHTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMTorso12_SMsh",
-                "page": "Female01"
+              "name": "FMTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLTorso12_SMsh",
-                "page": "Female01"
+              "name": "FLTorso12_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -2255,8 +2660,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2272,31 +2683,34 @@
           "text": "Long-Sleeved Shirt - Radio Free D'ni",
           "meshes": [
             {
-                "name": "FHTorso_SMsh",
-                "page": "Female"
+              "name": "FHTorso_SMsh",
+              "page": "Female"
             },
             {
-                "name": "FMTorso_SMsh",
-                "page": "Female"
+              "name": "FMTorso_SMsh",
+              "page": "Female"
             },
             {
-                "name": "FLTorso_SMsh",
-                "page": "Female"
+              "name": "FLTorso_SMsh",
+              "page": "Female"
             }
           ],
           "elements": [
             {
               "name": "Chest",
               "layers": {
-                "0": "FTorso_longsleeve_RFD_base.png",
-                "8": "FTorso_longsleeve_RFD_tint1.png",
+                "0": "FTorso_LongSleeve_RFD_Base.png",
+                "8": "FTorso_LongSleeve_RFD_Tint1.png",
                 "9": "FTorso_longsleeve_RFD_tint2.png"
               }
             },
             {
               "name": "Arm",
               "layers": {
-                "8": "ftorso_longsleeve01arm_tint1*0#0.hsm"
+                "8": {
+                  "name": "ftorso_longsleeve01arm_tint1*0#0.hsm",
+                  "page": "Female"
+                }
               }
             }
           ]
@@ -2312,16 +2726,16 @@
           "text": "Explorer's Emporium Jacket",
           "meshes": [
             {
-                "name": "FHTorso_Pub_SMsh",
-                "page": "Female04"
+              "name": "FHTorso_Pub_SMsh",
+              "page": "Female04"
             },
             {
-                "name": "FMTorso_Pub_SMsh",
-                "page": "Female04"
+              "name": "FMTorso_Pub_SMsh",
+              "page": "Female04"
             },
             {
-                "name": "FLTorso_Pub_SMsh",
-                "page": "Female04"
+              "name": "FLTorso_Pub_SMsh",
+              "page": "Female04"
             }
           ],
           "elements": [
@@ -2350,16 +2764,16 @@
           "text": "Short Sleeve T-Shirt - Sameehn",
           "meshes": [
             {
-                "name": "FHTorso12_SMsh",
-                "page": "Female01"
+              "name": "FHTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FMTorso12_SMsh",
-                "page": "Female01"
+              "name": "FMTorso12_SMsh",
+              "page": "Female01"
             },
             {
-                "name": "FLTorso12_SMsh",
-                "page": "Female01"
+              "name": "FLTorso12_SMsh",
+              "page": "Female01"
             }
           ],
           "elements": [
@@ -2373,8 +2787,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+	<age name="OptionsMenu">
+		<set name="GameSettings">
+			<element name="Advanced">
+				<translation language="Russian">Дополнительно</translation>
+			</element>
+			<element name="Ambient">
+				<translation language="Russian">Звуки окружения</translation>
+			</element>
+			<element name="ClickToTurn">
+				<translation language="Russian">Ходьба по клику</translation>
+			</element>
+			<element name="DisplayControls">
+				<translation language="Russian">Показать управление</translation>
+			</element>
+			<element name="DisplayShadows">
+				<translation language="Russian">Тени</translation>
+			</element>
+			<element name="Gamma">
+				<translation language="Russian">Гамма</translation>
+			</element>
+			<element name="InvertMouse">
+				<translation language="Russian">Инверт. обзор мышью</translation>
+			</element>
+			<element name="MouseTurn">
+				<translation language="Russian">Чувствительность мыши</translation>
+			</element>
+			<element name="Music">
+				<translation language="Russian">Музыка</translation>
+			</element>
+			<element name="Mute">
+				<translation language="Russian">Откл. звук</translation>
+			</element>
+			<element name="MyVoice">
+				<translation language="Russian">Мой голос</translation>
+			</element>
+			<element name="OtherVoice">
+				<translation language="Russian">Голос других</translation>
+			</element>
+			<element name="SPVoices">
+				<translation language="Russian">Голоса</translation>
+			</element>
+			<element name="ShadowQuality">
+				<translation language="Russian">Качество тени</translation>
+			</element>
+			<element name="SmootherCamera">
+				<translation language="Russian">Смягчение камеры</translation>
+			</element>
+			<element name="SoundFX">
+				<translation language="Russian">Звук. эффекты</translation>
+			</element>
+			<element name="SoundPriority">
+				<translation language="Russian">Кол-во звуков</translation>
+			</element>
+			<element name="StayInFP">
+				<translation language="Russian">Оставаться от первого лица</translation>
+			</element>
+			<element name="Volume">
+				<translation language="Russian">Регуляторы гровкости</translation>
+			</element>
+			<element name="WalkAndPan">
+				<translation language="Russian">Панорамное движение</translation>
+			</element>
+		</set>
+		<set name="GraphicsSettings">
+			<element name="RestartWarning">
+				<translation language="Russian">Изменения качества видео и качества текстур не вступят в силу до перезапуска Uru.
+
+Вы хотите выйти?</translation>
+			</element>
+		</set>
+		<set name="InGameHelp">
+			<element name="CCRButton">
+				<translation language="Russian">Связаться с поддержкой &gt;&gt;</translation>
+			</element>
+			<element name="Header">
+				<translation language="Russian">Помощь</translation>
+			</element>
+			<element name="HelpMessage">
+				<translation language="Russian">Перемещение - Стрелки или мышь
+Прыжок - Пробел
+Бег - Shift или обе кнопки мыши сразу
+
+Активировать/выделить - Левая кнопка мыши
+Назад - Стрелка вниз, Esc или Backspace
+
+Переключить вид - F1
+Оглядеться - Перетаскивание правой кнопки мыши
+
+
+(Дополнительную помощь можно получить в руководстве пользователя или Readme.)</translation>
+			</element>
+		</set>
+		<set name="KeyCommands">
+			<element name="CreateJournal">
+				<translation language="Russian">Создать журнал</translation>
+			</element>
+			<element name="ExitMode">
+				<translation language="Russian">Режим выхода</translation>
+			</element>
+			<element name="FirstPerson">
+				<translation language="Russian">Первое лицо</translation>
+			</element>
+			<element name="Jump">
+				<translation language="Russian">Прыжок</translation>
+			</element>
+			<element name="MoveBackward">
+				<translation language="Russian">Движение назад</translation>
+			</element>
+			<element name="MoveForward">
+				<translation language="Russian">Движение вперед</translation>
+			</element>
+			<element name="NewMarkerGame">
+				<translation language="Russian">Новая игра с маркерами</translation>
+			</element>
+			<element name="OptionsMenu">
+				<translation language="Russian">Меню опций</translation>
+			</element>
+			<element name="PlaceMarker">
+				<translation language="Russian">Разместить маркер</translation>
+			</element>
+			<element name="PushToTalk">
+				<translation language="Russian">Нажать для разговора</translation>
+			</element>
+			<element name="ReltoBook">
+				<translation language="Russian">Книга Релто</translation>
+			</element>
+			<element name="RotateLeft">
+				<translation language="Russian">Повернуть влево</translation>
+			</element>
+			<element name="RotateRight">
+				<translation language="Russian">Повернуть вправо</translation>
+			</element>
+			<element name="StartChat">
+				<translation language="Russian">Начать чат</translation>
+			</element>
+			<element name="StrafeLeft">
+				<translation language="Russian">Шаг влево</translation>
+			</element>
+			<element name="StrafeRight">
+				<translation language="Russian">Шаг вправо</translation>
+			</element>
+			<element name="TakePicture">
+				<translation language="Russian">Сфотографировать</translation>
+			</element>
+			<element name="ToggleKI">
+				<translation language="Russian">Отобразить KI</translation>
+			</element>
+		</set>
+		<set name="Main">
+			<element name="Advanced">
+				<translation language="Russian">Дополнительно &gt;&gt;</translation>
+			</element>
+			<element name="AudioSettings">
+				<translation language="Russian">Настройки звука
+</translation>
+			</element>
+			<element name="Calibration">
+				<translation language="Russian">Калибровка</translation>
+			</element>
+			<element name="Cancel">
+				<translation language="Russian">Отмена</translation>
+			</element>
+			<element name="ContactSupport">
+				<translation language="Russian">Связь с поддержкой</translation>
+			</element>
+			<element name="Defaults">
+				<translation language="Russian">По умолчанию</translation>
+			</element>
+			<element name="DemoTrailer">
+				<translation language="Russian">Превью URU</translation>
+			</element>
+			<element name="GameSettings">
+				<translation language="Russian">Настройки игры</translation>
+			</element>
+			<element name="GoBack">
+				<translation language="Russian">Назад</translation>
+			</element>
+			<element name="GraphicsSettings">
+				<translation language="Russian">Настройки графики</translation>
+			</element>
+			<element name="Help">
+				<translation language="Russian">Помощь</translation>
+			</element>
+			<element name="KeyMap">
+				<translation language="Russian">Управление</translation>
+			</element>
+			<element name="Navigation">
+				<translation language="Russian">Навигация</translation>
+			</element>
+			<element name="Next">
+				<translation language="Russian">Далее &gt;&gt;</translation>
+			</element>
+			<element name="Ok">
+				<translation language="Russian">ОК</translation>
+			</element>
+			<element name="Prev">
+				<translation language="Russian">&lt;&lt; Назад</translation>
+			</element>
+			<element name="QuitURU">
+				<translation language="Russian">Выйти с URU</translation>
+			</element>
+			<element name="ReleaseNotes">
+				<translation language="Russian">Список изменений</translation>
+			</element>
+			<element name="Resume">
+				<translation language="Russian">Продолжить игру</translation>
+			</element>
+			<element name="Trailer">
+				<translation language="Russian">Превью URU Live</translation>
+			</element>
+			<element name="URUCredits">
+				<translation language="Russian">Титры URU</translation>
+			</element>
+			<element name="URULive">
+				<translation language="Russian">Видео</translation>
+			</element>
+			<element name="Explore">
+				<translation language="Russian">Назад</translation>
+			</element>
+		</set>
+		<set name="Messages">
+			<element name="Calibration">
+				<translation language="Russian">КАЛИБРОВКА МОНИТОРА URU
+
+Установите контрастность монитора на 100\% (максимально возможное значение).
+
+Настройте регулятор яркости так, чтобы логотип "URU" был едва виден.</translation>
+			</element>
+			<element name="No">
+				<translation language="Russian">Нет</translation>
+			</element>
+			<element name="Yes">
+				<translation language="Russian">Да</translation>
+			</element>
+		</set>
+		<set name="StartupHelp">
+			<element name="LookAround">
+				<translation language="Russian">Осмотреться</translation>
+			</element>
+			<element name="MousePanCam">
+				<translation language="Russian">Осмотреться</translation>
+			</element>
+			<element name="MousePresets">
+				<translation language="Russian">Настройки мыши</translation>
+			</element>
+			<element name="Normal">
+				<translation language="Russian">Обычно</translation>
+			</element>
+			<element name="Novice">
+				<translation language="Russian">Новичок</translation>
+			</element>
+			<element name="Run">
+				<translation language="Russian">Бег</translation>
+			</element>
+			<element name="Select">
+				<translation language="Russian">Выбор</translation>
+			</element>
+			<element name="SwitchViews">
+				<translation language="Russian">Смена вида</translation>
+			</element>
+			<element name="Title">
+				<translation language="Russian">Приветствуем в Uru</translation>
+			</element>
+			<element name="ToggleView">
+				<translation language="Russian">Смена вида</translation>
+			</element>
+			<element name="TurnLeft">
+				<translation language="Russian">Налево</translation>
+			</element>
+			<element name="TurnRight">
+				<translation language="Russian">Направо</translation>
+			</element>
+			<element name="Walk">
+				<translation language="Russian">Ходьба</translation>
+			</element>
+			<element name="WalkBackwards">
+				<translation language="Russian">Ходьба назад</translation>
+			</element>
+		</set>
+		<set name="Support">
+			<element name="Header">
+				<translation language="Russian">Информация о поддержке</translation>
+			</element>
+			<element name="LiveHelpBtn">
+				<translation language="Russian">Игровая помощь</translation>
+			</element>
+			<element name="LiveHelpDesc">
+				<translation language="Russian">Нажмите здесь, чтобы связаться с нашими игровыми мастерами (GM). GM смогут помочь вам с любыми неотложными проблемами или вопросами. (Открывает веб-страницу)</translation>
+			</element>
+			<element name="OtherInfo">
+				<translation language="Russian">Вы также можете связаться со службой поддержки Gametap через веб-сайт http://www.gametap.com и перейти по ссылке "Служба поддержки". Вы также можете связаться с нашей службой поддержки по телефону 1-866-722-5295. Часы работы: с понедельника по воскресенье с 10:30 до 12:00 EST без выходных</translation>
+			</element>
+			<element name="TicketBtn">
+				<translation language="Russian">Сообщить о проблеме</translation>
+			</element>
+			<element name="TicketDesc">
+				<translation language="Russian">Нажмите здесь, чтобы сообщить о проблемах с вашей учетной записью, оплатой, установкой и любых других проблемах, связанных с игрой. (Открывает веб-страницу)</translation>
+			</element>
+		</set>
+	</age>
+</localizations>

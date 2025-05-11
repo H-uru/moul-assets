@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+    <age name="GUI">
+        <set name="Dialog04b">
+            <element name="CreateExplorer">
+                <translation language="Russian">СОЗДАТЬ ПУТНИКА</translation>
+            </element>
+        </set>
+        <set name="Dialog04d">
+            <element name="InvalidName">
+                <translation language="Russian">Ошибка: Неверное имя. Пожалуйста, введите другое.</translation>
+            </element>
+            <element name="ErrorName">
+                <translation language="Russian">Ошибка: Вы должны ввести имя.</translation>
+            </element>
+            <element name="ErrorGender">
+                <translation language="Russian">Ошибка: Вы должны выбрать пол.</translation>
+            </element>
+            <element name="ErrorPath">
+                <translation language="Russian">Ошибка: Вы должны выбрать путь.</translation>
+            </element>
+            <element name="InvalidCharacters">
+                <translation language="Russian">Предупреждение: Вы ввели недопустимые символы в имя игрока. Недопустимые символы были удалены. Пожалуйста, убедитесь, что имя игрока все еще то, что вы хотите.</translation>
+            </element>
+            <element name="IncorrectFormatting">
+                <translation language="Russian">Предупреждение: Имя вашего игрока имеет некорректное форматирование. Форматирование было исправлено. Пожалуйста, убедитесь, что имя игрока все еще то, что вы хотите.</translation>
+            </element>
+            <element name="NameAlreadyExists">
+                <translation language="Russian">Ошибка: Это имя игрока уже занято.</translation>
+            </element>
+            <element name="IllegalName">
+                <translation language="Russian">Неправильное имя. Выбранное имя либо зарезервировано, либо недопустимо, либо короче трех символов.</translation>
+            </element>
+            <element name="NetworkError">
+                <translation language="Russian">В сети произошла ошибка. Пожалуйста, повторите попытку. Если проблема остается, обратитесь в службу поддержки.</translation>
+            </element>
+            <element name="CleftHelp">
+                <translation language="Russian">Для новых путников, не игравших ранее.
+
+Вы прибыли на огороженное место в пустыне и закрыли за собой ворота. Здесь вы начнете знакомиться с историей и устройством этого места, в которое вас занесло.
+
+Начало игры вводит в сюжет и механику геймплея, прежде чем вы встретите других путников.
+Впервые появилось в URU: Ages Beyond Myst (2003).
+</translation>
+            </element>
+            <element name="ReltoHelp">
+                <translation language="Russian">Для вернувшихся путников, знакомых с URU.
+
+Вы начинаете на своем личном острове, Релто.
+
+Это позволяет пропустить вступительную часть игры, но его все равно можно посетить в ходе обычного игрового процесса.
+Впервые появилось в Myst Online: Uru Live (2007).
+</translation>
+            </element>
+        </set>
+        <set name="Dialog06">
+            <element name="Back">
+                <translation language="Russian">Назад</translation>
+            </element>
+            <element name="Cleft">
+                <translation language="Russian">Новый путник - Расщелина</translation>
+            </element>
+            <element name="EnterInviteCode">
+                <translation language="Russian">Выбери свой путь</translation>
+            </element>
+            <element name="Name">
+                <translation language="Russian">Имя Путника:</translation>
+            </element>
+            <element name="Explore">
+                <translation language="Russian">Исследовать URU</translation>
+            </element>
+            <element name="Female">
+                <translation language="Russian">Женский</translation>
+            </element>
+            <element name="Male">
+                <translation language="Russian">Мужской</translation>
+            </element>
+            <element name="Quit">
+                <translation language="Russian">Выход</translation>
+            </element>
+            <element name="Relto">
+                <translation language="Russian">Вернувшийся путник - Релто</translation>
+            </element>
+        </set>
+        <set name="OrientationGUI">
+            <element name="OrientChatText">
+                <translation language="Russian">Пишите сообщения игрокам поблизости.</translation>
+            </element>
+            <element name="OrientContinueTB">
+                <translation language="Russian">Продолжить</translation>
+            </element>
+            <element name="OrientPBText">
+                <translation language="Russian">Ваш опыт URU начинается здесь, на Релто, вашей личной домашней "Эпохе". Используйте эту книгу, чтобы вернуться на Релто в любое время.</translation>
+            </element>
+            <element name="OrientQuitText">
+                <translation language="Russian">Покинуть URU.</translation>
+            </element>
+            <element name="OrientSettingsText">
+                <translation language="Russian">Настроить параметры игры.</translation>
+            </element>
+            <element name="OrientTitleTB">
+                <translation language="Russian">Добро пожаловать в URU</translation>
+            </element>
+            <element name="OrientPBTextZandi">
+                <translation language="Russian">Исследуйте пустыню. Подойдите к Занди, и он объяснит вам что требуется.</translation>
+            </element>
+        </set>    
+    </age>
+</localizations>

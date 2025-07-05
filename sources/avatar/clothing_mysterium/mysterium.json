@@ -93,7 +93,14 @@
         "Icon_UTorso_Shirt_Mysterium2023.png",
         "MTorso_ShortSleeve_Mysterium2023_Base.png",
         "MTorso_ShortSleeve_Mysterium2023_Tint1.png",
-        "MTorso_ShortSleeve_Mysterium2023_Tint2.png"
+        "MTorso_ShortSleeve_Mysterium2023_Tint2.png",
+        "Icon_UTorso_Shirt_Mysterium2024.png",
+        "MTorso_ShortSleeve_Mysterium2024_Base.png",
+        "MTorso_ShortSleeve_Mysterium2024_Tint1.png",
+        "MTorso_ShortSleeve_Mysterium2024_Tint2.png",
+        "Icon_UTorso_Shirt_Mysterium2025.png",
+        "MTorso_ShortSleeve_Mysterium2025_Base.png",
+        "MTorso_ShortSleeve_Mysterium2025_Tint1.png"
       ],
       "clItems": [
         {
@@ -142,9 +149,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -183,9 +199,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -224,9 +249,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -265,9 +299,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -306,9 +349,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -347,9 +399,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -389,9 +450,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -431,9 +501,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -472,9 +551,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -513,9 +601,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -554,9 +651,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -595,9 +701,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -636,9 +751,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -677,9 +801,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -718,9 +851,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -759,9 +901,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -800,9 +951,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -841,9 +1001,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -882,9 +1051,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -923,9 +1101,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -964,9 +1151,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1005,9 +1201,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1046,9 +1251,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1087,9 +1301,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1128,9 +1351,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1169,9 +1401,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1210,9 +1451,18 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1252,9 +1502,119 @@
             {
               "name": "Arm",
               "layers": {
-                "0": "mtorso_shortsleevearm_base*0#0.hsm",
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "mtorso_shortsleevearm_tint1*0#0.hsm"
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_SSMysterium2024",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2024.png",
+          "tint1": [0, 0, 0],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Back Logo; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2024 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2024_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2024_Tint1.png",
+                "9": "MTorso_ShortSleeve_Mysterium2024_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_SSMysterium2025",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_UTorso_Shirt_Mysterium2025.png",
+          "tint1": [0.1725, 0.3725, 0.2039],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=MReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2025 T-Shirt",
+          "meshes": [
+            {
+                "name": "MHTorso08_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MMTorso_SMsh",
+                "page": "Male01"
+            },
+            {
+                "name": "MLTorso_SMsh",
+                "page": "Male01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_ShortSleeve_Mysterium2025_Base.png",
+                "8": "MTorso_ShortSleeve_Mysterium2025_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": {
+                  "name": "mtorso_shortsleevearm_base*0#0.hsm",
+                  "page": "Male01"
+                },
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Male01"
+                },
+                "8": {
+                  "name": "mtorso_shortsleevearm_tint1*0#0.hsm",
+                  "page": "Male01"
+                }
               }
             }
           ]
@@ -1354,7 +1714,14 @@
         "Icon_UTorso_Shirt_Mysterium2023.png",
         "FTorso_ShortSleeve_Mysterium2023_Base.png",
         "FTorso_ShortSleeve_Mysterium2023_Tint1.png",
-        "FTorso_ShortSleeve_Mysterium2023_Tint2.png"
+        "FTorso_ShortSleeve_Mysterium2023_Tint2.png",
+        "Icon_UTorso_Shirt_Mysterium2024.png",
+        "FTorso_ShortSleeve_Mysterium2024_Base.png",
+        "FTorso_ShortSleeve_Mysterium2024_Tint1.png",
+        "FTorso_ShortSleeve_Mysterium2024_Tint2.png",
+        "Icon_UTorso_Shirt_Mysterium2025.png",
+        "FTorso_ShortSleeve_Mysterium2025_Base.png",
+        "FTorso_ShortSleeve_Mysterium2025_Tint1.png"
       ],
       "clItems": [
         {
@@ -1403,8 +1770,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1443,8 +1816,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1483,8 +1862,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1523,8 +1908,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1563,8 +1954,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1603,8 +2000,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1644,8 +2047,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1685,8 +2094,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1725,8 +2140,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1765,8 +2186,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1805,8 +2232,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1845,8 +2278,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1885,8 +2324,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1925,8 +2370,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -1965,8 +2416,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2005,8 +2462,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2045,8 +2508,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2085,8 +2554,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2125,8 +2600,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2165,8 +2646,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2205,8 +2692,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2245,8 +2738,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2285,8 +2784,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2325,8 +2830,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2365,8 +2876,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2405,8 +2922,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2445,8 +2968,14 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]
@@ -2486,8 +3015,107 @@
             {
               "name": "Arm",
               "layers": {
-                "1": "mtorso_shortsleevearm_skin*0#0.hsm",
-                "8": "fsleeve04t02l1*0#0.hsm"
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_SSMysterium2024",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2024.png",
+          "tint1": [0, 0, 0],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=Back Logo; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2024 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2024_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2024_Tint1.png",
+                "9": "FTorso_ShortSleeve_Mysterium2024_Tint2.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_SSMysterium2025",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_UTorso_Shirt_Mysterium2025.png",
+          "tint1": [0.1725, 0.3725, 0.2039],
+          "tint2": [1, 1, 1],
+          "desc": "ColorLabel1=Shirt; ColorLabel2=; isLogoFor=FReward_SSMysterium2000; GroupName = Mysterium; nonStandard",
+          "text": "Mysterium 2025 T-Shirt",
+          "meshes": [
+            {
+                "name": "FHTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FMTorso12_SMsh",
+                "page": "Female01"
+            },
+            {
+                "name": "FLTorso12_SMsh",
+                "page": "Female01"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_ShortSleeve_Mysterium2025_Base.png",
+                "8": "FTorso_ShortSleeve_Mysterium2025_Tint1.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "1": {
+                  "name": "mtorso_shortsleevearm_skin*0#0.hsm",
+                  "page": "Female01"
+                },
+                "8": {
+                  "name": "fsleeve04t02l1*0#0.hsm",
+                  "page": "Female01"
+                }
               }
             }
           ]

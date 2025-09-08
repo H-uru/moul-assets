@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizations>
+	<age name="Personal">
+		<set name="Bookshelf">
+			<element name="DeleteBook">
+				<translation language="Russian">Вы точно хотите удалить эту книгу и потерять свой прогресс в этой Эпохе?</translation>
+			</element>
+			<element name="DeleteNeighborhoodBook">
+				<translation language="Russian">Вы точно хотите удалить эту книгу и потерять членство в этом районе? Снова вставьте свой KI в Маркерную машину, чтобы восстановить связь с GZ.</translation>
+			</element>
+			<element name="RemoveBook">
+				<translation language="Russian">Вы уверены, что хотите убрать эту книгу со своей полки?</translation>
+			</element>
+		</set>
+		<set name="Journals">
+			<element name="Yeesha">
+				<translation language="Russian"><![CDATA[<cover src="xYeeshaJournalCover*1#0.hsm"><font face=Yeesha size=30 color=000000><margin right=32 left=32><p align=center>
+<pb>
+<img src="xYeeshaJournalTLDNHydrantSketch*1#0.hsm" align=center blend=alpha resize=no>
+
+<img src="xDniONE*1#0.hsm" align=center blend=alpha resize=no>
+<pb>
+<font size=28>Теледан
+
+<font size=24>Истина человека находится во тьме, под поверхностью. Свет может открыть лишь то, что некоторые люди хотят видеть.
+
+<font size=20>Регелтавок Орпа - Книга 9, Запись 221, Пункт 29
+<img src="xDniTWO*1#0.hsm" align=center blend=alpha resize=no>
+<pb>
+<pb>
+<img src="xYeeshaJournalGRSNHydrantSketch*1#0.hsm" align=center blend=alpha resize=no>
+
+
+<img src="xDniTHREE*1#0.hsm" align=center blend=alpha resize=no>
+<pb>
+<pb>
+<font size=28>Гарисен
+
+<font size=20>Законы, придуманные возвышенными, - это их безопасность и гибель. В таких законах непослушание - добродетель, а послушание - грех.
+
+<font size=20>Регелтавок Орпа - Книга 12, Запись 32, Пункт 134
+
+<img src="xDniFOUR*1#0.hsm" align=center blend=alpha resize=no>
+<pb>
+<pb>
+<img src="xYeeshaJournalKDSHHydrantSketch*1#0.hsm" align=center blend=alpha resize=no>
+
+
+<img src="xDniFIVE*1#0.hsm" align=center blend=alpha resize=no>
+<pb>
+<pb>
+<font size=28>Кадиш Толеза
+
+<font size=20>Лишь то, что человек скрывает, является его сущностью. Небрежный взгляд обманет. Смотрите глубже, размышляйте и узнавайте, что скрыто.
+
+<font size=20>Регелтавок Орпа - Книга 9, Запись 221, Пункт 77
+<img src="xDniSIX*1#0.hsm" align=center blend=alpha resize=no>
+<pb>
+<pb>
+<img src="xYeeshaJournalGRDNHydrantSketch*1#0.hsm" align=center blend=alpha resize=no>
+
+
+<img src="xDniSEVEN*1#0.hsm" align=center blend=alpha resize=no>
+<pb>
+<pb>
+<font size=28>Эдер Кемо и Эдер Гира
+
+<font size=24>Когда у одного отнято все, остаётся надеяться на то, что дано другому. Через эту отдачу оба искупаются.
+
+<font size=20>Регелтавок Орпа - Книга 2, Запись 1071, Пункт 54
+
+<img src="xDniEIGHT*1#0.hsm" align=center blend=alpha resize=no>
+]]></translation>
+			</element>
+		</set>
+	</age>
+</localizations>

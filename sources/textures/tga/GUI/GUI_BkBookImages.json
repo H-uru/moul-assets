@@ -1,0 +1,387 @@
+{
+  "page": {
+    "age": "GUI",
+    "name": "BkBookImages",
+    "prefix": -2,
+    "suffix": 56
+  },
+  "object": {
+    "name": "daDummy",
+    "library": "StandardBookImageLib"
+  },
+  "images": [
+    { "$comment": "--- Mipmaps in ImageLibMod ---" },
+    "xYeeshaBookBorder.tga",
+    "xYeeshaBookCover.tga",
+    {
+      "name": "xyeeshabooklinkpanel*1#0.hsm",
+      "color": "xYeeshaBookLinkPanel.jpg",
+      "alpha": "xYeeshaBookLinkPanelAlpha.png"
+    },
+    {
+      "name": "xyeeshabookstamp*801#0.hsm",
+      "color": "xYeeshaBookStamp.tga"
+    },
+    "xYeeshaPageAlphaSketch03.tga",
+    {
+      "name": "xlinkpanelbevinbalc01*1#0.hsm",
+      "color": "xLinkPanelBevinBalc01.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelbevinbalc02*1#0.hsm",
+      "color": "xLinkPanelBevinBalc02.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelbevindefault*1#0.hsm",
+      "color": "xLinkPanelBevinDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xLinkPanelBlackVoid.tga",
+    {
+      "name": "xlinkpanelcleftdesert*1#0.hsm",
+      "color": "xLinkPanelCleftDesert.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpaneldokotahroof*1#0.hsm",
+      "color": "xLinkPanelDokotahRoof.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelgardendefault*1#0.hsm",
+      "color": "xLinkPanelGardenDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelgarrisondefault*1#0.hsm",
+      "color": "xLinkPanelGarrisonDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelgarrisonprison*1#0.hsm",
+      "color": "xLinkPanelGarrisonPrison.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelgirafromkemo*1#0.hsm",
+      "color": "xLinkPanelGiraFromKemo.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelkadishfromgallery*1#0.hsm",
+      "color": "xLinkPanelKadishFromGallery.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelkadishgallery*1#0.hsm",
+      "color": "xLinkPanelKadishGallery.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelkadishglowbalc*1#0.hsm",
+      "color": "xLinkPanelKadishGlowBalc.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelmystlibrary*1#0.hsm",
+      "color": "xLinkPanelMystLibrary.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelnexusdefault*1#0.hsm",
+      "color": "xLinkPanelNexusDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelpalacebalc02*1#0.hsm",
+      "color": "xLinkPanelPalaceBalc02.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelpalacebalc03*1#0.hsm",
+      "color": "xLinkPanelPalaceBalc03.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelteledahnchopshroom*1#0.hsm",
+      "color": "xLinkPanelTeledahnChopShroom.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelteledahndefault*1#0.hsm",
+      "color": "xLinkPanelTeledahnDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelteledahndock*1#0.hsm",
+      "color": "xLinkPanelTeledahnDock.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xLinkPanelTomahnaDesert.png",
+    "xLinkPanelUpperShroom.tga",
+    {
+      "name": "xlinkpanelyeeshavault*1#0.hsm",
+      "color": "xLinkPanelYeeshaVault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xDRCRubberStamp.tga",
+    {
+      "name": "xlinkpanelkadishdefault*1#0.hsm",
+      "color": "xLinkPanelKadishDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xDRCBookRubberStamp.tga",
+    "xDRCBookRubberStamp2.tga",
+    {
+      "name": "xlinkpanelbaroncityoffice*1#0.hsm",
+      "color": "xLinkPanelBaronCityOffice.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelercanasilo*1#0.hsm",
+      "color": "xLinkPanelErcanaSilo.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xLinkPanelGiraDefault.tga",
+    {
+      "name": "xlinkpaneldescentshaftfall*1#0.hsm",
+      "color": "xLinkPanelDescentShaftFall.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xYeeshaPageAlphaSketch01.tga",
+    "xYeeshaPageAlphaSketch02.tga",
+    "xYeeshaPageAlphaSketch04.tga",
+    "xYeeshaPageAlphaSketch05.tga",
+    "xYeeshaPageAlphaSketch06.tga",
+    "xYeeshaPageAlphaSketch07.tga",
+    "xYeeshaPageAlphaSketch09.tga",
+    "xYeeshaPageAlphaSketch10.tga",
+    "xYeeshaPageAlphaSketch12.tga",
+    "xYeeshaPageAlphaSketch08.tga",
+    {
+      "name": "xlinkpanelgarrisonnexus*1#0.hsm",
+      "color": "xLinkPanelGarrisonNexus.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xCoffeeStain03.tga",
+    "xCoffeeStain02.tga",
+    "xCoffeeStain01.tga",
+    "xYeeshaJournalCover.tga",
+    {
+      "name": "xyeeshabooknolinkpanel*1#0.hsm",
+      "color": "xYeeshaBookNoLinkPanel.jpg",
+      "alpha": "xYeeshaBookNoLinkPanelAlpha.jpg"
+    },
+    "xBookJourneyClothBookmark.tga",
+    "xYeeshaJournalGRDNHydrantSketch.tga",
+    "xYeeshaJournalGRSNHydrantSketch.tga",
+    "xYeeshaJournalKDSHHydrantSketch.tga",
+    "xYeeshaJournalTLDNHydrantSketch.tga",
+    {
+      "name": "xurucreditsjournalcover*1#0.hsm",
+      "color": "xUruCreditsJournalCover.jpg",
+      "alpha": "xUruCreditsJournalCoverAlpha.png"
+    },
+    "xTransparent.png",
+    "xBahroShare.tga",
+    "xDniONE.tga",
+    "xDniTWO.tga",
+    "xDniTHREE.tga",
+    "xDniFOUR.tga",
+    "xDniFIVE.tga",
+    "xDniSIX.tga",
+    "xDniSEVEN.tga",
+    "xDniEIGHT.tga",
+    "xDniNINE.tga",
+    "xDniTEN.tga",
+    "xKIJournalCover.tga",
+    "xUruCreditsLegalLogos.jpg",
+    "xSharperJournalCover.tga",
+    "xKingAileshJournalCover_eng.tga",
+    "xKingNaygenJournalCover_eng.tga",
+    "xKingAsemlefJournalCover_eng.tga",
+    "xMarriageJournalCover_eng.tga",
+    "xPregnancyJournalCover_eng.tga",
+    "xMaturityJournalCover_eng.tga",
+    "xClassStructureJournalCover_eng.tga",
+    "xKingRinerefJournalCover_eng.tga",
+    "xKingDemathJournalCover.tga",
+    "xKingShomatJournalCover.tga",
+    "xKingMeemenJournalCover_eng.tga",
+    "xKingKerathJournalCover_eng.tga",
+    "xGahreesenInfoJournalCover_eng.tga",
+    "xShomatStoryJournalCover_eng.tga",
+    "xYeeshaBookStampSquare.tga",
+    {
+      "name": "xyeeshabookshare_eng*801#0.hsm",
+      "color": "xYeeshaBookShare_eng.tga"
+    },
+    "xGreatZeroInfoJournalCover_eng.tga",
+    "xKingYableshanMTKJrnlCover_eng.tga",
+    "xKingMararonMTKJrnlCover_eng.tga",
+    "xPoetry1JrnlCover_eng.tga",
+    "xGarrisonWallJournalCover_eng.tga",
+    {
+      "name": "xlinkpanelercanapelletroom*1#0.hsm",
+      "color": "xLinkPanelErcanaPelletRoom.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xKINexusFAQJournalCover.tga",
+    "xYeeshaPageAlphaSketch13.tga",
+    "xYeeshaPageAlphaSketch14.tga",
+    "xYeeshaPageAlphaSketch15.tga",
+    "xYeeshaPageAlphaSketchClock.png",
+    "xYeeshaPageAlphaSketchFiremarbles.png",
+    "xYeeshaPageAlphaSketchFireplace.png",
+    "xYeeshaPageAlphaSketchGrass.png",
+    "xYeeshaPageAlphaSketchLeaf.png",
+    "xYeeshaPageAlphaSketchLushRelto.png",
+    "xYeeshaPageAlphaSketchStorm.png",
+    "xLinkPanelAhnonayTemple.tga",
+    {
+      "name": "xlinkpanelercanadefault*1#0.hsm",
+      "color": "xLinkPanelErcanaDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelederdelindefault*1#0.hsm",
+      "color": "xLinkPanelEderDelinDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpaneltsogarden*1#0.hsm",
+      "color": "xLinkPanelTsoGarden.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xLinkPanelSpyRoom.tga",
+    "xKedriStoryJournalCover_eng.tga",
+    "xMeemenStoryJournalCover_eng.tga",
+    "xMeertaStoryJournalCover_eng.tga",
+    "xYeeshaPageAlphaSketchBirds.png",
+    "xLinkPanelConcertHallFoyer.png",
+    "xBookSharePage512.jpg",
+    "xBahroYeeshaShare.jpg",
+    {
+      "name": "xlinkpanelcleftdesertdisabled*1#0.hsm",
+      "color": "xLinkPanelCleftDesertDisabled.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xLinkPanelGrtZero.tga",
+    {
+      "name": "xlinkpanelgrtzerolinkrm*1#0.hsm",
+      "color": "xLinkPanelGrtZeroLinkRm.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xYeeshaPageAlphaSketchCalendar.png",
+    "xYeeshaBookStampVsquish.png",
+    {
+      "name": "xbooksharepage512vsquish*1#0.hsm",
+      "color": "xBookSharePage512vsquish.jpg",
+      "alpha": "xBookSharePage512vsquishAlpha.png"
+    },
+    {
+      "name": "xlinkpanelnegilahndefault*1#0.hsm",
+      "color": "xLinkPanelNegilahnDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpaneltetsonotdefault*1#0.hsm",
+      "color": "xLinkPanelTetsonotDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelderenodefault*1#0.hsm",
+      "color": "xLinkPanelDerenoDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelpayiferendefault*1#0.hsm",
+      "color": "xLinkPanelPayiferenDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelcitygreattree*1#0.hsm",
+      "color": "xLinkPanelCityGreatTree.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpanelbahrocavelower*1#0.hsm",
+      "color": "xLinkPanelBahroCaveLower.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xLinkPanelBahroCaveUpper.tga",
+    {
+      "name": "xlinkpanelkirel*1#0.hsm",
+      "color": "xLinkPanelKirel.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xYeeshaPageAlphaSketchErcaPlant.png",
+    {
+      "name": "xbooksaveclothbookmark*1#0.hsm",
+      "color": "xBookSaveClothBookmark.jpg",
+      "alpha": "xBookSaveClothBookmarkAlpha.jpg"
+    },
+    {
+      "name": "xlinkpanelminkatadefault*1#0.hsm",
+      "color": "xLinkPanelMinkataDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xlinkpaneljalakdefault*1#0.hsm",
+      "color": "xLinkPanelJalakDefault.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    "xLinkPanelAhnonayVortex.tga",
+    {
+      "name": "xlinkpanelkveergreathall*1#0.hsm",
+      "color": "xLinkPanelKveerGreatHall.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
+    {
+      "name": "xYeeshaPageVeelay7.dds",
+      "color": "xYeeshaPageVeelay7.png"
+    },
+    {
+      "name": "xnegilahninfojournalcover*0#0.hsm",
+      "color": "xNegilahnInfoJournalCover.tga"
+    },
+    {
+      "color": "xBookmarkDniZero.tga",
+      "$comment": "This matches what was previously in the PRP. NPOT is 'fine' here because this isn't a texture.",
+      "resize": [150, 134]
+    },
+    {
+      "color": "xBookmarkDniZero2.tga",
+      "$comment": "This matches what was previously in the PRP. NPOT is 'fine' here because this isn't a texture.",
+      "resize": [134, 134]
+    },
+    "xBookShareSymbolOnly.jpg",
+    "xLinkPanelChisoPreniv.png",
+    "xLinkPanelChisoLower.png",
+    "xLinkPanelTokotahAlley.png",
+    "xLinkPanelFerryTerminal.png",
+    "xLinkPanelLibraryCourtyard.png",
+    "xLinkPanelPalaceAlcove.png",
+    "xLinkPanelGreatTreePubDefault.tga",
+    "xLinkPanelGoMePubNew.tga",
+    "xLinkPanelGuildPubWriters.tga",
+    "xLinkPanelGuildPubCartographers.tga",
+    "xLinkPanelGuildPubGreeters.tga",
+    "xLinkPanelGuildPubMaintainers.tga",
+    "xLinkPanelGuildPubMessengers.tga",
+
+    { "$comment": "--- Loose Mipmaps ---" },
+    {
+      "name": "xyeeshabookshare_fre*801#0.hsm",
+      "color": "xYeeshaBookShare_fre.tga",
+      "library": false
+    },
+    {
+      "name": "xyeeshabookshare_ger*801#0.hsm",
+      "color": "xYeeshaBookShare_ger.tga",
+      "library": false
+    }
+  ]
+}

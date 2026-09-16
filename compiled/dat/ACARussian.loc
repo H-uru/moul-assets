@@ -5,6 +5,9 @@
 			<element name="Afro">
 				<translation language="Russian">Афро</translation>
 			</element>
+			<element name="ArtistRobe">
+				<translation language="Italian">Рубашка художника</translation>
+			</element>
 			<element name="Bald">
 				<translation language="Russian">Лысина</translation>
 			</element>

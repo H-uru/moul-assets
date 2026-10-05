@@ -403,6 +403,11 @@
     "xLinkPanelGuildPubGreeters.tga",
     "xLinkPanelGuildPubMaintainers.tga",
     "xLinkPanelGuildPubMessengers.tga",
+    {
+      "name": "xYeeshaPageGreenBushes.dds",
+      "color": "xYeeshaPageGreenBushes.jpg",
+      "alpha": "xYeeshaPageGreenBushesAlpha.jpg"
+    },
 
     { "$comment": "--- Loose Mipmaps ---" },
     {

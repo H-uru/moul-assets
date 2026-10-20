@@ -367,6 +367,7 @@
       "color": "xLinkPanelKveerGreatHall.jpg",
       "alpha": "xLinkPanelAlpha.png"
     },
+    "xLinkPanelPhilsRelto.tga",
     {
       "name": "xYeeshaPageVeelay7.dds",
       "color": "xYeeshaPageVeelay7.png"
@@ -377,13 +378,13 @@
     },
     {
       "name": "xbookmarkdnizero*1#0.hsm",
-      "color": "xBookmarkDniZero.jpg",
-      "alpha": "xBookmarkDniZeroAlpha.jpg"
+      "color": "xBookmarkDniZero.tga",
+      "resize": [150, 134]
     },
     {
       "name": "xbookmarkdnizero2*1#0.hsm",
-      "color": "xBookmarkDniZero2.jpg",
-      "alpha": "xBookmarkDniZero2Alpha.jpg"
+      "color": "xBookmarkDniZero2.tga",
+      "resize": [134, 134]
     },
     "xBookShareSymbolOnly.jpg",
     "xLinkPanelChisoPreniv.png",

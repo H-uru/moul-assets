@@ -5,6 +5,9 @@
 			<element name="Afro">
 				<translation language="German">Afro</translation>
 			</element>
+			<element name="ArtistRobe">
+				<translation language="German">Künstlerrobe</translation>
+			</element>
 			<element name="Bald">
 				<translation language="German">Glatze</translation>
 			</element>

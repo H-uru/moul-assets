@@ -1,0 +1,196 @@
+{
+  "pages": [
+    {
+      "prefix": -5,
+      "suffix": 405,
+      "agename": "GlobalClothing",
+      "name": "MaleMGRobe",
+      "mipmaps": [
+        "Icon_MTorso_MGRobe.png",
+        "MTorso_MGRobe_base.png",
+        "UTorso_MGRobe_Sleeve_base.png",
+        "MLegs_MGRobe_base.png"
+      ],
+      "clItems": [
+        {
+          "name": "Icon_MGRobe",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "Icon_MTorso_MGRobe.png",
+          "tint1": [1.0, 1.0, 1.0],
+          "tint2": [1.0, 1.0, 1.0],
+          "desc": "GroupIcon; GroupName=ArtistRobe;",
+          "text": "Artist Robe",
+          "meshes": [],
+          "elements": []
+        },
+        {
+          "name": "MReward_MGRobe",
+          "type": "Shirt",
+          "group": "Male",
+          "icon": "",
+          "tint1": [1.0, 1.0, 1.0],
+          "tint2": [1.0, 1.0, 1.0],
+          "desc": "ColorLabel1=; ColorLabel2=; GroupName=ArtistRobe; ClothingSet=ArtistRobe; nonStandard",
+          "text": "Artist Robe",
+          "meshes": [
+            {
+              "name": "MHTorso_Pub_SMsh",
+              "page": "Male04"
+            },
+            {
+              "name": "MMTorso_Pub_SMsh",
+              "page": "Male04"
+            },
+            {
+              "name": "MLTorso_Pub_SMsh",
+              "page": "Male04"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "MTorso_MGRobe_base.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "UTorso_MGRobe_Sleeve_base.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "MReward_MGRobe_Legs",
+          "type": "pants",
+          "group": "Male",
+          "icon": "",
+          "tint1": [1.0, 1.0, 1.0],
+          "tint2": [1.0, 1.0, 1.0],
+          "desc": "ColorLabel1=; ColorLabel2=; ClothingSet=ArtistRobe; nonStandard",
+          "text": "Artist Robe Pants",
+          "meshes": [
+            {
+              "name": "MHLegs_SMsh",
+              "page": "Male"
+            },
+            {
+              "name": "MMLegs_SMsh",
+              "page": "Male"
+            },
+            {
+              "name": "MLLegs_SMsh",
+              "page": "Male"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Legs",
+              "layers": {
+                "0": "MLegs_MGRobe_base.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": -5,
+      "suffix": 404,
+      "agename": "GlobalClothing",
+      "name": "FemaleMGRobe",
+      "mipmaps": [
+        "Icon_FTorso_MGRobe.png",
+        "FTorso_MGRobe_base.png",
+        "UTorso_MGRobe_Sleeve_base.png",
+        "FLegs_MGRobe_base.png"
+      ],
+      "clItems": [
+        {
+          "name": "Icon_MGRobe",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "Icon_FTorso_MGRobe.png",
+          "tint1": [1.0, 1.0, 1.0],
+          "tint2": [1.0, 1.0, 1.0],
+          "desc": "GroupIcon; GroupName=ArtistRobe;",
+          "text": "Artist Robe",
+          "meshes": [],
+          "elements": []
+        },
+        {
+          "name": "FReward_MGRobe",
+          "type": "Shirt",
+          "group": "Female",
+          "icon": "",
+          "tint1": [1.0, 1.0, 1.0],
+          "tint2": [1.0, 1.0, 1.0],
+          "desc": "ColorLabel1=; ColorLabel2=; GroupName=ArtistRobe; ClothingSet=ArtistRobe; nonStandard",
+          "text": "Artist Robe",
+          "meshes": [
+            {
+              "name": "FHTorso_Pub_SMsh",
+              "page": "Female04"
+            },
+            {
+              "name": "FMTorso_Pub_SMsh",
+              "page": "Female04"
+            },
+            {
+              "name": "FLTorso_Pub_SMsh",
+              "page": "Female04"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Chest",
+              "layers": {
+                "0": "FTorso_MGRobe_base.png"
+              }
+            },
+            {
+              "name": "Arm",
+              "layers": {
+                "0": "UTorso_MGRobe_Sleeve_base.png"
+              }
+            }
+          ]
+        },
+        {
+          "name": "FReward_MGRobe_Legs",
+          "type": "pants",
+          "group": "Female",
+          "icon": "",
+          "tint1": [1.0, 1.0, 1.0],
+          "tint2": [1.0, 1.0, 1.0],
+          "desc": "ColorLabel1=; ColorLabel2=; ClothingSet=ArtistRobe; nonStandard",
+          "text": "Artist Robe Pants",
+          "meshes": [
+            {
+              "name": "FHLegs_SMsh",
+              "page": "Female"
+            },
+            {
+              "name": "FMLegs_SMsh",
+              "page": "Female"
+            },
+            {
+              "name": "FLLegs_SMsh",
+              "page": "Female"
+            }
+          ],
+          "elements": [
+            {
+              "name": "Legs",
+              "layers": {
+                "0": "FLegs_MGRobe_base.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
